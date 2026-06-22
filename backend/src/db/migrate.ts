@@ -1,5 +1,5 @@
-import pg from 'pg';
-import dotenv from 'dotenv';
+import pg from "pg";
+import dotenv from "dotenv";
 
 dotenv.config();
 
@@ -9,7 +9,7 @@ const pool = new pg.Pool({
 
 async function migrate() {
   const client = await pool.connect();
-  
+
   try {
     await client.query(`
       CREATE TABLE IF NOT EXISTS leagues (
@@ -93,10 +93,10 @@ async function migrate() {
         created_at TIMESTAMP DEFAULT NOW()
       );
     `);
-    
-    console.log('✅ Tablas creadas exitosamente');
+
+    console.log("✅ Tablas creadas exitosamente");
   } catch (error) {
-    console.error('❌ Error migrando:', error);
+    console.error("❌ Error migrando:", error);
   } finally {
     client.release();
     await pool.end();

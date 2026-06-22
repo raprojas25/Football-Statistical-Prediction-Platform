@@ -1,0 +1,2714 @@
+{
+  "generated_at": "2026-05-29T16:34:24.482034+00:00",
+  "source": "https://footystats.org/paraguay/division-profesional/fixtures",
+  "league": "División Profesional",
+  "country": "Paraguay",
+  "season": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Olimpia",
+      "mp": 21,
+      "win_pct": 67.0,
+      "gf": 34,
+      "ga": 17,
+      "gd": 17,
+      "pts": 46,
+      "avg": 2.43
+    },
+    {
+      "rank": 2,
+      "team": "Nacional Asunción",
+      "mp": 22,
+      "win_pct": 45.0,
+      "gf": 31,
+      "ga": 22,
+      "gd": 9,
+      "pts": 39,
+      "avg": 2.41
+    },
+    {
+      "rank": 3,
+      "team": "Cerro Porteño",
+      "mp": 21,
+      "win_pct": 52.0,
+      "gf": 30,
+      "ga": 19,
+      "gd": 11,
+      "pts": 38,
+      "avg": 2.33
+    },
+    {
+      "rank": 4,
+      "team": "Sportivo Ameliano",
+      "mp": 22,
+      "win_pct": 36.0,
+      "gf": 27,
+      "ga": 21,
+      "gd": 6,
+      "pts": 33,
+      "avg": 2.18
+    },
+    {
+      "rank": 5,
+      "team": "Sportivo Trinidense",
+      "mp": 22,
+      "win_pct": 36.0,
+      "gf": 30,
+      "ga": 24,
+      "gd": 6,
+      "pts": 32,
+      "avg": 2.45
+    },
+    {
+      "rank": 6,
+      "team": "Libertad",
+      "mp": 22,
+      "win_pct": 41.0,
+      "gf": 34,
+      "ga": 26,
+      "gd": 8,
+      "pts": 31,
+      "avg": 2.73
+    },
+    {
+      "rank": 7,
+      "team": "Guaraní",
+      "mp": 22,
+      "win_pct": 32.0,
+      "gf": 27,
+      "ga": 23,
+      "gd": 4,
+      "pts": 29,
+      "avg": 2.27
+    },
+    {
+      "rank": 8,
+      "team": "Deportivo Recoleta",
+      "mp": 22,
+      "win_pct": 36.0,
+      "gf": 35,
+      "ga": 32,
+      "gd": 3,
+      "pts": 28,
+      "avg": 3.05
+    },
+    {
+      "rank": 9,
+      "team": "Rubio Ñú",
+      "mp": 22,
+      "win_pct": 27.0,
+      "gf": 15,
+      "ga": 26,
+      "gd": -11,
+      "pts": 23,
+      "avg": 1.86
+    },
+    {
+      "rank": 10,
+      "team": "2 de Mayo",
+      "mp": 22,
+      "win_pct": 23.0,
+      "gf": 18,
+      "ga": 35,
+      "gd": -17,
+      "pts": 22,
+      "avg": 2.41
+    },
+    {
+      "rank": 11,
+      "team": "Sportivo Luqueño",
+      "mp": 22,
+      "win_pct": 23.0,
+      "gf": 24,
+      "ga": 33,
+      "gd": -9,
+      "pts": 20,
+      "avg": 2.59
+    },
+    {
+      "rank": 12,
+      "team": "Sportivo San Lorenzo",
+      "mp": 22,
+      "win_pct": 14.0,
+      "gf": 14,
+      "ga": 41,
+      "gd": -27,
+      "pts": 15,
+      "avg": 2.5
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "8407750",
+      "date_timestamp": 1784851200,
+      "date_str": "Jul 24, 1:00am",
+      "home_team": "2 de Mayo",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.0,
+      "away_ppg": 1.05,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8407751",
+      "date_timestamp": 1784851200,
+      "date_str": "Jul 24, 1:00am",
+      "home_team": "Cerro Porteño",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.81,
+      "away_ppg": 1.45,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8407755",
+      "date_timestamp": 1784851200,
+      "date_str": "Jul 24, 1:00am",
+      "home_team": "Guaraní",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.32,
+      "away_ppg": 0.91,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8407757",
+      "date_timestamp": 1784851200,
+      "date_str": "Jul 24, 1:00am",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.5,
+      "away_ppg": 1.77,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8407760",
+      "date_timestamp": 1784851200,
+      "date_str": "Jul 24, 1:00am",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.27,
+      "away_ppg": 0.68,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8407761",
+      "date_timestamp": 1784851200,
+      "date_str": "Jul 24, 1:00am",
+      "home_team": "Olimpia",
+      "away_team": "Libertad",
+      "home_ppg": 2.19,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8428614",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 9:00pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.81,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.25,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8428734",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 9:00pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.5,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.13,
+        "away": 2.67
+      }
+    },
+    {
+      "id": "8428735",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 9:00pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Libertad",
+      "home_ppg": 1.77,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.39,
+        "draw": 3.1,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8428697",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 10:15pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Guaraní",
+      "home_ppg": 1.27,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.3,
+        "away": 2.08
+      }
+    },
+    {
+      "id": "8428737",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 8:00pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Olimpia",
+      "home_ppg": 0.91,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.45,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8428736",
+      "date_timestamp": null,
+      "date_str": "Fri 22, 10:00pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.0,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.3,
+        "away": 4.77
+      }
+    },
+    {
+      "id": "8428728",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 9:00pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 0.68,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.24,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8428732",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 9:15pm",
+      "home_team": "Guaraní",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.32,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.0,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8428730",
+      "date_timestamp": null,
+      "date_str": "Fri 15, 9:00pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.05,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 2.9,
+        "away": 2.09
+      }
+    },
+    {
+      "id": "8428731",
+      "date_timestamp": null,
+      "date_str": "Fri 15, 9:00pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.45,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.2,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8428733",
+      "date_timestamp": null,
+      "date_str": "Fri 15, 1:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 2.19,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 4.8,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8428729",
+      "date_timestamp": null,
+      "date_str": "Thu 14, 9:00pm",
+      "home_team": "Libertad",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.79,
+        "draw": 3.25,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8428723",
+      "date_timestamp": null,
+      "date_str": "Tue 12, 12:00am",
+      "home_team": "Cerro Porteño",
+      "away_team": "Guaraní",
+      "home_ppg": 1.81,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.1,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8428718",
+      "date_timestamp": null,
+      "date_str": "Mon 11, 9:45pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.5,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.2,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8428726",
+      "date_timestamp": null,
+      "date_str": "Mon 11, 12:00am",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Libertad",
+      "home_ppg": 0.91,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.1,
+        "away": 2.13
+      }
+    },
+    {
+      "id": "8428727",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 9:45pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Olimpia",
+      "home_ppg": 0.68,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 4.0,
+        "away": 1.48
+      }
+    },
+    {
+      "id": "8428724",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 12:00am",
+      "home_team": "Nacional Asunción",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.77,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.0,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8428725",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 9:45pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.0,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 2.9,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8428720",
+      "date_timestamp": null,
+      "date_str": "Mon 4, 12:00am",
+      "home_team": "Guaraní",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.32,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.95,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8428721",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 1:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 2.19,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.4,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8428722",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 1:30pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.27,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.29,
+        "draw": 3.43,
+        "away": 1.76
+      }
+    },
+    {
+      "id": "8428717",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 12:00am",
+      "home_team": "Rubio Ñú",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.05,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 2.96,
+        "away": 2.91
+      }
+    },
+    {
+      "id": "8428708",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 12:00am",
+      "home_team": "Libertad",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.41,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.1,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8428719",
+      "date_timestamp": null,
+      "date_str": "Fri 1, 9:45pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.45,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.3,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8428715",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 12:00am",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 0.68,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8428713",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 9:45pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Guaraní",
+      "home_ppg": 1.0,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.0,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8428716",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 12:00am",
+      "home_team": "Libertad",
+      "away_team": "Olimpia",
+      "home_ppg": 1.41,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.2,
+        "away": 1.83
+      }
+    },
+    {
+      "id": "8428714",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 9:45pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 0.91,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.28,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8428711",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 12:00am",
+      "home_team": "Cerro Porteño",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.81,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.25,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8428712",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 9:45pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.77,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.19,
+        "away": 5.45
+      }
+    },
+    {
+      "id": "8428704",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 9:00pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Libertad",
+      "home_ppg": 1.05,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 3.45,
+        "away": 1.84
+      }
+    },
+    {
+      "id": "8428709",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 12:30am",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.5,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.62
+      }
+    },
+    {
+      "id": "8428710",
+      "date_timestamp": 1776630600,
+      "date_str": "Apr 19, 9:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 2.19,
+      "away_ppg": 1.81,
+      "status": "SCHEDULED",
+      "score": null,
+      "odds": {
+        "home": 2.15,
+        "draw": 3.0,
+        "away": 3.28
+      }
+    },
+    {
+      "id": "8428707",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:30am",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.27,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.17,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8428706",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 10:15pm",
+      "home_team": "Guaraní",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.32,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.3,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8428705",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 9:00pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.45,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.3,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8428702",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 12:30am",
+      "home_team": "Libertad",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.41,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 2.9,
+        "away": 2.62
+      }
+    },
+    {
+      "id": "8428703",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 10:15pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Olimpia",
+      "home_ppg": 1.05,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.55,
+        "away": 1.59
+      }
+    },
+    {
+      "id": "8428698",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 12:30am",
+      "home_team": "Nacional Asunción",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.77,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.05,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8428700",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 10:15pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 0.91,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.3,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8428701",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 12:30am",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Guaraní",
+      "home_ppg": 0.68,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.25,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8428699",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 10:15pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.99,
+        "draw": 3.0,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8428692",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 12:00am",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.45,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.99,
+        "away": 3.42
+      }
+    },
+    {
+      "id": "8428693",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 12:30am",
+      "home_team": "Guaraní",
+      "away_team": "Libertad",
+      "home_ppg": 1.32,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.0,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8428694",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 10:30pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.5,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 2.98,
+        "away": 3.66
+      }
+    },
+    {
+      "id": "8428686",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.27,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.17,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8428695",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "Cerro Porteño",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.81,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 3.75,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8428696",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 10:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 2.19,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.0,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8428691",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 12:30am",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Olimpia",
+      "home_ppg": 1.45,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.2,
+        "away": 1.91
+      }
+    },
+    {
+      "id": "8428690",
+      "date_timestamp": null,
+      "date_str": "Apr 1, 10:30pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Guaraní",
+      "home_ppg": 1.05,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.15,
+        "away": 2.16
+      }
+    },
+    {
+      "id": "8428687",
+      "date_timestamp": null,
+      "date_str": "Apr 1, 12:30am",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 0.91,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.72,
+        "draw": 3.57,
+        "away": 1.73
+      }
+    },
+    {
+      "id": "8428688",
+      "date_timestamp": null,
+      "date_str": "Apr 1, 12:30am",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 0.68,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.1,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8428685",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 10:30pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.0,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 2.95,
+        "away": 2.18
+      }
+    },
+    {
+      "id": "8428689",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 12:30am",
+      "home_team": "Libertad",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.41,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.25,
+        "away": 5.34
+      }
+    },
+    {
+      "id": "8428678",
+      "date_timestamp": null,
+      "date_str": "Mar 29, 11:00pm",
+      "home_team": "Guaraní",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.32,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.18,
+        "draw": 3.1,
+        "away": 3.54
+      }
+    },
+    {
+      "id": "8428682",
+      "date_timestamp": null,
+      "date_str": "Mar 28, 11:30pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.81,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.33,
+        "away": 7.9
+      }
+    },
+    {
+      "id": "8428684",
+      "date_timestamp": null,
+      "date_str": "Mar 28, 9:30pm",
+      "home_team": "Olimpia",
+      "away_team": "2 de Mayo",
+      "home_ppg": 2.19,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.75,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8428680",
+      "date_timestamp": null,
+      "date_str": "Mar 27, 11:30pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Libertad",
+      "home_ppg": 1.5,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.1,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8428683",
+      "date_timestamp": null,
+      "date_str": "Mar 27, 9:30pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.77,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.98,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8428681",
+      "date_timestamp": null,
+      "date_str": "Mar 26, 11:00pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.27,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8428646",
+      "date_timestamp": null,
+      "date_str": "Mar 25, 10:30pm",
+      "home_team": "Guaraní",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.32,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.2,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8428675",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 11:30pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.05,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 2.98,
+        "away": 2.52
+      }
+    },
+    {
+      "id": "8428677",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 9:30pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.45,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8428674",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 11:30pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "2 de Mayo",
+      "home_ppg": 0.91,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.2,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8428613",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 9:30pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 0.68,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.56,
+        "draw": 3.2,
+        "away": 1.82
+      }
+    },
+    {
+      "id": "8428676",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 11:30pm",
+      "home_team": "Libertad",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.41,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.92,
+        "draw": 3.05,
+        "away": 2.38
+      }
+    },
+    {
+      "id": "8428679",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 9:30pm",
+      "home_team": "Guaraní",
+      "away_team": "Olimpia",
+      "home_ppg": 1.32,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.41,
+        "draw": 3.0,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8428669",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 11:00pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.45,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.9,
+        "away": 2.74
+      }
+    },
+    {
+      "id": "8428668",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 11:30pm",
+      "home_team": "Guaraní",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.32,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.25,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8428671",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 11:30pm",
+      "home_team": "Libertad",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.41,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.0,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8428670",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 9:30pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.05,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.15,
+        "away": 1.9
+      }
+    },
+    {
+      "id": "8428673",
+      "date_timestamp": null,
+      "date_str": "Mar 17, 11:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 2.19,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.59,
+        "away": 4.79
+      }
+    },
+    {
+      "id": "8428672",
+      "date_timestamp": null,
+      "date_str": "Mar 17, 9:30pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "2 de Mayo",
+      "home_ppg": 0.68,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.9,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8428666",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:30pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Guaraní",
+      "home_ppg": 1.5,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.1,
+        "away": 2.36
+      }
+    },
+    {
+      "id": "8428664",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 9:30pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.77,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.08,
+        "away": 4.06
+      }
+    },
+    {
+      "id": "8428665",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:30pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.81,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.7,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8428667",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 9:30pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Olimpia",
+      "home_ppg": 1.27,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.09,
+        "draw": 3.68,
+        "away": 1.66
+      }
+    },
+    {
+      "id": "8428663",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 11:30pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Libertad",
+      "home_ppg": 1.0,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.1,
+        "away": 1.91
+      }
+    },
+    {
+      "id": "8428662",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 9:30pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 0.91,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.1,
+        "away": 4.16
+      }
+    },
+    {
+      "id": "8428656",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 11:30pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.27,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 2.9,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8428658",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 9:30pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.45,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 2.95,
+        "away": 2.02
+      }
+    },
+    {
+      "id": "8428659",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 11:30pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.05,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.9,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8428661",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 9:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 2.19,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.39,
+        "away": 7.06
+      }
+    },
+    {
+      "id": "8428660",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 11:30pm",
+      "home_team": "Libertad",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.41,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.1,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8428657",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 9:30pm",
+      "home_team": "Guaraní",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.32,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.0,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8428650",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 11:30pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Libertad",
+      "home_ppg": 0.68,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 7
+      },
+      "odds": {
+        "home": 5.02,
+        "draw": 3.35,
+        "away": 1.6
+      }
+    },
+    {
+      "id": "8428651",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 9:30pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 0.91,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.87,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8428653",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 11:30pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.81,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.13,
+        "draw": 7.1,
+        "away": 13.0
+      }
+    },
+    {
+      "id": "8428654",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 9:30pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Guaraní",
+      "home_ppg": 1.77,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8428652",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 11:30pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.0,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 2.95,
+        "away": 3.12
+      }
+    },
+    {
+      "id": "8428655",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 9:30pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Olimpia",
+      "home_ppg": 1.5,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 2.9,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8428645",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 11:30pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.27,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.32,
+        "draw": 3.0,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8428648",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 9:30pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.05,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.95,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8428647",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 11:30pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.45,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8428649",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 11:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Libertad",
+      "home_ppg": 2.19,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.0,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8428644",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 9:30pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.5,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.4,
+        "away": 1.9
+      }
+    },
+    {
+      "id": "8428640",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 11:00am",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Guaraní",
+      "home_ppg": 0.91,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.25,
+        "away": 2.98
+      }
+    },
+    {
+      "id": "8428643",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 9:30pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Olimpia",
+      "home_ppg": 1.81,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.05,
+        "away": 3.15
+      }
+    },
+    {
+      "id": "8428641",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 11:30pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.0,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.07,
+        "draw": 2.95,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8428638",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 9:30pm",
+      "home_team": "Libertad",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.41,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.55,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8428642",
+      "date_timestamp": null,
+      "date_str": "Feb 19, 11:30pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.77,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.15,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8428639",
+      "date_timestamp": null,
+      "date_str": "Feb 19, 9:30pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 0.68,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.89,
+        "draw": 3.05,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8428632",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:30pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 1.81,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.1,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8428636",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 9:30pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Libertad",
+      "home_ppg": 1.45,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.2,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8428633",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 11:30pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.1,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8428637",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 9:30pm",
+      "home_team": "Olimpia",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 2.19,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.9,
+        "away": 5.3
+      }
+    },
+    {
+      "id": "8428634",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 11:30pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.27,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.79,
+        "draw": 3.0,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8428635",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 9:30pm",
+      "home_team": "Guaraní",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.32,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.7,
+        "away": 4.75
+      }
+    },
+    {
+      "id": "8428631",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 11:30pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Olimpia",
+      "home_ppg": 1.77,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.73,
+        "draw": 2.9,
+        "away": 2.57
+      }
+    },
+    {
+      "id": "8428627",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 9:30pm",
+      "home_team": "Libertad",
+      "away_team": "Guaraní",
+      "home_ppg": 1.41,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.2,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8428630",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 11:30pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 1.0,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 6.49,
+        "draw": 3.7,
+        "away": 1.48
+      }
+    },
+    {
+      "id": "8428626",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 9:30pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.05,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.97,
+        "draw": 3.09,
+        "away": 2.49
+      }
+    },
+    {
+      "id": "8428629",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 11:30pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 0.91,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.0,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8428628",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 9:30pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 0.68,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 2.9,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8428621",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 11:15pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.81,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 3.95,
+        "away": 5.54
+      }
+    },
+    {
+      "id": "8428624",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 9:00pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Libertad",
+      "home_ppg": 1.27,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.37,
+        "away": 1.75
+      }
+    },
+    {
+      "id": "8428623",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 11:15pm",
+      "home_team": "Guaraní",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.32,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.1,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8428625",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 9:00pm",
+      "home_team": "Olimpia",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 2.19,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.4,
+        "away": 4.77
+      }
+    },
+    {
+      "id": "8428622",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 11:15pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.5,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.0,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8428620",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 9:00pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "2 de Mayo",
+      "home_ppg": 1.77,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 2.9,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8428616",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 11:15pm",
+      "home_team": "Rubio Ñú",
+      "away_team": "Deportivo Recoleta",
+      "home_ppg": 1.05,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.85,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8428615",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 9:00pm",
+      "home_team": "Sportivo Trinidense",
+      "away_team": "Guaraní",
+      "home_ppg": 1.45,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.11,
+        "draw": 2.91,
+        "away": 2.46
+      }
+    },
+    {
+      "id": "8428619",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 11:15pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Olimpia",
+      "home_ppg": 1.0,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 2.85,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8428617",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 9:00pm",
+      "home_team": "Libertad",
+      "away_team": "Sportivo Ameliano",
+      "home_ppg": 1.41,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.1,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8428618",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 11:15pm",
+      "home_team": "Sportivo San Lorenzo",
+      "away_team": "Cerro Porteño",
+      "home_ppg": 0.68,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 6.5,
+        "draw": 3.5,
+        "away": 1.55
+      }
+    },
+    {
+      "id": "8428612",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 9:00pm",
+      "home_team": "Sportivo Luqueño",
+      "away_team": "Nacional Asunción",
+      "home_ppg": 0.91,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 2.75,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8407753",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 11:15pm",
+      "home_team": "Sportivo Ameliano",
+      "away_team": "Rubio Ñú",
+      "home_ppg": 1.5,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.1,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8407752",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 9:00pm",
+      "home_team": "Olimpia",
+      "away_team": "Guaraní",
+      "home_ppg": 2.19,
+      "away_ppg": 1.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 3.03,
+        "away": 3.54
+      }
+    },
+    {
+      "id": "8407758",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 11:15pm",
+      "home_team": "Cerro Porteño",
+      "away_team": "Libertad",
+      "home_ppg": 1.81,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.1,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8407759",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 9:00pm",
+      "home_team": "Nacional Asunción",
+      "away_team": "Sportivo San Lorenzo",
+      "home_ppg": 1.77,
+      "away_ppg": 0.68,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 2.9,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8407756",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 11:15pm",
+      "home_team": "2 de Mayo",
+      "away_team": "Sportivo Luqueño",
+      "home_ppg": 1.0,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 2.78,
+        "away": 3.11
+      }
+    },
+    {
+      "id": "8407754",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 9:00pm",
+      "home_team": "Deportivo Recoleta",
+      "away_team": "Sportivo Trinidense",
+      "home_ppg": 1.27,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.15,
+        "away": 2.6
+      }
+    }
+  ]
+}

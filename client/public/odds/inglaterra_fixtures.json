@@ -1,0 +1,7446 @@
+{
+  "generated_at": "2026-06-11T16:45:36.706714+00:00",
+  "source": "https://footystats.org/england/premier-league/fixtures",
+  "league": "premier-league",
+  "country": "england",
+  "season": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Arsenal",
+      "mp": 38,
+      "win_pct": 68.0,
+      "gf": 71,
+      "ga": 27,
+      "gd": 44,
+      "pts": 85,
+      "avg": 2.58
+    },
+    {
+      "rank": 2,
+      "team": "Manchester City",
+      "mp": 38,
+      "win_pct": 61.0,
+      "gf": 77,
+      "ga": 35,
+      "gd": 42,
+      "pts": 78,
+      "avg": 2.95
+    },
+    {
+      "rank": 3,
+      "team": "Manchester United",
+      "mp": 38,
+      "win_pct": 53.0,
+      "gf": 69,
+      "ga": 50,
+      "gd": 19,
+      "pts": 71,
+      "avg": 3.13
+    },
+    {
+      "rank": 4,
+      "team": "Aston Villa",
+      "mp": 38,
+      "win_pct": 50.0,
+      "gf": 56,
+      "ga": 49,
+      "gd": 7,
+      "pts": 65,
+      "avg": 2.76
+    },
+    {
+      "rank": 5,
+      "team": "Liverpool",
+      "mp": 38,
+      "win_pct": 45.0,
+      "gf": 63,
+      "ga": 53,
+      "gd": 10,
+      "pts": 60,
+      "avg": 3.05
+    },
+    {
+      "rank": 6,
+      "team": "AFC Bournemouth",
+      "mp": 38,
+      "win_pct": 34.0,
+      "gf": 58,
+      "ga": 54,
+      "gd": 4,
+      "pts": 57,
+      "avg": 2.95
+    },
+    {
+      "rank": 7,
+      "team": "Sunderland",
+      "mp": 38,
+      "win_pct": 37.0,
+      "gf": 42,
+      "ga": 48,
+      "gd": -6,
+      "pts": 54,
+      "avg": 2.37
+    },
+    {
+      "rank": 8,
+      "team": "Brighton & Hove Albion",
+      "mp": 38,
+      "win_pct": 37.0,
+      "gf": 52,
+      "ga": 46,
+      "gd": 6,
+      "pts": 53,
+      "avg": 2.58
+    },
+    {
+      "rank": 9,
+      "team": "Brentford",
+      "mp": 38,
+      "win_pct": 37.0,
+      "gf": 55,
+      "ga": 52,
+      "gd": 3,
+      "pts": 53,
+      "avg": 2.82
+    },
+    {
+      "rank": 10,
+      "team": "Chelsea",
+      "mp": 38,
+      "win_pct": 37.0,
+      "gf": 58,
+      "ga": 52,
+      "gd": 6,
+      "pts": 52,
+      "avg": 2.89
+    },
+    {
+      "rank": 11,
+      "team": "Fulham",
+      "mp": 38,
+      "win_pct": 39.0,
+      "gf": 47,
+      "ga": 51,
+      "gd": -4,
+      "pts": 52,
+      "avg": 2.58
+    },
+    {
+      "rank": 12,
+      "team": "Newcastle United",
+      "mp": 38,
+      "win_pct": 37.0,
+      "gf": 53,
+      "ga": 55,
+      "gd": -2,
+      "pts": 49,
+      "avg": 2.84
+    },
+    {
+      "rank": 13,
+      "team": "Everton",
+      "mp": 38,
+      "win_pct": 34.0,
+      "gf": 47,
+      "ga": 50,
+      "gd": -3,
+      "pts": 49,
+      "avg": 2.55
+    },
+    {
+      "rank": 14,
+      "team": "Leeds United",
+      "mp": 38,
+      "win_pct": 29.0,
+      "gf": 49,
+      "ga": 56,
+      "gd": -7,
+      "pts": 47,
+      "avg": 2.76
+    },
+    {
+      "rank": 15,
+      "team": "Crystal Palace",
+      "mp": 38,
+      "win_pct": 29.0,
+      "gf": 41,
+      "ga": 51,
+      "gd": -10,
+      "pts": 45,
+      "avg": 2.42
+    },
+    {
+      "rank": 16,
+      "team": "Nottingham Forest",
+      "mp": 38,
+      "win_pct": 29.0,
+      "gf": 48,
+      "ga": 51,
+      "gd": -3,
+      "pts": 44,
+      "avg": 2.61
+    },
+    {
+      "rank": 17,
+      "team": "Tottenham Hotspur",
+      "mp": 38,
+      "win_pct": 26.0,
+      "gf": 48,
+      "ga": 57,
+      "gd": -9,
+      "pts": 41,
+      "avg": 2.76
+    },
+    {
+      "rank": 18,
+      "team": "West Ham United",
+      "mp": 38,
+      "win_pct": 26.0,
+      "gf": 46,
+      "ga": 65,
+      "gd": -19,
+      "pts": 39,
+      "avg": 2.92
+    },
+    {
+      "rank": 19,
+      "team": "Burnley",
+      "mp": 38,
+      "win_pct": 11.0,
+      "gf": 38,
+      "ga": 75,
+      "gd": -37,
+      "pts": 22,
+      "avg": 2.97
+    },
+    {
+      "rank": 20,
+      "team": "Wolverhampton Wanderers",
+      "mp": 38,
+      "win_pct": 8.0,
+      "gf": 27,
+      "ga": 68,
+      "gd": -41,
+      "pts": 20,
+      "avg": 2.5
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "8223701",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Aston Villa",
+      "home_ppg": 2.37,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 6.0,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8223742",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Manchester United",
+      "home_ppg": 1.74,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 4.06,
+        "away": 3.82
+      }
+    },
+    {
+      "id": "8223745",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Chelsea",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.5,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8223815",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Brentford",
+      "home_ppg": 1.89,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 4.3,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8223848",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Burnley",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 0.68,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.65,
+        "away": 2.82
+      }
+    },
+    {
+      "id": "8223849",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Arsenal",
+      "home_ppg": 1.11,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.5,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8223850",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Fulham",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.84,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 3.4,
+        "away": 2.49
+      }
+    },
+    {
+      "id": "8223851",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.05,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.7,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8223852",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Everton",
+      "home_ppg": 0.79,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.5,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8223853",
+      "date_timestamp": null,
+      "date_str": "May 24, 4:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Leeds United",
+      "home_ppg": 1.16,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.7,
+        "away": 3.76
+      }
+    },
+    {
+      "id": "8223846",
+      "date_timestamp": null,
+      "date_str": "May 19, 8:15pm",
+      "home_team": "Chelsea",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.4,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8223845",
+      "date_timestamp": null,
+      "date_str": "May 19, 7:30pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Manchester City",
+      "home_ppg": 1.63,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.7,
+        "draw": 4.0,
+        "away": 1.67
+      }
+    },
+    {
+      "id": "8223704",
+      "date_timestamp": null,
+      "date_str": "May 18, 8:00pm",
+      "home_team": "Arsenal",
+      "away_team": "Burnley",
+      "home_ppg": 2.47,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 9.0,
+        "away": 21.0
+      }
+    },
+    {
+      "id": "8223814",
+      "date_timestamp": null,
+      "date_str": "May 17, 5:30pm",
+      "home_team": "Newcastle United",
+      "away_team": "West Ham United",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.8,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8223688",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:00pm",
+      "home_team": "Everton",
+      "away_team": "Sunderland",
+      "home_ppg": 1.21,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.8,
+        "away": 4.27
+      }
+    },
+    {
+      "id": "8223741",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:00pm",
+      "home_team": "Brentford",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 4.22,
+        "away": 4.22
+      }
+    },
+    {
+      "id": "8223744",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.68,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.17,
+        "draw": 3.68,
+        "away": 2.34
+      }
+    },
+    {
+      "id": "8223847",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Fulham",
+      "home_ppg": 0.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.72,
+        "draw": 4.05,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8223813",
+      "date_timestamp": null,
+      "date_str": "May 17, 12:30pm",
+      "home_team": "Manchester United",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 2.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.4,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8223844",
+      "date_timestamp": null,
+      "date_str": "May 15, 8:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Liverpool",
+      "home_ppg": 2.0,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.4,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8223727",
+      "date_timestamp": null,
+      "date_str": "May 13, 8:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Crystal Palace",
+      "home_ppg": 2.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 7.25,
+        "away": 9.0
+      }
+    },
+    {
+      "id": "8223740",
+      "date_timestamp": null,
+      "date_str": "May 11, 8:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Leeds United",
+      "home_ppg": 0.79,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.55,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8223843",
+      "date_timestamp": null,
+      "date_str": "May 10, 4:30pm",
+      "home_team": "West Ham United",
+      "away_team": "Arsenal",
+      "home_ppg": 1.16,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.25,
+        "draw": 3.95,
+        "away": 1.55
+      }
+    },
+    {
+      "id": "8223809",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Everton",
+      "home_ppg": 1.11,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.4,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8223841",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:00pm",
+      "home_team": "Burnley",
+      "away_team": "Aston Villa",
+      "home_ppg": 0.68,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 4.05,
+        "away": 1.51
+      }
+    },
+    {
+      "id": "8223842",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.05,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.4,
+        "away": 2.38
+      }
+    },
+    {
+      "id": "8223743",
+      "date_timestamp": null,
+      "date_str": "May 9, 5:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Brentford",
+      "home_ppg": 2.37,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 5.45,
+        "away": 7.05
+      }
+    },
+    {
+      "id": "8223696",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Manchester United",
+      "home_ppg": 1.74,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.65,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8223789",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.74,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.0,
+        "away": 9.0
+      }
+    },
+    {
+      "id": "8223812",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:00pm",
+      "home_team": "Fulham",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.84,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.6,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8223739",
+      "date_timestamp": null,
+      "date_str": "May 9, 12:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Chelsea",
+      "home_ppg": 1.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.75,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8223687",
+      "date_timestamp": null,
+      "date_str": "May 4, 8:00pm",
+      "home_team": "Everton",
+      "away_team": "Manchester City",
+      "home_ppg": 1.21,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 6.3,
+        "draw": 4.65,
+        "away": 1.51
+      }
+    },
+    {
+      "id": "8223734",
+      "date_timestamp": null,
+      "date_str": "May 4, 3:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.9,
+        "away": 4.95
+      }
+    },
+    {
+      "id": "8223736",
+      "date_timestamp": null,
+      "date_str": "May 3, 7:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 2.0,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.55,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8223738",
+      "date_timestamp": null,
+      "date_str": "May 3, 3:30pm",
+      "home_team": "Manchester United",
+      "away_team": "Liverpool",
+      "home_ppg": 2.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.75,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8223839",
+      "date_timestamp": null,
+      "date_str": "May 3, 2:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.63,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.0,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8223735",
+      "date_timestamp": null,
+      "date_str": "May 2, 5:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Fulham",
+      "home_ppg": 2.47,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.35,
+        "away": 7.1
+      }
+    },
+    {
+      "id": "8223707",
+      "date_timestamp": null,
+      "date_str": "May 2, 3:00pm",
+      "home_team": "Brentford",
+      "away_team": "West Ham United",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 4.0,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8223804",
+      "date_timestamp": null,
+      "date_str": "May 2, 3:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.68,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.59,
+        "draw": 3.58,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8223807",
+      "date_timestamp": null,
+      "date_str": "May 2, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Sunderland",
+      "home_ppg": 0.74,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.54,
+        "draw": 3.7,
+        "away": 2.03
+      }
+    },
+    {
+      "id": "8223840",
+      "date_timestamp": null,
+      "date_str": "May 1, 8:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Burnley",
+      "home_ppg": 1.68,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.0,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8223732",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 8:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Brentford",
+      "home_ppg": 2.21,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.8,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8223683",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 5:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Newcastle United",
+      "home_ppg": 2.47,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.8,
+        "away": 6.9
+      }
+    },
+    {
+      "id": "8223730",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 3:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Everton",
+      "home_ppg": 1.16,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.3,
+        "away": 2.99
+      }
+    },
+    {
+      "id": "8223733",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 3:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.89,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.45,
+        "away": 6.2
+      }
+    },
+    {
+      "id": "8223787",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 0.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 4.05,
+        "away": 1.72
+      }
+    },
+    {
+      "id": "8223731",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 12:30pm",
+      "home_team": "Fulham",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.84,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.5,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8223729",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 8:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.2,
+        "away": 2.56
+      }
+    },
+    {
+      "id": "8223685",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 8:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Leeds United",
+      "home_ppg": 1.63,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.6,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8223838",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 8:00pm",
+      "home_team": "Burnley",
+      "away_team": "Manchester City",
+      "home_ppg": 0.68,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 16.0,
+        "draw": 8.5,
+        "away": 1.15
+      }
+    },
+    {
+      "id": "8223837",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 8:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Chelsea",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.8,
+        "away": 2.71
+      }
+    },
+    {
+      "id": "8223681",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 8:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "West Ham United",
+      "home_ppg": 1.11,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.3,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8223676",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Arsenal",
+      "home_ppg": 2.37,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.64,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8223679",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Burnley",
+      "home_ppg": 1.05,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.4,
+        "away": 6.74
+      }
+    },
+    {
+      "id": "8223680",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Sunderland",
+      "home_ppg": 2.0,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.6,
+        "away": 4.9
+      }
+    },
+    {
+      "id": "8223682",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00pm",
+      "home_team": "Everton",
+      "away_team": "Liverpool",
+      "home_ppg": 1.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.18,
+        "draw": 3.5,
+        "away": 2.28
+      }
+    },
+    {
+      "id": "8223675",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 8:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Manchester United",
+      "home_ppg": 1.37,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.7,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8223684",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 5:30pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 0.79,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.7,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223678",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 3:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.65,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8223686",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 3:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.68,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.1,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223677",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 12:30pm",
+      "home_team": "Brentford",
+      "away_team": "Fulham",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.7,
+        "away": 3.62
+      }
+    },
+    {
+      "id": "8223600",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 8:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Leeds United",
+      "home_ppg": 2.21,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.35,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223835",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 4:30pm",
+      "home_team": "Chelsea",
+      "away_team": "Manchester City",
+      "home_ppg": 1.37,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.8,
+        "away": 1.94
+      }
+    },
+    {
+      "id": "8223673",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.05,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.3,
+        "away": 2.59
+      }
+    },
+    {
+      "id": "8223674",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.4,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8223728",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.11,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.6,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8223836",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 5:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Fulham",
+      "home_ppg": 1.89,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 4.33,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8223595",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Brentford",
+      "away_team": "Everton",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.15,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8223721",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 0.68,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 4.0,
+        "away": 1.69
+      }
+    },
+    {
+      "id": "8223599",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 12:30pm",
+      "home_team": "Arsenal",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 2.47,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.65,
+        "away": 6.76
+      }
+    },
+    {
+      "id": "8223601",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 8:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.16,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.92,
+        "away": 4.25
+      }
+    },
+    {
+      "id": "8223723",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:15pm",
+      "home_team": "Aston Villa",
+      "away_team": "West Ham United",
+      "home_ppg": 2.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.65,
+        "away": 4.76
+      }
+    },
+    {
+      "id": "8223803",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:15pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 0.79,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.25,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8223713",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 12:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Sunderland",
+      "home_ppg": 1.68,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 3.95,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8223726",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 8:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
+      "home_ppg": 1.68,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.4,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8223724",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:30pm",
+      "home_team": "Everton",
+      "away_team": "Chelsea",
+      "home_ppg": 1.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.37,
+        "draw": 3.4,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223834",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:00pm",
+      "home_team": "Fulham",
+      "away_team": "Burnley",
+      "home_ppg": 1.84,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.56,
+        "draw": 4.6,
+        "away": 5.6
+      }
+    },
+    {
+      "id": "8223725",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 12:45pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Liverpool",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.14,
+        "draw": 3.6,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8223833",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 8:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Manchester United",
+      "home_ppg": 1.63,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.24,
+        "draw": 3.74,
+        "away": 2.09
+      }
+    },
+    {
+      "id": "8223829",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 8:00pm",
+      "home_team": "Brentford",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.68,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.45,
+        "away": 5.97
+      }
+    },
+    {
+      "id": "8223830",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 6.0,
+        "away": 8.0
+      }
+    },
+    {
+      "id": "8223694",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Aston Villa",
+      "home_ppg": 2.21,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.0,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8223801",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Leeds United",
+      "home_ppg": 1.11,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 3.2,
+        "away": 2.87
+      }
+    },
+    {
+      "id": "8223831",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Fulham",
+      "home_ppg": 1.05,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.36,
+        "draw": 3.4,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8223832",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 8:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Manchester City",
+      "home_ppg": 1.16,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.33,
+        "away": 1.65
+      }
+    },
+    {
+      "id": "8223693",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 5:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Everton",
+      "home_ppg": 2.47,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.7,
+        "away": 8.2
+      }
+    },
+    {
+      "id": "8223720",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 5:30pm",
+      "home_team": "Chelsea",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 4.0,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8223722",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 3:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.74,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.3,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223785",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 0.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.03,
+        "draw": 3.7,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8223827",
+      "date_timestamp": null,
+      "date_str": "Mar 5, 8:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Crystal Palace",
+      "home_ppg": 0.79,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.44,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8223818",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 8:15pm",
+      "home_team": "Newcastle United",
+      "away_team": "Manchester United",
+      "home_ppg": 1.68,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.52,
+        "draw": 3.45,
+        "away": 2.27
+      }
+    },
+    {
+      "id": "8223716",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 7:30pm",
+      "home_team": "Aston Villa",
+      "away_team": "Chelsea",
+      "home_ppg": 2.0,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.2,
+        "away": 2.38
+      }
+    },
+    {
+      "id": "8223718",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 7:30pm",
+      "home_team": "Fulham",
+      "away_team": "West Ham United",
+      "home_ppg": 1.84,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.5,
+        "away": 2.83
+      }
+    },
+    {
+      "id": "8223719",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 7:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 2.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 4.6,
+        "away": 7.25
+      }
+    },
+    {
+      "id": "8223824",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 7:30pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Arsenal",
+      "home_ppg": 1.74,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.9,
+        "draw": 3.65,
+        "away": 1.54
+      }
+    },
+    {
+      "id": "8223828",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 8:15pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Liverpool",
+      "home_ppg": 0.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.39,
+        "draw": 4.35,
+        "away": 1.35
+      }
+    },
+    {
+      "id": "8223717",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 7:30pm",
+      "home_team": "Everton",
+      "away_team": "Burnley",
+      "home_ppg": 1.21,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.9,
+        "away": 5.69
+      }
+    },
+    {
+      "id": "8223825",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 7:30pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Brentford",
+      "home_ppg": 1.63,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.25,
+        "away": 2.63
+      }
+    },
+    {
+      "id": "8223826",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 7:30pm",
+      "home_team": "Leeds United",
+      "away_team": "Sunderland",
+      "home_ppg": 1.68,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.35,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8223711",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 4:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Chelsea",
+      "home_ppg": 2.47,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.22,
+        "away": 5.99
+      }
+    },
+    {
+      "id": "8223706",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.74,
+        "away": 3.48
+      }
+    },
+    {
+      "id": "8223799",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:00pm",
+      "home_team": "Fulham",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.84,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.41,
+        "draw": 3.72,
+        "away": 3.01
+      }
+    },
+    {
+      "id": "8223823",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Crystal Palace",
+      "home_ppg": 2.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 4.37,
+        "away": 5.38
+      }
+    },
+    {
+      "id": "8223817",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 5:30pm",
+      "home_team": "Leeds United",
+      "away_team": "Manchester City",
+      "home_ppg": 1.68,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.1,
+        "away": 1.63
+      }
+    },
+    {
+      "id": "8223712",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Liverpool",
+      "away_team": "West Ham United",
+      "home_ppg": 1.89,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.39,
+        "draw": 5.3,
+        "away": 7.2
+      }
+    },
+    {
+      "id": "8223714",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Everton",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.8,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8223797",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Brentford",
+      "home_ppg": 0.68,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 4.55,
+        "draw": 3.85,
+        "away": 1.78
+      }
+    },
+    {
+      "id": "8223822",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 12:30pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Sunderland",
+      "home_ppg": 1.63,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.85,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8223784",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 8:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Aston Villa",
+      "home_ppg": 0.74,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.55,
+        "away": 1.63
+      }
+    },
+    {
+      "id": "8223709",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 8:00pm",
+      "home_team": "Everton",
+      "away_team": "Manchester United",
+      "home_ppg": 1.21,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.6,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8223710",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 4:30pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Arsenal",
+      "home_ppg": 0.79,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 3.95,
+        "away": 1.57
+      }
+    },
+    {
+      "id": "8223792",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.11,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 4.25,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8223816",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.17,
+        "away": 2.76
+      }
+    },
+    {
+      "id": "8223821",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Liverpool",
+      "home_ppg": 1.05,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.1,
+        "draw": 3.75,
+        "away": 1.63
+      }
+    },
+    {
+      "id": "8223820",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 8:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Newcastle United",
+      "home_ppg": 2.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.8,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8223796",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 5:30pm",
+      "home_team": "West Ham United",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.16,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.62,
+        "away": 2.53
+      }
+    },
+    {
+      "id": "8223776",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Leeds United",
+      "home_ppg": 2.0,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.6,
+        "away": 4.41
+      }
+    },
+    {
+      "id": "8223794",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:00pm",
+      "home_team": "Brentford",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.68,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.71,
+        "away": 3.61
+      }
+    },
+    {
+      "id": "8223819",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Burnley",
+      "home_ppg": 1.37,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 7.0,
+        "away": 12.0
+      }
+    },
+    {
+      "id": "8223479",
+      "date_timestamp": null,
+      "date_str": "Feb 18, 8:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Arsenal",
+      "home_ppg": 0.74,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 11.0,
+        "draw": 5.8,
+        "away": 1.27
+      }
+    },
+    {
+      "id": "8223606",
+      "date_timestamp": null,
+      "date_str": "Feb 12, 8:00pm",
+      "home_team": "Brentford",
+      "away_team": "Arsenal",
+      "home_ppg": 1.68,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.3,
+        "draw": 3.86,
+        "away": 1.67
+      }
+    },
+    {
+      "id": "8223635",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 8:15pm",
+      "home_team": "Sunderland",
+      "away_team": "Liverpool",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.85,
+        "draw": 3.9,
+        "away": 1.77
+      }
+    },
+    {
+      "id": "8223609",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 7:40pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Burnley",
+      "home_ppg": 1.11,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.25,
+        "away": 6.41
+      }
+    },
+    {
+      "id": "8223607",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 7:30pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.05,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.65,
+        "away": 4.9
+      }
+    },
+    {
+      "id": "8223754",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 7:30pm",
+      "home_team": "Aston Villa",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 2.0,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.6,
+        "away": 3.55
+      }
+    },
+    {
+      "id": "8223774",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 7:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Fulham",
+      "home_ppg": 2.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 5.1,
+        "away": 7.25
+      }
+    },
+    {
+      "id": "8223478",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 8:15pm",
+      "home_team": "West Ham United",
+      "away_team": "Manchester United",
+      "home_ppg": 1.16,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.3,
+        "draw": 4.2,
+        "away": 1.73
+      }
+    },
+    {
+      "id": "8223476",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 7:30pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Newcastle United",
+      "home_ppg": 0.79,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.6,
+        "away": 2.22
+      }
+    },
+    {
+      "id": "8223608",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 7:30pm",
+      "home_team": "Chelsea",
+      "away_team": "Leeds United",
+      "home_ppg": 1.37,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.48,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8223695",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 7:30pm",
+      "home_team": "Everton",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.4,
+        "away": 2.93
+      }
+    },
+    {
+      "id": "8223703",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 4:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Manchester City",
+      "home_ppg": 1.89,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.41,
+        "draw": 3.35,
+        "away": 2.51
+      }
+    },
+    {
+      "id": "8223598",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 2:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.6,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8223605",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 5:30pm",
+      "home_team": "Newcastle United",
+      "away_team": "Brentford",
+      "home_ppg": 1.68,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.6,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8223571",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Chelsea",
+      "home_ppg": 0.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.53,
+        "draw": 4.0,
+        "away": 1.62
+      }
+    },
+    {
+      "id": "8223597",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.63,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.5,
+        "away": 2.51
+      }
+    },
+    {
+      "id": "8223602",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "West Ham United",
+      "home_ppg": 0.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.4,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8223603",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:00pm",
+      "home_team": "Fulham",
+      "away_team": "Everton",
+      "home_ppg": 1.84,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.4,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8223764",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:00pm",
+      "home_team": "Arsenal",
+      "away_team": "Sunderland",
+      "home_ppg": 2.47,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.17,
+        "draw": 5.7,
+        "away": 12.0
+      }
+    },
+    {
+      "id": "8223759",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 12:30pm",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 2.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 4.5,
+        "away": 4.69
+      }
+    },
+    {
+      "id": "8223604",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 8:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.3,
+        "away": 3.42
+      }
+    },
+    {
+      "id": "8223586",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 8:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Burnley",
+      "home_ppg": 1.74,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.55,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8223590",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 4:30pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Manchester City",
+      "home_ppg": 0.79,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.45,
+        "draw": 4.05,
+        "away": 1.71
+      }
+    },
+    {
+      "id": "8223581",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Brentford",
+      "home_ppg": 2.0,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.4,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8223588",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.05,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.25,
+        "away": 3.55
+      }
+    },
+    {
+      "id": "8223589",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Fulham",
+      "home_ppg": 2.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.95,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223587",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 8:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.89,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 4.06,
+        "away": 4.34
+      }
+    },
+    {
+      "id": "8223584",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 5:30pm",
+      "home_team": "Chelsea",
+      "away_team": "West Ham United",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.61,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223583",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Everton",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.7,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8223585",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Arsenal",
+      "home_ppg": 1.68,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 6.4,
+        "draw": 4.0,
+        "away": 1.55
+      }
+    },
+    {
+      "id": "8223591",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 0.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.38,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8223772",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 8:00pm",
+      "home_team": "Everton",
+      "away_team": "Leeds United",
+      "home_ppg": 1.21,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.61,
+        "draw": 3.17,
+        "away": 2.92
+      }
+    },
+    {
+      "id": "8223578",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 4:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Manchester United",
+      "home_ppg": 2.47,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.3,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8223518",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:00pm",
+      "home_team": "Brentford",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.6,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8223520",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Chelsea",
+      "home_ppg": 1.11,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.61,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223580",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.68,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.7,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8223573",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 5:30pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Liverpool",
+      "home_ppg": 1.63,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 4.03,
+        "away": 1.8
+      }
+    },
+    {
+      "id": "8223519",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 0.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.66,
+        "draw": 3.5,
+        "away": 2.19
+      }
+    },
+    {
+      "id": "8223705",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:00pm",
+      "home_team": "Fulham",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.84,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 3.3,
+        "away": 2.76
+      }
+    },
+    {
+      "id": "8223781",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 2.37,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 5.32,
+        "away": 8.3
+      }
+    },
+    {
+      "id": "8223582",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 12:30pm",
+      "home_team": "West Ham United",
+      "away_team": "Sunderland",
+      "home_ppg": 1.16,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8223570",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 8:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.85,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8223562",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 4:30pm",
+      "home_team": "Aston Villa",
+      "away_team": "Everton",
+      "home_ppg": 2.0,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.9,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223579",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 2:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Newcastle United",
+      "home_ppg": 0.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.33,
+        "draw": 3.95,
+        "away": 1.77
+      }
+    },
+    {
+      "id": "8223770",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 5:30pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Arsenal",
+      "home_ppg": 1.05,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 4.1,
+        "away": 1.55
+      }
+    },
+    {
+      "id": "8223564",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 3:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Fulham",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.2,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8223572",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 3:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Brentford",
+      "home_ppg": 1.37,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 4.0,
+        "away": 4.18
+      }
+    },
+    {
+      "id": "8223574",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 3:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Burnley",
+      "home_ppg": 1.89,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.96,
+        "away": 12.5
+      }
+    },
+    {
+      "id": "8223576",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 3:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.86,
+        "away": 3.28
+      }
+    },
+    {
+      "id": "8223577",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 3:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "West Ham United",
+      "home_ppg": 0.79,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 4.05,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8223575",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 12:30pm",
+      "home_team": "Manchester United",
+      "away_team": "Manchester City",
+      "home_ppg": 2.21,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 4.0,
+        "away": 1.94
+      }
+    },
+    {
+      "id": "8223558",
+      "date_timestamp": null,
+      "date_str": "Jan 8, 8:00pm",
+      "home_team": "Arsenal",
+      "away_team": "Liverpool",
+      "home_ppg": 2.47,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.1,
+        "away": 5.9
+      }
+    },
+    {
+      "id": "8223552",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 8:15pm",
+      "home_team": "Burnley",
+      "away_team": "Manchester United",
+      "home_ppg": 0.68,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.15,
+        "away": 1.66
+      }
+    },
+    {
+      "id": "8223566",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 8:15pm",
+      "home_team": "Newcastle United",
+      "away_team": "Leeds United",
+      "home_ppg": 1.68,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.85,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8223559",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:30pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.11,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.1,
+        "away": 2.28
+      }
+    },
+    {
+      "id": "8223560",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:30pm",
+      "home_team": "Everton",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.21,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.5,
+        "away": 4.74
+      }
+    },
+    {
+      "id": "8223561",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 2.37,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.6,
+        "away": 6.11
+      }
+    },
+    {
+      "id": "8223569",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:30pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.63,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.6,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8223708",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:30pm",
+      "home_team": "Fulham",
+      "away_team": "Chelsea",
+      "home_ppg": 1.84,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.4,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8223768",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:30pm",
+      "home_team": "Brentford",
+      "away_team": "Sunderland",
+      "home_ppg": 1.68,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.45,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8223565",
+      "date_timestamp": null,
+      "date_str": "Jan 6, 8:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.16,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.11,
+        "draw": 3.15,
+        "away": 2.28
+      }
+    },
+    {
+      "id": "8223555",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 5:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Chelsea",
+      "home_ppg": 2.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.6,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8223757",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 3:15pm",
+      "home_team": "Fulham",
+      "away_team": "Liverpool",
+      "home_ppg": 1.84,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.95,
+        "draw": 3.7,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8223545",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 3:00pm",
+      "home_team": "Everton",
+      "away_team": "Brentford",
+      "home_ppg": 1.21,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.25,
+        "away": 2.98
+      }
+    },
+    {
+      "id": "8223554",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 3:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 4.05,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8223556",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 3:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Sunderland",
+      "home_ppg": 0.79,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.35,
+        "away": 4.23
+      }
+    },
+    {
+      "id": "8223553",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 12:30pm",
+      "home_team": "Leeds United",
+      "away_team": "Manchester United",
+      "home_ppg": 1.68,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.3,
+        "away": 2.62
+      }
+    },
+    {
+      "id": "8223544",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 5:30pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Arsenal",
+      "home_ppg": 1.63,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.75,
+        "draw": 4.33,
+        "away": 1.53
+      }
+    },
+    {
+      "id": "8223551",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Burnley",
+      "home_ppg": 1.74,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.3,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8223557",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "West Ham United",
+      "home_ppg": 0.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.3,
+        "away": 2.47
+      }
+    },
+    {
+      "id": "8223550",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 12:30pm",
+      "home_team": "Aston Villa",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 2.0,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.65,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8223548",
+      "date_timestamp": null,
+      "date_str": "Jan 1, 8:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Manchester City",
+      "home_ppg": 1.74,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 7.25,
+        "draw": 4.6,
+        "away": 1.44
+      }
+    },
+    {
+      "id": "8223592",
+      "date_timestamp": null,
+      "date_str": "Jan 1, 8:00pm",
+      "home_team": "Brentford",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 3.25,
+        "away": 2.84
+      }
+    },
+    {
+      "id": "8223593",
+      "date_timestamp": null,
+      "date_str": "Jan 1, 5:30pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Fulham",
+      "home_ppg": 1.11,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.3,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8223594",
+      "date_timestamp": null,
+      "date_str": "Jan 1, 5:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Leeds United",
+      "home_ppg": 1.89,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.4,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223546",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 8:15pm",
+      "home_team": "Arsenal",
+      "away_team": "Aston Villa",
+      "home_ppg": 2.47,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 4.7,
+        "away": 7.81
+      }
+    },
+    {
+      "id": "8223782",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 8:15pm",
+      "home_team": "Manchester United",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 2.21,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 5.0,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8223547",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:30pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Everton",
+      "home_ppg": 1.05,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.25,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8223549",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:30pm",
+      "home_team": "West Ham United",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.16,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.55,
+        "away": 2.16
+      }
+    },
+    {
+      "id": "8223638",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:30pm",
+      "home_team": "Burnley",
+      "away_team": "Newcastle United",
+      "home_ppg": 0.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 3.9,
+        "away": 1.57
+      }
+    },
+    {
+      "id": "8223662",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:30pm",
+      "home_team": "Chelsea",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.6,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223541",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 4:30pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.11,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 3.4,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8223658",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 2:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Leeds United",
+      "home_ppg": 1.74,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.25,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8223534",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 5:30pm",
+      "home_team": "Chelsea",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.37,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.85,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8223539",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Everton",
+      "home_ppg": 0.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.11,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223540",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.89,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.1,
+        "away": 11.0
+      }
+    },
+    {
+      "id": "8223543",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Fulham",
+      "home_ppg": 1.16,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.4,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8223657",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "Arsenal",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 2.47,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 5.5,
+        "away": 8.75
+      }
+    },
+    {
+      "id": "8223672",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "Brentford",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.25,
+        "away": 3.04
+      }
+    },
+    {
+      "id": "8223538",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 12:30pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Manchester City",
+      "home_ppg": 1.05,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.2,
+        "draw": 4.4,
+        "away": 1.6
+      }
+    },
+    {
+      "id": "8223542",
+      "date_timestamp": null,
+      "date_str": "Dec 26, 8:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Newcastle United",
+      "home_ppg": 2.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.6,
+        "away": 2.63
+      }
+    },
+    {
+      "id": "8341031",
+      "date_timestamp": null,
+      "date_str": "Dec 22, 8:00pm",
+      "home_team": "Fulham",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.84,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.26,
+        "draw": 3.35,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8223646",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 4:30pm",
+      "home_team": "Aston Villa",
+      "away_team": "Manchester United",
+      "home_ppg": 2.0,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.7,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8223533",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 8:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.17,
+        "away": 2.74
+      }
+    },
+    {
+      "id": "8223648",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 8:00pm",
+      "home_team": "Everton",
+      "away_team": "Arsenal",
+      "home_ppg": 1.21,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.1,
+        "draw": 3.95,
+        "away": 1.57
+      }
+    },
+    {
+      "id": "8223516",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 5:30pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Liverpool",
+      "home_ppg": 0.79,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.61,
+        "draw": 3.61,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8223517",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Brentford",
+      "home_ppg": 0.74,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.32,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223647",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Burnley",
+      "home_ppg": 1.63,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.6,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8223656",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "Manchester City",
+      "away_team": "West Ham United",
+      "home_ppg": 2.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "8223766",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Sunderland",
+      "home_ppg": 1.74,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.6,
+        "away": 4.35
+      }
+    },
+    {
+      "id": "8223515",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 12:30pm",
+      "home_team": "Newcastle United",
+      "away_team": "Chelsea",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.76,
+        "draw": 3.55,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8223668",
+      "date_timestamp": null,
+      "date_str": "Dec 15, 8:00pm",
+      "home_team": "Manchester United",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 2.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 4.2,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8223663",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 4:30pm",
+      "home_team": "Brentford",
+      "away_team": "Leeds United",
+      "home_ppg": 1.68,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.4,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8223628",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester City",
+      "home_ppg": 1.11,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.1,
+        "draw": 3.75,
+        "away": 1.88
+      }
+    },
+    {
+      "id": "8223669",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.05,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.67,
+        "draw": 3.3,
+        "away": 2.69
+      }
+    },
+    {
+      "id": "8223670",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.41,
+        "draw": 3.35,
+        "away": 2.18
+      }
+    },
+    {
+      "id": "8223671",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.16,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.41,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223664",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 8:00pm",
+      "home_team": "Arsenal",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 2.47,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 9.4,
+        "away": 18.5
+      }
+    },
+    {
+      "id": "8223666",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 5:30pm",
+      "home_team": "Burnley",
+      "away_team": "Fulham",
+      "home_ppg": 0.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.4,
+        "away": 2.07
+      }
+    },
+    {
+      "id": "8223665",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 3:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Everton",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.9,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8223667",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 3:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.89,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 4.0,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8223752",
+      "date_timestamp": null,
+      "date_str": "Dec 8, 8:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Manchester United",
+      "home_ppg": 0.74,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 5.2,
+        "draw": 4.0,
+        "away": 1.63
+      }
+    },
+    {
+      "id": "8223655",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 4:30pm",
+      "home_team": "Fulham",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.84,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.78
+      }
+    },
+    {
+      "id": "8223650",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 2:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "West Ham United",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.2,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8223654",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 5:30pm",
+      "home_team": "Leeds United",
+      "away_team": "Liverpool",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.22,
+        "draw": 3.6,
+        "away": 1.68
+      }
+    },
+    {
+      "id": "8223652",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Chelsea",
+      "home_ppg": 1.63,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.75,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8223653",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "Everton",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.2,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8223659",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Sunderland",
+      "home_ppg": 2.37,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.0,
+        "away": 9.1
+      }
+    },
+    {
+      "id": "8223660",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Brentford",
+      "home_ppg": 0.79,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.3,
+        "away": 2.89
+      }
+    },
+    {
+      "id": "8223661",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Burnley",
+      "home_ppg": 1.68,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.6,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8223651",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 12:30pm",
+      "home_team": "Aston Villa",
+      "away_team": "Arsenal",
+      "home_ppg": 2.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 3.55,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8223643",
+      "date_timestamp": null,
+      "date_str": "Dec 4, 8:00pm",
+      "home_team": "Manchester United",
+      "away_team": "West Ham United",
+      "home_ppg": 2.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 5.0,
+        "away": 7.22
+      }
+    },
+    {
+      "id": "8223645",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 8:15pm",
+      "home_team": "Liverpool",
+      "away_team": "Sunderland",
+      "home_ppg": 1.89,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 5.1,
+        "away": 8.7
+      }
+    },
+    {
+      "id": "8223699",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 8:15pm",
+      "home_team": "Leeds United",
+      "away_team": "Chelsea",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.7,
+        "away": 1.95
+      }
+    },
+    {
+      "id": "8223611",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Brentford",
+      "home_ppg": 2.47,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.6,
+        "away": 8.39
+      }
+    },
+    {
+      "id": "8223641",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:30pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.74,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.5,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8223649",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:30pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 0.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.0,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223756",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:30pm",
+      "home_team": "Burnley",
+      "away_team": "Crystal Palace",
+      "home_ppg": 0.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.85,
+        "draw": 3.66,
+        "away": 1.72
+      }
+    },
+    {
+      "id": "8223644",
+      "date_timestamp": null,
+      "date_str": "Dec 2, 8:15pm",
+      "home_team": "Newcastle United",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.75,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8223642",
+      "date_timestamp": null,
+      "date_str": "Dec 2, 7:30pm",
+      "home_team": "Fulham",
+      "away_team": "Manchester City",
+      "home_ppg": 1.84,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 5
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.3,
+        "away": 1.62
+      }
+    },
+    {
+      "id": "8223762",
+      "date_timestamp": null,
+      "date_str": "Dec 2, 7:30pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Everton",
+      "home_ppg": 1.63,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 3.35,
+        "away": 3.55
+      }
+    },
+    {
+      "id": "8223639",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 4:30pm",
+      "home_team": "Chelsea",
+      "away_team": "Arsenal",
+      "home_ppg": 1.37,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.2,
+        "away": 2.09
+      }
+    },
+    {
+      "id": "8223610",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:05pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.05,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.86,
+        "draw": 3.29,
+        "away": 2.52
+      }
+    },
+    {
+      "id": "8223636",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:05pm",
+      "home_team": "Aston Villa",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 2.0,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.5,
+        "away": 6.9
+      }
+    },
+    {
+      "id": "8223702",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:05pm",
+      "home_team": "West Ham United",
+      "away_team": "Liverpool",
+      "home_ppg": 1.16,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.1,
+        "draw": 4.4,
+        "away": 1.59
+      }
+    },
+    {
+      "id": "8223596",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 12:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester United",
+      "home_ppg": 1.11,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.4,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8223750",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 8:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Fulham",
+      "home_ppg": 0.79,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8223755",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 5:30pm",
+      "home_team": "Everton",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.0,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8223637",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 3:00pm",
+      "home_team": "Brentford",
+      "away_team": "Burnley",
+      "home_ppg": 1.68,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.6,
+        "away": 6.7
+      }
+    },
+    {
+      "id": "8223640",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 3:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Leeds United",
+      "home_ppg": 2.37,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.24,
+        "draw": 6.5,
+        "away": 10.0
+      }
+    },
+    {
+      "id": "8223715",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 3:00pm",
+      "home_team": "Sunderland",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.3,
+        "away": 2.29
+      }
+    },
+    {
+      "id": "8223623",
+      "date_timestamp": null,
+      "date_str": "Nov 24, 8:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Everton",
+      "home_ppg": 2.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.75,
+        "away": 4.22
+      }
+    },
+    {
+      "id": "8223698",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 4:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 2.47,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.5,
+        "away": 7.25
+      }
+    },
+    {
+      "id": "8223633",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 2:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.68,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.2,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8223737",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 5:30pm",
+      "home_team": "Newcastle United",
+      "away_team": "Manchester City",
+      "home_ppg": 1.68,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.74,
+        "draw": 3.7,
+        "away": 1.84
+      }
+    },
+    {
+      "id": "8223568",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Crystal Palace",
+      "home_ppg": 0.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 3.35,
+        "away": 1.78
+      }
+    },
+    {
+      "id": "8223631",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Brentford",
+      "home_ppg": 1.74,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.55,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8223632",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Fulham",
+      "away_team": "Sunderland",
+      "home_ppg": 1.84,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.36,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8223634",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.89,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.6,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8223753",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "West Ham United",
+      "home_ppg": 1.63,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.75,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8223567",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 12:30pm",
+      "home_team": "Burnley",
+      "away_team": "Chelsea",
+      "home_ppg": 0.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.4,
+        "away": 1.52
+      }
+    },
+    {
+      "id": "8223563",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 4:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Liverpool",
+      "home_ppg": 2.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.9,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8223613",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Brentford",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.3,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8223625",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 2.0,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.3,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8223626",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.11,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.25,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8223749",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Leeds United",
+      "home_ppg": 1.05,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.05,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8223627",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 8:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.37,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.0,
+        "away": 8.2
+      }
+    },
+    {
+      "id": "8223622",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 5:30pm",
+      "home_team": "Sunderland",
+      "away_team": "Arsenal",
+      "home_ppg": 1.74,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.0,
+        "draw": 4.5,
+        "away": 1.39
+      }
+    },
+    {
+      "id": "8223629",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 3:00pm",
+      "home_team": "Everton",
+      "away_team": "Fulham",
+      "home_ppg": 1.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.25,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8223630",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 3:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Burnley",
+      "home_ppg": 1.16,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.5,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8223751",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 12:30pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Manchester United",
+      "home_ppg": 0.79,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.73,
+        "draw": 3.25,
+        "away": 2.47
+      }
+    },
+    {
+      "id": "8223617",
+      "date_timestamp": null,
+      "date_str": "Nov 3, 8:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Everton",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.0,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8223619",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 4:30pm",
+      "home_team": "Manchester City",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 2.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.6,
+        "away": 6.3
+      }
+    },
+    {
+      "id": "8223624",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 2:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.16,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 4.28,
+        "away": 1.6
+      }
+    },
+    {
+      "id": "8223616",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 8:00pm",
+      "home_team": "Liverpool",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.89,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.5,
+        "away": 5.3
+      }
+    },
+    {
+      "id": "8223621",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 5:30pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Chelsea",
+      "home_ppg": 0.79,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.7,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8223612",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Leeds United",
+      "home_ppg": 1.74,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.5,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8223614",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Brentford",
+      "home_ppg": 1.11,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.35,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8223615",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Fulham",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.84,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.79,
+        "draw": 3.45,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8223618",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Arsenal",
+      "home_ppg": 0.68,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 12.0,
+        "draw": 5.5,
+        "away": 1.25
+      }
+    },
+    {
+      "id": "8223620",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Manchester United",
+      "home_ppg": 1.05,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.6,
+        "away": 2.07
+      }
+    },
+    {
+      "id": "8223779",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 4:30pm",
+      "home_team": "Everton",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.32,
+        "draw": 3.36,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8223507",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Burnley",
+      "home_ppg": 0.74,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.25,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8223526",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Manchester City",
+      "home_ppg": 2.0,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 3.85,
+        "away": 1.77
+      }
+    },
+    {
+      "id": "8223532",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:00pm",
+      "home_team": "Arsenal",
+      "away_team": "Crystal Palace",
+      "home_ppg": 2.47,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.86,
+        "away": 8.36
+      }
+    },
+    {
+      "id": "8223778",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.63,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.59,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8223746",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 8:00pm",
+      "home_team": "Brentford",
+      "away_team": "Liverpool",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 4.4,
+        "away": 1.65
+      }
+    },
+    {
+      "id": "8223527",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 5:30pm",
+      "home_team": "Manchester United",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 2.21,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.75,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8223523",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Fulham",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.0,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223536",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Sunderland",
+      "home_ppg": 1.37,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.75,
+        "away": 8.0
+      }
+    },
+    {
+      "id": "8223748",
+      "date_timestamp": null,
+      "date_str": "Oct 24, 8:00pm",
+      "home_team": "Leeds United",
+      "away_team": "West Ham United",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.45,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8223513",
+      "date_timestamp": null,
+      "date_str": "Oct 20, 8:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Brentford",
+      "home_ppg": 1.16,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.49,
+        "draw": 3.3,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8223509",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 4:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Manchester United",
+      "home_ppg": 1.89,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.0,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8223700",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 2:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Aston Villa",
+      "home_ppg": 0.79,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.56,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8223524",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 5:30pm",
+      "home_team": "Fulham",
+      "away_team": "Arsenal",
+      "home_ppg": 1.84,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 7.0,
+        "draw": 4.0,
+        "away": 1.42
+      }
+    },
+    {
+      "id": "8223512",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Everton",
+      "home_ppg": 2.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.7,
+        "away": 6.75
+      }
+    },
+    {
+      "id": "8223522",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Leeds United",
+      "home_ppg": 0.68,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.2,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223525",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.11,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.0,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8223697",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.5,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8223747",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.74,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.05,
+        "away": 3.03
+      }
+    },
+    {
+      "id": "8223508",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 12:30pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Chelsea",
+      "home_ppg": 1.05,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.75,
+        "away": 1.95
+      }
+    },
+    {
+      "id": "8223505",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 4:30pm",
+      "home_team": "Brentford",
+      "away_team": "Manchester City",
+      "home_ppg": 1.68,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.1,
+        "away": 1.65
+      }
+    },
+    {
+      "id": "8223474",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Everton",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.29,
+        "draw": 3.25,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8223503",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Burnley",
+      "home_ppg": 2.0,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.9,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8223510",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.3,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8223521",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 0.74,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.6,
+        "away": 2.01
+      }
+    },
+    {
+      "id": "8223506",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 5:30pm",
+      "home_team": "Chelsea",
+      "away_team": "Liverpool",
+      "home_ppg": 1.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.6,
+        "away": 2.12
+      }
+    },
+    {
+      "id": "8223502",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 3:00pm",
+      "home_team": "Arsenal",
+      "away_team": "West Ham United",
+      "home_ppg": 2.47,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 6.8,
+        "away": 16.0
+      }
+    },
+    {
+      "id": "8223511",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 3:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Sunderland",
+      "home_ppg": 2.21,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.6,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8223514",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 12:30pm",
+      "home_team": "Leeds United",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.3,
+        "away": 2.36
+      }
+    },
+    {
+      "id": "8223504",
+      "date_timestamp": null,
+      "date_str": "Oct 3, 8:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Fulham",
+      "home_ppg": 1.63,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.55,
+        "away": 3.45
+      }
+    },
+    {
+      "id": "8223500",
+      "date_timestamp": null,
+      "date_str": "Sep 29, 8:00pm",
+      "home_team": "Everton",
+      "away_team": "West Ham United",
+      "home_ppg": 1.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.7,
+        "away": 5.52
+      }
+    },
+    {
+      "id": "8223497",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 4:30pm",
+      "home_team": "Newcastle United",
+      "away_team": "Arsenal",
+      "home_ppg": 1.68,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.32,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223496",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 2:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Fulham",
+      "home_ppg": 2.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8223531",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 8:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 0.79,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.7,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8223501",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 5:30pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Sunderland",
+      "home_ppg": 1.05,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.75,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8223475",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "Manchester City",
+      "away_team": "Burnley",
+      "home_ppg": 2.37,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 6.9,
+        "away": 18.0
+      }
+    },
+    {
+      "id": "8223484",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Liverpool",
+      "home_ppg": 1.11,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.85,
+        "draw": 3.7,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8223498",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.37,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.7,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8223535",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "Leeds United",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.0,
+        "away": 2.47
+      }
+    },
+    {
+      "id": "8223499",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 12:30pm",
+      "home_team": "Brentford",
+      "away_team": "Manchester United",
+      "home_ppg": 1.68,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.75,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8223488",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 4:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Manchester City",
+      "home_ppg": 2.47,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.6,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8223485",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 2:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.63,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.51,
+        "draw": 3.25,
+        "away": 2.94
+      }
+    },
+    {
+      "id": "8223528",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 2:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.74,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.25,
+        "away": 2.18
+      }
+    },
+    {
+      "id": "8223492",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 8:00pm",
+      "home_team": "Fulham",
+      "away_team": "Brentford",
+      "home_ppg": 1.84,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.6,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8223489",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 5:30pm",
+      "home_team": "Manchester United",
+      "away_team": "Chelsea",
+      "home_ppg": 2.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.65,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8223473",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.6,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8223494",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 3:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.16,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.34,
+        "draw": 3.39,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223495",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Leeds United",
+      "home_ppg": 0.74,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.15,
+        "away": 2.84
+      }
+    },
+    {
+      "id": "8223529",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 0.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.98,
+        "draw": 3.3,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223530",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 12:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Everton",
+      "home_ppg": 1.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.3,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8223490",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 4:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Manchester United",
+      "home_ppg": 2.37,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.9,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8223486",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 2:00pm",
+      "home_team": "Burnley",
+      "away_team": "Liverpool",
+      "home_ppg": 0.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 8.75,
+        "draw": 5.47,
+        "away": 1.35
+      }
+    },
+    {
+      "id": "8223481",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 8:00pm",
+      "home_team": "Brentford",
+      "away_team": "Chelsea",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.4,
+        "draw": 3.75,
+        "away": 1.78
+      }
+    },
+    {
+      "id": "8223493",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 5:30pm",
+      "home_team": "West Ham United",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 1.16,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.7,
+        "away": 1.9
+      }
+    },
+    {
+      "id": "8223480",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.63,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.21,
+        "draw": 3.5,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8223482",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Sunderland",
+      "home_ppg": 1.11,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.45,
+        "away": 4.95
+      }
+    },
+    {
+      "id": "8223483",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Everton",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.21,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.34,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8223487",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Fulham",
+      "away_team": "Leeds United",
+      "home_ppg": 1.84,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.5,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8223491",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.68,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.6,
+        "away": 7.9
+      }
+    },
+    {
+      "id": "8223477",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 12:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 2.47,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 5.09,
+        "away": 8.35
+      }
+    },
+    {
+      "id": "8223864",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 7:00pm",
+      "home_team": "Aston Villa",
+      "away_team": "Crystal Palace",
+      "home_ppg": 2.0,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.25,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8223866",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 4:30pm",
+      "home_team": "Liverpool",
+      "away_team": "Arsenal",
+      "home_ppg": 1.89,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.4,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8223857",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "West Ham United",
+      "home_ppg": 1.05,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.9,
+        "away": 4.9
+      }
+    },
+    {
+      "id": "8223862",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 2:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Manchester City",
+      "home_ppg": 1.74,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.65,
+        "away": 1.99
+      }
+    },
+    {
+      "id": "8223859",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 5:30pm",
+      "home_team": "Leeds United",
+      "away_team": "Newcastle United",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.4,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223874",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 3:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 0.79,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.78,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8223877",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 3:00pm",
+      "home_team": "Manchester United",
+      "away_team": "Burnley",
+      "home_ppg": 2.21,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 5.0,
+        "away": 7.2
+      }
+    },
+    {
+      "id": "8223878",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 3:00pm",
+      "home_team": "Sunderland",
+      "away_team": "Brentford",
+      "home_ppg": 1.74,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 3.25,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8223879",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 3:00pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Everton",
+      "home_ppg": 0.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.19,
+        "draw": 3.1,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8223876",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 12:30pm",
+      "home_team": "Chelsea",
+      "away_team": "Fulham",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 4.1,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8223860",
+      "date_timestamp": null,
+      "date_str": "Aug 25, 8:00pm",
+      "home_team": "Newcastle United",
+      "away_team": "Liverpool",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.65,
+        "away": 1.97
+      }
+    },
+    {
+      "id": "8223873",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 4:30pm",
+      "home_team": "Fulham",
+      "away_team": "Manchester United",
+      "home_ppg": 1.84,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.52,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8223692",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 2:00pm",
+      "home_team": "Everton",
+      "away_team": "Brighton & Hove Albion",
+      "home_ppg": 1.21,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.25,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8223863",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 2:00pm",
+      "home_team": "Crystal Palace",
+      "away_team": "Nottingham Forest",
+      "home_ppg": 1.11,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 3.24,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8223869",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 5:30pm",
+      "home_team": "Arsenal",
+      "away_team": "Leeds United",
+      "home_ppg": 2.47,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.75,
+        "away": 8.25
+      }
+    },
+    {
+      "id": "8223858",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 3:00pm",
+      "home_team": "Brentford",
+      "away_team": "Aston Villa",
+      "home_ppg": 1.68,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.98,
+        "draw": 3.48,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223868",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 3:00pm",
+      "home_team": "Burnley",
+      "away_team": "Sunderland",
+      "home_ppg": 0.68,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 3.11,
+        "away": 3.38
+      }
+    },
+    {
+      "id": "8223875",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 3:00pm",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Wolverhampton Wanderers",
+      "home_ppg": 1.63,
+      "away_ppg": 0.32,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.85,
+        "away": 4.32
+      }
+    },
+    {
+      "id": "8223856",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 12:30pm",
+      "home_team": "Manchester City",
+      "away_team": "Tottenham Hotspur",
+      "home_ppg": 2.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.87,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8223870",
+      "date_timestamp": null,
+      "date_str": "Aug 22, 8:00pm",
+      "home_team": "West Ham United",
+      "away_team": "Chelsea",
+      "home_ppg": 1.16,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 4.8,
+        "draw": 3.8,
+        "away": 1.67
+      }
+    },
+    {
+      "id": "8223872",
+      "date_timestamp": null,
+      "date_str": "Aug 18, 8:00pm",
+      "home_team": "Leeds United",
+      "away_team": "Everton",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.34,
+        "draw": 3.34,
+        "away": 3.15
+      }
+    },
+    {
+      "id": "8223865",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 4:30pm",
+      "home_team": "Manchester United",
+      "away_team": "Arsenal",
+      "home_ppg": 2.21,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.7,
+        "away": 1.8
+      }
+    },
+    {
+      "id": "8223689",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 2:00pm",
+      "home_team": "Chelsea",
+      "away_team": "Crystal Palace",
+      "home_ppg": 1.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.62,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8223867",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 2:00pm",
+      "home_team": "Nottingham Forest",
+      "away_team": "Brentford",
+      "home_ppg": 1.05,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.4,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8223861",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 5:30pm",
+      "home_team": "Wolverhampton Wanderers",
+      "away_team": "Manchester City",
+      "home_ppg": 0.74,
+      "away_ppg": 1.74,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 6.4,
+        "draw": 4.5,
+        "away": 1.4
+      }
+    },
+    {
+      "id": "8223690",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 3:00pm",
+      "home_team": "Sunderland",
+      "away_team": "West Ham United",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.15,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8223691",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 3:00pm",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Burnley",
+      "home_ppg": 0.79,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.0,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8223871",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 3:00pm",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Fulham",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.5,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8223855",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 12:30pm",
+      "home_team": "Aston Villa",
+      "away_team": "Newcastle United",
+      "home_ppg": 2.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 3.25,
+        "away": 2.78
+      }
+    },
+    {
+      "id": "8223854",
+      "date_timestamp": null,
+      "date_str": "Aug 15, 8:00pm",
+      "home_team": "Liverpool",
+      "away_team": "AFC Bournemouth",
+      "home_ppg": 1.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 5.8,
+        "away": 9.0
+      }
+    }
+  ]
+}

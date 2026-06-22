@@ -30,7 +30,7 @@ export default function Goals({data}: PredictionData) {
           <tr className="hover:bg-betano-surface/50">
             <td className="py-2 px-2 font-medium">L</td>
             <td className="py-2 px-2 font-medium">
-              {/* {data.home.id} */}
+              {data.home.id}
             </td>
             <td className="py-2 px-2 text-center">
               {data.pgfl.toFixed(1)}
@@ -63,7 +63,7 @@ export default function Goals({data}: PredictionData) {
           <tr className="hover:bg-gray-700/50">
             <td className="py-2 px-2 font-medium">V</td>
             <td className="py-2 px-2 font-medium">
-              {/* {data.away.id} */}
+              {data.away.id}
             </td>
             <td className="py-2 px-2 text-center">
               {data.pgfv.toFixed(1)}

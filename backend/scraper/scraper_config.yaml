@@ -1,0 +1,19 @@
+# Configuración del scraper de FootyStats
+# Las ligas pueden ser:
+#   - una key referenciando las del código (alemania, inglaterra, peru, etc.)
+#   - un objeto con key, url, name, country para ligas nuevas
+
+leagues:
+  - alemnia
+  - inglaterra
+  - argentina
+  - peru
+  - chile
+  - key: espana
+    url: "/spain/la-liga/fixtures"
+    name: "La Liga"
+    country: "Spain"
+
+settings:
+  delay: 1.5
+  output_dir: "client/public/odds"

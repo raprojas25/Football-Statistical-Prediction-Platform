@@ -1,0 +1,7826 @@
+{
+  "generated_at": "2026-05-29T16:34:14.979910+00:00",
+  "source": "https://footystats.org/argentina/primera-division/fixtures",
+  "league": "Primera División",
+  "country": "Argentina",
+  "season": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "River Plate",
+      "mp": 20,
+      "win_pct": 55.0,
+      "gf": 29,
+      "ga": 17,
+      "gd": 12,
+      "pts": 36,
+      "avg": 2.3
+    },
+    {
+      "rank": 2,
+      "team": "Belgrano",
+      "mp": 20,
+      "win_pct": 50.0,
+      "gf": 24,
+      "ga": 16,
+      "gd": 8,
+      "pts": 36,
+      "avg": 2.0
+    },
+    {
+      "rank": 3,
+      "team": "Argentinos Juniors",
+      "mp": 19,
+      "win_pct": 53.0,
+      "gf": 21,
+      "ga": 14,
+      "gd": 7,
+      "pts": 36,
+      "avg": 1.84
+    },
+    {
+      "rank": 4,
+      "team": "Independiente Rivadavia",
+      "mp": 17,
+      "win_pct": 59.0,
+      "gf": 30,
+      "ga": 17,
+      "gd": 13,
+      "pts": 34,
+      "avg": 2.76
+    },
+    {
+      "rank": 5,
+      "team": "Rosario Central",
+      "mp": 19,
+      "win_pct": 53.0,
+      "gf": 25,
+      "ga": 19,
+      "gd": 6,
+      "pts": 34,
+      "avg": 2.32
+    },
+    {
+      "rank": 6,
+      "team": "Estudiantes",
+      "mp": 17,
+      "win_pct": 53.0,
+      "gf": 19,
+      "ga": 8,
+      "gd": 11,
+      "pts": 31,
+      "avg": 1.59
+    },
+    {
+      "rank": 7,
+      "team": "Boca Juniors",
+      "mp": 17,
+      "win_pct": 47.0,
+      "gf": 24,
+      "ga": 12,
+      "gd": 12,
+      "pts": 30,
+      "avg": 2.12
+    },
+    {
+      "rank": 8,
+      "team": "Gimnasia La Plata",
+      "mp": 18,
+      "win_pct": 50.0,
+      "gf": 20,
+      "ga": 21,
+      "gd": -1,
+      "pts": 29,
+      "avg": 2.28
+    },
+    {
+      "rank": 9,
+      "team": "Vélez Sarsfield",
+      "mp": 17,
+      "win_pct": 41.0,
+      "gf": 18,
+      "ga": 13,
+      "gd": 5,
+      "pts": 28,
+      "avg": 1.82
+    },
+    {
+      "rank": 10,
+      "team": "Talleres Córdoba",
+      "mp": 17,
+      "win_pct": 41.0,
+      "gf": 17,
+      "ga": 14,
+      "gd": 3,
+      "pts": 26,
+      "avg": 1.82
+    },
+    {
+      "rank": 11,
+      "team": "Huracán",
+      "mp": 18,
+      "win_pct": 33.0,
+      "gf": 20,
+      "ga": 16,
+      "gd": 4,
+      "pts": 25,
+      "avg": 2.0
+    },
+    {
+      "rank": 12,
+      "team": "Unión Santa Fe",
+      "mp": 18,
+      "win_pct": 33.0,
+      "gf": 26,
+      "ga": 23,
+      "gd": 3,
+      "pts": 24,
+      "avg": 2.72
+    },
+    {
+      "rank": 13,
+      "team": "Racing Club",
+      "mp": 18,
+      "win_pct": 33.0,
+      "gf": 19,
+      "ga": 17,
+      "gd": 2,
+      "pts": 24,
+      "avg": 2.0
+    },
+    {
+      "rank": 14,
+      "team": "Independiente",
+      "mp": 17,
+      "win_pct": 35.0,
+      "gf": 25,
+      "ga": 23,
+      "gd": 2,
+      "pts": 24,
+      "avg": 2.82
+    },
+    {
+      "rank": 15,
+      "team": "Lanús",
+      "mp": 17,
+      "win_pct": 35.0,
+      "gf": 18,
+      "ga": 17,
+      "gd": 1,
+      "pts": 24,
+      "avg": 2.06
+    },
+    {
+      "rank": 16,
+      "team": "San Lorenzo",
+      "mp": 17,
+      "win_pct": 29.0,
+      "gf": 16,
+      "ga": 16,
+      "gd": 0,
+      "pts": 23,
+      "avg": 1.88
+    },
+    {
+      "rank": 17,
+      "team": "Barracas Central",
+      "mp": 16,
+      "win_pct": 31.0,
+      "gf": 15,
+      "ga": 15,
+      "gd": 0,
+      "pts": 21,
+      "avg": 1.88
+    },
+    {
+      "rank": 18,
+      "team": "Instituto",
+      "mp": 16,
+      "win_pct": 38.0,
+      "gf": 17,
+      "ga": 17,
+      "gd": 0,
+      "pts": 21,
+      "avg": 2.13
+    },
+    {
+      "rank": 19,
+      "team": "Tigre",
+      "mp": 16,
+      "win_pct": 25.0,
+      "gf": 18,
+      "ga": 15,
+      "gd": 3,
+      "pts": 20,
+      "avg": 2.06
+    },
+    {
+      "rank": 20,
+      "team": "Defensa y Justicia",
+      "mp": 16,
+      "win_pct": 25.0,
+      "gf": 18,
+      "ga": 21,
+      "gd": -3,
+      "pts": 19,
+      "avg": 2.44
+    },
+    {
+      "rank": 21,
+      "team": "Sarmiento",
+      "mp": 16,
+      "win_pct": 38.0,
+      "gf": 13,
+      "ga": 20,
+      "gd": -7,
+      "pts": 19,
+      "avg": 2.06
+    },
+    {
+      "rank": 22,
+      "team": "Gimnasia Mendoza",
+      "mp": 16,
+      "win_pct": 31.0,
+      "gf": 14,
+      "ga": 22,
+      "gd": -8,
+      "pts": 19,
+      "avg": 2.25
+    },
+    {
+      "rank": 23,
+      "team": "Banfield",
+      "mp": 16,
+      "win_pct": 31.0,
+      "gf": 17,
+      "ga": 19,
+      "gd": -2,
+      "pts": 18,
+      "avg": 2.25
+    },
+    {
+      "rank": 24,
+      "team": "Platense",
+      "mp": 16,
+      "win_pct": 19.0,
+      "gf": 10,
+      "ga": 15,
+      "gd": -5,
+      "pts": 16,
+      "avg": 1.56
+    },
+    {
+      "rank": 25,
+      "team": "Central Córdoba SdE",
+      "mp": 16,
+      "win_pct": 25.0,
+      "gf": 11,
+      "ga": 21,
+      "gd": -10,
+      "pts": 16,
+      "avg": 2.0
+    },
+    {
+      "rank": 26,
+      "team": "Newell's Old Boys",
+      "mp": 16,
+      "win_pct": 19.0,
+      "gf": 15,
+      "ga": 27,
+      "gd": -12,
+      "pts": 15,
+      "avg": 2.63
+    },
+    {
+      "rank": 27,
+      "team": "Atlético Tucumán",
+      "mp": 16,
+      "win_pct": 19.0,
+      "gf": 15,
+      "ga": 20,
+      "gd": -5,
+      "pts": 14,
+      "avg": 2.19
+    },
+    {
+      "rank": 28,
+      "team": "Deportivo Riestra",
+      "mp": 16,
+      "win_pct": 6.0,
+      "gf": 5,
+      "ga": 12,
+      "gd": -7,
+      "pts": 11,
+      "avg": 1.06
+    },
+    {
+      "rank": 29,
+      "team": "Aldosivi",
+      "mp": 16,
+      "win_pct": 0.0,
+      "gf": 6,
+      "ga": 19,
+      "gd": -13,
+      "pts": 8,
+      "avg": 1.56
+    },
+    {
+      "rank": 30,
+      "team": "Estudiantes Río Cuarto",
+      "mp": 16,
+      "win_pct": 6.0,
+      "gf": 5,
+      "ga": 24,
+      "gd": -19,
+      "pts": 5,
+      "avg": 1.81
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "8419055",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Banfield",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.13,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419056",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.76,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419139",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Aldosivi",
+      "away_team": "River Plate",
+      "home_ppg": 0.5,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419140",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Belgrano",
+      "home_ppg": 1.61,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419141",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.33,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419177",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Racing Club",
+      "home_ppg": 1.31,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419178",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Independiente",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.41,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419179",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.53,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419180",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Instituto",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.31,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419181",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Lanús",
+      "home_ppg": 1.0,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419226",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Huracán",
+      "home_ppg": 1.89,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419258",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.79,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419259",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Tigre",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.25,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419295",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Platense",
+      "home_ppg": 1.35,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419296",
+      "date_timestamp": 1794096000,
+      "date_str": "Nov 8, 12:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.19,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419182",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Independiente",
+      "home_ppg": 1.19,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419214",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Estudiantes",
+      "away_team": "Instituto",
+      "home_ppg": 1.82,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419215",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 0.69,
+      "away_ppg": 1.53,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419234",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Huracán",
+      "away_team": "Tigre",
+      "home_ppg": 1.39,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419244",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Lanús",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.41,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419245",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "River Plate",
+      "home_ppg": 1.76,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419277",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Banfield",
+      "home_ppg": 2.0,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419304",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Racing Club",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.33,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419322",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Belgrano",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.8,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419323",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Platense",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419324",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.65,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419339",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 0.94,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419343",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 0.88,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419344",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.19,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419432",
+      "date_timestamp": 1793491200,
+      "date_str": "Nov 1, 12:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 0.31,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419079",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Huracán",
+      "home_ppg": 1.79,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419216",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.35,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419217",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.0,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419218",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Banfield",
+      "away_team": "Lanús",
+      "home_ppg": 1.13,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419235",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Aldosivi",
+      "away_team": "Belgrano",
+      "home_ppg": 0.5,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419236",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Platense",
+      "home_ppg": 1.19,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419246",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.89,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419278",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.31,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419279",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.25,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419305",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.61,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419345",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Racing Club",
+      "home_ppg": 1.8,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419346",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.31,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419352",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.53,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419355",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.33,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419462",
+      "date_timestamp": 1792886400,
+      "date_str": "Oct 25, 1:00am",
+      "home_team": "Independiente",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.41,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419080",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Independiente",
+      "home_ppg": 1.33,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419142",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Estudiantes",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.82,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419143",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 0.94,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419219",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Instituto",
+      "home_ppg": 1.19,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419237",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Tigre",
+      "home_ppg": 2.0,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419247",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.65,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419306",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.39,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419340",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 0.69,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419342",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.76,
+      "away_ppg": 1.53,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419347",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Aldosivi",
+      "home_ppg": 0.31,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419348",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "River Plate",
+      "home_ppg": 1.8,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419359",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Rosario Central",
+      "home_ppg": 0.88,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419360",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Banfield",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.13,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419361",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.19,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419362",
+      "date_timestamp": 1792281600,
+      "date_str": "Oct 18, 1:00am",
+      "home_team": "Platense",
+      "away_team": "Lanús",
+      "home_ppg": 1.0,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419057",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Huracán",
+      "home_ppg": 1.31,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419144",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Independiente",
+      "home_ppg": 1.53,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419145",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.33,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419238",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Aldosivi",
+      "away_team": "Sarmiento",
+      "home_ppg": 0.5,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419239",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.79,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419307",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.31,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419325",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Lanús",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.41,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419329",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.19,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419349",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "Banfield",
+      "home_ppg": 1.25,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419363",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Belgrano",
+      "home_ppg": 1.33,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419364",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.8,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419365",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.0,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419452",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Platense",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.0,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419463",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.35,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419471",
+      "date_timestamp": 1791676800,
+      "date_str": "Oct 11, 1:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.61,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419240",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 0.69,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419248",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Barracas Central",
+      "home_ppg": 0.88,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419326",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Tigre",
+      "home_ppg": 1.89,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419330",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Platense",
+      "home_ppg": 1.65,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419350",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 2.0,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419351",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Estudiantes",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.82,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419356",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Racing Club",
+      "home_ppg": 0.31,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419357",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.76,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419358",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.39,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419366",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Banfield",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.13,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419374",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Lanús",
+      "home_ppg": 0.94,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419375",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Independiente",
+      "away_team": "Instituto",
+      "home_ppg": 1.41,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419379",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "River Plate",
+      "home_ppg": 1.19,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419380",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Belgrano",
+      "home_ppg": 1.53,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419464",
+      "date_timestamp": 1791072000,
+      "date_str": "Oct 4, 1:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.19,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419058",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Lanús",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.41,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419260",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Independiente",
+      "home_ppg": 1.33,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419381",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Huracán",
+      "home_ppg": 1.8,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419388",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.19,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419389",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.35,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419396",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.79,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419397",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.0,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419398",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Platense",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.0,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419412",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.31,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419413",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Tigre",
+      "home_ppg": 1.65,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419448",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Aldosivi",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 0.5,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419458",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.8,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419459",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Banfield",
+      "home_ppg": 1.61,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419472",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.31,
+      "away_ppg": 1.53,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419475",
+      "date_timestamp": 1789862400,
+      "date_str": "Sep 20, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.33,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419059",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Banfield",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.13,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419250",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "River Plate",
+      "home_ppg": 0.88,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419261",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.25,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419262",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.89,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419263",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.76,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419313",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.53,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419353",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Lanús",
+      "home_ppg": 0.69,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419354",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.31,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419367",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Belgrano",
+      "home_ppg": 1.19,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419376",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Racing Club",
+      "home_ppg": 1.39,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419390",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 0.94,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419399",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Aldosivi",
+      "home_ppg": 2.0,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419400",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.19,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419401",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Independiente",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419403",
+      "date_timestamp": 1789257600,
+      "date_str": "Sep 13, 1:00am",
+      "home_team": "Estudiantes",
+      "away_team": "Platense",
+      "home_ppg": 1.82,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419368",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.65,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419369",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.79,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419382",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.8,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419383",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Aldosivi",
+      "away_team": "Banfield",
+      "home_ppg": 0.5,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419384",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Tigre",
+      "home_ppg": 1.61,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419385",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Platense",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.0,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419402",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Sarmiento",
+      "home_ppg": 0.31,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419404",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "Huracán",
+      "home_ppg": 1.8,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419405",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.33,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419406",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.35,
+      "away_ppg": 1.53,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419407",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.19,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419414",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Independiente",
+      "home_ppg": 1.0,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419433",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.31,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419434",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Instituto",
+      "home_ppg": 1.33,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419476",
+      "date_timestamp": 1788652800,
+      "date_str": "Sep 6, 1:00am",
+      "home_team": "Lanús",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.41,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419227",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.39,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419228",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Belgrano",
+      "home_ppg": 0.88,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419251",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.33,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419314",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Banfield",
+      "away_team": "River Plate",
+      "home_ppg": 1.13,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419377",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Estudiantes",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.82,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419378",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.31,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419386",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.25,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419387",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Platense",
+      "home_ppg": 1.19,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419391",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.79,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419392",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.89,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419393",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.53,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419408",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 0.69,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419423",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "Lanús",
+      "home_ppg": 1.76,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419425",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Independiente",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.41,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419469",
+      "date_timestamp": 1788048000,
+      "date_str": "Aug 30, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Racing Club",
+      "home_ppg": 2.0,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419252",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Lanús",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.41,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419253",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.8,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419264",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.8,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419265",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.19,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419280",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.53,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419281",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.39,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419315",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.25,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419331",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Platense",
+      "home_ppg": 1.31,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419370",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.61,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419409",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Banfield",
+      "home_ppg": 0.94,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419424",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Instituto",
+      "home_ppg": 0.88,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419426",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.33,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419453",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Aldosivi",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 0.5,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419465",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Independiente",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.41,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419466",
+      "date_timestamp": 1787443200,
+      "date_str": "Aug 23, 1:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "San Lorenzo",
+      "home_ppg": 0.31,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419229",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.19,
+      "away_ppg": 1.53,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419254",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Estudiantes",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.82,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419316",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.8,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419317",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.35,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419318",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Instituto",
+      "home_ppg": 1.0,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419394",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.8,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419410",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.31,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419415",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Platense",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.0,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419416",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 0.94,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419427",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.65,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419435",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Huracán",
+      "home_ppg": 1.19,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419442",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Lanús",
+      "away_team": "Independiente",
+      "home_ppg": 1.41,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419454",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Aldosivi",
+      "away_team": "Tigre",
+      "home_ppg": 0.5,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419467",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 0.31,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419473",
+      "date_timestamp": 1786838400,
+      "date_str": "Aug 16, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Banfield",
+      "home_ppg": 1.33,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419203",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Lanús",
+      "home_ppg": 1.53,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419204",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.31,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419230",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.79,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419267",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Racing Club",
+      "home_ppg": 1.89,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419268",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.76,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419282",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.19,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419283",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Estudiantes",
+      "home_ppg": 0.69,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419284",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Independiente",
+      "away_team": "Platense",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419285",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 2.0,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419286",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Sarmiento",
+      "home_ppg": 0.88,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419395",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.33,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419411",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.61,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419436",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "River Plate",
+      "home_ppg": 1.25,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419437",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Huracán",
+      "home_ppg": 1.35,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419474",
+      "date_timestamp": 1786233600,
+      "date_str": "Aug 9, 1:00am",
+      "home_team": "Banfield",
+      "away_team": "Belgrano",
+      "home_ppg": 1.13,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419151",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Banfield",
+      "home_ppg": 0.31,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419266",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.19,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419297",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Estudiantes",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.82,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419371",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Barracas Central",
+      "home_ppg": 0.69,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419417",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.8,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419418",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Lanús",
+      "away_team": "Instituto",
+      "home_ppg": 1.41,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419421",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.39,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419428",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.19,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419438",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.8,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419439",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Tigre",
+      "home_ppg": 1.33,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419440",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Boca Juniors",
+      "home_ppg": 0.94,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419443",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Aldosivi",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 0.5,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419444",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Independiente",
+      "home_ppg": 1.65,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419449",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Platense",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.0,
+      "away_ppg": 1.53,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419450",
+      "date_timestamp": 1785628800,
+      "date_str": "Aug 2, 1:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419269",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Barracas Central",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.31,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419270",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "River Plate",
+      "home_ppg": 1.61,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419271",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Racing Club",
+      "home_ppg": 1.79,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419372",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.19,
+      "away_ppg": 0.69,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419419",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Lanús",
+      "home_ppg": 1.33,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419422",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "Belgrano",
+      "home_ppg": 1.25,
+      "away_ppg": 1.8,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419429",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Independiente",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.41,
+      "away_ppg": 0.94,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419430",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "San Lorenzo",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.35,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419441",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.53,
+      "away_ppg": 1.65,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419445",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.89,
+      "away_ppg": 0.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419446",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Banfield",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.13,
+      "away_ppg": 1.19,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419447",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Huracán",
+      "home_ppg": 2.0,
+      "away_ppg": 1.39,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419451",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "Platense",
+      "home_ppg": 1.31,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419468",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Boca Juniors",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.76,
+      "away_ppg": 1.82,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419477",
+      "date_timestamp": 1785283200,
+      "date_str": "Jul 29, 1:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.0,
+      "away_ppg": 0.88,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419332",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.19,
+      "away_ppg": 1.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419333",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Banfield",
+      "home_ppg": 1.39,
+      "away_ppg": 1.13,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419373",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Instituto",
+      "home_ppg": 1.65,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419420",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "River Plate",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.8,
+      "away_ppg": 1.31,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419431",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Lanús",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419455",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Platense",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.0,
+      "away_ppg": 1.33,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419456",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Estudiantes",
+      "away_team": "Independiente",
+      "home_ppg": 1.82,
+      "away_ppg": 1.41,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419457",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Boca Juniors",
+      "home_ppg": 0.69,
+      "away_ppg": 1.76,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419460",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.19,
+      "away_ppg": 1.89,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419461",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.8,
+      "away_ppg": 1.79,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419470",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.19,
+      "away_ppg": 0.5,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419478",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Racing Club",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.33,
+      "away_ppg": 1.61,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419479",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 0.94,
+      "away_ppg": 1.53,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419480",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Tigre",
+      "home_ppg": 0.31,
+      "away_ppg": 1.25,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8419481",
+      "date_timestamp": 1785024000,
+      "date_str": "Jul 26, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 0.88,
+      "away_ppg": 2.0,
+      "status": "SCHEDULED",
+      "score": null
+    },
+    {
+      "id": "8534756",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 7:30pm",
+      "home_team": "River Plate",
+      "away_team": "Belgrano",
+      "home_ppg": 1.8,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 2.9,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8532753",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 9:00pm",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Belgrano",
+      "home_ppg": 1.89,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 2.9,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8532752",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 11:30pm",
+      "home_team": "River Plate",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.8,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 2.9,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8531471",
+      "date_timestamp": null,
+      "date_str": "Thu 14, 1:45am",
+      "home_team": "River Plate",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.8,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.0,
+        "away": 6.45
+      }
+    },
+    {
+      "id": "8530817",
+      "date_timestamp": null,
+      "date_str": "Wed 13, 10:45pm",
+      "home_team": "Rosario Central",
+      "away_team": "Racing Club",
+      "home_ppg": 1.79,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.9,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8530818",
+      "date_timestamp": null,
+      "date_str": "Wed 13, 1:30am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Huracán",
+      "home_ppg": 1.89,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 2.9,
+        "away": 4.19
+      }
+    },
+    {
+      "id": "8530816",
+      "date_timestamp": null,
+      "date_str": "Tue 12, 11:00pm",
+      "home_team": "Belgrano",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.8,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.0,
+        "away": 2.82
+      }
+    },
+    {
+      "id": "8527580",
+      "date_timestamp": null,
+      "date_str": "Mon 11, 1:30am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.65,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8527582",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 11:00pm",
+      "home_team": "River Plate",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.8,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.33,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8527249",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 9:00pm",
+      "home_team": "Estudiantes",
+      "away_team": "Racing Club",
+      "home_ppg": 1.82,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.29,
+        "draw": 2.93,
+        "away": 3.15
+      }
+    },
+    {
+      "id": "8527251",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 7:00pm",
+      "home_team": "Rosario Central",
+      "away_team": "Independiente",
+      "home_ppg": 1.79,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 4.35
+      }
+    },
+    {
+      "id": "8527252",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 2:15am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Lanús",
+      "home_ppg": 1.89,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.0,
+        "away": 4.23
+      }
+    },
+    {
+      "id": "8527583",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 1:30am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 2.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8527581",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 11:00pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Huracán",
+      "home_ppg": 1.76,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 2.97,
+        "away": 4.54
+      }
+    },
+    {
+      "id": "8527250",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 8:30pm",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Belgrano",
+      "home_ppg": 1.53,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.8,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8419308",
+      "date_timestamp": null,
+      "date_str": "Tue 5, 1:30am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Instituto",
+      "home_ppg": 0.31,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.0,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8419076",
+      "date_timestamp": null,
+      "date_str": "Mon 4, 11:15pm",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.65,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.45,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8419132",
+      "date_timestamp": null,
+      "date_str": "Mon 4, 9:00pm",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.19,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.0,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8419034",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 10:30pm",
+      "home_team": "River Plate",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.8,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.8,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8419060",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 8:00pm",
+      "home_team": "Belgrano",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.8,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.1,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8419242",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 8:00pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.61,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.1,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8419301",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 8:00pm",
+      "home_team": "Rosario Central",
+      "away_team": "Tigre",
+      "home_ppg": 1.79,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.8,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8419302",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 8:00pm",
+      "home_team": "Racing Club",
+      "away_team": "Huracán",
+      "home_ppg": 1.33,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.9,
+        "away": 3.89
+      }
+    },
+    {
+      "id": "8419257",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 5:30pm",
+      "home_team": "Aldosivi",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 0.5,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 2.98,
+        "away": 2.66
+      }
+    },
+    {
+      "id": "8419052",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 1:15am",
+      "home_team": "Platense",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.0,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 2.7,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8419276",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 10:45pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Independiente",
+      "home_ppg": 1.35,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.65,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8419328",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 10:45pm",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.33,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.12,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8419089",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 8:15pm",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.0,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 3.2,
+        "away": 1.75
+      }
+    },
+    {
+      "id": "8419275",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 6:30pm",
+      "home_team": "Lanús",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.41,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.0,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8419088",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 6:00pm",
+      "home_team": "Barracas Central",
+      "away_team": "Banfield",
+      "home_ppg": 1.31,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.9,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8419002",
+      "date_timestamp": null,
+      "date_str": "Apr 28, 1:00am",
+      "home_team": "Huracán",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.39,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.86,
+        "draw": 2.79,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8419021",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 10:45pm",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.65,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.92,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8418993",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 12:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Banfield",
+      "home_ppg": 0.88,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 2.84,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8419005",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 9:30pm",
+      "home_team": "Belgrano",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.8,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.15,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8419146",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 9:30pm",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Instituto",
+      "home_ppg": 0.94,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 2.95,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8419128",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 7:00pm",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 2.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.1,
+        "away": 5.36
+      }
+    },
+    {
+      "id": "8418991",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:30am",
+      "home_team": "River Plate",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.8,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 4.95,
+        "away": 13.0
+      }
+    },
+    {
+      "id": "8419001",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 11:15pm",
+      "home_team": "Sarmiento",
+      "away_team": "Tigre",
+      "home_ppg": 1.19,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.8,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8419097",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 9:00pm",
+      "home_team": "Estudiantes",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.82,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8418992",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 1:30am",
+      "home_team": "Racing Club",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.33,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.0,
+        "away": 7.4
+      }
+    },
+    {
+      "id": "8419022",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 1:30am",
+      "home_team": "Platense",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 2.78,
+        "away": 3.67
+      }
+    },
+    {
+      "id": "8419013",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 11:15pm",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Rosario Central",
+      "home_ppg": 0.31,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 2.95,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8419062",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 11:15pm",
+      "home_team": "Lanús",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 3.9,
+        "away": 6.79
+      }
+    },
+    {
+      "id": "8418982",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 9:00pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Independiente",
+      "home_ppg": 0.69,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.63,
+        "draw": 2.9,
+        "away": 2.28
+      }
+    },
+    {
+      "id": "8419111",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 12:00am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.19,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 2.77,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8419126",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 1:45am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Lanús",
+      "home_ppg": 1.19,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 2.75,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8419147",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 1:45am",
+      "home_team": "Tigre",
+      "away_team": "Huracán",
+      "home_ppg": 1.25,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 2.7,
+        "away": 3.45
+      }
+    },
+    {
+      "id": "8419063",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 11:30pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.35,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 2.8,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8418994",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 9:15pm",
+      "home_team": "Banfield",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.13,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.85,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8419016",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 9:15pm",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Platense",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.75,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8419015",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 7:00pm",
+      "home_team": "Barracas Central",
+      "away_team": "Belgrano",
+      "home_ppg": 1.31,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 2.99,
+        "away": 2.28
+      }
+    },
+    {
+      "id": "8419098",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 12:30am",
+      "home_team": "Rosario Central",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.79,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.82,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8419148",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 12:30am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.53,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.0,
+        "away": 4.83
+      }
+    },
+    {
+      "id": "8419099",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 9:00pm",
+      "home_team": "River Plate",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.8,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.95,
+        "away": 3.43
+      }
+    },
+    {
+      "id": "8419127",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 5:30pm",
+      "home_team": "Aldosivi",
+      "away_team": "Racing Club",
+      "home_ppg": 0.5,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.8,
+        "draw": 3.1,
+        "away": 1.92
+      }
+    },
+    {
+      "id": "8419072",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 1:45am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.89,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.4,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8419129",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 11:30pm",
+      "home_team": "Independiente",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.41,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.25,
+        "away": 5.58
+      }
+    },
+    {
+      "id": "8419074",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 9:15pm",
+      "home_team": "Instituto",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.31,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 3.0,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8419014",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 7:00pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.61,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 2.8,
+        "away": 5.13
+      }
+    },
+    {
+      "id": "8419073",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 12:30am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.33,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.5,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8419075",
+      "date_timestamp": null,
+      "date_str": "Apr 14, 1:30am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.65,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.5,
+        "away": 10.0
+      }
+    },
+    {
+      "id": "8419150",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 11:00pm",
+      "home_team": "Lanús",
+      "away_team": "Banfield",
+      "home_ppg": 1.41,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.4,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8418983",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 8:30pm",
+      "home_team": "Sarmiento",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.19,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.32,
+        "draw": 2.9,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8419131",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 8:30pm",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.19,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.17,
+        "draw": 2.7,
+        "away": 2.82
+      }
+    },
+    {
+      "id": "8419017",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 12:00am",
+      "home_team": "Racing Club",
+      "away_team": "River Plate",
+      "home_ppg": 1.33,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.8,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8419205",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 9:30pm",
+      "home_team": "Huracán",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.39,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.87,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8419272",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 9:30pm",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Tigre",
+      "home_ppg": 0.88,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 2.9,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8419100",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 7:00pm",
+      "home_team": "Platense",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 2.83,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8419149",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 7:00pm",
+      "home_team": "Newell's Old Boys",
+      "away_team": "San Lorenzo",
+      "home_ppg": 0.94,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 2.81,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8418995",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:45am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Barracas Central",
+      "home_ppg": 0.31,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.77,
+        "away": 3.71
+      }
+    },
+    {
+      "id": "8419067",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 11:30pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Independiente",
+      "home_ppg": 1.76,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.87,
+        "away": 3.15
+      }
+    },
+    {
+      "id": "8419130",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 9:15pm",
+      "home_team": "Estudiantes",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.82,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.71,
+        "away": 3.26
+      }
+    },
+    {
+      "id": "8419206",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 7:30pm",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 2.0,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.02,
+        "draw": 2.75,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8419000",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 7:00pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Instituto",
+      "home_ppg": 0.69,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 2.65,
+        "away": 2.93
+      }
+    },
+    {
+      "id": "8419220",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 1:00am",
+      "home_team": "Belgrano",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.8,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.65,
+        "away": 8.1
+      }
+    },
+    {
+      "id": "8419025",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 1:15am",
+      "home_team": "Instituto",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.31,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 2.97,
+        "away": 3.78
+      }
+    },
+    {
+      "id": "8419071",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 11:00pm",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Banfield",
+      "home_ppg": 1.89,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.77,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8418998",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 12:30am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.0,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.87,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8419020",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 10:00pm",
+      "home_team": "River Plate",
+      "away_team": "Belgrano",
+      "home_ppg": 1.8,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.75,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8419023",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 7:30pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Huracán",
+      "home_ppg": 1.61,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 2.8,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8418996",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.79,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 3.3,
+        "away": 5.8
+      }
+    },
+    {
+      "id": "8419027",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 9:30pm",
+      "home_team": "Independiente",
+      "away_team": "Racing Club",
+      "home_ppg": 1.41,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 2.8,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8419019",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 5:30pm",
+      "home_team": "Aldosivi",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 0.5,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.75,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8419003",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 11:30pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.35,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.89,
+        "draw": 2.73,
+        "away": 2.69
+      }
+    },
+    {
+      "id": "8419004",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 9:15pm",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.33,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.08,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8418997",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 7:00pm",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.19,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.81,
+        "draw": 2.6,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8419026",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 12:30am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.53,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.82,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8419018",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 9:30pm",
+      "home_team": "Tigre",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.25,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 3.0,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8419024",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 7:00pm",
+      "home_team": "Barracas Central",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.31,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.75,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8419006",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 12:00am",
+      "home_team": "Lanús",
+      "away_team": "Platense",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 2.77,
+        "away": 3.85
+      }
+    },
+    {
+      "id": "8419120",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 6:00pm",
+      "home_team": "Aldosivi",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 0.5,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.33,
+        "draw": 3.1,
+        "away": 1.93
+      }
+    },
+    {
+      "id": "8419334",
+      "date_timestamp": null,
+      "date_str": "Mar 27, 12:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Lanús",
+      "home_ppg": 1.89,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.15,
+        "away": 4.64
+      }
+    },
+    {
+      "id": "8419030",
+      "date_timestamp": null,
+      "date_str": "Mar 25, 10:00pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "San Lorenzo",
+      "home_ppg": 0.69,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 2.6,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8419082",
+      "date_timestamp": null,
+      "date_str": "Mar 24, 12:15am",
+      "home_team": "Huracán",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.39,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.1,
+        "away": 5.3
+      }
+    },
+    {
+      "id": "8419083",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 10:00pm",
+      "home_team": "Estudiantes",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.82,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.76,
+        "away": 8.13
+      }
+    },
+    {
+      "id": "8419008",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 1:15am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Rosario Central",
+      "home_ppg": 2.0,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.76,
+        "draw": 3.0,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8419031",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 1:15am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Platense",
+      "home_ppg": 1.89,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.1,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8419029",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 11:00pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Instituto",
+      "home_ppg": 1.76,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.2,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8419081",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 8:45pm",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "River Plate",
+      "home_ppg": 0.31,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.0,
+        "draw": 3.5,
+        "away": 1.63
+      }
+    },
+    {
+      "id": "8419007",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 6:30pm",
+      "home_team": "Sarmiento",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.19,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.85,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8419009",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 1:15am",
+      "home_team": "Belgrano",
+      "away_team": "Racing Club",
+      "home_ppg": 1.8,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.0,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8419028",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 11:00pm",
+      "home_team": "Independiente",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.41,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.15,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8418984",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 8:45pm",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.19,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.0,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8419010",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 8:45pm",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 0.94,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.75,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8419011",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 6:30pm",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Lanús",
+      "home_ppg": 1.65,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.9,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8419287",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 12:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 0.88,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8419319",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 12:00am",
+      "home_team": "Banfield",
+      "away_team": "Tigre",
+      "home_ppg": 1.13,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.04,
+        "draw": 2.87,
+        "away": 2.48
+      }
+    },
+    {
+      "id": "8419085",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 12:15am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.0,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 2.5,
+        "away": 2.89
+      }
+    },
+    {
+      "id": "8419288",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 12:15am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.19,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.85,
+        "draw": 2.6,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8419221",
+      "date_timestamp": null,
+      "date_str": "Mar 17, 10:00pm",
+      "home_team": "Lanús",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.41,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.59,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8419298",
+      "date_timestamp": null,
+      "date_str": "Mar 17, 1:15am",
+      "home_team": "Instituto",
+      "away_team": "Independiente",
+      "home_ppg": 1.31,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.58,
+        "draw": 2.97,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8419033",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 11:00pm",
+      "home_team": "Racing Club",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.33,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.0,
+        "away": 8.0
+      }
+    },
+    {
+      "id": "8419273",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 9:30pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.35,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 2.5,
+        "away": 3.85
+      }
+    },
+    {
+      "id": "8418986",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 6:30pm",
+      "home_team": "Barracas Central",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.31,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.78,
+        "draw": 2.79,
+        "away": 2.73
+      }
+    },
+    {
+      "id": "8419112",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 6:30pm",
+      "home_team": "Aldosivi",
+      "away_team": "Huracán",
+      "home_ppg": 0.5,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.7,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8419032",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 1:00am",
+      "home_team": "Tigre",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.25,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.88,
+        "away": 2.76
+      }
+    },
+    {
+      "id": "8419274",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.33,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 2.75,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8419084",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 10:45pm",
+      "home_team": "River Plate",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.8,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.2,
+        "away": 7.9
+      }
+    },
+    {
+      "id": "8419207",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 8:30pm",
+      "home_team": "Belgrano",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.8,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.87,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8418985",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 6:15pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.61,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.94,
+        "draw": 2.91,
+        "away": 2.71
+      }
+    },
+    {
+      "id": "8419012",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 12:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Banfield",
+      "home_ppg": 1.79,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.9,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8419255",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 10:00pm",
+      "home_team": "Platense",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.0,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.43,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8419086",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 11:00pm",
+      "home_team": "Estudiantes",
+      "away_team": "Lanús",
+      "home_ppg": 1.82,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.0,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419114",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 12:30am",
+      "home_team": "Huracán",
+      "away_team": "River Plate",
+      "home_ppg": 1.39,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 2.89,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8419208",
+      "date_timestamp": null,
+      "date_str": "Mar 12, 10:15pm",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Belgrano",
+      "home_ppg": 0.31,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 2.99,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8419327",
+      "date_timestamp": null,
+      "date_str": "Mar 12, 10:15pm",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Instituto",
+      "home_ppg": 1.53,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.87,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8419051",
+      "date_timestamp": null,
+      "date_str": "Mar 12, 8:00pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 0.69,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 2.85,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8419300",
+      "date_timestamp": null,
+      "date_str": "Mar 12, 8:00pm",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.19,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.05,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8419241",
+      "date_timestamp": null,
+      "date_str": "Mar 12, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Aldosivi",
+      "home_ppg": 0.88,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.1,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419299",
+      "date_timestamp": null,
+      "date_str": "Mar 12, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Barracas Central",
+      "home_ppg": 2.0,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 3.55,
+        "away": 7.4
+      }
+    },
+    {
+      "id": "8419087",
+      "date_timestamp": null,
+      "date_str": "Mar 11, 10:45pm",
+      "home_team": "Boca Juniors",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.76,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.4,
+        "away": 5.8
+      }
+    },
+    {
+      "id": "8419209",
+      "date_timestamp": null,
+      "date_str": "Mar 11, 8:30pm",
+      "home_team": "Banfield",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.13,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.88,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8419256",
+      "date_timestamp": null,
+      "date_str": "Mar 11, 8:30pm",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.89,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 2.88,
+        "away": 4.35
+      }
+    },
+    {
+      "id": "8419113",
+      "date_timestamp": null,
+      "date_str": "Mar 11, 1:00am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Platense",
+      "home_ppg": 0.94,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.8,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8419115",
+      "date_timestamp": null,
+      "date_str": "Mar 11, 1:00am",
+      "home_team": "Sarmiento",
+      "away_team": "Racing Club",
+      "home_ppg": 1.19,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.1,
+        "away": 2.08
+      }
+    },
+    {
+      "id": "8419116",
+      "date_timestamp": null,
+      "date_str": "Mar 10, 10:45pm",
+      "home_team": "Independiente",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.41,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8419210",
+      "date_timestamp": null,
+      "date_str": "Mar 10, 10:45pm",
+      "home_team": "Tigre",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.25,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 2.8,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8419155",
+      "date_timestamp": null,
+      "date_str": "Mar 5, 12:00am",
+      "home_team": "Lanús",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.41,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.0,
+        "away": 2.64
+      }
+    },
+    {
+      "id": "8419158",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 12:15am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Racing Club",
+      "home_ppg": 0.88,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.18,
+        "draw": 2.91,
+        "away": 2.57
+      }
+    },
+    {
+      "id": "8419102",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 10:15pm",
+      "home_team": "Huracán",
+      "away_team": "Belgrano",
+      "home_ppg": 1.39,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 2.8,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8419133",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 10:00pm",
+      "home_team": "Sarmiento",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.19,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 2.8,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419035",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 12:30am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "River Plate",
+      "home_ppg": 2.0,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.86,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8419061",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 12:30am",
+      "home_team": "Banfield",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.13,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.1,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8419153",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 10:15pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Platense",
+      "home_ppg": 0.69,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.78,
+        "draw": 2.36,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8419154",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 10:15pm",
+      "home_team": "Estudiantes",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.82,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.8,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8419119",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 12:30am",
+      "home_team": "Tigre",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.25,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 2.94,
+        "away": 4.05
+      }
+    },
+    {
+      "id": "8419134",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 12:30am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Lanús",
+      "home_ppg": 1.19,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 2.97,
+        "away": 3.19
+      }
+    },
+    {
+      "id": "8419036",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 10:15pm",
+      "home_team": "Instituto",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.31,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.8,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8419138",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 10:15pm",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.89,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.05,
+        "away": 8.25
+      }
+    },
+    {
+      "id": "8419037",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 8:00pm",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Rosario Central",
+      "home_ppg": 0.94,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 3.02,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8418987",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 1:15am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.53,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 2.77,
+        "away": 3.56
+      }
+    },
+    {
+      "id": "8419152",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 11:00pm",
+      "home_team": "Independiente",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.2,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8418988",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 8:45pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.76,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 3.85,
+        "away": 7.4
+      }
+    },
+    {
+      "id": "8418989",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 10:30pm",
+      "home_team": "River Plate",
+      "away_team": "Banfield",
+      "home_ppg": 1.8,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.75,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8419077",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 10:30pm",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Huracán",
+      "home_ppg": 0.31,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.85,
+        "draw": 2.6,
+        "away": 2.24
+      }
+    },
+    {
+      "id": "8419064",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 8:15pm",
+      "home_team": "Sarmiento",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.19,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 2.82,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8419104",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 8:15pm",
+      "home_team": "Racing Club",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.33,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.25,
+        "away": 5.24
+      }
+    },
+    {
+      "id": "8419117",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 10:30pm",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.65,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.0,
+        "away": 4.59
+      }
+    },
+    {
+      "id": "8419121",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 10:30pm",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Estudiantes",
+      "home_ppg": 0.94,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.73,
+        "draw": 2.94,
+        "away": 2.18
+      }
+    },
+    {
+      "id": "8419103",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 8:00pm",
+      "home_team": "Barracas Central",
+      "away_team": "Tigre",
+      "home_ppg": 1.31,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.02,
+        "draw": 2.92,
+        "away": 2.54
+      }
+    },
+    {
+      "id": "8419162",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 8:00pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.61,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.39,
+        "draw": 3.04,
+        "away": 2.26
+      }
+    },
+    {
+      "id": "8419040",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 1:00am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Independiente",
+      "home_ppg": 1.19,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 2.62,
+        "away": 2.19
+      }
+    },
+    {
+      "id": "8419135",
+      "date_timestamp": null,
+      "date_str": "Feb 25, 12:30am",
+      "home_team": "Belgrano",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.8,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.6,
+        "away": 4.95
+      }
+    },
+    {
+      "id": "8419136",
+      "date_timestamp": null,
+      "date_str": "Feb 24, 10:45pm",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.0,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.63,
+        "draw": 2.54,
+        "away": 2.32
+      }
+    },
+    {
+      "id": "8419137",
+      "date_timestamp": null,
+      "date_str": "Feb 24, 10:15pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Instituto",
+      "home_ppg": 1.35,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 2.8,
+        "away": 3.33
+      }
+    },
+    {
+      "id": "8419039",
+      "date_timestamp": null,
+      "date_str": "Feb 24, 8:00pm",
+      "home_team": "Platense",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 1.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 2.94,
+        "away": 4.67
+      }
+    },
+    {
+      "id": "8419078",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 12:30am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.33,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.6,
+        "away": 6.36
+      }
+    },
+    {
+      "id": "8419122",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 10:15pm",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "River Plate",
+      "home_ppg": 1.65,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.9,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8419069",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 8:00pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.35,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.3,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8419042",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 12:30am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Tigre",
+      "home_ppg": 1.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.42,
+        "draw": 2.65,
+        "away": 2.47
+      }
+    },
+    {
+      "id": "8419041",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 10:15pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Huracán",
+      "home_ppg": 0.69,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.6,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8419211",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 10:15pm",
+      "home_team": "Banfield",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.13,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.0,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8418999",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 8:00pm",
+      "home_team": "Platense",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.0,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 2.91,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8419309",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 8:00pm",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Independiente",
+      "home_ppg": 2.0,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.73,
+        "draw": 2.58,
+        "away": 2.64
+      }
+    },
+    {
+      "id": "8419068",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 1:15am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.19,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 2.9,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8419105",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 1:15am",
+      "home_team": "Rosario Central",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.79,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.15,
+        "away": 4.25
+      }
+    },
+    {
+      "id": "8419163",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 11:00pm",
+      "home_team": "Instituto",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.31,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.1,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8419320",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 11:00pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Racing Club",
+      "home_ppg": 1.76,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.92,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8419159",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 8:45pm",
+      "home_team": "Estudiantes",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.82,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.4,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8419164",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 8:15pm",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Belgrano",
+      "home_ppg": 1.19,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.26,
+        "draw": 2.8,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8419321",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 10:00pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 0.69,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 2.68,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8419066",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Barracas Central",
+      "home_ppg": 1.79,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.3,
+        "away": 6.4
+      }
+    },
+    {
+      "id": "8419168",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 1:00am",
+      "home_team": "Instituto",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.31,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.0,
+        "away": 4.75
+      }
+    },
+    {
+      "id": "8419335",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 10:30pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Platense",
+      "home_ppg": 1.76,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.3,
+        "away": 5.8
+      }
+    },
+    {
+      "id": "8419124",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 8:00pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.61,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.6,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8419065",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 0.88,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 2.96,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8419310",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 1:00am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Belgrano",
+      "home_ppg": 2.0,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 2.73,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8419123",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 10:45pm",
+      "home_team": "Huracán",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.39,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.14,
+        "away": 5.69
+      }
+    },
+    {
+      "id": "8419167",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 10:45pm",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.53,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.05,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8419160",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 8:30pm",
+      "home_team": "Banfield",
+      "away_team": "Racing Club",
+      "home_ppg": 1.13,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 2.88,
+        "away": 2.19
+      }
+    },
+    {
+      "id": "8419090",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 1:15am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.33,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 2.53,
+        "away": 4.26
+      }
+    },
+    {
+      "id": "8419161",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 1:15am",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.19,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 2.75,
+        "away": 2.14
+      }
+    },
+    {
+      "id": "8418990",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 11:00pm",
+      "home_team": "Independiente",
+      "away_team": "Lanús",
+      "home_ppg": 1.41,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.0,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419166",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 12:15am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "River Plate",
+      "home_ppg": 1.89,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.7,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8419165",
+      "date_timestamp": null,
+      "date_str": "Feb 12, 10:00pm",
+      "home_team": "Tigre",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.25,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.2,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8419091",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 12:30am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 0.31,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.75,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8419053",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 10:15pm",
+      "home_team": "Estudiantes",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.82,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 2.9,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8419118",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 10:15pm",
+      "home_team": "Lanús",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.41,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.05,
+        "away": 3.85
+      }
+    },
+    {
+      "id": "8419125",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 8:00pm",
+      "home_team": "Barracas Central",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.31,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.76,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8419092",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 1:15am",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.65,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 2.73,
+        "away": 2.32
+      }
+    },
+    {
+      "id": "8419171",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 1:15am",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "Instituto",
+      "home_ppg": 1.19,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 2.8,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8419043",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 10:15pm",
+      "home_team": "Huracán",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.39,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.5,
+        "away": 3.56
+      }
+    },
+    {
+      "id": "8419107",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 8:00pm",
+      "home_team": "Sarmiento",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 1.19,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.88,
+        "away": 2.78
+      }
+    },
+    {
+      "id": "8419289",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 8:00pm",
+      "home_team": "Platense",
+      "away_team": "Independiente",
+      "home_ppg": 1.0,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.12,
+        "draw": 2.75,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8419070",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 1:15am",
+      "home_team": "Belgrano",
+      "away_team": "Banfield",
+      "home_ppg": 1.8,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.25,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419170",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 1:15am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 0.94,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 2.91,
+        "away": 4.04
+      }
+    },
+    {
+      "id": "8419169",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 11:00pm",
+      "home_team": "River Plate",
+      "away_team": "Tigre",
+      "home_ppg": 1.8,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.65,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8419106",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 9:00pm",
+      "home_team": "Racing Club",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 1.33,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.0,
+        "away": 3.04
+      }
+    },
+    {
+      "id": "8419222",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 8:00pm",
+      "home_team": "Aldosivi",
+      "away_team": "Rosario Central",
+      "home_ppg": 0.5,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 2.9,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8419054",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 12:00am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.16,
+        "draw": 2.77,
+        "away": 2.56
+      }
+    },
+    {
+      "id": "8419049",
+      "date_timestamp": null,
+      "date_str": "Feb 4, 12:15am",
+      "home_team": "Instituto",
+      "away_team": "Lanús",
+      "home_ppg": 1.31,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.86,
+        "draw": 2.54,
+        "away": 2.57
+      }
+    },
+    {
+      "id": "8419156",
+      "date_timestamp": null,
+      "date_str": "Feb 4, 12:15am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Sarmiento",
+      "home_ppg": 2.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.25,
+        "away": 4.15
+      }
+    },
+    {
+      "id": "8419108",
+      "date_timestamp": null,
+      "date_str": "Feb 3, 10:00pm",
+      "home_team": "Banfield",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.13,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 2.9,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8419093",
+      "date_timestamp": null,
+      "date_str": "Feb 3, 1:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Belgrano",
+      "home_ppg": 1.89,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 3.25,
+        "away": 5.7
+      }
+    },
+    {
+      "id": "8419157",
+      "date_timestamp": null,
+      "date_str": "Feb 3, 1:00am",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.33,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 2.95,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8419046",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 10:45pm",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.19,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 2.8,
+        "away": 2.41
+      }
+    },
+    {
+      "id": "8419048",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 10:45pm",
+      "home_team": "Tigre",
+      "away_team": "Racing Club",
+      "home_ppg": 1.25,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.85,
+        "away": 2.33
+      }
+    },
+    {
+      "id": "8419336",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 8:30pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Aldosivi",
+      "home_ppg": 1.61,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.77,
+        "away": 4.36
+      }
+    },
+    {
+      "id": "8419341",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 12:30am",
+      "home_team": "Rosario Central",
+      "away_team": "River Plate",
+      "home_ppg": 1.79,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.9,
+        "away": 2.87
+      }
+    },
+    {
+      "id": "8419172",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 10:15pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.76,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.9,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8419047",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 8:00pm",
+      "home_team": "Barracas Central",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.31,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.12,
+        "draw": 2.33,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8419044",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 1:00am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Huracán",
+      "home_ppg": 0.88,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.73,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8419094",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 1:00am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Platense",
+      "home_ppg": 1.53,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 2.8,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8419045",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 10:45pm",
+      "home_team": "Independiente",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.41,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 2.95,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8419109",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 8:30pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 1.35,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 2.84,
+        "away": 5.47
+      }
+    },
+    {
+      "id": "8419095",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 12:30am",
+      "home_team": "Sarmiento",
+      "away_team": "Banfield",
+      "home_ppg": 1.19,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.62,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8419173",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 12:30am",
+      "home_team": "Estudiantes Río Cuarto",
+      "away_team": "Argentinos Juniors",
+      "home_ppg": 0.31,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 3.1,
+        "away": 1.8
+      }
+    },
+    {
+      "id": "8419291",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 10:15pm",
+      "home_team": "Belgrano",
+      "away_team": "Tigre",
+      "home_ppg": 1.8,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 2.82,
+        "away": 4.35
+      }
+    },
+    {
+      "id": "8419312",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 10:15pm",
+      "home_team": "Lanús",
+      "away_team": "Unión Santa Fe",
+      "home_ppg": 1.41,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 2.9,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419038",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 8:00pm",
+      "home_team": "Deportivo Riestra",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 0.69,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 2.8,
+        "away": 3.55
+      }
+    },
+    {
+      "id": "8419243",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 1:15am",
+      "home_team": "Estudiantes",
+      "away_team": "Boca Juniors",
+      "home_ppg": 1.82,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.08,
+        "draw": 2.73,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8419223",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 11:00pm",
+      "home_team": "River Plate",
+      "away_team": "Gimnasia La Plata",
+      "home_ppg": 1.8,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.0,
+        "away": 7.03
+      }
+    },
+    {
+      "id": "8419212",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 10:00pm",
+      "home_team": "Racing Club",
+      "away_team": "Rosario Central",
+      "home_ppg": 1.33,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8419290",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 8:00pm",
+      "home_team": "Aldosivi",
+      "away_team": "Barracas Central",
+      "home_ppg": 0.5,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.75,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8419101",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 1:15am",
+      "home_team": "Atlético Tucumán",
+      "away_team": "Central Córdoba SdE",
+      "home_ppg": 0.88,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8419110",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 1:15am",
+      "home_team": "Newell's Old Boys",
+      "away_team": "Independiente",
+      "home_ppg": 0.94,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.97,
+        "draw": 2.66,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8419096",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 11:00pm",
+      "home_team": "Huracán",
+      "away_team": "Independiente Rivadavia",
+      "home_ppg": 1.39,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 2.7,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419292",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 11:00pm",
+      "home_team": "Gimnasia Mendoza",
+      "away_team": "San Lorenzo",
+      "home_ppg": 1.19,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 2.69,
+        "away": 2.22
+      }
+    },
+    {
+      "id": "8419231",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 8:45pm",
+      "home_team": "Vélez Sarsfield",
+      "away_team": "Talleres Córdoba",
+      "home_ppg": 1.65,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 2.9,
+        "away": 3.74
+      }
+    },
+    {
+      "id": "8419311",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 8:00pm",
+      "home_team": "Platense",
+      "away_team": "Instituto",
+      "home_ppg": 1.0,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 2.65,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8419213",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 12:00am",
+      "home_team": "Tigre",
+      "away_team": "Estudiantes Río Cuarto",
+      "home_ppg": 1.25,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 2.78,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8419293",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 12:00am",
+      "home_team": "Argentinos Juniors",
+      "away_team": "Sarmiento",
+      "home_ppg": 1.89,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 3.8,
+        "away": 8.5
+      }
+    },
+    {
+      "id": "8419249",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 9:30pm",
+      "home_team": "Boca Juniors",
+      "away_team": "Deportivo Riestra",
+      "home_ppg": 1.76,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.6,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8419294",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 1:00am",
+      "home_team": "Rosario Central",
+      "away_team": "Belgrano",
+      "home_ppg": 1.79,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.3,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8419232",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 10:30pm",
+      "home_team": "Gimnasia La Plata",
+      "away_team": "Racing Club",
+      "home_ppg": 1.61,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.0,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8419175",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 8:00pm",
+      "home_team": "Barracas Central",
+      "away_team": "River Plate",
+      "home_ppg": 1.31,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.67,
+        "draw": 3.2,
+        "away": 1.84
+      }
+    },
+    {
+      "id": "8419174",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 1:15am",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Atlético Tucumán",
+      "home_ppg": 2.0,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.04,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8419303",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 1:15am",
+      "home_team": "Talleres Córdoba",
+      "away_team": "Newell's Old Boys",
+      "home_ppg": 1.53,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.25,
+        "away": 4.64
+      }
+    },
+    {
+      "id": "8419338",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 11:00pm",
+      "home_team": "Independiente",
+      "away_team": "Estudiantes",
+      "home_ppg": 1.41,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.77,
+        "away": 3.39
+      }
+    },
+    {
+      "id": "8419337",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 10:00pm",
+      "home_team": "San Lorenzo",
+      "away_team": "Lanús",
+      "home_ppg": 1.35,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.73,
+        "draw": 2.47,
+        "away": 3.16
+      }
+    },
+    {
+      "id": "8419050",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 1:15am",
+      "home_team": "Central Córdoba SdE",
+      "away_team": "Gimnasia Mendoza",
+      "home_ppg": 1.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 2.7,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8419233",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 1:15am",
+      "home_team": "Instituto",
+      "away_team": "Vélez Sarsfield",
+      "home_ppg": 1.31,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.78,
+        "draw": 2.78,
+        "away": 2.88
+      }
+    },
+    {
+      "id": "8419176",
+      "date_timestamp": null,
+      "date_str": "Jan 22, 11:00pm",
+      "home_team": "Unión Santa Fe",
+      "away_team": "Platense",
+      "home_ppg": 1.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 2.8,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8419224",
+      "date_timestamp": null,
+      "date_str": "Jan 22, 11:00pm",
+      "home_team": "Banfield",
+      "away_team": "Huracán",
+      "home_ppg": 1.13,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.84,
+        "draw": 2.71,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8419225",
+      "date_timestamp": null,
+      "date_str": "Jan 22, 8:00pm",
+      "home_team": "Aldosivi",
+      "away_team": "Defensa y Justicia",
+      "home_ppg": 0.5,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.05,
+        "away": 3.05
+      }
+    }
+  ]
+}

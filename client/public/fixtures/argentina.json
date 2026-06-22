@@ -1,0 +1,2169 @@
+{
+  "generated_at": "2026-06-01T16:02:01Z",
+  "competition": "ARGENTINA",
+  "competition_name": "Primera División (Argentina)",
+  "country": "Argentina",
+  "count": 240,
+  "matches": [
+    {
+      "id": 8419055,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 1.13,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419056,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.76,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419139,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "River Plate",
+      "homePpg": 0.5,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419140,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Belgrano",
+      "homePpg": 1.61,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419141,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 1.33,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419177,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Racing Club",
+      "homePpg": 1.31,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419178,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 1.41,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419179,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Estudiantes",
+      "homePpg": 1.53,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419180,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.31,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419181,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "Lanús",
+      "homePpg": 1.0,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419226,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Huracán",
+      "homePpg": 1.89,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419258,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 1.79,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419259,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "Sarmiento",
+      "homePpg": 1.25,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419295,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Platense",
+      "homePpg": 1.35,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419296,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.19,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419182,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Independiente",
+      "homePpg": 1.19,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419214,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "Instituto",
+      "homePpg": 1.82,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419215,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Talleres Córdoba",
+      "homePpg": 0.69,
+      "awayPpg": 1.53,
+      "matchday": null
+    },
+    {
+      "id": 8419234,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Tigre",
+      "homePpg": 1.39,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419244,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.41,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419245,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "River Plate",
+      "homePpg": 1.76,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419277,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Banfield",
+      "homePpg": 2.0,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419304,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Aldosivi",
+      "homePpg": 1.33,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419322,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Barracas Central",
+      "homePpg": 1.8,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419323,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 1.0,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419324,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 1.65,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419339,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 0.94,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419343,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 0.88,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419344,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "Rosario Central",
+      "homePpg": 1.19,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419432,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 0.31,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419079,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Huracán",
+      "homePpg": 1.79,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419216,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.35,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419217,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 1.0,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419218,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "Lanús",
+      "homePpg": 1.13,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419235,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Belgrano",
+      "homePpg": 0.5,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419236,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Platense",
+      "homePpg": 1.19,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419246,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.89,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419278,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 1.31,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419279,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 1.25,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419305,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Sarmiento",
+      "homePpg": 1.61,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419345,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Racing Club",
+      "homePpg": 1.8,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419346,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 1.31,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419352,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.53,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419355,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Estudiantes",
+      "homePpg": 1.33,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419462,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 1.41,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419080,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Independiente",
+      "homePpg": 1.33,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419142,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 1.82,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419143,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 0.94,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419219,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Instituto",
+      "homePpg": 1.19,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419237,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Tigre",
+      "homePpg": 2.0,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419247,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.65,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419306,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 1.39,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419340,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 0.69,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419342,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Talleres Córdoba",
+      "homePpg": 1.76,
+      "awayPpg": 1.53,
+      "matchday": null
+    },
+    {
+      "id": 8419347,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "Aldosivi",
+      "homePpg": 0.31,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419348,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "River Plate",
+      "homePpg": 1.8,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419359,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "Rosario Central",
+      "homePpg": 0.88,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419360,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.13,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419361,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "Barracas Central",
+      "homePpg": 1.19,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419362,
+      "date": "2026-10-18T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Lanús",
+      "homePpg": 1.0,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419057,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Huracán",
+      "homePpg": 1.31,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419144,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Independiente",
+      "homePpg": 1.53,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419145,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.33,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419238,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Sarmiento",
+      "homePpg": 0.5,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419239,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.79,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419307,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 1.31,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419325,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 1.41,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419329,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.19,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419349,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "Banfield",
+      "homePpg": 1.25,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419363,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Belgrano",
+      "homePpg": 1.33,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419364,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 1.8,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419365,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "Estudiantes",
+      "homePpg": 1.0,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419452,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.0,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419463,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 1.35,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419471,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 1.61,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419240,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 0.69,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419248,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "Barracas Central",
+      "homePpg": 0.88,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419326,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Tigre",
+      "homePpg": 1.89,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419330,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "Platense",
+      "homePpg": 1.65,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419350,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 2.0,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419351,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.82,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419356,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "Racing Club",
+      "homePpg": 0.31,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419357,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 1.76,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419358,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Aldosivi",
+      "homePpg": 1.39,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419366,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "Rosario Central",
+      "homePpg": 1.13,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419374,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Lanús",
+      "homePpg": 0.94,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419375,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "Instituto",
+      "homePpg": 1.41,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419379,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "River Plate",
+      "homePpg": 1.19,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419380,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Belgrano",
+      "homePpg": 1.53,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419464,
+      "date": "2026-10-04T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 1.19,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419058,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "Estudiantes",
+      "homePpg": 1.41,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419260,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Independiente",
+      "homePpg": 1.33,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419381,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Huracán",
+      "homePpg": 1.8,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419388,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 1.19,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419389,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 1.35,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419396,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.79,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419397,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.0,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419398,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.0,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419412,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.31,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419413,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "Tigre",
+      "homePpg": 1.65,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419448,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 0.5,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419458,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 1.8,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419459,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Banfield",
+      "homePpg": 1.61,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419472,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "Talleres Córdoba",
+      "homePpg": 1.31,
+      "awayPpg": 1.53,
+      "matchday": null
+    },
+    {
+      "id": 8419475,
+      "date": "2026-09-20T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Sarmiento",
+      "homePpg": 1.33,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419059,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "Barracas Central",
+      "homePpg": 1.13,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419250,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "River Plate",
+      "homePpg": 0.88,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419261,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "Rosario Central",
+      "homePpg": 1.25,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419262,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 1.89,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419263,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 1.76,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419313,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 1.53,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419353,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Lanús",
+      "homePpg": 0.69,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419354,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 1.31,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419367,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "Belgrano",
+      "homePpg": 1.19,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419376,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Racing Club",
+      "homePpg": 1.39,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419390,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 0.94,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419399,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Aldosivi",
+      "homePpg": 2.0,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419400,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.19,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419401,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 1.41,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419403,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "Platense",
+      "homePpg": 1.82,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419368,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "Estudiantes",
+      "homePpg": 1.65,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419369,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.79,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419382,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.8,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419383,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Banfield",
+      "homePpg": 0.5,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419384,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Tigre",
+      "homePpg": 1.61,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419385,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 1.0,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419402,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "Sarmiento",
+      "homePpg": 0.31,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419404,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Huracán",
+      "homePpg": 1.8,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419405,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 1.33,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419406,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Talleres Córdoba",
+      "homePpg": 1.35,
+      "awayPpg": 1.53,
+      "matchday": null
+    },
+    {
+      "id": 8419407,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 1.19,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419414,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "Independiente",
+      "homePpg": 1.0,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419433,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.31,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419434,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Instituto",
+      "homePpg": 1.33,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419476,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.41,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419227,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 1.39,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419228,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "Belgrano",
+      "homePpg": 0.88,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419251,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Sarmiento",
+      "homePpg": 1.33,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419314,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "River Plate",
+      "homePpg": 1.13,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419377,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.82,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419378,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 1.31,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419386,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "Barracas Central",
+      "homePpg": 1.25,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419387,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Platense",
+      "homePpg": 1.19,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419391,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 1.79,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419392,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Aldosivi",
+      "homePpg": 1.89,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419393,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 1.53,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419408,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 0.69,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419423,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Lanús",
+      "homePpg": 1.76,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419425,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.41,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419469,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Racing Club",
+      "homePpg": 2.0,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419252,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.41,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419253,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 1.8,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419264,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.8,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419265,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "Estudiantes",
+      "homePpg": 1.19,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419280,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Rosario Central",
+      "homePpg": 1.53,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419281,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 1.39,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419315,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 1.25,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419331,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Platense",
+      "homePpg": 1.31,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419370,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.61,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419409,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Banfield",
+      "homePpg": 0.94,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419424,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "Instituto",
+      "homePpg": 0.88,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419426,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 1.33,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419453,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 0.5,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419465,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.41,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419466,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 0.31,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419229,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Talleres Córdoba",
+      "homePpg": 1.19,
+      "awayPpg": 1.53,
+      "matchday": null
+    },
+    {
+      "id": 8419254,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 1.82,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419316,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.8,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419317,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 1.35,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419318,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "Instituto",
+      "homePpg": 1.0,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419394,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.8,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419410,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Rosario Central",
+      "homePpg": 1.31,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419415,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 1.0,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419416,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 0.94,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419427,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.65,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419435,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "Huracán",
+      "homePpg": 1.19,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419442,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "Independiente",
+      "homePpg": 1.41,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419454,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Tigre",
+      "homePpg": 0.5,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419467,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 0.31,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419473,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Banfield",
+      "homePpg": 1.33,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419203,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Lanús",
+      "homePpg": 1.53,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419204,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.31,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419230,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Aldosivi",
+      "homePpg": 1.79,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419267,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Racing Club",
+      "homePpg": 1.89,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419268,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 1.76,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419282,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.19,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419283,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Estudiantes",
+      "homePpg": 0.69,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419284,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "Platense",
+      "homePpg": 1.41,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419285,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 2.0,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419286,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "Sarmiento",
+      "homePpg": 0.88,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419395,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 1.33,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419411,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Barracas Central",
+      "homePpg": 1.61,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419436,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "River Plate",
+      "homePpg": 1.25,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419437,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Huracán",
+      "homePpg": 1.35,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419474,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "Belgrano",
+      "homePpg": 1.13,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419151,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "Banfield",
+      "homePpg": 0.31,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419266,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 1.19,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8419297,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "Defensa y Justicia",
+      "homePpg": 1.82,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419371,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Barracas Central",
+      "homePpg": 0.69,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419417,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.8,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419418,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "Instituto",
+      "homePpg": 1.41,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419421,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 1.39,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419428,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 1.19,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419438,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Rosario Central",
+      "homePpg": 1.8,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419439,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Tigre",
+      "homePpg": 1.33,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419440,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 0.94,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419443,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 0.5,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419444,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "Independiente",
+      "homePpg": 1.65,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419449,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Talleres Córdoba",
+      "homePpg": 1.0,
+      "awayPpg": 1.53,
+      "matchday": null
+    },
+    {
+      "id": 8419450,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 1.0,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419269,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Aldosivi",
+      "homePpg": 1.31,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419270,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "River Plate",
+      "homePpg": 1.61,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419271,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Racing Club",
+      "homePpg": 1.79,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419372,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Deportivo Riestra",
+      "homePpg": 1.19,
+      "awayPpg": 0.69,
+      "matchday": null
+    },
+    {
+      "id": 8419419,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Unión Santa Fe",
+      "awayTeam": "Lanús",
+      "homePpg": 1.33,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419422,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Tigre",
+      "awayTeam": "Belgrano",
+      "homePpg": 1.25,
+      "awayPpg": 1.8,
+      "matchday": null
+    },
+    {
+      "id": 8419429,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Independiente",
+      "awayTeam": "Newell's Old Boys",
+      "homePpg": 1.41,
+      "awayPpg": 0.94,
+      "matchday": null
+    },
+    {
+      "id": 8419430,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Gimnasia Mendoza",
+      "homePpg": 1.35,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419441,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Talleres Córdoba",
+      "awayTeam": "Vélez Sarsfield",
+      "homePpg": 1.53,
+      "awayPpg": 1.65,
+      "matchday": null
+    },
+    {
+      "id": 8419445,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Estudiantes Río Cuarto",
+      "homePpg": 1.89,
+      "awayPpg": 0.31,
+      "matchday": null
+    },
+    {
+      "id": 8419446,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Banfield",
+      "awayTeam": "Sarmiento",
+      "homePpg": 1.13,
+      "awayPpg": 1.19,
+      "matchday": null
+    },
+    {
+      "id": 8419447,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Huracán",
+      "homePpg": 2.0,
+      "awayPpg": 1.39,
+      "matchday": null
+    },
+    {
+      "id": 8419451,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Instituto",
+      "awayTeam": "Platense",
+      "homePpg": 1.31,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419468,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Estudiantes",
+      "homePpg": 1.76,
+      "awayPpg": 1.82,
+      "matchday": null
+    },
+    {
+      "id": 8419477,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Central Córdoba SdE",
+      "awayTeam": "Atlético Tucumán",
+      "homePpg": 1.0,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8419332,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Central Córdoba SdE",
+      "homePpg": 1.19,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8419333,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Huracán",
+      "awayTeam": "Banfield",
+      "homePpg": 1.39,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8419373,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Vélez Sarsfield",
+      "awayTeam": "Instituto",
+      "homePpg": 1.65,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419420,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "River Plate",
+      "awayTeam": "Barracas Central",
+      "homePpg": 1.8,
+      "awayPpg": 1.31,
+      "matchday": null
+    },
+    {
+      "id": 8419431,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Lanús",
+      "awayTeam": "San Lorenzo",
+      "homePpg": 1.41,
+      "awayPpg": 1.35,
+      "matchday": null
+    },
+    {
+      "id": 8419455,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Platense",
+      "awayTeam": "Unión Santa Fe",
+      "homePpg": 1.0,
+      "awayPpg": 1.33,
+      "matchday": null
+    },
+    {
+      "id": 8419456,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Estudiantes",
+      "awayTeam": "Independiente",
+      "homePpg": 1.82,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8419457,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Deportivo Riestra",
+      "awayTeam": "Boca Juniors",
+      "homePpg": 0.69,
+      "awayPpg": 1.76,
+      "matchday": null
+    },
+    {
+      "id": 8419460,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Sarmiento",
+      "awayTeam": "Argentinos Juniors",
+      "homePpg": 1.19,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8419461,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Belgrano",
+      "awayTeam": "Rosario Central",
+      "homePpg": 1.8,
+      "awayPpg": 1.79,
+      "matchday": null
+    },
+    {
+      "id": 8419470,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Aldosivi",
+      "homePpg": 1.19,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8419478,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Gimnasia La Plata",
+      "homePpg": 1.33,
+      "awayPpg": 1.61,
+      "matchday": null
+    },
+    {
+      "id": 8419479,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Newell's Old Boys",
+      "awayTeam": "Talleres Córdoba",
+      "homePpg": 0.94,
+      "awayPpg": 1.53,
+      "matchday": null
+    },
+    {
+      "id": 8419480,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Estudiantes Río Cuarto",
+      "awayTeam": "Tigre",
+      "homePpg": 0.31,
+      "awayPpg": 1.25,
+      "matchday": null
+    },
+    {
+      "id": 8419481,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Atlético Tucumán",
+      "awayTeam": "Independiente Rivadavia",
+      "homePpg": 0.88,
+      "awayPpg": 2.0,
+      "matchday": null
+    }
+  ]
+}

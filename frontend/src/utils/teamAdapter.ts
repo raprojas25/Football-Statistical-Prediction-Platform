@@ -1,3 +1,5 @@
+import { ps } from "zod/v4/locales"
+
 export interface TeamStats {
   id: number
   name: string
@@ -107,8 +109,7 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'Man City': 'Manchester City',
     'MCFC': 'Manchester City',
     'Arsenal FC': 'Arsenal',
-    'Arsenal': 'Arsenal',
-    'AFC': 'Arsenal',
+
     'Liverpool FC': 'Liverpool',
     'Liverpool': 'Liverpool',
     'LFC': 'Liverpool',
@@ -141,19 +142,14 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'AFC Bournemouth': 'Bournemouth',
     'Brentford FC': 'Brentford',
     'Brentford': 'Brentford',
-    'Wolverhampton Wanderers': 'Wolves',
-    'Wolves': 'Wolves',
-    'Wolverhampton': 'Wolves',
-    'Wolves': 'Wolves',
+    'Wolverhampton Wanderers FC': 'Wolverhampton',
     'Crystal Palace': 'Crystal Palace',
     'CPFC': 'Crystal Palace',
     'Fulham FC': 'Fulham',
     'Fulham': 'Fulham',
     'Everton FC': 'Everton',
     'Everton': 'Everton',
-    'Nottingham Forest': 'Nottingham',
-    'Nottm Forest': 'Nottingham',
-    'Forest': 'Nottingham',
+    'Nottingham Forest FC': 'Nottm Forest',
     'Leicester City': 'Leicester',
     'Leicester': 'Leicester',
     'LCFC': 'Leicester',
@@ -164,7 +160,6 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'Soton': 'Southampton',
     'West Bromwich Albion': 'West Brom',
     'Burnley FC': 'Burnley',
-    'Burnley': 'Burnley',
     'Luton Town': 'Luton',
     'Luton': 'Luton',
     'Sheffield United': 'Sheffield United',
@@ -175,7 +170,6 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'Leeds Utd': 'Leeds',
     'Sunderland': 'Sunderland',
     'Sunderland AFC': 'Sunderland',
-    'Wolverhampton Wanderers': 'Wolves',
   },
   PD: {
     'Real Madrid': 'Real Madrid',
@@ -212,7 +206,6 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'Celta de Vigo': 'Celta Vigo',
     'Celta Vigo': 'Celta Vigo',
     'Celta': 'Celta Vigo',
-    'Rayo Vallecano': 'Rayo',
     'Rayo Vallecano': 'Rayo',
     'UD Las Palmas': 'Las Palmas',
     'Las Palmas': 'Las Palmas',
@@ -264,16 +257,16 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'Cagliari Calcio': 'Cagliari',
     'Monza': 'Monza',
     'AC Monza': 'Monza',
-    'Lecce': 'Lecce',
+    'US Lecce': 'Lecce',
     'Salernitana': 'Salernitana',
+    'Genoa CFC': 'Genoa',
   },
   FL1: {
     'Paris Saint-Germain': 'PSG',
     'PSG': 'PSG',
     'AS Monaco': 'Monaco',
     'Monaco': 'Monaco',
-    'Olympique de Marseille': 'Marsella',
-    'Marseille': 'Marsella',
+    'Olympique de Marseille': 'Marseille',
     'Olympique Lyon': 'Lyon',
     'Lyon': 'Lyon',
     'LOSC Lille': 'Lille',
@@ -284,7 +277,7 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'RC Lens': 'Lens',
     'Lens': 'Lens',
     'Stade Rennais': 'Rennes',
-    'Rennes': 'Rennes',
+    'Stade Rennais FC 1901': 'Rennes',
     'RC Strasbourg': 'Strasbourg',
     'Strasbourg': 'Strasbourg',
     'Toulouse FC': 'Toulouse',
@@ -303,6 +296,20 @@ export const TEAM_ADAPTERS: Record<string, Record<string, string>> = {
     'AS Saint-Étienne': 'Saint-Étienne',
     'Saint-Étienne': 'Saint-Étienne',
   },
+  BSA: {
+    'São Paulo FC': 'Sao Paulo',
+    'Botafogo FR': 'Botafogo',
+    'EC Vitória':'Vitoria',
+    'SC Internacional':'Internacional',
+    'Grêmio FBPA':'Gremio',
+    'Santos FC':'Santos',
+    'Clube do Remo':'Remo',
+    'CA Paranaense':'Athletico PR',
+    'SC Corinthians Paulista':'Corinthians',
+    'CA Mineiro':'Atletico MG',
+    '':'',
+
+  }
 }
 
 export const COMPETITION_FILES: Record<string, string> = {

@@ -1,0 +1,7 @@
+.before {
+  background: conic-gradient(
+    rgb(244, 114, 182, 0.6) 0deg,
+    rgb(192, 132, 252, 0.8) 0deg,
+    transparent 100deg
+  );
+}

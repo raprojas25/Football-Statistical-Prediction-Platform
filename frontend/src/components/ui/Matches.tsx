@@ -19,7 +19,6 @@ export default function Matches({ prediction }: any) {
     { id: "scoring", label: "HT-FT" },
     { id: "corners", label: "Corners" },
   ];
-  console.log(prediction);
   if (!prediction)
     return (
       <div className="bg-betano-card p-2 rounded-md border border-betano-border space-y-3 relative overflow-hidden">

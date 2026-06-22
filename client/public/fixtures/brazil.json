@@ -1,0 +1,1851 @@
+{
+  "generated_at": "2026-06-01T16:12:00Z",
+  "competition": "BRAZIL",
+  "competition_name": "Serie A (Brazil)",
+  "country": "Brazil",
+  "count": 203,
+  "matches": [
+    {
+      "id": 8409486,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Coritiba",
+      "homePpg": 2.56,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409551,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Botafogo",
+      "homePpg": 1.7,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409562,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 1.44,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409565,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.89,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409568,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Vitória",
+      "homePpg": 1.6,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409569,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Chapecoense",
+      "homePpg": 2.13,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409577,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Corinthians",
+      "homePpg": 1.11,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409578,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Internacional",
+      "homePpg": 1.6,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409579,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "São Paulo",
+      "homePpg": 2.3,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409582,
+      "date": "2026-12-02T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Fluminense",
+      "homePpg": 1.78,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409542,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Atlético PR",
+      "homePpg": 1.33,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409570,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Bragantino",
+      "homePpg": 1.22,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409572,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Santos",
+      "homePpg": 2.38,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409580,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Palmeiras",
+      "homePpg": 0.78,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409581,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.5,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409583,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 2.44,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409585,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 1.88,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409586,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Bahia",
+      "homePpg": 1.57,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409588,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Remo",
+      "homePpg": 2.13,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409589,
+      "date": "2026-11-28T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.56,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409490,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Vitória",
+      "homePpg": 1.22,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409543,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.7,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409544,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Mirassol",
+      "homePpg": 2.44,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409563,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Corinthians",
+      "homePpg": 1.88,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409566,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "São Paulo",
+      "homePpg": 1.57,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409571,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 1.78,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409573,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 0.78,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409574,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Coritiba",
+      "homePpg": 1.44,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409587,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Remo",
+      "homePpg": 2.3,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409590,
+      "date": "2026-11-21T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Flamengo",
+      "homePpg": 2.56,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409545,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 1.33,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409564,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Bragantino",
+      "homePpg": 2.38,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409567,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Palmeiras",
+      "homePpg": 1.6,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409591,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Santos",
+      "homePpg": 1.5,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409592,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Botafogo",
+      "homePpg": 1.56,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409593,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.11,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409597,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Bahia",
+      "homePpg": 1.89,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409601,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Internacional",
+      "homePpg": 1.6,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409605,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Atlético PR",
+      "homePpg": 2.13,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409826,
+      "date": "2026-11-18T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Fluminense",
+      "homePpg": 2.13,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409547,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Santos",
+      "homePpg": 1.78,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409575,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Corinthians",
+      "homePpg": 2.13,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409584,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Coritiba",
+      "homePpg": 1.22,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409594,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 2.3,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409598,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Fluminense",
+      "homePpg": 2.38,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409599,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Mirassol",
+      "homePpg": 0.78,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409606,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Remo",
+      "homePpg": 2.56,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409607,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 1.57,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409608,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Grêmio",
+      "homePpg": 2.13,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409831,
+      "date": "2026-11-04T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Bahia",
+      "homePpg": 1.6,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409548,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "São Paulo",
+      "homePpg": 1.44,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409552,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.78,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409576,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.56,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409595,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Vitória",
+      "homePpg": 1.5,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409600,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Atlético PR",
+      "homePpg": 1.89,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409609,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Botafogo",
+      "homePpg": 1.11,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409610,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.88,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409611,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Palmeiras",
+      "homePpg": 1.7,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409613,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Internacional",
+      "homePpg": 2.44,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409818,
+      "date": "2026-10-28T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.6,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409553,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.5,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409602,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Remo",
+      "homePpg": 1.6,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409612,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "São Paulo",
+      "homePpg": 1.33,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409615,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Bragantino",
+      "homePpg": 2.56,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409616,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 2.13,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409619,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Bahia",
+      "homePpg": 1.7,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409811,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Fluminense",
+      "homePpg": 0.78,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409819,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Atlético PR",
+      "homePpg": 2.38,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409832,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Botafogo",
+      "homePpg": 1.22,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409834,
+      "date": "2026-10-24T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Corinthians",
+      "homePpg": 1.6,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409538,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Vitória",
+      "homePpg": 1.56,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409556,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 2.13,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409557,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.57,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409603,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.44,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409604,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Bragantino",
+      "homePpg": 1.11,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409620,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.89,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409621,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Coritiba",
+      "homePpg": 1.88,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409622,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Internacional",
+      "homePpg": 1.33,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409623,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Santos",
+      "homePpg": 2.44,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409837,
+      "date": "2026-10-17T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Palmeiras",
+      "homePpg": 2.3,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409614,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.44,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409624,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Atlético PR",
+      "homePpg": 0.78,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409625,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Botafogo",
+      "homePpg": 1.5,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409626,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Internacional",
+      "homePpg": 1.89,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409627,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Santos",
+      "homePpg": 1.88,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409628,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.78,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409629,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Corinthians",
+      "homePpg": 2.56,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409630,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Fluminense",
+      "homePpg": 2.13,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409631,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Vitória",
+      "homePpg": 2.13,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409634,
+      "date": "2026-10-10T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Remo",
+      "homePpg": 1.6,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409632,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.78,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409635,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 2.3,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409636,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Chapecoense",
+      "homePpg": 2.38,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409637,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Corinthians",
+      "homePpg": 1.22,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409638,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Coritiba",
+      "homePpg": 2.44,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409639,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.7,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409640,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Bahia",
+      "homePpg": 2.56,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409642,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 1.57,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409812,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.11,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409830,
+      "date": "2026-10-07T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "São Paulo",
+      "homePpg": 1.6,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409487,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 2.38,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409633,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Santos",
+      "homePpg": 1.11,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409641,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Palmeiras",
+      "homePpg": 1.89,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409644,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Bragantino",
+      "homePpg": 2.13,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409646,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Fluminense",
+      "homePpg": 1.56,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409647,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.88,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409648,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Botafogo",
+      "homePpg": 1.33,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409650,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Internacional",
+      "homePpg": 2.13,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409654,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Coritiba",
+      "homePpg": 1.6,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409842,
+      "date": "2026-09-19T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Bahia",
+      "homePpg": 2.3,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409643,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Internacional",
+      "homePpg": 0.78,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409649,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "São Paulo",
+      "homePpg": 2.56,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409651,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Remo",
+      "homePpg": 1.44,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409655,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Atlético PR",
+      "homePpg": 1.5,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409659,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 1.89,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409660,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Fluminense",
+      "homePpg": 1.88,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409661,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.7,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409663,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Bragantino",
+      "homePpg": 1.57,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409664,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Corinthians",
+      "homePpg": 2.13,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409843,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Vitória",
+      "homePpg": 1.33,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409488,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Palmeiras",
+      "homePpg": 1.57,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409645,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Grêmio",
+      "homePpg": 2.38,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409662,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.11,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409665,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Bahia",
+      "homePpg": 1.78,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409666,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.5,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409670,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Atlético PR",
+      "homePpg": 1.6,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409671,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.56,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409672,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Santos",
+      "homePpg": 1.22,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409674,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 2.13,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409675,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 2.44,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409489,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Fluminense",
+      "homePpg": 2.3,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409656,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.6,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409657,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Vitória",
+      "homePpg": 1.88,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409658,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.89,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409667,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Botafogo",
+      "homePpg": 2.13,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409668,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Coritiba",
+      "homePpg": 1.11,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409669,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Internacional",
+      "homePpg": 1.44,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409673,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Bragantino",
+      "homePpg": 2.13,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409822,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Santos",
+      "homePpg": 1.56,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409838,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Palmeiras",
+      "homePpg": 1.33,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409532,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 2.56,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409549,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.7,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409550,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Atlético PR",
+      "homePpg": 1.57,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409676,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.78,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409678,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.6,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409683,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Remo",
+      "homePpg": 2.44,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409833,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "São Paulo",
+      "homePpg": 0.78,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409835,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Bahia",
+      "homePpg": 2.38,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409839,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Corinthians",
+      "homePpg": 1.5,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409840,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 1.22,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409652,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Santos",
+      "homePpg": 1.6,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409653,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Palmeiras",
+      "homePpg": 2.44,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409679,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Remo",
+      "homePpg": 1.22,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409680,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.88,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409681,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Coritiba",
+      "homePpg": 2.13,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409682,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.33,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409684,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Bahia",
+      "homePpg": 0.78,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409685,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Botafogo",
+      "homePpg": 2.38,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409686,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Bragantino",
+      "homePpg": 2.3,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409687,
+      "date": "2026-08-15T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.56,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409484,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "São Paulo",
+      "homePpg": 1.89,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409677,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Internacional",
+      "homePpg": 2.56,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409688,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Corinthians",
+      "homePpg": 1.78,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409689,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.6,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409690,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 1.44,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409691,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.5,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409692,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Atlético PR",
+      "homePpg": 1.7,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409693,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Fluminense",
+      "homePpg": 1.57,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409824,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Vitória",
+      "homePpg": 2.13,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409836,
+      "date": "2026-08-08T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 1.11,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409554,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.5,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409694,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Bragantino",
+      "homePpg": 1.88,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409695,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Flamengo",
+      "homePpg": 1.22,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409696,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Santos",
+      "homePpg": 2.13,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409698,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Atlético PR",
+      "homePpg": 1.56,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409699,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.57,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409701,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Bahia",
+      "homePpg": 2.44,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409841,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Remo",
+      "homePpg": 1.33,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409844,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 0.78,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409850,
+      "date": "2026-07-29T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Palmeiras",
+      "homePpg": 2.38,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409697,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Grêmio",
+      "awayTeam": "Fluminense",
+      "homePpg": 1.89,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409700,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Remo",
+      "awayTeam": "Vitória",
+      "homePpg": 1.11,
+      "awayPpg": 0.33,
+      "matchday": null
+    },
+    {
+      "id": 8409702,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Santos",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.7,
+      "awayPpg": 0.25,
+      "matchday": null
+    },
+    {
+      "id": 8409703,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Bahia",
+      "awayTeam": "Corinthians",
+      "homePpg": 1.44,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409706,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Atlético PR",
+      "awayTeam": "Internacional",
+      "homePpg": 2.3,
+      "awayPpg": 1.11,
+      "matchday": null
+    },
+    {
+      "id": 8409709,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Botafogo",
+      "homePpg": 1.6,
+      "awayPpg": 1.1,
+      "matchday": null
+    },
+    {
+      "id": 8409710,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Coritiba",
+      "homePpg": 1.78,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8409711,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Atlético Mineiro",
+      "homePpg": 2.56,
+      "awayPpg": 0.9,
+      "matchday": null
+    },
+    {
+      "id": 8409712,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Mirassol",
+      "homePpg": 1.6,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409715,
+      "date": "2026-07-25T00:00:00Z",
+      "homeTeam": "Flamengo",
+      "awayTeam": "São Paulo",
+      "homePpg": 2.13,
+      "awayPpg": 0.8,
+      "matchday": null
+    },
+    {
+      "id": 8409491,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Grêmio",
+      "homePpg": 1.33,
+      "awayPpg": 0.44,
+      "matchday": null
+    },
+    {
+      "id": 8409492,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Atlético Mineiro",
+      "awayTeam": "Bahia",
+      "homePpg": 1.88,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8409704,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Palmeiras",
+      "homePpg": 1.5,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8409705,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Botafogo",
+      "awayTeam": "Santos",
+      "homePpg": 1.57,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409707,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Internacional",
+      "awayTeam": "Cruzeiro",
+      "homePpg": 1.22,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8409708,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "São Paulo",
+      "awayTeam": "Atlético PR",
+      "homePpg": 2.13,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8409713,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Vitória",
+      "awayTeam": "Vasco da Gama",
+      "homePpg": 2.38,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8409714,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Bragantino",
+      "homePpg": 2.44,
+      "awayPpg": 1.44,
+      "matchday": null
+    },
+    {
+      "id": 8409716,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Remo",
+      "homePpg": 1.56,
+      "awayPpg": 0.89,
+      "matchday": null
+    },
+    {
+      "id": 8409847,
+      "date": "2026-07-22T00:00:00Z",
+      "homeTeam": "Chapecoense",
+      "awayTeam": "Flamengo",
+      "homePpg": 0.78,
+      "awayPpg": 1.89,
+      "matchday": null
+    },
+    {
+      "id": 8409798,
+      "date": null,
+      "homeTeam": "Botafogo",
+      "awayTeam": "Vitória",
+      "homePpg": 1.57,
+      "awayPpg": 0.33,
+      "matchday": null,
+      "odds": {
+        "home": 1.55,
+        "draw": 3.8,
+        "away": 6.0
+      }
+    },
+    {
+      "id": 8409800,
+      "date": null,
+      "homeTeam": "Flamengo",
+      "awayTeam": "Mirassol",
+      "homePpg": 2.13,
+      "awayPpg": 0.5,
+      "matchday": null,
+      "odds": {
+        "home": 1.4,
+        "draw": 4.33,
+        "away": 8.5
+      }
+    },
+    {
+      "id": 8409853,
+      "date": null,
+      "homeTeam": "Bahia",
+      "awayTeam": "Chapecoense",
+      "homePpg": 1.44,
+      "awayPpg": 0.25,
+      "matchday": null,
+      "odds": {
+        "home": 1.6,
+        "draw": 4.1,
+        "away": 6.4
+      }
+    }
+  ]
+}

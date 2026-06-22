@@ -1,0 +1,6023 @@
+{
+  "generated_at": "2026-06-12T15:55:46.694161+00:00",
+  "source": "https://footystats.org/germany/bundesliga/fixtures",
+  "league": "bundesliga",
+  "country": "alemania",
+  "season": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Bayern München",
+      "mp": 34,
+      "win_pct": 82.0,
+      "gf": 122,
+      "ga": 36,
+      "gd": 86,
+      "pts": 89,
+      "avg": 4.65
+    },
+    {
+      "rank": 2,
+      "team": "Borussia Dortmund",
+      "mp": 34,
+      "win_pct": 65.0,
+      "gf": 70,
+      "ga": 34,
+      "gd": 36,
+      "pts": 73,
+      "avg": 3.06
+    },
+    {
+      "rank": 3,
+      "team": "RB Leipzig",
+      "mp": 34,
+      "win_pct": 59.0,
+      "gf": 66,
+      "ga": 47,
+      "gd": 19,
+      "pts": 65,
+      "avg": 3.32
+    },
+    {
+      "rank": 4,
+      "team": "Stuttgart",
+      "mp": 34,
+      "win_pct": 53.0,
+      "gf": 71,
+      "ga": 49,
+      "gd": 22,
+      "pts": 62,
+      "avg": 3.53
+    },
+    {
+      "rank": 5,
+      "team": "Hoffenheim",
+      "mp": 34,
+      "win_pct": 53.0,
+      "gf": 65,
+      "ga": 52,
+      "gd": 13,
+      "pts": 61,
+      "avg": 3.44
+    },
+    {
+      "rank": 6,
+      "team": "Bayer Leverkusen",
+      "mp": 34,
+      "win_pct": 50.0,
+      "gf": 68,
+      "ga": 47,
+      "gd": 21,
+      "pts": 59,
+      "avg": 3.38
+    },
+    {
+      "rank": 7,
+      "team": "Freiburg",
+      "mp": 34,
+      "win_pct": 38.0,
+      "gf": 51,
+      "ga": 57,
+      "gd": -6,
+      "pts": 47,
+      "avg": 3.18
+    },
+    {
+      "rank": 8,
+      "team": "Eintracht Frankfurt",
+      "mp": 34,
+      "win_pct": 32.0,
+      "gf": 61,
+      "ga": 65,
+      "gd": -4,
+      "pts": 44,
+      "avg": 3.71
+    },
+    {
+      "rank": 9,
+      "team": "Augsburg",
+      "mp": 34,
+      "win_pct": 35.0,
+      "gf": 45,
+      "ga": 61,
+      "gd": -16,
+      "pts": 43,
+      "avg": 3.12
+    },
+    {
+      "rank": 10,
+      "team": "Mainz 05",
+      "mp": 34,
+      "win_pct": 29.0,
+      "gf": 44,
+      "ga": 53,
+      "gd": -9,
+      "pts": 40,
+      "avg": 2.85
+    },
+    {
+      "rank": 11,
+      "team": "Union Berlin",
+      "mp": 34,
+      "win_pct": 29.0,
+      "gf": 44,
+      "ga": 58,
+      "gd": -14,
+      "pts": 39,
+      "avg": 3.0
+    },
+    {
+      "rank": 12,
+      "team": "Borussia M'gladbach",
+      "mp": 34,
+      "win_pct": 26.0,
+      "gf": 42,
+      "ga": 53,
+      "gd": -11,
+      "pts": 38,
+      "avg": 2.79
+    },
+    {
+      "rank": 13,
+      "team": "Hamburger SV",
+      "mp": 34,
+      "win_pct": 26.0,
+      "gf": 40,
+      "ga": 54,
+      "gd": -14,
+      "pts": 38,
+      "avg": 2.76
+    },
+    {
+      "rank": 14,
+      "team": "Köln",
+      "mp": 34,
+      "win_pct": 21.0,
+      "gf": 49,
+      "ga": 63,
+      "gd": -14,
+      "pts": 32,
+      "avg": 3.29
+    },
+    {
+      "rank": 15,
+      "team": "Werder Bremen",
+      "mp": 34,
+      "win_pct": 24.0,
+      "gf": 37,
+      "ga": 60,
+      "gd": -23,
+      "pts": 32,
+      "avg": 2.85
+    },
+    {
+      "rank": 16,
+      "team": "Wolfsburg",
+      "mp": 34,
+      "win_pct": 21.0,
+      "gf": 45,
+      "ga": 69,
+      "gd": -24,
+      "pts": 29,
+      "avg": 3.35
+    },
+    {
+      "rank": 17,
+      "team": "St. Pauli",
+      "mp": 34,
+      "win_pct": 18.0,
+      "gf": 29,
+      "ga": 60,
+      "gd": -31,
+      "pts": 26,
+      "avg": 2.62
+    },
+    {
+      "rank": 18,
+      "team": "Heidenheim",
+      "mp": 34,
+      "win_pct": 18.0,
+      "gf": 41,
+      "ga": 72,
+      "gd": -31,
+      "pts": 26,
+      "avg": 3.32
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "8227700",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.48,
+        "draw": 4.19,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8227711",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.88,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.28,
+        "draw": 4.31,
+        "away": 2.09
+      }
+    },
+    {
+      "id": "8227721",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.41,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 4.1,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8227722",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.82,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 5.95,
+        "away": 6.36
+      }
+    },
+    {
+      "id": "8227724",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.77,
+        "draw": 3.49,
+        "away": 2.72
+      }
+    },
+    {
+      "id": "8227774",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Augsburg",
+      "home_ppg": 1.29,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.57,
+        "draw": 4.22,
+        "away": 2.57
+      }
+    },
+    {
+      "id": "8227819",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.77,
+        "draw": 4.41,
+        "away": 2.34
+      }
+    },
+    {
+      "id": "8227828",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Köln",
+      "home_ppg": 2.59,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 7.13,
+        "away": 11.0
+      }
+    },
+    {
+      "id": "8227830",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.12,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 4.52,
+        "away": 1.91
+      }
+    },
+    {
+      "id": "8227636",
+      "date_timestamp": null,
+      "date_str": "May 10, 6:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.0,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8227720",
+      "date_timestamp": null,
+      "date_str": "May 10, 4:30pm",
+      "home_team": "Köln",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.12,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 4.1,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8227637",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Freiburg",
+      "home_ppg": 1.41,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.71,
+        "draw": 3.6,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8227575",
+      "date_timestamp": null,
+      "date_str": "May 9, 5:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Bayern München",
+      "home_ppg": 0.59,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.85,
+        "draw": 4.8,
+        "away": 1.56
+      }
+    },
+    {
+      "id": "8227548",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.88,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 5.0,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8227626",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "St. Pauli",
+      "home_ppg": 2.24,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 5.75,
+        "away": 8.5
+      }
+    },
+    {
+      "id": "8227723",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 2.29,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 4.0,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8227829",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.53,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.9,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8227699",
+      "date_timestamp": null,
+      "date_str": "May 8, 7:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 2.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.85,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8227625",
+      "date_timestamp": null,
+      "date_str": "May 3, 6:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.5,
+        "away": 2.64
+      }
+    },
+    {
+      "id": "8227632",
+      "date_timestamp": null,
+      "date_str": "May 3, 4:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.41,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.75,
+        "away": 1.9
+      }
+    },
+    {
+      "id": "8227635",
+      "date_timestamp": null,
+      "date_str": "May 3, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.3,
+        "away": 2.51
+      }
+    },
+    {
+      "id": "8227631",
+      "date_timestamp": null,
+      "date_str": "May 2, 5:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.82,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.9,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8227628",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.8,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8227634",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.47,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 4.1,
+        "away": 4.45
+      }
+    },
+    {
+      "id": "8227702",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Köln",
+      "home_ppg": 1.29,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.25,
+        "away": 2.87
+      }
+    },
+    {
+      "id": "8227703",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Heidenheim",
+      "home_ppg": 2.59,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.24,
+        "draw": 6.6,
+        "away": 9.79
+      }
+    },
+    {
+      "id": "8227719",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Augsburg",
+      "home_ppg": 1.12,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.82,
+        "away": 3.66
+      }
+    },
+    {
+      "id": "8227629",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Freiburg",
+      "home_ppg": 2.41,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 5.0,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8227630",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Werder Bremen",
+      "home_ppg": 2.29,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.2,
+        "away": 6.18
+      }
+    },
+    {
+      "id": "8227718",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 5:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.41,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.34,
+        "draw": 4.2,
+        "away": 1.75
+      }
+    },
+    {
+      "id": "8227627",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.12,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.95,
+        "away": 1.87
+      }
+    },
+    {
+      "id": "8227717",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.53,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.6,
+        "away": 2.49
+      }
+    },
+    {
+      "id": "8227824",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.0,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.4,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8227825",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 0.59,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.65,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8227826",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Bayern München",
+      "home_ppg": 1.0,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 4.5,
+        "away": 1.68
+      }
+    },
+    {
+      "id": "8227827",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 7:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Union Berlin",
+      "home_ppg": 2.24,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.75,
+        "away": 6.21
+      }
+    },
+    {
+      "id": "8227622",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 6:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.24,
+        "draw": 3.54,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8227623",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Stuttgart",
+      "home_ppg": 2.59,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 5.0,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8227823",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.88,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 4.2,
+        "away": 4.35
+      }
+    },
+    {
+      "id": "8227698",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 5:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.47,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 4.05,
+        "away": 1.98
+      }
+    },
+    {
+      "id": "8227602",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Augsburg",
+      "home_ppg": 1.82,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 5.0,
+        "away": 6.4
+      }
+    },
+    {
+      "id": "8227716",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.88,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.9,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8227815",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.4,
+        "away": 2.97
+      }
+    },
+    {
+      "id": "8227822",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.12,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.65,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8227624",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 7:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Köln",
+      "home_ppg": 1.0,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.32,
+        "away": 2.39
+      }
+    },
+    {
+      "id": "8227616",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 6:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Freiburg",
+      "home_ppg": 1.0,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 3.3,
+        "away": 3.26
+      }
+    },
+    {
+      "id": "8227621",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 4:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Hamburger SV",
+      "home_ppg": 2.29,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 5.7,
+        "away": 8.0
+      }
+    },
+    {
+      "id": "8227821",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.12,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.4,
+        "away": 3.15
+      }
+    },
+    {
+      "id": "8227614",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 5:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Bayern München",
+      "home_ppg": 1.0,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "odds": {
+        "home": 7.0,
+        "draw": 4.9,
+        "away": 1.41
+      }
+    },
+    {
+      "id": "8227612",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.35,
+        "away": 2.37
+      }
+    },
+    {
+      "id": "8227617",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 2.24,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.8,
+        "away": 6.23
+      }
+    },
+    {
+      "id": "8227620",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 2.41,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.85,
+        "away": 3.46
+      }
+    },
+    {
+      "id": "8227697",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 0.59,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.51,
+        "draw": 3.65,
+        "away": 2.38
+      }
+    },
+    {
+      "id": "8227696",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 7:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.53,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.75,
+        "away": 1.97
+      }
+    },
+    {
+      "id": "8227588",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 4:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Köln",
+      "home_ppg": 1.47,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.55,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8227775",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.29,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.15,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8227615",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 5:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 2.29,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.85,
+        "away": 2.83
+      }
+    },
+    {
+      "id": "8227604",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Bayern München",
+      "home_ppg": 1.88,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.9,
+        "draw": 5.53,
+        "away": 1.39
+      }
+    },
+    {
+      "id": "8227611",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.41,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 4.33,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8227613",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Augsburg",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.45,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8227695",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.82,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.13,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8227817",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.12,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.54,
+        "draw": 3.94,
+        "away": 1.91
+      }
+    },
+    {
+      "id": "8227820",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 4.15,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8227609",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 6:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.53,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.9,
+        "away": 2.07
+      }
+    },
+    {
+      "id": "8227610",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 4:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Freiburg",
+      "home_ppg": 1.0,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.05,
+        "away": 2.94
+      }
+    },
+    {
+      "id": "8227596",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.21,
+        "draw": 3.6,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8227693",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Hamburger SV",
+      "home_ppg": 2.41,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.0,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8227585",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 2:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Union Berlin",
+      "home_ppg": 2.59,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 8.5,
+        "away": 12.0
+      }
+    },
+    {
+      "id": "8227814",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.0,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.34,
+        "draw": 4.2,
+        "away": 1.44
+      }
+    },
+    {
+      "id": "8227816",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.12,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.4,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8227818",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Werder Bremen",
+      "home_ppg": 0.59,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.35,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8227694",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 7:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Hoffenheim",
+      "home_ppg": 2.24,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 4.1,
+        "away": 3.62
+      }
+    },
+    {
+      "id": "8227607",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 6:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "RB Leipzig",
+      "home_ppg": 2.29,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.85,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8227813",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.88,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.32,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8227608",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.12,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.55,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8227810",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 5:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Köln",
+      "home_ppg": 1.41,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.45,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8227595",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 2:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Augsburg",
+      "home_ppg": 2.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.8,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8227605",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Bayern München",
+      "home_ppg": 1.82,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.1,
+        "draw": 4.8,
+        "away": 1.55
+      }
+    },
+    {
+      "id": "8227692",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 5.0,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8227812",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.47,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 4.75,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8227606",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 7:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.41,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.25,
+        "away": 4.29
+      }
+    },
+    {
+      "id": "8227603",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 4:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.29,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.39,
+        "draw": 3.25,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8227809",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.58,
+        "draw": 3.35,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8227601",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 5:30pm",
+      "home_team": "Köln",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.12,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.09,
+        "draw": 3.8,
+        "away": 1.64
+      }
+    },
+    {
+      "id": "8227584",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Hamburger SV",
+      "home_ppg": 0.59,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.46,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8227598",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.0,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 5.3,
+        "draw": 4.71,
+        "away": 1.49
+      }
+    },
+    {
+      "id": "8227691",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.88,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.4,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8227715",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Augsburg",
+      "home_ppg": 2.24,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 5.15,
+        "away": 6.2
+      }
+    },
+    {
+      "id": "8227811",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.8,
+        "away": 1.95
+      }
+    },
+    {
+      "id": "8227599",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 7:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 2.59,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 7.0,
+        "away": 9.5
+      }
+    },
+    {
+      "id": "8227756",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 7:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.41,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.45,
+        "away": 1.88
+      }
+    },
+    {
+      "id": "8227690",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 6:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.41,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.27,
+        "draw": 3.78,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8227708",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 4:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Freiburg",
+      "home_ppg": 1.47,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 3.81,
+        "away": 3.31
+      }
+    },
+    {
+      "id": "8227600",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Wolfsburg",
+      "home_ppg": 2.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 5.03,
+        "away": 6.4
+      }
+    },
+    {
+      "id": "8227710",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 5:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Bayern München",
+      "home_ppg": 2.41,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.4,
+        "draw": 4.5,
+        "away": 1.69
+      }
+    },
+    {
+      "id": "8227594",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.82,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.0,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8227597",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.88,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.5,
+        "away": 6.25
+      }
+    },
+    {
+      "id": "8227804",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.12,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 4.5,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8227807",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 2:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.3,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8227808",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 7:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Köln",
+      "home_ppg": 1.53,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.4,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8227590",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 6:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.15,
+        "draw": 3.9,
+        "away": 1.72
+      }
+    },
+    {
+      "id": "8227713",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 4:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.0,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.74,
+        "draw": 3.06,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8227567",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.88,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.22,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8227714",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 5:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 2.24,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.84,
+        "away": 3.26
+      }
+    },
+    {
+      "id": "8227593",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Augsburg",
+      "home_ppg": 0.59,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.43,
+        "away": 3.34
+      }
+    },
+    {
+      "id": "8227706",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.29,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.88,
+        "draw": 3.4,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8227712",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 2:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 2.59,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.07,
+        "draw": 10.0,
+        "away": 17.0
+      }
+    },
+    {
+      "id": "8227806",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.12,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.75,
+        "away": 2.09
+      }
+    },
+    {
+      "id": "8227591",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 7:40pm",
+      "home_team": "Mainz 05",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.0,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.45,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8227709",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 4:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Wolfsburg",
+      "home_ppg": 2.24,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.8,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8227707",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.53,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.45,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8227689",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 5:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Köln",
+      "home_ppg": 2.29,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 5.0,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8227547",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.0,
+        "away": 3.22
+      }
+    },
+    {
+      "id": "8227704",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Freiburg",
+      "home_ppg": 1.88,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.75,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8227705",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Bayern München",
+      "home_ppg": 1.12,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 8.7,
+        "draw": 6.2,
+        "away": 1.32
+      }
+    },
+    {
+      "id": "8227760",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.47,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.55,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8227805",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.82,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.4,
+        "away": 6.2
+      }
+    },
+    {
+      "id": "8227589",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 7:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Mainz 05",
+      "home_ppg": 2.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.33,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8227761",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 4:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Hoffenheim",
+      "home_ppg": 2.59,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 6.5,
+        "away": 8.5
+      }
+    },
+    {
+      "id": "8227587",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.12,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.37,
+        "draw": 3.95,
+        "away": 2.02
+      }
+    },
+    {
+      "id": "8227582",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 5:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.41,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.03,
+        "draw": 3.5,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8227553",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.88,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.6,
+        "away": 3.56
+      }
+    },
+    {
+      "id": "8227569",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Augsburg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.6,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8227577",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.0,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.92,
+        "draw": 3.45,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8227578",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 0.59,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.25,
+        "draw": 3.95,
+        "away": 1.55
+      }
+    },
+    {
+      "id": "8227583",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.75,
+        "away": 1.8
+      }
+    },
+    {
+      "id": "8227803",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 7:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.48,
+        "away": 3.48
+      }
+    },
+    {
+      "id": "8227574",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 4:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Heidenheim",
+      "home_ppg": 2.41,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.0,
+        "away": 11.19
+      }
+    },
+    {
+      "id": "8227580",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Freiburg",
+      "home_ppg": 2.29,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 4.14,
+        "away": 4.88
+      }
+    },
+    {
+      "id": "8227558",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 5:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Bayern München",
+      "home_ppg": 1.41,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 9.28,
+        "draw": 6.3,
+        "away": 1.3
+      }
+    },
+    {
+      "id": "8227555",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.47,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.7,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8227579",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.53,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.1,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8227581",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.88,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.45,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8227586",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.12,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.45,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8227799",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Mainz 05",
+      "home_ppg": 2.24,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.56,
+        "draw": 4.41,
+        "away": 5.53
+      }
+    },
+    {
+      "id": "8227798",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 7:30pm",
+      "home_team": "Köln",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.12,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.83,
+        "away": 3.57
+      }
+    },
+    {
+      "id": "8227545",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 7:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.0,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.5,
+        "away": 1.59
+      }
+    },
+    {
+      "id": "8227772",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 7:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.12,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.6,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8227801",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 4:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Köln",
+      "home_ppg": 1.88,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.5,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8227802",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.7,
+        "away": 1.97
+      }
+    },
+    {
+      "id": "8227790",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 5:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.29,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.76,
+        "draw": 3.45,
+        "away": 1.94
+      }
+    },
+    {
+      "id": "8227557",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.47,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.7,
+        "away": 2.54
+      }
+    },
+    {
+      "id": "8227566",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.0,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 4.1,
+        "away": 1.65
+      }
+    },
+    {
+      "id": "8227572",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 2:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Augsburg",
+      "home_ppg": 2.59,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 11.0,
+        "away": 17.0
+      }
+    },
+    {
+      "id": "8227759",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.45,
+        "away": 2.91
+      }
+    },
+    {
+      "id": "8227800",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.82,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.6,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8227573",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 7:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.0,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.9,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8227758",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 4:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Freiburg",
+      "home_ppg": 1.53,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.25,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8227571",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Union Berlin",
+      "home_ppg": 2.29,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.1,
+        "away": 5.57
+      }
+    },
+    {
+      "id": "8227568",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 5:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Bayern München",
+      "home_ppg": 2.24,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 5.4,
+        "draw": 5.1,
+        "away": 1.45
+      }
+    },
+    {
+      "id": "8227546",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 2:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "St. Pauli",
+      "home_ppg": 2.41,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 4.75,
+        "away": 9.5
+      }
+    },
+    {
+      "id": "8227570",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.88,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.6,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8227682",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.41,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.35,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8227796",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.12,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.5,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8227797",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Heidenheim",
+      "home_ppg": 0.59,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 4.1,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8227552",
+      "date_timestamp": null,
+      "date_str": "Jan 16, 7:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.12,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.56,
+        "away": 2.52
+      }
+    },
+    {
+      "id": "8227551",
+      "date_timestamp": null,
+      "date_str": "Jan 15, 7:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.53,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.15,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8227556",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 7:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.88,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.86,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8227685",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 7:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Freiburg",
+      "home_ppg": 2.24,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.76,
+        "away": 4.36
+      }
+    },
+    {
+      "id": "8227757",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 7:30pm",
+      "home_team": "Köln",
+      "away_team": "Bayern München",
+      "home_ppg": 1.12,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 8.75,
+        "draw": 7.0,
+        "away": 1.26
+      }
+    },
+    {
+      "id": "8227686",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 5:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "St. Pauli",
+      "home_ppg": 0.59,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.6,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8227550",
+      "date_timestamp": null,
+      "date_str": "Jan 13, 7:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.0,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.6,
+        "away": 4.95
+      }
+    },
+    {
+      "id": "8227554",
+      "date_timestamp": null,
+      "date_str": "Jan 13, 7:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Werder Bremen",
+      "home_ppg": 2.41,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 5.2,
+        "away": 8.0
+      }
+    },
+    {
+      "id": "8227560",
+      "date_timestamp": null,
+      "date_str": "Jan 13, 5:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 2.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 4.1,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8227755",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 4:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Wolfsburg",
+      "home_ppg": 2.59,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 8,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.11,
+        "draw": 8.5,
+        "away": 15.0
+      }
+    },
+    {
+      "id": "8227549",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 2:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Augsburg",
+      "home_ppg": 1.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.63,
+        "away": 3.57
+      }
+    },
+    {
+      "id": "8227753",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 5:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.82,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.82,
+        "away": 3.19
+      }
+    },
+    {
+      "id": "8227565",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.88,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.55,
+        "away": 5.01
+      }
+    },
+    {
+      "id": "8227752",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.05,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8227793",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Köln",
+      "home_ppg": 1.0,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.5,
+        "away": 2.39
+      }
+    },
+    {
+      "id": "8227754",
+      "date_timestamp": null,
+      "date_str": "Jan 9, 7:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.47,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.55,
+        "away": 2.02
+      }
+    },
+    {
+      "id": "8227794",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 4:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Bayern München",
+      "home_ppg": 1.0,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 12.0,
+        "draw": 8.5,
+        "away": 1.09
+      }
+    },
+    {
+      "id": "8227683",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.0,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.45,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8227638",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 5:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 2.24,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.6,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8227544",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Freiburg",
+      "home_ppg": 0.59,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 3.56,
+        "away": 2.51
+      }
+    },
+    {
+      "id": "8227684",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Hoffenheim",
+      "home_ppg": 2.29,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.79,
+        "away": 3.47
+      }
+    },
+    {
+      "id": "8227701",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.12,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.23,
+        "away": 2.91
+      }
+    },
+    {
+      "id": "8227725",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 3.53,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8227795",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.53,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.18,
+        "draw": 3.5,
+        "away": 3.07
+      }
+    },
+    {
+      "id": "8227681",
+      "date_timestamp": null,
+      "date_str": "Dec 19, 7:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 2.41,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.7,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8227791",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 6:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.12,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.86,
+        "draw": 3.6,
+        "away": 2.31
+      }
+    },
+    {
+      "id": "8227792",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 4:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Mainz 05",
+      "home_ppg": 2.59,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.11,
+        "draw": 11.0,
+        "away": 20.0
+      }
+    },
+    {
+      "id": "8227679",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.88,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.18,
+        "draw": 3.41,
+        "away": 2.16
+      }
+    },
+    {
+      "id": "8227787",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 5:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Köln",
+      "home_ppg": 1.82,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 4.45,
+        "away": 5.3
+      }
+    },
+    {
+      "id": "8227676",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 2:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.73,
+        "away": 3.41
+      }
+    },
+    {
+      "id": "8227677",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Augsburg",
+      "home_ppg": 1.47,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 4.2,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8227678",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.0,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.45,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8227680",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.88,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 4.0,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8227675",
+      "date_timestamp": null,
+      "date_str": "Dec 12, 7:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.29,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.25,
+        "away": 1.95
+      }
+    },
+    {
+      "id": "8227673",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 4:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Hoffenheim",
+      "home_ppg": 2.41,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 4.3,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8227788",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.41,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 3.61,
+        "away": 2.84
+      }
+    },
+    {
+      "id": "8227674",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 5:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 2.24,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 4.1,
+        "away": 4.22
+      }
+    },
+    {
+      "id": "8227564",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.53,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 4.0,
+        "away": 1.9
+      }
+    },
+    {
+      "id": "8227670",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Bayern München",
+      "home_ppg": 2.29,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 5.0,
+        "away": 1.53
+      }
+    },
+    {
+      "id": "8227751",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.12,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.6,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8227784",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Freiburg",
+      "home_ppg": 1.0,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.63,
+        "away": 1.75
+      }
+    },
+    {
+      "id": "8227789",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Union Berlin",
+      "home_ppg": 0.59,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.25,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8227672",
+      "date_timestamp": null,
+      "date_str": "Dec 5, 7:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.0,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.4,
+        "away": 2.61
+      }
+    },
+    {
+      "id": "8227786",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 6:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.35,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8227748",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 4:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.9,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8227671",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.02,
+        "draw": 3.66,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8227669",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 5:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.82,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.5,
+        "away": 2.56
+      }
+    },
+    {
+      "id": "8227749",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Köln",
+      "home_ppg": 1.12,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.85,
+        "away": 2.92
+      }
+    },
+    {
+      "id": "8227750",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Augsburg",
+      "home_ppg": 1.88,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 4.0,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8227778",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 2:30pm",
+      "home_team": "Bayern München",
+      "away_team": "St. Pauli",
+      "home_ppg": 2.59,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 11.0,
+        "away": 24.0
+      }
+    },
+    {
+      "id": "8227785",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.29,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.0,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8227777",
+      "date_timestamp": null,
+      "date_str": "Nov 28, 7:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.41,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.86,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8227666",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 4:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.95,
+        "away": 2.88
+      }
+    },
+    {
+      "id": "8227668",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Werder Bremen",
+      "home_ppg": 2.24,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.9,
+        "away": 5.3
+      }
+    },
+    {
+      "id": "8227662",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 5:30pm",
+      "home_team": "Köln",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.12,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.4,
+        "away": 2.51
+      }
+    },
+    {
+      "id": "8227664",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.53,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.36,
+        "draw": 3.4,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8227665",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 2:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Freiburg",
+      "home_ppg": 2.59,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.19,
+        "draw": 7.6,
+        "away": 13.0
+      }
+    },
+    {
+      "id": "8227667",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 0.59,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.58,
+        "draw": 3.75,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8227747",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 2:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Stuttgart",
+      "home_ppg": 2.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.79,
+        "draw": 4.1,
+        "away": 4.28
+      }
+    },
+    {
+      "id": "8227783",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.0,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.4,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8227663",
+      "date_timestamp": null,
+      "date_str": "Nov 21, 7:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.0,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.5,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8227659",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 6:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.96,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8227746",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 4:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Augsburg",
+      "home_ppg": 2.29,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.4,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8227782",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.88,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.64,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8227779",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 5:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Köln",
+      "home_ppg": 1.41,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.63,
+        "away": 3.27
+      }
+    },
+    {
+      "id": "8227660",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.41,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 4.0,
+        "away": 1.75
+      }
+    },
+    {
+      "id": "8227661",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.88,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.73,
+        "away": 2.38
+      }
+    },
+    {
+      "id": "8227743",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Bayern München",
+      "home_ppg": 1.29,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.8,
+        "draw": 5.8,
+        "away": 1.3
+      }
+    },
+    {
+      "id": "8227744",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.82,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.39,
+        "draw": 4.9,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8227745",
+      "date_timestamp": null,
+      "date_str": "Nov 7, 7:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.12,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.5,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8227658",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 4:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Hoffenheim",
+      "home_ppg": 0.59,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.67,
+        "away": 2.42
+      }
+    },
+    {
+      "id": "8227654",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.12,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.65,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8227741",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 5:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 2.59,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 6.9,
+        "away": 9.3
+      }
+    },
+    {
+      "id": "8227652",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 4.1,
+        "away": 1.89
+      }
+    },
+    {
+      "id": "8227655",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Freiburg",
+      "home_ppg": 1.29,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.82
+      }
+    },
+    {
+      "id": "8227657",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.0,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.42,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8227740",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.0,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 3.96,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8227742",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Stuttgart",
+      "home_ppg": 2.24,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.8,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8227656",
+      "date_timestamp": null,
+      "date_str": "Oct 31, 7:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.53,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.71,
+        "draw": 3.83,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8227653",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 4:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Mainz 05",
+      "home_ppg": 2.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 4.02,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8227649",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Freiburg",
+      "home_ppg": 1.82,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.5,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8227650",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 5:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Köln",
+      "home_ppg": 2.41,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.8,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8227780",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:45pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Bayern München",
+      "home_ppg": 1.41,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 11.0,
+        "draw": 7.0,
+        "away": 1.22
+      }
+    },
+    {
+      "id": "8227651",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.65,
+        "away": 3.13
+      }
+    },
+    {
+      "id": "8227736",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.47,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.9,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8227739",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.53,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 6
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.7,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8227781",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.88,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.56,
+        "draw": 4.33,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8227648",
+      "date_timestamp": null,
+      "date_str": "Oct 24, 7:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.12,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.58,
+        "away": 3.38
+      }
+    },
+    {
+      "id": "8227738",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 4:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.0,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.4,
+        "away": 2.86
+      }
+    },
+    {
+      "id": "8227640",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.65,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8227645",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 5:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 2.59,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 5.3,
+        "away": 7.1
+      }
+    },
+    {
+      "id": "8227644",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.0,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.4,
+        "away": 2.54
+      }
+    },
+    {
+      "id": "8227646",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Hamburger SV",
+      "home_ppg": 2.24,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.8,
+        "away": 6.25
+      }
+    },
+    {
+      "id": "8227647",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Stuttgart",
+      "home_ppg": 0.59,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.79,
+        "draw": 3.7,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8227737",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.0,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.5,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8227767",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 2:30pm",
+      "home_team": "Köln",
+      "away_team": "Augsburg",
+      "home_ppg": 1.12,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.8,
+        "away": 3.58
+      }
+    },
+    {
+      "id": "8227639",
+      "date_timestamp": null,
+      "date_str": "Oct 17, 7:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.29,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 3.45,
+        "away": 3.09
+      }
+    },
+    {
+      "id": "8227768",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 6:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Freiburg",
+      "home_ppg": 1.41,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.5,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8227643",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 4:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.7,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8227765",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Heidenheim",
+      "home_ppg": 2.29,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.41,
+        "draw": 4.9,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8227641",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 5:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Bayern München",
+      "home_ppg": 1.47,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.6,
+        "draw": 5.0,
+        "away": 1.45
+      }
+    },
+    {
+      "id": "8227642",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.53,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.5,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8227726",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.82,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.8,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8227735",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 2:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "RB Leipzig",
+      "home_ppg": 2.41,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 4.67,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8227766",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.12,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.5,
+        "away": 2.88
+      }
+    },
+    {
+      "id": "8227776",
+      "date_timestamp": null,
+      "date_str": "Oct 3, 7:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Köln",
+      "home_ppg": 1.88,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.8,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8227543",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 6:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.29,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.35,
+        "away": 3.45
+      }
+    },
+    {
+      "id": "8227562",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 4:30pm",
+      "home_team": "Köln",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.12,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.71,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8227729",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.88,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.65,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8227763",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 5:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 6
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.7,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8227541",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Augsburg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.76,
+        "draw": 3.5,
+        "away": 2.46
+      }
+    },
+    {
+      "id": "8227542",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "RB Leipzig",
+      "home_ppg": 0.59,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.7,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8227733",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.0,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.7,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8227734",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.0,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.4,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8227537",
+      "date_timestamp": null,
+      "date_str": "Sep 26, 7:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Werder Bremen",
+      "home_ppg": 2.59,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.08,
+        "draw": 12.0,
+        "away": 19.0
+      }
+    },
+    {
+      "id": "8227563",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 6:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Wolfsburg",
+      "home_ppg": 2.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.6,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8227559",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 4:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 1.82,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.46,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8227773",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Union Berlin",
+      "home_ppg": 1.47,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.2,
+        "away": 5.9
+      }
+    },
+    {
+      "id": "8227538",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 5:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Köln",
+      "home_ppg": 2.24,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 4.2,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8227540",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 2:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Mainz 05",
+      "home_ppg": 1.53,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.1,
+        "away": 2.41
+      }
+    },
+    {
+      "id": "8227730",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 2:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "Heidenheim",
+      "home_ppg": 1.41,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.55,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8227731",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Freiburg",
+      "home_ppg": 1.12,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.65,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8227732",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Bayern München",
+      "home_ppg": 1.88,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 6.1,
+        "away": 1.33
+      }
+    },
+    {
+      "id": "8227728",
+      "date_timestamp": null,
+      "date_str": "Sep 19, 7:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "St. Pauli",
+      "home_ppg": 2.29,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.1,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8227539",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 4:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.41,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.9,
+        "away": 3.19
+      }
+    },
+    {
+      "id": "8227561",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 2:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Augsburg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.1,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8227687",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 5:30pm",
+      "home_team": "Bayern München",
+      "away_team": "Hamburger SV",
+      "home_ppg": 2.59,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.07,
+        "draw": 11.0,
+        "away": 23.0
+      }
+    },
+    {
+      "id": "8227727",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 3.65,
+        "away": 2.52
+      }
+    },
+    {
+      "id": "8227764",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.29,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.45,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8227769",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.0,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 4.45,
+        "away": 1.57
+      }
+    },
+    {
+      "id": "8227770",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "RB Leipzig",
+      "home_ppg": 1.0,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 3.6,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8227771",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Köln",
+      "home_ppg": 0.59,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.6,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8227688",
+      "date_timestamp": null,
+      "date_str": "Sep 12, 7:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.82,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.9,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8227618",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 6:30pm",
+      "home_team": "Köln",
+      "away_team": "Freiburg",
+      "home_ppg": 1.12,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 3.15,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8227834",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 4:30pm",
+      "home_team": "Borussia Dortmund",
+      "away_team": "Union Berlin",
+      "home_ppg": 2.41,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.41,
+        "draw": 4.84,
+        "away": 7.2
+      }
+    },
+    {
+      "id": "8227831",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 2:30pm",
+      "home_team": "Wolfsburg",
+      "away_team": "Mainz 05",
+      "home_ppg": 0.59,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.55,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8227833",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 5:30pm",
+      "home_team": "Augsburg",
+      "away_team": "Bayern München",
+      "home_ppg": 1.53,
+      "away_ppg": 2.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 9.2,
+        "draw": 6.0,
+        "away": 1.27
+      }
+    },
+    {
+      "id": "8227534",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 2:30pm",
+      "home_team": "RB Leipzig",
+      "away_team": "Heidenheim",
+      "home_ppg": 2.24,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.35,
+        "away": 6.4
+      }
+    },
+    {
+      "id": "8227576",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 2:30pm",
+      "home_team": "Werder Bremen",
+      "away_team": "Bayer Leverkusen",
+      "home_ppg": 1.12,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.8,
+        "away": 1.99
+      }
+    },
+    {
+      "id": "8227832",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 2:30pm",
+      "home_team": "Stuttgart",
+      "away_team": "Borussia M'gladbach",
+      "home_ppg": 2.29,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.76,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8227837",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 2:30pm",
+      "home_team": "Hoffenheim",
+      "away_team": "Eintracht Frankfurt",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.8,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8227838",
+      "date_timestamp": null,
+      "date_str": "Aug 29, 7:30pm",
+      "home_team": "Hamburger SV",
+      "away_team": "St. Pauli",
+      "home_ppg": 1.41,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 3.26,
+        "away": 2.96
+      }
+    },
+    {
+      "id": "8227836",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 4:30pm",
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Hamburger SV",
+      "home_ppg": 1.41,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.9,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8227592",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 2:30pm",
+      "home_team": "Mainz 05",
+      "away_team": "Köln",
+      "home_ppg": 1.0,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.75,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8227835",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 5:30pm",
+      "home_team": "St. Pauli",
+      "away_team": "Borussia Dortmund",
+      "home_ppg": 1.0,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.74,
+        "away": 1.71
+      }
+    },
+    {
+      "id": "8227535",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 2:30pm",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Werder Bremen",
+      "home_ppg": 1.47,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.7,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8227536",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 2:30pm",
+      "home_team": "Union Berlin",
+      "away_team": "Stuttgart",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.95,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8227619",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 2:30pm",
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Hoffenheim",
+      "home_ppg": 1.82,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 4.15,
+        "away": 4.25
+      }
+    },
+    {
+      "id": "8227633",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 2:30pm",
+      "home_team": "Heidenheim",
+      "away_team": "Wolfsburg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 3.25,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8227839",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 2:30pm",
+      "home_team": "Freiburg",
+      "away_team": "Augsburg",
+      "home_ppg": 1.88,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.55,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8227762",
+      "date_timestamp": null,
+      "date_str": "Aug 22, 7:30pm",
+      "home_team": "Bayern München",
+      "away_team": "RB Leipzig",
+      "home_ppg": 2.59,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.5,
+        "away": 11.0
+      }
+    }
+  ]
+}

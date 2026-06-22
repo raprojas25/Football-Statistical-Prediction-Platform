@@ -1,0 +1,1789 @@
+{
+  "generated_at": "2026-06-21T20:30:34.093763+00:00",
+  "source": "https://footystats.org/world-cup",
+  "league": "cup",
+  "country": "world",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8411893",
+      "date_timestamp": null,
+      "date_str": "May 30, 3:00pm",
+      "home_team": "Uruguay",
+      "away_team": "Cabo Verde",
+      "home_ppg": 1.6,
+      "away_ppg": 1.9,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.35,
+        "away": 9.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411889",
+      "date_timestamp": null,
+      "date_str": "May 29, 6:00pm",
+      "home_team": "Nueva Zelanda",
+      "away_team": "Egipto",
+      "home_ppg": 0.4,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.6,
+        "draw": 4.05,
+        "away": 1.67
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411891",
+      "date_timestamp": null,
+      "date_str": "May 29, 6:00pm",
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "home_ppg": 2.5,
+      "away_ppg": 2.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.15,
+        "away": 6.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411892",
+      "date_timestamp": null,
+      "date_str": "May 29, 6:00pm",
+      "home_team": "Francia",
+      "away_team": "Irak",
+      "home_ppg": 2.5,
+      "away_ppg": 1.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.11,
+        "draw": 11.0,
+        "away": 32
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411894",
+      "date_timestamp": null,
+      "date_str": "May 29, 6:00pm",
+      "home_team": "Noruega",
+      "away_team": "Senegal",
+      "home_ppg": 2.1,
+      "away_ppg": 2.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.6,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411896",
+      "date_timestamp": null,
+      "date_str": "May 29, 6:00pm",
+      "home_team": "Jordania",
+      "away_team": "Argelia",
+      "home_ppg": 1.7,
+      "away_ppg": 2.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 4.2,
+        "away": 1.62
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411898",
+      "date_timestamp": null,
+      "date_str": "May 29, 6:00pm",
+      "home_team": "Brann",
+      "away_team": "Sarpsborg 08",
+      "home_ppg": 1.2,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 3.9,
+        "away": 4.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411900",
+      "date_timestamp": null,
+      "date_str": "May 25, 6:15pm",
+      "home_team": "Senegal",
+      "away_team": "Irak",
+      "home_ppg": 2.3,
+      "away_ppg": 1.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 5.1,
+        "away": 11
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411861",
+      "date_timestamp": null,
+      "date_str": "May 25, 4:00pm",
+      "home_team": "Cabo Verde",
+      "away_team": "Arabia Saudita",
+      "home_ppg": 1.9,
+      "away_ppg": 1.1,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.5,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411897",
+      "date_timestamp": null,
+      "date_str": "May 25, 4:00pm",
+      "home_team": "uruguay",
+      "away_team": "España",
+      "home_ppg": 1.6,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.2,
+        "draw": 4.25,
+        "away": 1.53
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411899",
+      "date_timestamp": null,
+      "date_str": "May 25, 4:00pm",
+      "home_team": "Egipto",
+      "away_team": "Iran",
+      "home_ppg": 1.8,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.2,
+        "away": 4.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411902",
+      "date_timestamp": null,
+      "date_str": "May 25, 4:00pm",
+      "home_team": "Nueva Zelanda",
+      "away_team": "Belgica",
+      "home_ppg": 0.4,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 13,
+        "draw": 6,
+        "away": 1.24
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411890",
+      "date_timestamp": null,
+      "date_str": "May 25, 1:30pm",
+      "home_team": "Croacia",
+      "away_team": "Ghana",
+      "home_ppg": 2.2,
+      "away_ppg": 1.1,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.9,
+        "away": 5.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411901",
+      "date_timestamp": null,
+      "date_str": "May 24, 5:00pm",
+      "home_team": "Panama",
+      "away_team": "Inglaterra",
+      "home_ppg": 1.6,
+      "away_ppg": 2.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 12,
+        "draw": 6.1,
+        "away": 1.24
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411903",
+      "date_timestamp": null,
+      "date_str": "May 24, 3:00pm",
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "home_ppg": 2.2,
+      "away_ppg": 2.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.5,
+        "away": 2.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411905",
+      "date_timestamp": null,
+      "date_str": "May 20, 7:00pm",
+      "home_team": "Congo",
+      "away_team": "Uzbekistan",
+      "home_ppg": 2.1,
+      "away_ppg": 1.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.55,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411962",
+      "date_timestamp": null,
+      "date_str": "May 20, 6:00pm",
+      "home_team": "Argelia",
+      "away_team": "Austria",
+      "home_ppg": 2.3,
+      "away_ppg": 2.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.13,
+        "draw": 2.95,
+        "away": 2.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411914",
+      "date_timestamp": null,
+      "date_str": "May 20, 5:00pm",
+      "home_team": "Jordania",
+      "away_team": "Argentina",
+      "home_ppg": 1.7,
+      "away_ppg": 2.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 17.5,
+        "draw": 6.4,
+        "away": 1.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411735",
+      "date_timestamp": null,
+      "date_str": "May 16, 7:00pm",
+      "home_team": "Vålerenga",
+      "away_team": "Sarpsborg 08",
+      "home_ppg": 1.67,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.62,
+        "away": 3.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411906",
+      "date_timestamp": null,
+      "date_str": "May 16, 5:00pm",
+      "home_team": "FK Bodo - Glimt",
+      "away_team": "Tromsø",
+      "home_ppg": 2.4,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.45,
+        "away": 5.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411904",
+      "date_timestamp": null,
+      "date_str": "May 16, 3:00pm",
+      "home_team": "Lillestrøm",
+      "away_team": "Sandefjord",
+      "home_ppg": 1.8,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 4.13,
+        "away": 4.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411908",
+      "date_timestamp": null,
+      "date_str": "May 16, 3:00pm",
+      "home_team": "Rosenborg",
+      "away_team": "Aalesund",
+      "home_ppg": 1.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.87,
+        "away": 3.92
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411909",
+      "date_timestamp": null,
+      "date_str": "May 16, 3:00pm",
+      "home_team": "Viking",
+      "away_team": "Start",
+      "home_ppg": 3.0,
+      "away_ppg": 0.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.32,
+        "draw": 5.73,
+        "away": 8.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411910",
+      "date_timestamp": null,
+      "date_str": "May 16, 3:00pm",
+      "home_team": "Molde",
+      "away_team": "Kristiansund",
+      "home_ppg": 2.5,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 5.06,
+        "away": 6.61
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411911",
+      "date_timestamp": null,
+      "date_str": "May 16, 3:00pm",
+      "home_team": "Fredrikstad",
+      "away_team": "HamKam",
+      "home_ppg": 2.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.76,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411907",
+      "date_timestamp": null,
+      "date_str": "May 16, 1:00pm",
+      "home_team": "Brann",
+      "away_team": "KFUM",
+      "home_ppg": 1.2,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 4.08,
+        "away": 4.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411736",
+      "date_timestamp": null,
+      "date_str": "May 10, 4:00pm",
+      "home_team": "Tromsø",
+      "away_team": "Molde",
+      "home_ppg": 2.13,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.4,
+        "away": 3.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411913",
+      "date_timestamp": null,
+      "date_str": "May 10, 4:00pm",
+      "home_team": "Sandefjord",
+      "away_team": "Kristiansund",
+      "home_ppg": 1.6,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.9,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411915",
+      "date_timestamp": null,
+      "date_str": "May 10, 4:00pm",
+      "home_team": "KFUM",
+      "away_team": "Viking",
+      "home_ppg": 1.67,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.3,
+        "draw": 3.8,
+        "away": 1.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411917",
+      "date_timestamp": null,
+      "date_str": "May 10, 1:30pm",
+      "home_team": "Rosenborg",
+      "away_team": "Lillestrøm",
+      "home_ppg": 1.33,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.4,
+        "away": 2.64
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411916",
+      "date_timestamp": null,
+      "date_str": "May 9, 1:00pm",
+      "home_team": "Sarpsborg 08",
+      "away_team": "Fredrikstad",
+      "home_ppg": 1.6,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.73,
+        "away": 3.33
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411918",
+      "date_timestamp": null,
+      "date_str": "May 8, 6:00pm",
+      "home_team": "HamKam",
+      "away_team": "Vålerenga",
+      "home_ppg": 2.5,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.4,
+        "away": 2.22
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411912",
+      "date_timestamp": null,
+      "date_str": "May 4, 6:00pm",
+      "home_team": "FK Bodo - Glimt",
+      "away_team": "Molde",
+      "home_ppg": 2.4,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 5.5,
+        "away": 6.81
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411920",
+      "date_timestamp": null,
+      "date_str": "May 3, 6:15pm",
+      "home_team": "Vålerenga",
+      "away_team": "KFUM",
+      "home_ppg": 1.67,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.71,
+        "away": 3.47
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411921",
+      "date_timestamp": null,
+      "date_str": "May 3, 4:00pm",
+      "home_team": "Start",
+      "away_team": "Tromsø",
+      "home_ppg": 1.2,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.26,
+        "draw": 3.7,
+        "away": 1.77
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411922",
+      "date_timestamp": null,
+      "date_str": "May 3, 4:00pm",
+      "home_team": "Sandefjord",
+      "away_team": "Aalesund",
+      "home_ppg": 1.6,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.2,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411924",
+      "date_timestamp": null,
+      "date_str": "May 3, 4:00pm",
+      "home_team": "Kristiansund",
+      "away_team": "HamKam",
+      "home_ppg": 1.4,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.54,
+        "draw": 3.65,
+        "away": 2.64
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411923",
+      "date_timestamp": null,
+      "date_str": "May 3, 1:30pm",
+      "home_team": "Lillestrøm",
+      "away_team": "Sarpsborg 08",
+      "home_ppg": 1.8,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 4.26,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411925",
+      "date_timestamp": null,
+      "date_str": "May 2, 5:00pm",
+      "home_team": "Brann",
+      "away_team": "Fredrikstad",
+      "home_ppg": 1.2,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.4,
+        "away": 5.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411927",
+      "date_timestamp": null,
+      "date_str": "May 1, 5:00pm",
+      "home_team": "Viking",
+      "away_team": "Rosenborg",
+      "home_ppg": 3.0,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.25,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411840",
+      "date_timestamp": null,
+      "date_str": "Apr 30, 6:00pm",
+      "home_team": "FK Bodo - Glimt",
+      "away_team": "Start",
+      "home_ppg": 2.4,
+      "away_ppg": 0.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.08,
+        "draw": 10.0,
+        "away": 18.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411846",
+      "date_timestamp": null,
+      "date_str": "Apr 29, 6:00pm",
+      "home_team": "Tromsø",
+      "away_team": "Brann",
+      "home_ppg": 2.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.7,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411926",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 6:15pm",
+      "home_team": "Lillestrøm",
+      "away_team": "FK Bodo - Glimt",
+      "home_ppg": 1.8,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.75,
+        "away": 1.93
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411919",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:00pm",
+      "home_team": "Aalesund",
+      "away_team": "Kristiansund",
+      "home_ppg": 1.0,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.88,
+        "away": 3.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411928",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:00pm",
+      "home_team": "Tromsø",
+      "away_team": "Sandefjord",
+      "home_ppg": 2.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.33,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411929",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:00pm",
+      "home_team": "KFUM",
+      "away_team": "Sarpsborg 08",
+      "home_ppg": 1.67,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.8,
+        "away": 2.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411931",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:00pm",
+      "home_team": "HamKam",
+      "away_team": "Start",
+      "home_ppg": 2.5,
+      "away_ppg": 0.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.54,
+        "away": 3.54
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411930",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:30pm",
+      "home_team": "Molde",
+      "away_team": "Vålerenga",
+      "home_ppg": 2.5,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.7,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411932",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 5:00pm",
+      "home_team": "Rosenborg",
+      "away_team": "Brann",
+      "home_ppg": 1.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.4,
+        "away": 2.49
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411933",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 3:00pm",
+      "home_team": "Fredrikstad",
+      "away_team": "Viking",
+      "home_ppg": 2.0,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 4.0,
+        "away": 1.69
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411935",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 6:15pm",
+      "home_team": "Start",
+      "away_team": "Molde",
+      "home_ppg": 1.2,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.76,
+        "away": 1.91
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411934",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:00pm",
+      "home_team": "Sarpsborg 08",
+      "away_team": "Tromsø",
+      "home_ppg": 1.6,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.5,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411936",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:00pm",
+      "home_team": "Kristiansund",
+      "away_team": "Fredrikstad",
+      "home_ppg": 1.4,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.3,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411937",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:00pm",
+      "home_team": "HamKam",
+      "away_team": "KFUM",
+      "home_ppg": 2.5,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.6,
+        "away": 2.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411939",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 1:30pm",
+      "home_team": "Vålerenga",
+      "away_team": "Lillestrøm",
+      "home_ppg": 1.67,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.6,
+        "away": 2.64
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411942",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 5:00pm",
+      "home_team": "Viking",
+      "away_team": "Brann",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 4.25,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411940",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 3:00pm",
+      "home_team": "Sandefjord",
+      "away_team": "Rosenborg",
+      "home_ppg": 1.6,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.7,
+        "away": 3.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411938",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 1:00pm",
+      "home_team": "FK Bodo - Glimt",
+      "away_team": "Aalesund",
+      "home_ppg": 2.4,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 8.0,
+        "away": 19.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411865",
+      "date_timestamp": null,
+      "date_str": "Apr 15, 6:00pm",
+      "home_team": "Tromsø",
+      "away_team": "Lillestrøm",
+      "home_ppg": 2.13,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.5,
+        "away": 3.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411970",
+      "date_timestamp": null,
+      "date_str": "Apr 15, 6:00pm",
+      "home_team": "Sarpsborg 08",
+      "away_team": "FK Bodo - Glimt",
+      "home_ppg": 1.6,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.95,
+        "away": 1.33
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411943",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 6:15pm",
+      "home_team": "Brann",
+      "away_team": "Sandefjord",
+      "home_ppg": 1.2,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.9,
+        "away": 4.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411862",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 4:00pm",
+      "home_team": "Fredrikstad",
+      "away_team": "Vålerenga",
+      "home_ppg": 2.0,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.6,
+        "away": 2.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411944",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 4:00pm",
+      "home_team": "Molde",
+      "away_team": "HamKam",
+      "home_ppg": 2.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.5,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411947",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 4:00pm",
+      "home_team": "Aalesund",
+      "away_team": "KFUM",
+      "home_ppg": 1.0,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 2.93
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411948",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:30pm",
+      "home_team": "Rosenborg",
+      "away_team": "Sarpsborg 08",
+      "home_ppg": 1.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.61,
+        "away": 2.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411941",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 5:00pm",
+      "home_team": "Viking",
+      "away_team": "FK Bodo - Glimt",
+      "home_ppg": 3.0,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 4.3,
+        "away": 2.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411951",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Tromsø",
+      "away_team": "Kristiansund",
+      "home_ppg": 2.13,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 5.5,
+        "away": 9.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411952",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 1:00pm",
+      "home_team": "Lillestrøm",
+      "away_team": "Start",
+      "home_ppg": 1.8,
+      "away_ppg": 0.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.5,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411950",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 6:00pm",
+      "home_team": "KFUM",
+      "away_team": "Sandefjord",
+      "home_ppg": 1.67,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.29,
+        "draw": 3.6,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411953",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 6:00pm",
+      "home_team": "Aalesund",
+      "away_team": "Fredrikstad",
+      "home_ppg": 1.0,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.3,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411954",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 6:15pm",
+      "home_team": "Tromsø",
+      "away_team": "Rosenborg",
+      "home_ppg": 2.13,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.8,
+        "away": 5.32
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411955",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 4:00pm",
+      "home_team": "HamKam",
+      "away_team": "Brann",
+      "home_ppg": 2.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 3.68,
+        "draw": 3.7,
+        "away": 1.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411956",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 4:00pm",
+      "home_team": "Sarpsborg 08",
+      "away_team": "Start",
+      "home_ppg": 1.6,
+      "away_ppg": 0.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 4.0,
+        "away": 4.26
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411957",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 4:00pm",
+      "home_team": "Molde",
+      "away_team": "Lillestrøm",
+      "home_ppg": 2.5,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.7,
+        "away": 2.87
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411958",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 4:00pm",
+      "home_team": "Kristiansund",
+      "away_team": "FK Bodo - Glimt",
+      "home_ppg": 1.4,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 8.5,
+        "draw": 7.2,
+        "away": 1.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411960",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 1:30pm",
+      "home_team": "Vålerenga",
+      "away_team": "Viking",
+      "home_ppg": 1.67,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.76,
+        "away": 2.29
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411949",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 4:00pm",
+      "home_team": "Sandefjord",
+      "away_team": "Sarpsborg 08",
+      "home_ppg": 1.6,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 3.7,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411961",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 4:00pm",
+      "home_team": "Fredrikstad",
+      "away_team": "KFUM",
+      "home_ppg": 2.0,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.25,
+        "away": 3.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411963",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 4:00pm",
+      "home_team": "Brann",
+      "away_team": "Tromsø",
+      "home_ppg": 1.2,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.35,
+        "away": 3.74
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411966",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 1:30pm",
+      "home_team": "Rosenborg",
+      "away_team": "Vålerenga",
+      "home_ppg": 1.33,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.6,
+        "away": 3.02
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411965",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:00pm",
+      "home_team": "Viking",
+      "away_team": "Molde",
+      "home_ppg": 3.0,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.5,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411967",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:00pm",
+      "home_team": "Start",
+      "away_team": "Aalesund",
+      "home_ppg": 1.2,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 2.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8411968",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 6:15pm",
+      "home_team": "Tromsø",
+      "away_team": "Fredrikstad",
+      "home_ppg": 2.13,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.78,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411964",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:00pm",
+      "home_team": "KFUM",
+      "away_team": "Start",
+      "home_ppg": 1.67,
+      "away_ppg": 0.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.4,
+        "away": 4.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411969",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:00pm",
+      "home_team": "Aalesund",
+      "away_team": "Lillestrøm",
+      "home_ppg": 1.0,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.07,
+        "draw": 3.5,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8411971",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:00pm",
+      "home_team": "Vålerenga",
+      "away_team": "Sandefjord",
+      "home_ppg": 1.67,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 4.0,
+        "away": 3.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411972",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 1:30pm",
+      "home_team": "Kristiansund",
+      "away_team": "Brann",
+      "home_ppg": 1.4,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.2,
+        "draw": 4.0,
+        "away": 1.66
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411973",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 5:00pm",
+      "home_team": "Molde",
+      "away_team": "Rosenborg",
+      "home_ppg": 2.5,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.7,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8411737",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 3:00pm",
+      "home_team": "HamKam",
+      "away_team": "Viking",
+      "home_ppg": 2.5,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 4.1,
+        "away": 1.64
+      },
+      "result": "1"
+    }
+  ]
+}

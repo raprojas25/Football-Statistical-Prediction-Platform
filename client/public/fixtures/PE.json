@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-05-18T00:00:32.482Z",
+  "competition": "PE",
+  "competition_name": "Liga 1 (Peru)",
+  "country": "Peru",
+  "count": 10,
+  "matches": [
+    {
+      "id": 537185,
+      "homeTeam": "Atletico Grau",
+      "awayTeam": "Moquegua",
+      "date": "2026-05-24T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537186,
+      "homeTeam": "ADT",
+      "awayTeam": "Cusco",
+      "date": "2026-05-24T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537188,
+      "homeTeam": "Deportivo Garcilaso",
+      "awayTeam": "Juan Pablo II",
+      "date": "2026-05-24T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537189,
+      "homeTeam": "Sport Boys",
+      "awayTeam": "Comerciantes Unidos",
+      "date": "2026-05-24T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537190,
+      "homeTeam": "Universitario",
+      "awayTeam": "Sport Huancayo",
+      "date": "2026-05-24T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537191,
+      "homeTeam": "Melgar",
+      "awayTeam": "Alianza Atletico",
+      "date": "2026-05-24T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537192,
+      "homeTeam": "FC Cajamarca",
+      "awayTeam": "Alianza Lima",
+      "date": "2026-05-31T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537193,
+      "homeTeam": "Los Chankas",
+      "awayTeam": "UTC",
+      "date": "2026-05-31T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537194,
+      "homeTeam": "Cienciano",
+      "awayTeam": "Sporting Cristal",
+      "date": "2026-05-31T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    },
+    {
+      "id": 537195,
+      "homeTeam": "Comerciantes Unidos",
+      "awayTeam": "Deportivo Garcilaso",
+      "date": "2026-05-31T13:00:00Z",
+      "competition": "PE",
+      "matchday": 38
+    }
+  ]
+}

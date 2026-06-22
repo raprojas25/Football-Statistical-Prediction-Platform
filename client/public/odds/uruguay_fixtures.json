@@ -1,0 +1,2695 @@
+{
+  "generated_at": "2026-05-29T16:34:07.193338+00:00",
+  "source": "https://footystats.org/uruguay/primera-division/fixtures",
+  "league": "Primera División",
+  "country": "Uruguay",
+  "season": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Racing",
+      "mp": 17,
+      "win_pct": 59.0,
+      "gf": 24,
+      "ga": 14,
+      "gd": 10,
+      "pts": 35,
+      "avg": 2.24
+    },
+    {
+      "rank": 2,
+      "team": "Peñarol",
+      "mp": 17,
+      "win_pct": 59.0,
+      "gf": 27,
+      "ga": 17,
+      "gd": 10,
+      "pts": 33,
+      "avg": 2.59
+    },
+    {
+      "rank": 3,
+      "team": "Deportivo Maldonado",
+      "mp": 17,
+      "win_pct": 59.0,
+      "gf": 28,
+      "ga": 18,
+      "gd": 10,
+      "pts": 33,
+      "avg": 2.71
+    },
+    {
+      "rank": 4,
+      "team": "Albion",
+      "mp": 17,
+      "win_pct": 47.0,
+      "gf": 26,
+      "ga": 17,
+      "gd": 9,
+      "pts": 29,
+      "avg": 2.53
+    },
+    {
+      "rank": 5,
+      "team": "Nacional",
+      "mp": 17,
+      "win_pct": 53.0,
+      "gf": 29,
+      "ga": 22,
+      "gd": 7,
+      "pts": 28,
+      "avg": 3.0
+    },
+    {
+      "rank": 6,
+      "team": "Central Español",
+      "mp": 17,
+      "win_pct": 47.0,
+      "gf": 25,
+      "ga": 24,
+      "gd": 1,
+      "pts": 27,
+      "avg": 2.88
+    },
+    {
+      "rank": 7,
+      "team": "Torque",
+      "mp": 17,
+      "win_pct": 41.0,
+      "gf": 25,
+      "ga": 19,
+      "gd": 6,
+      "pts": 26,
+      "avg": 2.59
+    },
+    {
+      "rank": 8,
+      "team": "Wanderers",
+      "mp": 17,
+      "win_pct": 35.0,
+      "gf": 17,
+      "ga": 22,
+      "gd": -5,
+      "pts": 22,
+      "avg": 2.29
+    },
+    {
+      "rank": 9,
+      "team": "Liverpool FC Montevideo",
+      "mp": 17,
+      "win_pct": 29.0,
+      "gf": 21,
+      "ga": 20,
+      "gd": 1,
+      "pts": 21,
+      "avg": 2.41
+    },
+    {
+      "rank": 10,
+      "team": "Defensor Sporting",
+      "mp": 17,
+      "win_pct": 29.0,
+      "gf": 14,
+      "ga": 15,
+      "gd": -1,
+      "pts": 21,
+      "avg": 1.71
+    },
+    {
+      "rank": 11,
+      "team": "Cerro Largo",
+      "mp": 17,
+      "win_pct": 35.0,
+      "gf": 19,
+      "ga": 20,
+      "gd": -1,
+      "pts": 20,
+      "avg": 2.29
+    },
+    {
+      "rank": 12,
+      "team": "Boston River",
+      "mp": 17,
+      "win_pct": 35.0,
+      "gf": 18,
+      "ga": 24,
+      "gd": -6,
+      "pts": 20,
+      "avg": 2.47
+    },
+    {
+      "rank": 13,
+      "team": "Juventud",
+      "mp": 16,
+      "win_pct": 31.0,
+      "gf": 19,
+      "ga": 22,
+      "gd": -3,
+      "pts": 18,
+      "avg": 2.56
+    },
+    {
+      "rank": 14,
+      "team": "Danubio",
+      "mp": 16,
+      "win_pct": 25.0,
+      "gf": 18,
+      "ga": 24,
+      "gd": -6,
+      "pts": 18,
+      "avg": 2.63
+    },
+    {
+      "rank": 15,
+      "team": "Cerro",
+      "mp": 17,
+      "win_pct": 18.0,
+      "gf": 10,
+      "ga": 28,
+      "gd": -18,
+      "pts": 13,
+      "avg": 2.24
+    },
+    {
+      "rank": 16,
+      "team": "Progreso",
+      "mp": 17,
+      "win_pct": 12.0,
+      "gf": 13,
+      "ga": 27,
+      "gd": -14,
+      "pts": 10,
+      "avg": 2.35
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "8532711",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 10:30pm",
+      "home_team": "Nacional",
+      "away_team": "Albion",
+      "home_ppg": 1.63,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.3,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8532724",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 7:00pm",
+      "home_team": "Cerro Largo",
+      "away_team": "Boston River",
+      "home_ppg": 1.25,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.95,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8532713",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 2:00pm",
+      "home_team": "Progreso",
+      "away_team": "Torque",
+      "home_ppg": 0.56,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.51,
+        "draw": 3.15,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8532733",
+      "date_timestamp": null,
+      "date_str": "Fri 22, 11:30pm",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Racing",
+      "home_ppg": 1.13,
+      "away_ppg": 2.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.9,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8531752",
+      "date_timestamp": null,
+      "date_str": "Mon 18, 10:30pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Danubio",
+      "home_ppg": 2.63,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.37,
+        "away": 3.79
+      }
+    },
+    {
+      "id": "8531747",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 10:00pm",
+      "home_team": "Albion",
+      "away_team": "Wanderers",
+      "home_ppg": 1.56,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.26,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8531751",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 7:00pm",
+      "home_team": "Racing",
+      "away_team": "Cerro Largo",
+      "home_ppg": 2.0,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.3,
+        "away": 4.64
+      }
+    },
+    {
+      "id": "8531748",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 2:00pm",
+      "home_team": "Central Español",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 2.0,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.88,
+        "draw": 3.09,
+        "away": 2.51
+      }
+    },
+    {
+      "id": "8531749",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 10:30pm",
+      "home_team": "Peñarol",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 1.67,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.0,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8531750",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 7:00pm",
+      "home_team": "Juventud",
+      "away_team": "Progreso",
+      "home_ppg": 1.44,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.28,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8531753",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 4:00pm",
+      "home_team": "Boston River",
+      "away_team": "Cerro",
+      "home_ppg": 1.44,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.1,
+        "away": 3.67
+      }
+    },
+    {
+      "id": "8531754",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 12:00am",
+      "home_team": "Torque",
+      "away_team": "Nacional",
+      "home_ppg": 1.63,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.09,
+        "draw": 3.38,
+        "away": 2.22
+      }
+    },
+    {
+      "id": "8475533",
+      "date_timestamp": null,
+      "date_str": "Tue 12, 12:30am",
+      "home_team": "Cerro Largo",
+      "away_team": "Peñarol",
+      "home_ppg": 1.18,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.25,
+        "draw": 3.55,
+        "away": 1.66
+      }
+    },
+    {
+      "id": "8475497",
+      "date_timestamp": null,
+      "date_str": "Mon 11, 9:00pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Boston River",
+      "home_ppg": 1.94,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.4,
+        "away": 3.58
+      }
+    },
+    {
+      "id": "8475496",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 11:30pm",
+      "home_team": "Nacional",
+      "away_team": "Cerro",
+      "home_ppg": 1.65,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.75,
+        "away": 7.75
+      }
+    },
+    {
+      "id": "8475502",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 8:00pm",
+      "home_team": "Torque",
+      "away_team": "Progreso",
+      "home_ppg": 1.53,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.29,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8475495",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 3:00pm",
+      "home_team": "Defensor Sporting",
+      "away_team": "Juventud",
+      "home_ppg": 1.24,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.24,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8475501",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 10:30pm",
+      "home_team": "Central Español",
+      "away_team": "Racing",
+      "home_ppg": 1.59,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.2,
+        "away": 2.04
+      }
+    },
+    {
+      "id": "8475532",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 7:30pm",
+      "home_team": "Danubio",
+      "away_team": "Albion",
+      "home_ppg": 1.13,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.05,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8475534",
+      "date_timestamp": null,
+      "date_str": "Fri 8, 11:30pm",
+      "home_team": "Wanderers",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 1.29,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.2,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8475493",
+      "date_timestamp": null,
+      "date_str": "Mon 4, 11:30pm",
+      "home_team": "Peñarol",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 1.94,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.38,
+        "away": 4.95
+      }
+    },
+    {
+      "id": "8475494",
+      "date_timestamp": null,
+      "date_str": "Mon 4, 12:00am",
+      "home_team": "Albion",
+      "away_team": "Nacional",
+      "home_ppg": 1.71,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.78,
+        "draw": 3.24,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8475500",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 7:30pm",
+      "home_team": "Racing",
+      "away_team": "Torque",
+      "home_ppg": 2.06,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.57,
+        "draw": 3.1,
+        "away": 3.43
+      }
+    },
+    {
+      "id": "8475530",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 4:00pm",
+      "home_team": "Boston River",
+      "away_team": "Central Español",
+      "home_ppg": 1.18,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8475508",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 1:30pm",
+      "home_team": "Progreso",
+      "away_team": "Cerro Largo",
+      "home_ppg": 0.59,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8475531",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 10:30pm",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Danubio",
+      "home_ppg": 1.24,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.09,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8475453",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 7:30pm",
+      "home_team": "Cerro",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 0.76,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.32,
+        "draw": 3.1,
+        "away": 1.91
+      }
+    },
+    {
+      "id": "8475504",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 4:30pm",
+      "home_team": "Juventud",
+      "away_team": "Wanderers",
+      "home_ppg": 1.13,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.24,
+        "away": 3.15
+      }
+    },
+    {
+      "id": "8475490",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 11:30pm",
+      "home_team": "Defensor Sporting",
+      "away_team": "Progreso",
+      "home_ppg": 1.24,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.1,
+        "away": 4.03
+      }
+    },
+    {
+      "id": "8475492",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 11:00pm",
+      "home_team": "Wanderers",
+      "away_team": "Peñarol",
+      "home_ppg": 1.29,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 3.6,
+        "away": 1.61
+      }
+    },
+    {
+      "id": "8475529",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 7:30pm",
+      "home_team": "Cerro Largo",
+      "away_team": "Racing",
+      "home_ppg": 1.18,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.95,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8475487",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:00pm",
+      "home_team": "Central Español",
+      "away_team": "Cerro",
+      "home_ppg": 1.59,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8475488",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 11:00pm",
+      "home_team": "Nacional",
+      "away_team": "Danubio",
+      "home_ppg": 1.65,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.61,
+        "away": 4.56
+      }
+    },
+    {
+      "id": "8475506",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 7:30pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Albion",
+      "home_ppg": 1.94,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.15,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8475499",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 4:00pm",
+      "home_team": "Juventud",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 1.13,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.1,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8475491",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 11:30pm",
+      "home_team": "Torque",
+      "away_team": "Boston River",
+      "home_ppg": 1.53,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.44,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8475526",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 12:30am",
+      "home_team": "Peñarol",
+      "away_team": "Juventud",
+      "home_ppg": 1.94,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.41,
+        "draw": 4.2,
+        "away": 7.75
+      }
+    },
+    {
+      "id": "8475498",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 9:00pm",
+      "home_team": "Boston River",
+      "away_team": "Cerro Largo",
+      "home_ppg": 1.18,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 2.95,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8475528",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 11:30pm",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Nacional",
+      "home_ppg": 1.24,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.33,
+        "draw": 3.19,
+        "away": 2.18
+      }
+    },
+    {
+      "id": "8475477",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 8:00pm",
+      "home_team": "Danubio",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 1.13,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.0,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8475486",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00pm",
+      "home_team": "Cerro",
+      "away_team": "Torque",
+      "home_ppg": 0.76,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.0,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8475527",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 8:00pm",
+      "home_team": "Racing",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 2.06,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8475525",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 5:00pm",
+      "home_team": "Progreso",
+      "away_team": "Wanderers",
+      "home_ppg": 0.59,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.73,
+        "draw": 3.05,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8475489",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 12:00am",
+      "home_team": "Albion",
+      "away_team": "Central Español",
+      "home_ppg": 1.71,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.9,
+        "away": 3.77
+      }
+    },
+    {
+      "id": "8475503",
+      "date_timestamp": null,
+      "date_str": "Apr 14, 12:00am",
+      "home_team": "Peñarol",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 1.94,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.5,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8475485",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 10:30pm",
+      "home_team": "Wanderers",
+      "away_team": "Racing",
+      "home_ppg": 1.29,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 2.96,
+        "away": 2.28
+      }
+    },
+    {
+      "id": "8475524",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 7:30pm",
+      "home_team": "Juventud",
+      "away_team": "Progreso",
+      "home_ppg": 1.13,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.25,
+        "away": 3.67
+      }
+    },
+    {
+      "id": "8475522",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:00pm",
+      "home_team": "Central Español",
+      "away_team": "Danubio",
+      "home_ppg": 1.59,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.05,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8475521",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 11:00pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Nacional",
+      "home_ppg": 1.94,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.96,
+        "draw": 3.1,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8475465",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 7:30pm",
+      "home_team": "Defensor Sporting",
+      "away_team": "Boston River",
+      "home_ppg": 1.24,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.1,
+        "away": 3.99
+      }
+    },
+    {
+      "id": "8475520",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:00pm",
+      "home_team": "Torque",
+      "away_team": "Albion",
+      "home_ppg": 1.53,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 2.96,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8475480",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 12:00am",
+      "home_team": "Cerro Largo",
+      "away_team": "Cerro",
+      "home_ppg": 1.18,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.9,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8475484",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 10:30pm",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 1.24,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.25,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8475481",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 7:30pm",
+      "home_team": "Cerro",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 0.76,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.96,
+        "away": 2.19
+      }
+    },
+    {
+      "id": "8475505",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 2:00pm",
+      "home_team": "Albion",
+      "away_team": "Cerro Largo",
+      "home_ppg": 1.71,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 2.95,
+        "away": 3.71
+      }
+    },
+    {
+      "id": "8475475",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 11:00pm",
+      "home_team": "Progreso",
+      "away_team": "Peñarol",
+      "home_ppg": 0.59,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.0,
+        "away": 1.44
+      }
+    },
+    {
+      "id": "8475483",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 7:30pm",
+      "home_team": "Danubio",
+      "away_team": "Torque",
+      "home_ppg": 1.13,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 3.0,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8475478",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:00pm",
+      "home_team": "Racing",
+      "away_team": "Juventud",
+      "home_ppg": 2.06,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.25,
+        "away": 4.12
+      }
+    },
+    {
+      "id": "8475519",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 12:30am",
+      "home_team": "Nacional",
+      "away_team": "Central Español",
+      "home_ppg": 1.65,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.2,
+        "away": 6.9
+      }
+    },
+    {
+      "id": "8475482",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 9:00pm",
+      "home_team": "Boston River",
+      "away_team": "Wanderers",
+      "home_ppg": 1.18,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.0,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8475523",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 11:00pm",
+      "home_team": "Defensor Sporting",
+      "away_team": "Albion",
+      "home_ppg": 1.24,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.99,
+        "away": 3.47
+      }
+    },
+    {
+      "id": "8475516",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 3:00pm",
+      "home_team": "Progreso",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 0.59,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.1,
+        "away": 1.95
+      }
+    },
+    {
+      "id": "8475474",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 1:00am",
+      "home_team": "Central Español",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 1.59,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.96,
+        "draw": 3.05,
+        "away": 2.14
+      }
+    },
+    {
+      "id": "8475452",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 12:30am",
+      "home_team": "Cerro Largo",
+      "away_team": "Danubio",
+      "home_ppg": 1.18,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.0,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8475513",
+      "date_timestamp": null,
+      "date_str": "Mar 30, 7:00pm",
+      "home_team": "Juventud",
+      "away_team": "Boston River",
+      "home_ppg": 1.13,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8475479",
+      "date_timestamp": null,
+      "date_str": "Mar 29, 11:30pm",
+      "home_team": "Peñarol",
+      "away_team": "Racing",
+      "home_ppg": 1.94,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.45,
+        "away": 6.12
+      }
+    },
+    {
+      "id": "8475515",
+      "date_timestamp": null,
+      "date_str": "Mar 28, 10:30pm",
+      "home_team": "Torque",
+      "away_team": "Nacional",
+      "home_ppg": 1.53,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.1,
+        "away": 2.19
+      }
+    },
+    {
+      "id": "8475517",
+      "date_timestamp": null,
+      "date_str": "Mar 28, 7:00pm",
+      "home_team": "Wanderers",
+      "away_team": "Cerro",
+      "home_ppg": 1.29,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.0,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8475512",
+      "date_timestamp": null,
+      "date_str": "Mar 26, 7:00pm",
+      "home_team": "Danubio",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 1.13,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 2.78,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8475472",
+      "date_timestamp": null,
+      "date_str": "Mar 26, 4:00pm",
+      "home_team": "Racing",
+      "away_team": "Progreso",
+      "home_ppg": 2.06,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.35,
+        "away": 4.65
+      }
+    },
+    {
+      "id": "8475471",
+      "date_timestamp": null,
+      "date_str": "Mar 25, 11:30pm",
+      "home_team": "Boston River",
+      "away_team": "Peñarol",
+      "home_ppg": 1.18,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.4,
+        "away": 1.49
+      }
+    },
+    {
+      "id": "8475466",
+      "date_timestamp": null,
+      "date_str": "Mar 25, 8:00pm",
+      "home_team": "Cerro",
+      "away_team": "Juventud",
+      "home_ppg": 0.76,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.84,
+        "draw": 2.85,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8475473",
+      "date_timestamp": null,
+      "date_str": "Mar 25, 5:00pm",
+      "home_team": "Albion",
+      "away_team": "Wanderers",
+      "home_ppg": 1.71,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.0,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8475518",
+      "date_timestamp": null,
+      "date_str": "Mar 24, 11:30pm",
+      "home_team": "Nacional",
+      "away_team": "Cerro Largo",
+      "home_ppg": 1.65,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.2,
+        "away": 6.25
+      }
+    },
+    {
+      "id": "8475514",
+      "date_timestamp": null,
+      "date_str": "Mar 24, 8:00pm",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Central Español",
+      "home_ppg": 1.24,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.3,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8475448",
+      "date_timestamp": null,
+      "date_str": "Mar 24, 5:00pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Torque",
+      "home_ppg": 1.94,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.17,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8475511",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 7:00pm",
+      "home_team": "Progreso",
+      "away_team": "Boston River",
+      "home_ppg": 0.59,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.1,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8475451",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 1:00pm",
+      "home_team": "Juventud",
+      "away_team": "Albion",
+      "home_ppg": 1.13,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 2.9,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8475467",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 10:30pm",
+      "home_team": "Peñarol",
+      "away_team": "Cerro",
+      "home_ppg": 1.94,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.33,
+        "away": 9.05
+      }
+    },
+    {
+      "id": "8475469",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 7:00pm",
+      "home_team": "Wanderers",
+      "away_team": "Danubio",
+      "home_ppg": 1.29,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.0,
+        "away": 2.37
+      }
+    },
+    {
+      "id": "8475462",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 4:00pm",
+      "home_team": "Torque",
+      "away_team": "Central Español",
+      "home_ppg": 1.53,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.45,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8475476",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 1:00pm",
+      "home_team": "Racing",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 2.06,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 2.9,
+        "away": 2.63
+      }
+    },
+    {
+      "id": "8475470",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 12:30am",
+      "home_team": "Defensor Sporting",
+      "away_team": "Nacional",
+      "home_ppg": 1.24,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.24,
+        "away": 1.94
+      }
+    },
+    {
+      "id": "8475464",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 9:00pm",
+      "home_team": "Cerro Largo",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 1.18,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.47,
+        "draw": 3.1,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8475463",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 11:00pm",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Torque",
+      "home_ppg": 1.24,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8475468",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 8:00pm",
+      "home_team": "Danubio",
+      "away_team": "Juventud",
+      "home_ppg": 1.13,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8475460",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 8:00pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 1.94,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 3.2,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8475461",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 1:00pm",
+      "home_team": "Central Español",
+      "away_team": "Cerro Largo",
+      "home_ppg": 1.59,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.86,
+        "away": 2.86
+      }
+    },
+    {
+      "id": "8475450",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:30pm",
+      "home_team": "Albion",
+      "away_team": "Peñarol",
+      "home_ppg": 1.71,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.1,
+        "draw": 3.4,
+        "away": 1.67
+      }
+    },
+    {
+      "id": "8475510",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 8:00pm",
+      "home_team": "Boston River",
+      "away_team": "Racing",
+      "home_ppg": 1.18,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 2.9,
+        "away": 2.65
+      }
+    },
+    {
+      "id": "8475459",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 1:00pm",
+      "home_team": "Cerro",
+      "away_team": "Progreso",
+      "home_ppg": 0.76,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.9,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8475509",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 11:00pm",
+      "home_team": "Nacional",
+      "away_team": "Wanderers",
+      "home_ppg": 1.65,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 3.75,
+        "away": 5.8
+      }
+    },
+    {
+      "id": "8475458",
+      "date_timestamp": null,
+      "date_str": "Mar 10, 12:30am",
+      "home_team": "Boston River",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 1.18,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.0,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8475454",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 9:30pm",
+      "home_team": "Cerro Largo",
+      "away_team": "Torque",
+      "home_ppg": 1.18,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.98,
+        "draw": 2.9,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8475455",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 11:00pm",
+      "home_team": "Defensor Sporting",
+      "away_team": "Central Español",
+      "home_ppg": 1.24,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.11,
+        "away": 4.25
+      }
+    },
+    {
+      "id": "8475535",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 8:00pm",
+      "home_team": "Juventud",
+      "away_team": "Nacional",
+      "home_ppg": 1.13,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.01,
+        "draw": 3.96,
+        "away": 1.53
+      }
+    },
+    {
+      "id": "8475457",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 12:45pm",
+      "home_team": "Racing",
+      "away_team": "Cerro",
+      "home_ppg": 2.06,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.05,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8475456",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 11:30pm",
+      "home_team": "Peñarol",
+      "away_team": "Danubio",
+      "home_ppg": 1.94,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 3.75,
+        "away": 6.2
+      }
+    },
+    {
+      "id": "8475507",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 8:00pm",
+      "home_team": "Progreso",
+      "away_team": "Albion",
+      "home_ppg": 0.59,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.1,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8475449",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 11:00pm",
+      "home_team": "Wanderers",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 1.29,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.17,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8463119",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 11:00pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Juventud",
+      "home_ppg": 1.94,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.5,
+        "away": 6.35
+      }
+    },
+    {
+      "id": "8463118",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 10:30pm",
+      "home_team": "Nacional",
+      "away_team": "Peñarol",
+      "home_ppg": 1.65,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 2.85,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8463116",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 12:45pm",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Cerro Largo",
+      "home_ppg": 1.24,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.42,
+        "away": 4.41
+      }
+    },
+    {
+      "id": "8463120",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 11:00pm",
+      "home_team": "Central Español",
+      "away_team": "Wanderers",
+      "home_ppg": 1.59,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 2.98,
+        "away": 2.62
+      }
+    },
+    {
+      "id": "8463121",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 8:00pm",
+      "home_team": "Danubio",
+      "away_team": "Progreso",
+      "home_ppg": 1.13,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.1,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8463117",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 12:45pm",
+      "home_team": "Albion",
+      "away_team": "Racing",
+      "home_ppg": 1.71,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.0,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8463122",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 11:00pm",
+      "home_team": "Cerro",
+      "away_team": "Boston River",
+      "home_ppg": 0.76,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.7,
+        "away": 2.55
+      }
+    },
+    {
+      "id": "8463123",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 11:00pm",
+      "home_team": "Torque",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 1.53,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8463115",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 11:30pm",
+      "home_team": "Peñarol",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 1.94,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.94,
+        "away": 7.48
+      }
+    },
+    {
+      "id": "8463111",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 8:00pm",
+      "home_team": "Juventud",
+      "away_team": "Central Español",
+      "home_ppg": 1.13,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 2.98,
+        "away": 2.14
+      }
+    },
+    {
+      "id": "8463112",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 12:45pm",
+      "home_team": "Wanderers",
+      "away_team": "Torque",
+      "home_ppg": 1.29,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.86,
+        "draw": 3.1,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8463108",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 11:30pm",
+      "home_team": "Progreso",
+      "away_team": "Nacional",
+      "home_ppg": 0.59,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.53,
+        "draw": 4.2,
+        "away": 1.44
+      }
+    },
+    {
+      "id": "8463114",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 8:00pm",
+      "home_team": "Boston River",
+      "away_team": "Albion",
+      "home_ppg": 1.18,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.0,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8463110",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 12:45pm",
+      "home_team": "Racing",
+      "away_team": "Danubio",
+      "home_ppg": 2.06,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.9,
+        "away": 2.62
+      }
+    },
+    {
+      "id": "8463109",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 12:30am",
+      "home_team": "Defensor Sporting",
+      "away_team": "Cerro Largo",
+      "home_ppg": 1.24,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8463113",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 9:45pm",
+      "home_team": "Cerro",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 0.76,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 2.88,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8454951",
+      "date_timestamp": null,
+      "date_str": "Feb 17, 12:30am",
+      "home_team": "Torque",
+      "away_team": "Juventud",
+      "home_ppg": 1.53,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.85,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8454945",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 10:00pm",
+      "home_team": "Albion",
+      "away_team": "Cerro",
+      "home_ppg": 1.71,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 2.9,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8454950",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:30pm",
+      "home_team": "Central Español",
+      "away_team": "Peñarol",
+      "home_ppg": 1.59,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.6,
+        "away": 1.42
+      }
+    },
+    {
+      "id": "8454947",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 8:00pm",
+      "home_team": "Danubio",
+      "away_team": "Boston River",
+      "home_ppg": 1.13,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.89,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8454949",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 11:30pm",
+      "home_team": "Nacional",
+      "away_team": "Racing",
+      "home_ppg": 1.65,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.8,
+        "away": 6.67
+      }
+    },
+    {
+      "id": "8454944",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 8:00pm",
+      "home_team": "Deportivo Maldonado",
+      "away_team": "Progreso",
+      "home_ppg": 1.94,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 3.05,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8454946",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 12:30am",
+      "home_team": "Liverpool FC Montevideo",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 1.24,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.16,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8454948",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 10:00pm",
+      "home_team": "Cerro Largo",
+      "away_team": "Wanderers",
+      "home_ppg": 1.18,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.0,
+        "away": 3.07
+      }
+    },
+    {
+      "id": "8454953",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 11:00pm",
+      "home_team": "Cerro",
+      "away_team": "Danubio",
+      "home_ppg": 0.76,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 2.9,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8454957",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 11:30pm",
+      "home_team": "Boston River",
+      "away_team": "Nacional",
+      "home_ppg": 1.18,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.5,
+        "away": 1.7
+      }
+    },
+    {
+      "id": "8454956",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 8:00pm",
+      "home_team": "Racing",
+      "away_team": "Deportivo Maldonado",
+      "home_ppg": 2.06,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.15,
+        "away": 3.89
+      }
+    },
+    {
+      "id": "8454959",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 12:45pm",
+      "home_team": "Juventud",
+      "away_team": "Cerro Largo",
+      "home_ppg": 1.13,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.05,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8454958",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 11:30pm",
+      "home_team": "Peñarol",
+      "away_team": "Torque",
+      "home_ppg": 1.94,
+      "away_ppg": 1.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.3,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8454952",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 8:00pm",
+      "home_team": "Progreso",
+      "away_team": "Central Español",
+      "home_ppg": 0.59,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.1,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8454955",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 12:30am",
+      "home_team": "Wanderers",
+      "away_team": "Defensor Sporting",
+      "home_ppg": 1.29,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.76,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8454954",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 10:00pm",
+      "home_team": "Albion",
+      "away_team": "Liverpool FC Montevideo",
+      "home_ppg": 1.71,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.2,
+        "away": 2.0
+      }
+    }
+  ]
+}

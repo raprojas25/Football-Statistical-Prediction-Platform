@@ -1,0 +1,106 @@
+.tape {
+  width: 176px;
+  height: 288px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 2px;
+  box-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.6),
+    0 8px 24px rgba(0, 0, 0, 0.7),
+    0 20px 60px rgba(0, 0, 0, 0.5);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.maxon {
+  background: #050d07;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+
+.maxon::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    158deg,
+    #0d3820 0%,
+    #081e10 38%,
+    #040c06 62%,
+    #020402 100%
+  );
+}
+
+.maxon .maxon-diag {
+  position: absolute;
+  width: 130%;
+  height: 172px;
+  background: linear-gradient(158deg, #1a6035 0%, #0d3820 45%, #071508 100%);
+  top: 24px;
+  left: -15%;
+  transform: rotate(-11deg);
+  transform-origin: left center;
+}
+
+.maxon .maxon-brandarea {
+  position: relative;
+  z-index: 2;
+  padding: 17px 13px 6px;
+}
+
+.maxon .maxon-brand {
+  font-family: 'Anton', sans-serif;
+  font-size: 54px;
+  letter-spacing: 0.04em;
+  color: #fff;
+  line-height: 0.88;
+  font-style: italic;
+}
+
+.maxon .maxon-use {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 9px;
+  letter-spacing: 0.32em;
+  color: rgba(255, 255, 255, 0.42);
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-top: 3px;
+  display: block;
+}
+
+.maxon .maxon-quality {
+  font-size: 7px;
+  letter-spacing: 0.2em;
+  color: rgba(255, 255, 255, 0.22);
+  text-transform: uppercase;
+  font-style: italic;
+  display: block;
+  margin-top: 1px;
+}
+
+.maxon .maxon-footer {
+  position: relative;
+  z-index: 2;
+  margin-top: auto;
+  padding: 9px 13px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.maxon .maxon-designation {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.12em;
+  color: rgba(255, 255, 255, 0.38);
+}
+
+.maxon .vhs-badge {
+  color: rgba(255, 255, 255, 0.42);
+  border-color: rgba(255, 255, 255, 0.3);
+}

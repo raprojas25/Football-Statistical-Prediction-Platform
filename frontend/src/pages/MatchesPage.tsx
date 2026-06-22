@@ -1,8 +1,9 @@
 import { useState, useEffect, useMemo } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Calendar, Calculator, Loader2, Target, Trophy, BarChart3, Clock, MapPin, Home, ArrowRight, Save } from 'lucide-react'
-import { loadTeamData, mapTeamName, findTeam, COMPETITION_FILES, type TeamStats } from '@/utils/teamAdapter'
-import { predictionsService, teamsService } from '@/services/api'
+// import { loadTeamData, mapTeamName, findTeam, COMPETITION_FILES, type TeamStats } from '@/utils/teamAdapter'
+import { predictionsService, teamsService } from '../services/api'
+import { loadTeamData, mapTeamName, findTeam, COMPETITION_FILES, type TeamStats } from '../utils/teamAdapter'
 
 interface Match {
   id: number
@@ -40,13 +41,13 @@ const COMPETITIONS: Record<string, { name: string; flag: string }> = {
   SA: { name: 'Serie A', flag: '🇮🇹' },
   FL1: { name: 'Ligue 1', flag: '🇫🇷' },
   PE1: { name: 'Liga 1 Perú', flag: '🇵🇪' },
-  MX1: { name: 'Liga MX', flag: '🇲🇽' },
-  CL1: { name: 'Liga Chile', flag: '🇨🇱' },
-  CO1: { name: 'Liga Colombia', flag: '🇨🇴' },
-  AR1: { name: 'Liga Argentina', flag: '🇦🇷' },
-  BR1: { name: 'Serie A Brasil', flag: '🇧🇷' },
-  EC1: { name: 'Liga Pro Ecuador', flag: '🇪🇨' },
-  US1: { name: 'MLS', flag: '🇺🇸' },
+  // MX1: { name: 'Liga MX', flag: '🇲🇽' },
+  // CL1: { name: 'Liga Chile', flag: '🇨🇱' },
+  // CO1: { name: 'Liga Colombia', flag: '🇨🇴' },
+  // AR1: { name: 'Liga Argentina', flag: '🇦🇷' },
+  // BR1: { name: 'Serie A Brasil', flag: '🇧🇷' },
+  // EC1: { name: 'Liga Pro Ecuador', flag: '🇪🇨' },
+  // US1: { name: 'MLS', flag: '🇺🇸' },
 }
 
 type TabType = 'goals' | 'corners' | 'stats'

@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-06-01T16:02:05Z",
+  "competition": "COLOMBIA",
+  "competition_name": "Categoría Primera A (Colombia)",
+  "country": "Colombia",
+  "count": 2,
+  "matches": [
+    {
+      "id": 8537390,
+      "date": "2026-06-08T22:00:00Z",
+      "homeTeam": "Atlético Nacional",
+      "awayTeam": "Junior",
+      "homePpg": 2.26,
+      "awayPpg": 1.78,
+      "matchday": null
+    },
+    {
+      "id": 8537391,
+      "date": "2026-06-03T00:30:00Z",
+      "homeTeam": "Junior",
+      "awayTeam": "Atlético Nacional",
+      "homePpg": 1.78,
+      "awayPpg": 2.26,
+      "matchday": null,
+      "odds": {
+        "home": 2.37,
+        "draw": 3.1,
+        "away": 2.7
+      }
+    }
+  ]
+}

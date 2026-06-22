@@ -1,0 +1,113 @@
+{
+  "generated_at": "2026-05-18T00:00:29.513Z",
+  "competition": "PL",
+  "competition_name": "Premier League",
+  "country": "Inglaterra",
+  "count": 13,
+  "matches": [
+    {
+      "id": 538147,
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "Burnley FC",
+      "date": "2026-05-18T19:00:00Z",
+      "competition": "PL",
+      "matchday": 37
+    },
+    {
+      "id": 538145,
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Manchester City FC",
+      "date": "2026-05-19T18:30:00Z",
+      "competition": "PL",
+      "matchday": 37
+    },
+    {
+      "id": 538149,
+      "homeTeam": "Chelsea FC",
+      "awayTeam": "Tottenham Hotspur FC",
+      "date": "2026-05-19T19:15:00Z",
+      "competition": "PL",
+      "matchday": 37
+    },
+    {
+      "id": 538155,
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Chelsea FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538156,
+      "homeTeam": "Brighton & Hove Albion FC",
+      "awayTeam": "Manchester United FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538157,
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "Arsenal FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538158,
+      "homeTeam": "Burnley FC",
+      "awayTeam": "Wolverhampton Wanderers FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538159,
+      "homeTeam": "Fulham FC",
+      "awayTeam": "Newcastle United FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538160,
+      "homeTeam": "Liverpool FC",
+      "awayTeam": "Brentford FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538161,
+      "homeTeam": "Manchester City FC",
+      "awayTeam": "Aston Villa FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538162,
+      "homeTeam": "Nottingham Forest FC",
+      "awayTeam": "AFC Bournemouth",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538163,
+      "homeTeam": "Tottenham Hotspur FC",
+      "awayTeam": "Everton FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    },
+    {
+      "id": 538164,
+      "homeTeam": "West Ham United FC",
+      "awayTeam": "Leeds United FC",
+      "date": "2026-05-24T15:00:00Z",
+      "competition": "PL",
+      "matchday": 38
+    }
+  ]
+}

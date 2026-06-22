@@ -1,0 +1,4369 @@
+{
+  "generated_at": "2026-06-21T20:28:15.646209+00:00",
+  "source": "https://footystats.org/usa/mls/fixtures",
+  "league": "MLS",
+  "country": "usa",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8391044",
+      "date_timestamp": null,
+      "date_str": "May 25, 2:15am",
+      "home_team": "Los Angeles FC",
+      "away_team": "Seattle Sounders",
+      "home_ppg": 2.0,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.5,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391032",
+      "date_timestamp": null,
+      "date_str": "May 25, 12:00am",
+      "home_team": "Inter Miami",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 1.5,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 5.55,
+        "away": 6.24
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391025",
+      "date_timestamp": null,
+      "date_str": "May 24, 10:00pm",
+      "home_team": "Columbus Crew",
+      "away_team": "Atlanta United FC",
+      "home_ppg": 1.57,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.32,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390765",
+      "date_timestamp": null,
+      "date_str": "May 24, 3:30am",
+      "home_team": "LA Galaxy",
+      "away_team": "Houston Dynamo",
+      "home_ppg": 1.29,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.4,
+        "away": 2.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390788",
+      "date_timestamp": null,
+      "date_str": "May 24, 2:30am",
+      "home_team": "Colorado Rapids",
+      "away_team": "FC Dallas",
+      "home_ppg": 1.5,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.18,
+        "draw": 3.61,
+        "away": 2.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8391042",
+      "date_timestamp": null,
+      "date_str": "May 24, 2:30am",
+      "home_team": "Portland Timbers",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 1.67,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.9,
+        "away": 2.54
+      },
+      "result": "2"
+    },
+    {
+      "id": "8391043",
+      "date_timestamp": null,
+      "date_str": "May 24, 2:30am",
+      "home_team": "San Diego",
+      "away_team": "Vancouver Whitecaps",
+      "home_ppg": 1.33,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.75,
+        "away": 1.96
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390952",
+      "date_timestamp": null,
+      "date_str": "May 24, 1:30am",
+      "home_team": "Nashville SC",
+      "away_team": "New York City",
+      "home_ppg": 2.71,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.6,
+        "away": 3.73
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390953",
+      "date_timestamp": null,
+      "date_str": "May 24, 1:30am",
+      "home_team": "Sporting KC",
+      "away_team": "New York RB",
+      "home_ppg": 0.71,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 3.85,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8391031",
+      "date_timestamp": null,
+      "date_str": "May 24, 1:30am",
+      "home_team": "Chicago Fire",
+      "away_team": "Toronto",
+      "home_ppg": 1.88,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 4.6,
+        "away": 5.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390764",
+      "date_timestamp": null,
+      "date_str": "May 24, 12:30am",
+      "home_team": "Charlotte",
+      "away_team": "New England Revolution",
+      "home_ppg": 1.89,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.53,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390785",
+      "date_timestamp": null,
+      "date_str": "May 24, 12:30am",
+      "home_team": "FC Cincinnati",
+      "away_team": "Orlando City",
+      "home_ppg": 1.86,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.5,
+        "away": 3.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390797",
+      "date_timestamp": null,
+      "date_str": "May 24, 12:30am",
+      "home_team": "DC United",
+      "away_team": "Montreal Impact",
+      "home_ppg": 1.14,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.6,
+        "away": 2.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391000",
+      "date_timestamp": null,
+      "date_str": "May 23, 9:30pm",
+      "home_team": "Minnesota United",
+      "away_team": "Real Salt Lake",
+      "home_ppg": 1.29,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.56,
+        "away": 3.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390784",
+      "date_timestamp": null,
+      "date_str": "May 23, 7:45pm",
+      "home_team": "St. Louis City",
+      "away_team": "Austin",
+      "home_ppg": 1.67,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.8,
+        "away": 4.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391030",
+      "date_timestamp": null,
+      "date_str": "May 18, 1:00am",
+      "home_team": "Nashville SC",
+      "away_team": "Los Angeles FC",
+      "home_ppg": 2.71,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.45,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390787",
+      "date_timestamp": null,
+      "date_str": "May 17, 11:00pm",
+      "home_team": "Inter Miami",
+      "away_team": "Portland Timbers",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 6.35,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391010",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:30am",
+      "home_team": "SJ Earthquakes",
+      "away_team": "FC Dallas",
+      "home_ppg": 1.86,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.8,
+        "away": 3.78
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390782",
+      "date_timestamp": null,
+      "date_str": "May 17, 2:30am",
+      "home_team": "Real Salt Lake",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 2.63,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.3,
+        "away": 3.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391008",
+      "date_timestamp": null,
+      "date_str": "May 17, 2:30am",
+      "home_team": "San Diego",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 1.33,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.91,
+        "away": 2.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390786",
+      "date_timestamp": null,
+      "date_str": "May 17, 2:15am",
+      "home_team": "Seattle Sounders",
+      "away_team": "LA Galaxy",
+      "home_ppg": 2.17,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.2,
+        "away": 4.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390728",
+      "date_timestamp": null,
+      "date_str": "May 17, 1:30am",
+      "home_team": "Austin",
+      "away_team": "Sporting KC",
+      "home_ppg": 1.57,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.0,
+        "away": 5.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390783",
+      "date_timestamp": null,
+      "date_str": "May 17, 1:30am",
+      "home_team": "Houston Dynamo",
+      "away_team": "Vancouver Whitecaps",
+      "home_ppg": 2.14,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.84,
+        "draw": 3.8,
+        "away": 1.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390727",
+      "date_timestamp": null,
+      "date_str": "May 17, 12:30am",
+      "home_team": "Orlando City",
+      "away_team": "Atlanta United FC",
+      "home_ppg": 1.43,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 3.75,
+        "away": 2.68
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390773",
+      "date_timestamp": null,
+      "date_str": "May 17, 12:30am",
+      "home_team": "New York RB",
+      "away_team": "New York City",
+      "home_ppg": 1.57,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.4,
+        "away": 2.54
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390774",
+      "date_timestamp": null,
+      "date_str": "May 17, 12:30am",
+      "home_team": "Charlotte",
+      "away_team": "Toronto",
+      "home_ppg": 1.89,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.7,
+        "away": 4.72
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390780",
+      "date_timestamp": null,
+      "date_str": "May 17, 12:30am",
+      "home_team": "Philadelphia Union",
+      "away_team": "Columbus Crew",
+      "home_ppg": 0.5,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 3.56,
+        "away": 2.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390781",
+      "date_timestamp": null,
+      "date_str": "May 17, 12:30am",
+      "home_team": "New England Revolution",
+      "away_team": "Minnesota United",
+      "home_ppg": 2.63,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.55,
+        "away": 2.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391024",
+      "date_timestamp": null,
+      "date_str": "May 17, 12:30am",
+      "home_team": "DC United",
+      "away_team": "St. Louis City",
+      "home_ppg": 1.14,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.45,
+        "away": 3.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390772",
+      "date_timestamp": null,
+      "date_str": "May 16, 9:30pm",
+      "home_team": "Montreal Impact",
+      "away_team": "Chicago Fire",
+      "home_ppg": 1.67,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.66,
+        "draw": 3.68,
+        "away": 2.18
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390771",
+      "date_timestamp": null,
+      "date_str": "May 14, 2:30am",
+      "home_team": "Seattle Sounders",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 2.17,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.6,
+        "away": 3.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390778",
+      "date_timestamp": null,
+      "date_str": "May 14, 2:30am",
+      "home_team": "Real Salt Lake",
+      "away_team": "Houston Dynamo",
+      "home_ppg": 2.63,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.75,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390779",
+      "date_timestamp": null,
+      "date_str": "May 14, 2:30am",
+      "home_team": "San Diego",
+      "away_team": "Austin",
+      "home_ppg": 1.33,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 4.0,
+        "away": 3.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390724",
+      "date_timestamp": null,
+      "date_str": "May 14, 1:30am",
+      "home_team": "Sporting KC",
+      "away_team": "LA Galaxy",
+      "home_ppg": 0.71,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.82,
+        "away": 1.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390725",
+      "date_timestamp": null,
+      "date_str": "May 14, 1:30am",
+      "home_team": "Minnesota United",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 1.29,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.7,
+        "away": 4.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390726",
+      "date_timestamp": null,
+      "date_str": "May 14, 1:30am",
+      "home_team": "FC Dallas",
+      "away_team": "Vancouver Whitecaps",
+      "home_ppg": 1.44,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.4,
+        "away": 1.98
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390770",
+      "date_timestamp": null,
+      "date_str": "May 14, 1:30am",
+      "home_team": "St. Louis City",
+      "away_team": "Los Angeles FC",
+      "home_ppg": 1.67,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.4,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390723",
+      "date_timestamp": null,
+      "date_str": "May 14, 12:30am",
+      "home_team": "New England Revolution",
+      "away_team": "Nashville SC",
+      "home_ppg": 2.63,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.28,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390769",
+      "date_timestamp": null,
+      "date_str": "May 14, 12:30am",
+      "home_team": "Montreal Impact",
+      "away_team": "Portland Timbers",
+      "home_ppg": 1.67,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.5,
+        "away": 2.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390777",
+      "date_timestamp": null,
+      "date_str": "May 14, 12:30am",
+      "home_team": "DC United",
+      "away_team": "Chicago Fire",
+      "home_ppg": 1.14,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.69,
+        "draw": 3.45,
+        "away": 2.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390966",
+      "date_timestamp": null,
+      "date_str": "May 14, 12:30am",
+      "home_team": "Orlando City",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 1.43,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.55,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390999",
+      "date_timestamp": null,
+      "date_str": "May 14, 12:30am",
+      "home_team": "New York RB",
+      "away_team": "Columbus Crew",
+      "home_ppg": 1.57,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.65,
+        "away": 2.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391029",
+      "date_timestamp": null,
+      "date_str": "May 14, 12:30am",
+      "home_team": "FC Cincinnati",
+      "away_team": "Inter Miami",
+      "home_ppg": 1.86,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.93,
+        "away": 2.03
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390624",
+      "date_timestamp": null,
+      "date_str": "May 14, 12:15am",
+      "home_team": "Charlotte",
+      "away_team": "New York City",
+      "home_ppg": 1.89,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.55,
+        "away": 2.86
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390776",
+      "date_timestamp": null,
+      "date_str": "May 11, 2:00am",
+      "home_team": "Los Angeles FC",
+      "away_team": "Houston Dynamo",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 4.0,
+        "away": 4.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390623",
+      "date_timestamp": null,
+      "date_str": "May 11, 12:00am",
+      "home_team": "Minnesota United",
+      "away_team": "Austin",
+      "home_ppg": 1.29,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.0,
+        "away": 4.79
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390951",
+      "date_timestamp": null,
+      "date_str": "May 10, 9:30pm",
+      "home_team": "New York City",
+      "away_team": "Columbus Crew",
+      "home_ppg": 1.38,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.55,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390622",
+      "date_timestamp": null,
+      "date_str": "May 10, 3:30am",
+      "home_team": "SJ Earthquakes",
+      "away_team": "Vancouver Whitecaps",
+      "home_ppg": 1.86,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.66,
+        "draw": 3.4,
+        "away": 2.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391033",
+      "date_timestamp": null,
+      "date_str": "May 10, 3:30am",
+      "home_team": "Seattle Sounders",
+      "away_team": "San Diego",
+      "home_ppg": 2.17,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.5,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391034",
+      "date_timestamp": null,
+      "date_str": "May 10, 3:30am",
+      "home_team": "Portland Timbers",
+      "away_team": "Sporting KC",
+      "home_ppg": 1.67,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.5,
+        "away": 4.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390965",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:30am",
+      "home_team": "Colorado Rapids",
+      "away_team": "St. Louis City",
+      "home_ppg": 1.5,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.8,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390997",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:15am",
+      "home_team": "Nashville SC",
+      "away_team": "DC United",
+      "home_ppg": 2.71,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.86,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390950",
+      "date_timestamp": null,
+      "date_str": "May 10, 1:30am",
+      "home_team": "FC Dallas",
+      "away_team": "Real Salt Lake",
+      "home_ppg": 1.44,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.5,
+        "away": 2.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390749",
+      "date_timestamp": null,
+      "date_str": "May 10, 12:30am",
+      "home_team": "Atlanta United FC",
+      "away_team": "LA Galaxy",
+      "home_ppg": 0.88,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.6,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390998",
+      "date_timestamp": null,
+      "date_str": "May 10, 12:30am",
+      "home_team": "New England Revolution",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 2.63,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.54,
+        "draw": 3.2,
+        "away": 2.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391021",
+      "date_timestamp": null,
+      "date_str": "May 10, 12:30am",
+      "home_team": "Charlotte",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 1.89,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.5,
+        "away": 2.88
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391007",
+      "date_timestamp": null,
+      "date_str": "May 9, 9:30pm",
+      "home_team": "Montreal Impact",
+      "away_team": "Orlando City",
+      "home_ppg": 1.67,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.9,
+        "away": 3.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391035",
+      "date_timestamp": null,
+      "date_str": "May 9, 7:30pm",
+      "home_team": "Chicago Fire",
+      "away_team": "New York RB",
+      "home_ppg": 1.88,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 4.75,
+        "away": 4.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390750",
+      "date_timestamp": null,
+      "date_str": "May 9, 6:00pm",
+      "home_team": "Toronto",
+      "away_team": "Inter Miami",
+      "home_ppg": 1.22,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.71,
+        "away": 1.78
+      },
+      "result": "2"
+    },
+    {
+      "id": "8391019",
+      "date_timestamp": null,
+      "date_str": "May 3, 10:30pm",
+      "home_team": "Austin",
+      "away_team": "St. Louis City",
+      "home_ppg": 1.57,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.51,
+        "away": 2.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390748",
+      "date_timestamp": null,
+      "date_str": "May 3, 8:00pm",
+      "home_team": "New York City",
+      "away_team": "DC United",
+      "home_ppg": 1.38,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.9,
+        "away": 4.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390747",
+      "date_timestamp": null,
+      "date_str": "May 3, 3:30am",
+      "home_team": "LA Galaxy",
+      "away_team": "Vancouver Whitecaps",
+      "home_ppg": 1.29,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 4.05,
+        "away": 1.88
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391006",
+      "date_timestamp": null,
+      "date_str": "May 3, 2:30am",
+      "home_team": "San Diego",
+      "away_team": "Los Angeles FC",
+      "home_ppg": 1.33,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.65,
+        "away": 2.54
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390621",
+      "date_timestamp": null,
+      "date_str": "May 3, 1:30am",
+      "home_team": "Chicago Fire",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 1.88,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 4.35,
+        "away": 4.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8391028",
+      "date_timestamp": null,
+      "date_str": "May 3, 1:30am",
+      "home_team": "Houston Dynamo",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 2.14,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.7,
+        "away": 3.63
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390639",
+      "date_timestamp": null,
+      "date_str": "May 3, 12:30am",
+      "home_team": "Philadelphia Union",
+      "away_team": "Nashville SC",
+      "home_ppg": 0.5,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.2,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390720",
+      "date_timestamp": null,
+      "date_str": "May 3, 12:30am",
+      "home_team": "Columbus Crew",
+      "away_team": "Minnesota United",
+      "home_ppg": 1.57,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.85,
+        "away": 3.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390721",
+      "date_timestamp": null,
+      "date_str": "May 3, 12:30am",
+      "home_team": "Atlanta United FC",
+      "away_team": "Montreal Impact",
+      "home_ppg": 0.88,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.3,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390722",
+      "date_timestamp": null,
+      "date_str": "May 3, 12:30am",
+      "home_team": "New York RB",
+      "away_team": "FC Dallas",
+      "home_ppg": 1.57,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.5,
+        "away": 2.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390746",
+      "date_timestamp": null,
+      "date_str": "May 3, 12:30am",
+      "home_team": "New England Revolution",
+      "away_team": "Charlotte",
+      "home_ppg": 2.63,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391023",
+      "date_timestamp": null,
+      "date_str": "May 3, 12:15am",
+      "home_team": "Inter Miami",
+      "away_team": "Orlando City",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 6.2,
+        "away": 7.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390768",
+      "date_timestamp": null,
+      "date_str": "May 2, 9:45pm",
+      "home_team": "Real Salt Lake",
+      "away_team": "Portland Timbers",
+      "home_ppg": 2.63,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.25,
+        "away": 6.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390719",
+      "date_timestamp": null,
+      "date_str": "May 2, 7:30pm",
+      "home_team": "Sporting KC",
+      "away_team": "Seattle Sounders",
+      "home_ppg": 0.71,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 4.05,
+        "away": 1.72
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390775",
+      "date_timestamp": null,
+      "date_str": "May 2, 6:00pm",
+      "home_team": "Toronto",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 1.22,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.6,
+        "away": 2.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390767",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 12:00am",
+      "home_team": "LA Galaxy",
+      "away_team": "Real Salt Lake",
+      "home_ppg": 1.29,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.7,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390745",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 3:30am",
+      "home_team": "Seattle Sounders",
+      "away_team": "FC Dallas",
+      "home_ppg": 2.17,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 4.0,
+        "away": 4.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391022",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 3:30am",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 2.63,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.3,
+        "away": 7.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390763",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:30am",
+      "home_team": "San Diego",
+      "away_team": "Portland Timbers",
+      "home_ppg": 1.33,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.9,
+        "away": 3.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390677",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:30am",
+      "home_team": "Chicago Fire",
+      "away_team": "Sporting KC",
+      "home_ppg": 1.88,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 6.0,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390744",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:30am",
+      "home_team": "Nashville SC",
+      "away_team": "Charlotte",
+      "home_ppg": 2.71,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.0,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390949",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:30am",
+      "home_team": "St. Louis City",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 1.67,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.4,
+        "away": 2.58
+      },
+      "result": "2"
+    },
+    {
+      "id": "8391005",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:30am",
+      "home_team": "Austin",
+      "away_team": "Houston Dynamo",
+      "home_ppg": 1.57,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.4,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390688",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 12:30am",
+      "home_team": "Inter Miami",
+      "away_team": "New England Revolution",
+      "home_ppg": 1.5,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.5,
+        "away": 7.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390718",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 12:30am",
+      "home_team": "Columbus Crew",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 1.57,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.7,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390983",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 12:30am",
+      "home_team": "DC United",
+      "away_team": "Orlando City",
+      "home_ppg": 1.14,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.88,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390984",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 12:30am",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York RB",
+      "home_ppg": 1.86,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 4.05,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390762",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 9:45pm",
+      "home_team": "Minnesota United",
+      "away_team": "Los Angeles FC",
+      "home_ppg": 1.29,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.45,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8391020",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 7:30pm",
+      "home_team": "Montreal Impact",
+      "away_team": "New York City",
+      "home_ppg": 1.67,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.5,
+        "away": 2.33
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390620",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 6:00pm",
+      "home_team": "Toronto",
+      "away_team": "Atlanta United FC",
+      "home_ppg": 1.22,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.5,
+        "away": 3.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390958",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 3:30am",
+      "home_team": "Los Angeles FC",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 2.0,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.6,
+        "away": 6.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391018",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 3:30am",
+      "home_team": "SJ Earthquakes",
+      "away_team": "Austin",
+      "home_ppg": 1.86,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 4.5,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390707",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 2:45am",
+      "home_team": "Columbus Crew",
+      "away_team": "LA Galaxy",
+      "home_ppg": 1.57,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.8,
+        "away": 4.34
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390676",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 2:30am",
+      "home_team": "Real Salt Lake",
+      "away_team": "Inter Miami",
+      "home_ppg": 2.63,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.85,
+        "away": 2.95
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390687",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 1:30am",
+      "home_team": "FC Dallas",
+      "away_team": "Minnesota United",
+      "home_ppg": 1.44,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.7,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390709",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 1:30am",
+      "home_team": "Houston Dynamo",
+      "away_team": "San Diego",
+      "home_ppg": 2.14,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.7,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390957",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:45am",
+      "home_team": "Atlanta United FC",
+      "away_team": "New England Revolution",
+      "home_ppg": 0.88,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.4,
+        "away": 2.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390708",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:30am",
+      "home_team": "Orlando City",
+      "away_team": "Charlotte",
+      "home_ppg": 1.43,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.86,
+        "away": 2.19
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390743",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:30am",
+      "home_team": "New York RB",
+      "away_team": "DC United",
+      "home_ppg": 1.57,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.65,
+        "away": 3.88
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391001",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:30am",
+      "home_team": "New York City",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 1.38,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.75,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391004",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:30am",
+      "home_team": "Toronto",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 1.22,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.3,
+        "away": 2.44
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390761",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 12:00am",
+      "home_team": "Los Angeles FC",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 2.0,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.9,
+        "away": 4.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390741",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:30am",
+      "home_team": "Real Salt Lake",
+      "away_team": "San Diego",
+      "home_ppg": 2.63,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.2,
+        "away": 4.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390742",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:30am",
+      "home_team": "Seattle Sounders",
+      "away_team": "St. Louis City",
+      "home_ppg": 2.17,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.8,
+        "away": 4.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390956",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 1:30am",
+      "home_team": "FC Dallas",
+      "away_team": "LA Galaxy",
+      "home_ppg": 1.44,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.65,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390964",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 1:30am",
+      "home_team": "Minnesota United",
+      "away_team": "Portland Timbers",
+      "home_ppg": 1.29,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.85,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390675",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:30am",
+      "home_team": "Atlanta United FC",
+      "away_team": "Nashville SC",
+      "home_ppg": 0.88,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.51,
+        "away": 1.99
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390704",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:30am",
+      "home_team": "FC Cincinnati",
+      "away_team": "Chicago Fire",
+      "home_ppg": 1.86,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.4,
+        "away": 2.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390705",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:30am",
+      "home_team": "New England Revolution",
+      "away_team": "Columbus Crew",
+      "home_ppg": 2.63,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.72,
+        "draw": 3.5,
+        "away": 2.47
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390706",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:30am",
+      "home_team": "Orlando City",
+      "away_team": "Houston Dynamo",
+      "home_ppg": 1.43,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.6,
+        "away": 2.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390760",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:30am",
+      "home_team": "Philadelphia Union",
+      "away_team": "DC United",
+      "home_ppg": 0.5,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.5,
+        "away": 4.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391017",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:30am",
+      "home_team": "New York City",
+      "away_team": "Charlotte",
+      "home_ppg": 1.38,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.82,
+        "away": 4.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390982",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 9:30pm",
+      "home_team": "Colorado Rapids",
+      "away_team": "Inter Miami",
+      "home_ppg": 1.5,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.12,
+        "draw": 3.9,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390703",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 7:30pm",
+      "home_team": "Montreal Impact",
+      "away_team": "New York RB",
+      "home_ppg": 1.67,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.4,
+        "away": 2.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390740",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 6:00pm",
+      "home_team": "Toronto",
+      "away_team": "Austin",
+      "home_ppg": 1.22,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.3,
+        "away": 4.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390674",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 3:30am",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Sporting KC",
+      "home_ppg": 2.63,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.13,
+        "draw": 10.0,
+        "away": 20.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390979",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 12:00am",
+      "home_team": "Columbus Crew",
+      "away_team": "Orlando City",
+      "home_ppg": 1.57,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.7,
+        "away": 6.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390739",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 3:30am",
+      "home_team": "San Diego",
+      "away_team": "Minnesota United",
+      "home_ppg": 1.33,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.96,
+        "away": 4.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390702",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:30am",
+      "home_team": "Colorado Rapids",
+      "away_team": "Houston Dynamo",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.2,
+        "away": 3.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390610",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:30am",
+      "home_team": "FC Dallas",
+      "away_team": "St. Louis City",
+      "home_ppg": 1.44,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.83,
+        "away": 3.49
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390696",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:30am",
+      "home_team": "Chicago Fire",
+      "away_team": "Atlanta United FC",
+      "home_ppg": 1.88,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 4.33,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390955",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:30am",
+      "home_team": "Sporting KC",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 0.71,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 4.0,
+        "away": 1.73
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390611",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 12:30am",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "New York City",
+      "home_ppg": 2.63,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.59,
+        "draw": 4.5,
+        "away": 5.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390695",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 12:30am",
+      "home_team": "Charlotte",
+      "away_team": "Nashville SC",
+      "home_ppg": 1.89,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.4,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390996",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 12:30am",
+      "home_team": "Inter Miami",
+      "away_team": "New York RB",
+      "home_ppg": 1.5,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.0,
+        "away": 5.98
+      },
+      "result": "X"
+    },
+    {
+      "id": "8391009",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 12:30am",
+      "home_team": "New England Revolution",
+      "away_team": "DC United",
+      "home_ppg": 2.63,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.25,
+        "away": 3.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390694",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 9:45pm",
+      "home_team": "Portland Timbers",
+      "away_team": "Los Angeles FC",
+      "home_ppg": 1.67,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.8,
+        "away": 1.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390738",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 7:30pm",
+      "home_team": "Austin",
+      "away_team": "LA Galaxy",
+      "home_ppg": 1.57,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.55,
+        "away": 3.02
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390759",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 7:30pm",
+      "home_team": "Montreal Impact",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 1.67,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.25,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390693",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 6:00pm",
+      "home_team": "Toronto",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 1.22,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.35,
+        "away": 2.78
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390690",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 3:30am",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Portland Timbers",
+      "home_ppg": 2.63,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 5.95,
+        "away": 7.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390758",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 3:30am",
+      "home_team": "SJ Earthquakes",
+      "away_team": "San Diego",
+      "home_ppg": 1.86,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.7,
+        "away": 3.08
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391003",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 3:30am",
+      "home_team": "LA Galaxy",
+      "away_team": "Minnesota United",
+      "home_ppg": 1.29,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.6,
+        "away": 3.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390635",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 2:30am",
+      "home_team": "Los Angeles FC",
+      "away_team": "Orlando City",
+      "home_ppg": 2.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 6.49,
+        "away": 8.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390737",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:30am",
+      "home_team": "Chicago Fire",
+      "away_team": "Nashville SC",
+      "home_ppg": 1.88,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 2.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390756",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:30am",
+      "home_team": "Houston Dynamo",
+      "away_team": "Seattle Sounders",
+      "home_ppg": 2.14,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.25,
+        "away": 2.72
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390736",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "Charlotte",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 1.89,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 3.55,
+        "away": 2.87
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390757",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "New York RB",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 1.57,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.7,
+        "away": 3.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390954",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "DC United",
+      "away_team": "FC Dallas",
+      "home_ppg": 1.14,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.3,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390970",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "Inter Miami",
+      "away_team": "Austin",
+      "home_ppg": 1.5,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.95,
+        "away": 8.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390980",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "Atlanta United FC",
+      "away_team": "Columbus Crew",
+      "home_ppg": 0.88,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.88,
+        "draw": 3.4,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390981",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:30am",
+      "home_team": "New York City",
+      "away_team": "St. Louis City",
+      "home_ppg": 1.38,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.59,
+        "draw": 3.6,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390634",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 9:30pm",
+      "home_team": "Real Salt Lake",
+      "away_team": "Sporting KC",
+      "home_ppg": 2.63,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.4,
+        "away": 8.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390735",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 9:30pm",
+      "home_team": "New England Revolution",
+      "away_team": "Montreal Impact",
+      "home_ppg": 2.63,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.8,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390978",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 6:00pm",
+      "home_team": "Toronto",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 1.22,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.4,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390995",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 11:00pm",
+      "home_team": "San Diego",
+      "away_team": "Real Salt Lake",
+      "home_ppg": 1.33,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.82,
+        "away": 3.37
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390963",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 8:45pm",
+      "home_team": "Portland Timbers",
+      "away_team": "LA Galaxy",
+      "home_ppg": 1.67,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 3.6,
+        "away": 2.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390689",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 6:30pm",
+      "home_team": "Minnesota United",
+      "away_team": "Seattle Sounders",
+      "home_ppg": 1.29,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.4,
+        "away": 2.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390701",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 5:00pm",
+      "home_team": "New York City",
+      "away_team": "Inter Miami",
+      "home_ppg": 1.38,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.45,
+        "away": 2.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390962",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 5:00pm",
+      "home_team": "FC Cincinnati",
+      "away_team": "Montreal Impact",
+      "home_ppg": 1.86,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.7,
+        "away": 4.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8391002",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:30am",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 2.63,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 3.9,
+        "away": 5.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390753",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 12:45am",
+      "home_team": "Austin",
+      "away_team": "Los Angeles FC",
+      "home_ppg": 1.57,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.4,
+        "away": 2.06
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390633",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 12:30am",
+      "home_team": "Sporting KC",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 0.71,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.4,
+        "away": 2.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390734",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 12:30am",
+      "home_team": "FC Dallas",
+      "away_team": "Houston Dynamo",
+      "home_ppg": 1.44,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.45,
+        "away": 2.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390754",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 12:30am",
+      "home_team": "St. Louis City",
+      "away_team": "New England Revolution",
+      "home_ppg": 1.67,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.87,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390700",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 11:30pm",
+      "home_team": "Atlanta United FC",
+      "away_team": "DC United",
+      "home_ppg": 0.88,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.4,
+        "away": 3.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390755",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 11:30pm",
+      "home_team": "Charlotte",
+      "away_team": "New York RB",
+      "home_ppg": 1.89,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.25,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390692",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 10:15pm",
+      "home_team": "Nashville SC",
+      "away_team": "Orlando City",
+      "home_ppg": 2.71,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.7,
+        "away": 6.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390752",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 8:30pm",
+      "home_team": "Philadelphia Union",
+      "away_team": "Chicago Fire",
+      "home_ppg": 0.5,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.24,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390686",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:00pm",
+      "home_team": "Toronto",
+      "away_team": "Columbus Crew",
+      "home_ppg": 1.22,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.3,
+        "away": 2.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390948",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:00pm",
+      "home_team": "SJ Earthquakes",
+      "away_team": "Seattle Sounders",
+      "home_ppg": 1.86,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.72,
+        "away": 2.69
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390991",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 8:30pm",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Minnesota United",
+      "home_ppg": 2.63,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.33,
+        "away": 5.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390717",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 6:30pm",
+      "home_team": "New England Revolution",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 2.63,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.3,
+        "away": 2.57
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390947",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:30am",
+      "home_team": "Los Angeles FC",
+      "away_team": "St. Louis City",
+      "home_ppg": 2.0,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.18,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390619",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 1:30am",
+      "home_team": "LA Galaxy",
+      "away_team": "Sporting KC",
+      "home_ppg": 1.29,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.4,
+        "away": 5.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390685",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 1:30am",
+      "home_team": "Real Salt Lake",
+      "away_team": "Austin",
+      "home_ppg": 2.63,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.4,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390607",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 12:30am",
+      "home_team": "FC Dallas",
+      "away_team": "San Diego",
+      "home_ppg": 1.44,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 3.75,
+        "away": 2.56
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390608",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 12:30am",
+      "home_team": "Chicago Fire",
+      "away_team": "DC United",
+      "home_ppg": 1.88,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 4.03,
+        "away": 5.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390609",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 12:30am",
+      "home_team": "Houston Dynamo",
+      "away_team": "Portland Timbers",
+      "home_ppg": 2.14,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.92,
+        "away": 5.14
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390606",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:30pm",
+      "home_team": "Orlando City",
+      "away_team": "Montreal Impact",
+      "home_ppg": 1.43,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.85,
+        "away": 3.82
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390684",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:30pm",
+      "home_team": "New York City",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 1.38,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.4,
+        "away": 6.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390733",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:30pm",
+      "home_team": "Charlotte",
+      "away_team": "Inter Miami",
+      "home_ppg": 1.89,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.4,
+        "away": 2.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390605",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 10:15pm",
+      "home_team": "Columbus Crew",
+      "away_team": "Nashville SC",
+      "home_ppg": 1.57,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 4.35,
+        "away": 3.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390990",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 7:15pm",
+      "home_team": "Atlanta United FC",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 0.88,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.54,
+        "draw": 3.35,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390614",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 5:00pm",
+      "home_team": "Toronto",
+      "away_team": "New York RB",
+      "home_ppg": 1.22,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.53,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390715",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 11:00pm",
+      "home_team": "FC Cincinnati",
+      "away_team": "Toronto",
+      "home_ppg": 1.86,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.81,
+        "draw": 3.6,
+        "away": 4.32
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390716",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 8:30pm",
+      "home_team": "New York RB",
+      "away_team": "Montreal Impact",
+      "home_ppg": 1.57,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 4.45,
+        "away": 4.66
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390613",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 3:30am",
+      "home_team": "Los Angeles FC",
+      "away_team": "FC Dallas",
+      "home_ppg": 2.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 4.45,
+        "away": 9.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390683",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 3:30am",
+      "home_team": "Portland Timbers",
+      "away_team": "Vancouver Whitecaps",
+      "home_ppg": 1.67,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 4.36,
+        "draw": 4.36,
+        "away": 1.74
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390714",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 2:30am",
+      "home_team": "Colorado Rapids",
+      "away_team": "LA Galaxy",
+      "home_ppg": 1.5,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.9,
+        "away": 2.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390632",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 1:30am",
+      "home_team": "Nashville SC",
+      "away_team": "Minnesota United",
+      "home_ppg": 2.71,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 4.1,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390713",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 1:30am",
+      "home_team": "Sporting KC",
+      "away_team": "San Diego",
+      "home_ppg": 0.71,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.01,
+        "draw": 4.0,
+        "away": 1.67
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390946",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 1:30am",
+      "home_team": "St. Louis City",
+      "away_team": "Seattle Sounders",
+      "home_ppg": 1.67,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.4,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390629",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 12:30am",
+      "home_team": "Columbus Crew",
+      "away_team": "Chicago Fire",
+      "home_ppg": 1.57,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.8,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390630",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 12:30am",
+      "home_team": "Atlanta United FC",
+      "away_team": "Real Salt Lake",
+      "home_ppg": 0.88,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.55,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390631",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 12:30am",
+      "home_team": "Philadelphia Union",
+      "away_team": "SJ Earthquakes",
+      "home_ppg": 0.5,
+      "away_ppg": 2.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.81,
+        "draw": 3.7,
+        "away": 3.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390682",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 12:30am",
+      "home_team": "Charlotte",
+      "away_team": "Austin",
+      "home_ppg": 1.89,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.45,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390618",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 9:30pm",
+      "home_team": "DC United",
+      "away_team": "Inter Miami",
+      "home_ppg": 1.14,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.94,
+        "draw": 4.4,
+        "away": 1.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390616",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 7:30pm",
+      "home_team": "New York City",
+      "away_team": "Orlando City",
+      "home_ppg": 1.38,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.33,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390989",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 2:15am",
+      "home_team": "San Diego",
+      "away_team": "St. Louis City",
+      "home_ppg": 1.33,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.2,
+        "away": 4.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390712",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 12:00am",
+      "home_team": "Orlando City",
+      "away_team": "Inter Miami",
+      "home_ppg": 1.43,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 4.15,
+        "away": 1.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390711",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 9:30pm",
+      "home_team": "Philadelphia Union",
+      "away_team": "New York City",
+      "home_ppg": 0.5,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.78,
+        "away": 4.31
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390969",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 7:30pm",
+      "home_team": "Austin",
+      "away_team": "DC United",
+      "home_ppg": 1.57,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.25,
+        "away": 3.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390968",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 3:30am",
+      "home_team": "LA Galaxy",
+      "away_team": "Charlotte",
+      "home_ppg": 1.29,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.65,
+        "away": 3.18
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390691",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:30am",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Toronto",
+      "home_ppg": 2.63,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 4.56,
+        "away": 5.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390710",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 1:30am",
+      "home_team": "FC Dallas",
+      "away_team": "Nashville SC",
+      "home_ppg": 1.44,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.81,
+        "away": 2.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390751",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 1:30am",
+      "home_team": "Houston Dynamo",
+      "away_team": "Los Angeles FC",
+      "home_ppg": 2.14,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.18,
+        "draw": 3.73,
+        "away": 2.04
+      },
+      "result": "2"
+    },
+    {
+      "id": "8390988",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 1:30am",
+      "home_team": "Sporting KC",
+      "away_team": "Columbus Crew",
+      "home_ppg": 0.71,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.63,
+        "draw": 4.0,
+        "away": 1.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8390615",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 12:30am",
+      "home_team": "Real Salt Lake",
+      "away_team": "Seattle Sounders",
+      "home_ppg": 2.63,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.46,
+        "away": 2.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390628",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 12:30am",
+      "home_team": "SJ Earthquakes",
+      "away_team": "Atlanta United FC",
+      "home_ppg": 1.86,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.64,
+        "away": 3.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390627",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 9:30pm",
+      "home_team": "Minnesota United",
+      "away_team": "FC Cincinnati",
+      "home_ppg": 1.29,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.58,
+        "draw": 3.69,
+        "away": 2.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390699",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 9:30pm",
+      "home_team": "Colorado Rapids",
+      "away_team": "Portland Timbers",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.85,
+        "away": 3.01
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390697",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 7:30pm",
+      "home_team": "Chicago Fire",
+      "away_team": "Montreal Impact",
+      "home_ppg": 1.88,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.0,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8390698",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 7:30pm",
+      "home_team": "New York RB",
+      "away_team": "New England Revolution",
+      "home_ppg": 1.57,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 4.05,
+        "away": 4.52
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400771",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 2:15am",
+      "home_team": "Seattle Sounders",
+      "away_team": "Colorado Rapids",
+      "home_ppg": 2.17,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 4.65,
+        "away": 6.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400766",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 12:00am",
+      "home_team": "LA Galaxy",
+      "away_team": "New York City",
+      "home_ppg": 1.29,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.78,
+        "away": 2.69
+      },
+      "result": "X"
+    },
+    {
+      "id": "8400765",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:30am",
+      "home_team": "San Diego",
+      "away_team": "Montreal Impact",
+      "home_ppg": 1.33,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 4.4,
+        "away": 5.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400767",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:30am",
+      "home_team": "Portland Timbers",
+      "away_team": "Columbus Crew",
+      "home_ppg": 1.67,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.7,
+        "away": 2.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400778",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:30am",
+      "home_team": "SJ Earthquakes",
+      "away_team": "Sporting KC",
+      "home_ppg": 1.86,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.3,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400769",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:30am",
+      "home_team": "Los Angeles FC",
+      "away_team": "Inter Miami",
+      "home_ppg": 2.0,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.7,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400764",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 1:30am",
+      "home_team": "Houston Dynamo",
+      "away_team": "Chicago Fire",
+      "home_ppg": 2.14,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.4,
+        "away": 2.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400770",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 1:30am",
+      "home_team": "Austin",
+      "away_team": "Minnesota United",
+      "home_ppg": 1.57,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.2,
+        "away": 2.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8400776",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 1:30am",
+      "home_team": "Nashville SC",
+      "away_team": "New England Revolution",
+      "home_ppg": 2.71,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.4,
+        "away": 4.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400777",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 1:30am",
+      "home_team": "FC Dallas",
+      "away_team": "Toronto",
+      "home_ppg": 1.44,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.4,
+        "away": 3.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400768",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 12:30am",
+      "home_team": "DC United",
+      "away_team": "Philadelphia Union",
+      "home_ppg": 1.14,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.28,
+        "draw": 3.4,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400774",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 12:30am",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Real Salt Lake",
+      "home_ppg": 2.63,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.7,
+        "away": 6.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400775",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 12:30am",
+      "home_team": "Orlando City",
+      "away_team": "New York RB",
+      "home_ppg": 1.43,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 3.6,
+        "away": 3.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8400773",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 9:45pm",
+      "home_team": "FC Cincinnati",
+      "away_team": "Atlanta United FC",
+      "home_ppg": 1.86,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.5,
+        "away": 3.91
+      },
+      "result": "1"
+    },
+    {
+      "id": "8400772",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 7:30pm",
+      "home_team": "St. Louis City",
+      "away_team": "Charlotte",
+      "home_ppg": 1.67,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.4,
+        "away": 2.66
+      },
+      "result": "X"
+    }
+  ]
+}

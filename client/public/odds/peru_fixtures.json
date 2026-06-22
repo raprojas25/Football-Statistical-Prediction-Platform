@@ -1,0 +1,2725 @@
+{
+  "generated_at": "2026-05-29T16:34:04.231281+00:00",
+  "source": "https://footystats.org/peru/primera-division/fixtures",
+  "league": "Primera División",
+  "country": "Perú",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8496875",
+      "date_timestamp": null,
+      "date_str": "Mon 25, 9:30pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 1.31,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8496857",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 9:30pm",
+      "home_team": "Alianza Atlético",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.31,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.6,
+        "away": 4.9
+      }
+    },
+    {
+      "id": "8496862",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 7:15pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "Cienciano",
+      "home_ppg": 1.0,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.32,
+        "away": 3.07
+      }
+    },
+    {
+      "id": "8496860",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 5:00pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "ADT",
+      "home_ppg": 1.19,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.5,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8496863",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 2:30am",
+      "home_team": "Alianza Lima",
+      "away_team": "Los Chankas",
+      "home_ppg": 2.44,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.75,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8496861",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 11:15pm",
+      "home_team": "Real Garcilaso",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.5,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.95,
+        "away": 4.75
+      }
+    },
+    {
+      "id": "8496815",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 9:00pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "Sport Boys",
+      "home_ppg": 1.06,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.7,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8496864",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 6:45pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "Universitario",
+      "home_ppg": 1.13,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.3,
+        "away": 1.8
+      }
+    },
+    {
+      "id": "8496803",
+      "date_timestamp": null,
+      "date_str": "Fri 22, 9:00pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "Melgar",
+      "home_ppg": 1.0,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.5,
+        "away": 1.81
+      }
+    },
+    {
+      "id": "8496873",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 9:30pm",
+      "home_team": "Los Chankas",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 2.06,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.5,
+        "away": 6.53
+      }
+    },
+    {
+      "id": "8496865",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 7:15pm",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.44,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.2,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8496868",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 5:00pm",
+      "home_team": "ADT",
+      "away_team": "Comerciantes Unidos",
+      "home_ppg": 1.25,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.4,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8496834",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 2:30am",
+      "home_team": "Sport Boys",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 1.06,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.2,
+        "away": 3.05
+      }
+    },
+    {
+      "id": "8496854",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 11:45pm",
+      "home_team": "Cienciano",
+      "away_team": "Alianza Lima",
+      "home_ppg": 1.88,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.14,
+        "away": 3.39
+      }
+    },
+    {
+      "id": "8496813",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 9:15pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 1.0,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.2,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8496874",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 7:00pm",
+      "home_team": "Melgar",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 1.56,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.94,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8496825",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 2:00am",
+      "home_team": "Universitario",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.63,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.45,
+        "away": 7.85
+      }
+    },
+    {
+      "id": "8496814",
+      "date_timestamp": null,
+      "date_str": "Fri 15, 9:00pm",
+      "home_team": "FC Cajamarca",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 1.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.3,
+        "away": 2.39
+      }
+    },
+    {
+      "id": "8496801",
+      "date_timestamp": null,
+      "date_str": "Tue 12, 2:30am",
+      "home_team": "Sport Boys",
+      "away_team": "Universitario",
+      "home_ppg": 1.06,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.0,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8496843",
+      "date_timestamp": null,
+      "date_str": "Mon 11, 7:00pm",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 1.44,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.3,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8496835",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 11:30pm",
+      "home_team": "Real Garcilaso",
+      "away_team": "Los Chankas",
+      "home_ppg": 1.5,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.65,
+        "away": 4.09
+      }
+    },
+    {
+      "id": "8496859",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 9:15pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "Melgar",
+      "home_ppg": 1.31,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.15,
+        "away": 2.51
+      }
+    },
+    {
+      "id": "8496872",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 7:00pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "Juan Pablo II College",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.6,
+        "away": 6.25
+      }
+    },
+    {
+      "id": "8496867",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 2:00am",
+      "home_team": "Alianza Lima",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 2.44,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 3.9,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8496858",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 9:15pm",
+      "home_team": "Atlético Grau",
+      "away_team": "Cienciano",
+      "home_ppg": 0.81,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8496870",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 7:00pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "ADT",
+      "home_ppg": 1.13,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 2.87
+      }
+    },
+    {
+      "id": "8496802",
+      "date_timestamp": null,
+      "date_str": "Fri 8, 9:00pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.06,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.3,
+        "away": 3.45
+      }
+    },
+    {
+      "id": "8496866",
+      "date_timestamp": null,
+      "date_str": "Mon 4, 7:00pm",
+      "home_team": "Los Chankas",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 2.06,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.2,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8496842",
+      "date_timestamp": null,
+      "date_str": "Mon 4, 12:00am",
+      "home_team": "Melgar",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.56,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.2,
+        "away": 6.25
+      }
+    },
+    {
+      "id": "8496795",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 9:30pm",
+      "home_team": "Alianza Atlético",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 1.31,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.15,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8496855",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 7:15pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "Universitario",
+      "home_ppg": 1.0,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 4.7,
+        "draw": 3.4,
+        "away": 1.75
+      }
+    },
+    {
+      "id": "8496822",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 5:00pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 1.19,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.68,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8496853",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 2:00am",
+      "home_team": "Alianza Lima",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 2.44,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.15,
+        "draw": 6.15,
+        "away": 14.0
+      }
+    },
+    {
+      "id": "8496819",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 11:30pm",
+      "home_team": "Cienciano",
+      "away_team": "Comerciantes Unidos",
+      "home_ppg": 1.88,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.9,
+        "away": 4.9
+      }
+    },
+    {
+      "id": "8496856",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 9:15pm",
+      "home_team": "ADT",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.25,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.42,
+        "away": 4.32
+      }
+    },
+    {
+      "id": "8496852",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 7:00pm",
+      "home_team": "FC Cajamarca",
+      "away_team": "Sport Boys",
+      "home_ppg": 1.0,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.3,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8496823",
+      "date_timestamp": null,
+      "date_str": "Apr 28, 1:00am",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "Melgar",
+      "home_ppg": 1.44,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 2.9,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8496831",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 9:00pm",
+      "home_team": "ADT",
+      "away_team": "Los Chankas",
+      "home_ppg": 1.25,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.1,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8496845",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 12:00am",
+      "home_team": "Universitario",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 1.63,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.33,
+        "away": 6.6
+      }
+    },
+    {
+      "id": "8496833",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 9:30pm",
+      "home_team": "Atlético Grau",
+      "away_team": "Alianza Lima",
+      "home_ppg": 0.81,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.8,
+        "draw": 3.2,
+        "away": 1.67
+      }
+    },
+    {
+      "id": "8496851",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 7:15pm",
+      "home_team": "Real Garcilaso",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.3,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8496871",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 5:00pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "Cienciano",
+      "home_ppg": 1.06,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.2,
+        "away": 2.89
+      }
+    },
+    {
+      "id": "8496869",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:00am",
+      "home_team": "Sport Boys",
+      "away_team": "Juan Pablo II College",
+      "home_ppg": 1.06,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.8,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8496847",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 9:30pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 1.31,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.25,
+        "away": 3.62
+      }
+    },
+    {
+      "id": "8496878",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 7:00pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.3,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8496816",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 9:00pm",
+      "home_team": "Los Chankas",
+      "away_team": "Cienciano",
+      "home_ppg": 2.06,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.25,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8496846",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 2:30am",
+      "home_team": "Universitario",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 1.63,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 4.35,
+        "away": 9.2
+      }
+    },
+    {
+      "id": "8496879",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:00am",
+      "home_team": "Real Garcilaso",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.2,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8496840",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 9:15pm",
+      "home_team": "Atlético Grau",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 0.81,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.0,
+        "away": 2.11
+      }
+    },
+    {
+      "id": "8496837",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 7:00pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 1.31,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.0,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8496849",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 1:30am",
+      "home_team": "Cienciano",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 1.88,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "8496839",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 11:15pm",
+      "home_team": "Melgar",
+      "away_team": "Universitario",
+      "home_ppg": 1.56,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.0,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8496876",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 9:00pm",
+      "home_team": "Alianza Atlético",
+      "away_team": "Sport Boys",
+      "home_ppg": 1.31,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.15,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8496812",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 5:00pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.19,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.9,
+        "away": 7.34
+      }
+    },
+    {
+      "id": "8496877",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00am",
+      "home_team": "Alianza Lima",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 2.44,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 8,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.33,
+        "away": 6.97
+      }
+    },
+    {
+      "id": "8496848",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 11:30pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 1.0,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.4,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8496850",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 9:15pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "Comerciantes Unidos",
+      "home_ppg": 1.0,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.1,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8496832",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 7:00pm",
+      "home_team": "FC Cajamarca",
+      "away_team": "ADT",
+      "home_ppg": 1.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.25,
+        "away": 2.52
+      }
+    },
+    {
+      "id": "8496841",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 9:00pm",
+      "home_team": "Los Chankas",
+      "away_team": "Atlético Grau",
+      "home_ppg": 2.06,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.3,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8496817",
+      "date_timestamp": null,
+      "date_str": "Apr 15, 9:00pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 1.06,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 3.15
+      }
+    },
+    {
+      "id": "8496844",
+      "date_timestamp": null,
+      "date_str": "Apr 15, 2:00am",
+      "home_team": "Sport Boys",
+      "away_team": "Melgar",
+      "home_ppg": 1.06,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 3.43,
+        "away": 2.83
+      }
+    },
+    {
+      "id": "8496818",
+      "date_timestamp": null,
+      "date_str": "Apr 14, 9:15pm",
+      "home_team": "ADT",
+      "away_team": "Alianza Lima",
+      "home_ppg": 1.25,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.36,
+        "draw": 3.2,
+        "away": 2.11
+      }
+    },
+    {
+      "id": "8496838",
+      "date_timestamp": null,
+      "date_str": "Apr 14, 7:00pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "Juan Pablo II College",
+      "home_ppg": 1.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.3,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8496829",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 9:00pm",
+      "home_team": "FC Cajamarca",
+      "away_team": "Los Chankas",
+      "home_ppg": 1.0,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.18,
+        "away": 2.54
+      }
+    },
+    {
+      "id": "8496811",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 9:30pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.0,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.95,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8496836",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 7:15pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "Comerciantes Unidos",
+      "home_ppg": 1.0,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.8,
+        "away": 5.1
+      }
+    },
+    {
+      "id": "8496830",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 2:00am",
+      "home_team": "Universitario",
+      "away_team": "Alianza Lima",
+      "home_ppg": 1.63,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.0,
+        "away": 3.51
+      }
+    },
+    {
+      "id": "8496820",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 9:30pm",
+      "home_team": "Melgar",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 1.56,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.5,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8496788",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 7:15pm",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "Sport Boys",
+      "home_ppg": 1.44,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.5,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8496821",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 12:15am",
+      "home_team": "Cienciano",
+      "away_team": "ADT",
+      "home_ppg": 1.88,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 3.9,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8496765",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 9:00pm",
+      "home_team": "Alianza Atlético",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.31,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.26,
+        "draw": 2.74,
+        "away": 3.67
+      }
+    },
+    {
+      "id": "8496828",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 5:00pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 1.19,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.15,
+        "draw": 6.25,
+        "away": 11.5
+      }
+    },
+    {
+      "id": "8496769",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 11:00pm",
+      "home_team": "Sport Boys",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 1.06,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.24,
+        "draw": 2.95,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8496770",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 8:30pm",
+      "home_team": "Atlético Grau",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 0.81,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 2.95,
+        "away": 3.81
+      }
+    },
+    {
+      "id": "8496900",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 6:00pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 1.06,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 2.85,
+        "away": 4.15
+      }
+    },
+    {
+      "id": "8496897",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 11:30pm",
+      "home_team": "Alianza Lima",
+      "away_team": "Juan Pablo II College",
+      "home_ppg": 2.44,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.25,
+        "away": 8.65
+      }
+    },
+    {
+      "id": "8496763",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 8:30pm",
+      "home_team": "Los Chankas",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 2.06,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.44,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8496774",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 6:15pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "Universitario",
+      "home_ppg": 1.31,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.2,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8496779",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 4:00pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 1.13,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 2.8,
+        "away": 2.23
+      }
+    },
+    {
+      "id": "8496781",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 12:30am",
+      "home_team": "Cienciano",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.88,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.3,
+        "away": 5.36
+      }
+    },
+    {
+      "id": "8496780",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 8:30pm",
+      "home_team": "ADT",
+      "away_team": "Melgar",
+      "home_ppg": 1.25,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8496784",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:00pm",
+      "home_team": "Real Garcilaso",
+      "away_team": "Cienciano",
+      "home_ppg": 1.5,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.25,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8496901",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 8:30pm",
+      "home_team": "Alianza Atlético",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 1.31,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.45,
+        "away": 6.6
+      }
+    },
+    {
+      "id": "8496745",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 6:15pm",
+      "home_team": "Melgar",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.56,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 4.2,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8496904",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:00pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "Sport Boys",
+      "home_ppg": 1.19,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.2,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8496905",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 1:30am",
+      "home_team": "Universitario",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.63,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.0,
+        "away": 11.0
+      }
+    },
+    {
+      "id": "8496749",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:00pm",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "Alianza Lima",
+      "home_ppg": 1.44,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "8496898",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 8:15pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "Los Chankas",
+      "home_ppg": 1.0,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.45,
+        "away": 3.84
+      }
+    },
+    {
+      "id": "8496741",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 6:00pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "ADT",
+      "home_ppg": 1.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.39,
+        "away": 4.73
+      }
+    },
+    {
+      "id": "8496775",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 8:00pm",
+      "home_team": "FC Cajamarca",
+      "away_team": "Comerciantes Unidos",
+      "home_ppg": 1.0,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.45,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8496776",
+      "date_timestamp": null,
+      "date_str": "Mar 10, 1:30am",
+      "home_team": "Alianza Lima",
+      "away_team": "Melgar",
+      "home_ppg": 2.44,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.6,
+        "away": 6.14
+      }
+    },
+    {
+      "id": "8496761",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 10:30pm",
+      "home_team": "Cienciano",
+      "away_team": "Sport Boys",
+      "home_ppg": 1.88,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.6,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8496896",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 8:30pm",
+      "home_team": "Los Chankas",
+      "away_team": "Universitario",
+      "home_ppg": 2.06,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.99,
+        "draw": 3.0,
+        "away": 2.04
+      }
+    },
+    {
+      "id": "8496739",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 6:15pm",
+      "home_team": "ADT",
+      "away_team": "Juan Pablo II College",
+      "home_ppg": 1.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.1,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8496882",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 12:00am",
+      "home_team": "Real Garcilaso",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 1.5,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "8496883",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 8:30pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 1.19,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.21,
+        "draw": 3.8,
+        "away": 5.6
+      }
+    },
+    {
+      "id": "8496764",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 6:15pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.31,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.85,
+        "draw": 3.05,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8496773",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 4:00pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 1.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.13,
+        "draw": 6.0,
+        "away": 51.0
+      }
+    },
+    {
+      "id": "8496899",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 8:30pm",
+      "home_team": "Atlético Grau",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 0.81,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.2,
+        "away": 4.9
+      }
+    },
+    {
+      "id": "8496798",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 11:00pm",
+      "home_team": "Universitario",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.63,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.13,
+        "draw": 6.1,
+        "away": 9.2
+      }
+    },
+    {
+      "id": "8496786",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 8:30pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 1.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.15,
+        "away": 2.16
+      }
+    },
+    {
+      "id": "8496800",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 6:00pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.31,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.2,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8496799",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 12:00am",
+      "home_team": "Sport Boys",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 1.06,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 3.98,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8496746",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 6:15pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "Alianza Lima",
+      "home_ppg": 1.06,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.2,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8496742",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 4:00pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 1.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.5,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8496747",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 1:15am",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "Cienciano",
+      "home_ppg": 1.44,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.1,
+        "away": 2.37
+      }
+    },
+    {
+      "id": "8496748",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 10:45pm",
+      "home_team": "Melgar",
+      "away_team": "Los Chankas",
+      "home_ppg": 1.56,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.8,
+        "away": 8.8
+      }
+    },
+    {
+      "id": "8496767",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 8:00pm",
+      "home_team": "Alianza Atlético",
+      "away_team": "ADT",
+      "home_ppg": 1.31,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.08,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8496810",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 8:00pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 1.13,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.85,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8496762",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 11:30pm",
+      "home_team": "Real Garcilaso",
+      "away_team": "Comerciantes Unidos",
+      "home_ppg": 1.5,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 4.6,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8496760",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 8:30pm",
+      "home_team": "Atlético Grau",
+      "away_team": "Juan Pablo II College",
+      "home_ppg": 0.81,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.4,
+        "away": 5.84
+      }
+    },
+    {
+      "id": "8496777",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 6:15pm",
+      "home_team": "Los Chankas",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 2.06,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.05,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8496884",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 4:00pm",
+      "home_team": "ADT",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.25,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.05,
+        "away": 3.78
+      }
+    },
+    {
+      "id": "8496782",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 12:00am",
+      "home_team": "Cienciano",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 1.88,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.55,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8496744",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 9:00pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "Universitario",
+      "home_ppg": 1.19,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.65,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8496753",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 6:00pm",
+      "home_team": "FC Cajamarca",
+      "away_team": "Melgar",
+      "home_ppg": 1.0,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.85,
+        "away": 2.21
+      }
+    },
+    {
+      "id": "8496768",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 1:00am",
+      "home_team": "Alianza Lima",
+      "away_team": "Sport Boys",
+      "home_ppg": 2.44,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.0,
+        "away": 7.37
+      }
+    },
+    {
+      "id": "8496881",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:30pm",
+      "home_team": "Melgar",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 1.56,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 6.0,
+        "away": 17.0
+      }
+    },
+    {
+      "id": "8496771",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 8:15pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "Los Chankas",
+      "home_ppg": 1.31,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.35,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8496783",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 6:00pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.0,
+        "away": 5.19
+      }
+    },
+    {
+      "id": "8496796",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 1:00am",
+      "home_team": "Alianza Atlético",
+      "away_team": "Alianza Lima",
+      "home_ppg": 1.31,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.1,
+        "away": 1.91
+      }
+    },
+    {
+      "id": "8496766",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 10:30pm",
+      "home_team": "Sport Boys",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.06,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 3.05,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8496887",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 8:15pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 1.0,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.13,
+        "draw": 3.3,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8496893",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 6:00pm",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "ADT",
+      "home_ppg": 1.44,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.2,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8496886",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 1:30am",
+      "home_team": "Universitario",
+      "away_team": "Cienciano",
+      "home_ppg": 1.63,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.26,
+        "draw": 5.65,
+        "away": 9.2
+      }
+    },
+    {
+      "id": "8496888",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 8:00pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 1.06,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.1,
+        "away": 2.52
+      }
+    },
+    {
+      "id": "8496752",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 8:30pm",
+      "home_team": "FC Cajamarca",
+      "away_team": "Deportivo Garcilaso",
+      "home_ppg": 1.0,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.16,
+        "away": 3.96
+      }
+    },
+    {
+      "id": "8496778",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 11:00pm",
+      "home_team": "Alianza Lima",
+      "away_team": "Comerciantes Unidos",
+      "home_ppg": 2.44,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.2,
+        "away": 8.5
+      }
+    },
+    {
+      "id": "8496894",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 8:30pm",
+      "home_team": "Cienciano",
+      "away_team": "Juan Pablo II College",
+      "home_ppg": 1.88,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 4.95,
+        "away": 9.0
+      }
+    },
+    {
+      "id": "8496738",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 6:15pm",
+      "home_team": "Los Chankas",
+      "away_team": "Alianza Atlético",
+      "home_ppg": 2.06,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.1,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8496885",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 4:00pm",
+      "home_team": "Sporting Cristal",
+      "away_team": "Melgar",
+      "home_ppg": 1.19,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.3,
+        "away": 4.37
+      }
+    },
+    {
+      "id": "8496751",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 1:00am",
+      "home_team": "Real Garcilaso",
+      "away_team": "Universitario",
+      "home_ppg": 1.5,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.34,
+        "draw": 2.83,
+        "away": 2.95
+      }
+    },
+    {
+      "id": "8496889",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 8:15pm",
+      "home_team": "Atlético Grau",
+      "away_team": "Sport Huancayo",
+      "home_ppg": 0.81,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 2.63,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8496772",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 6:00pm",
+      "home_team": "ADT",
+      "away_team": "Sport Boys",
+      "home_ppg": 1.25,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.1,
+        "away": 6.58
+      }
+    },
+    {
+      "id": "8496743",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 8:00pm",
+      "home_team": "UCV Moquegua",
+      "away_team": "UTC Cajamarca",
+      "home_ppg": 1.13,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 2.8,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8496892",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 8:00pm",
+      "home_team": "Comerciantes Unidos",
+      "away_team": "UCV Moquegua",
+      "home_ppg": 1.31,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "8496740",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 11:00pm",
+      "home_team": "Universitario",
+      "away_team": "ADT",
+      "home_ppg": 1.63,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 5.5,
+        "away": 11.0
+      }
+    },
+    {
+      "id": "8496797",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 8:15pm",
+      "home_team": "Alianza Atlético",
+      "away_team": "Real Garcilaso",
+      "home_ppg": 1.31,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.58,
+        "draw": 2.84,
+        "away": 2.94
+      }
+    },
+    {
+      "id": "8496895",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 6:00pm",
+      "home_team": "Deportivo Garcilaso",
+      "away_team": "Sporting Cristal",
+      "home_ppg": 1.44,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.1,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8496750",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 11:30pm",
+      "home_team": "Melgar",
+      "away_team": "Cienciano",
+      "home_ppg": 1.56,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.4,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8496891",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 8:15pm",
+      "home_team": "Juan Pablo II College",
+      "away_team": "FC Cajamarca",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.3,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8496785",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 6:00pm",
+      "home_team": "Sport Boys",
+      "away_team": "Los Chankas",
+      "home_ppg": 1.06,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.99,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8496890",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 8:15pm",
+      "home_team": "UTC Cajamarca",
+      "away_team": "Atlético Grau",
+      "home_ppg": 1.06,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.1,
+        "away": 4.11
+      }
+    },
+    {
+      "id": "8496880",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 5:00pm",
+      "home_team": "Sport Huancayo",
+      "away_team": "Alianza Lima",
+      "home_ppg": 1.0,
+      "away_ppg": 2.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.28,
+        "away": 2.75
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+chile:
+  url: /chile/primera-division/fixtures
+  name: Primera División
+  country: Chile
+
+peru:
+  url: /peru/primera-division/fixtures
+  name: Primera División
+  country: Perú
+
+uruguay:
+  url: /uruguay/primera-division/fixtures
+  name: Primera División
+  country: Uruguay
+
+argentina:
+  url: /argentina/primera-division/fixtures
+  name: Primera División
+  country: Argentina
+
+colombia:
+  url: /colombia/categoria-primera-a/fixtures
+  name: Categoría Primera A
+  country: Colombia
+
+ecuador:
+  url: /ecuador/primera-categoria-serie-a/fixtures
+  name: Serie A
+  country: Ecuador
+
+paraguay:
+  url: /paraguay/division-profesional/fixtures
+  name: División Profesional
+  country: Paraguay
+
+brazil:
+  url: /brazil/serie-a/fixtures
+  name: Serie A
+  country: Brazil

@@ -1,0 +1,2467 @@
+{
+  "generated_at": "2026-05-29T16:34:21.162510+00:00",
+  "source": "https://footystats.org/ecuador/primera-categoria-serie-a/fixtures",
+  "league": "Serie A",
+  "country": "Ecuador",
+  "season": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "CSD Independiente del Valle",
+      "mp": 15,
+      "win_pct": 73.0,
+      "gf": 28,
+      "ga": 16,
+      "gd": 12,
+      "pts": 34,
+      "avg": 2.93
+    },
+    {
+      "rank": 2,
+      "team": "CD Universidad Católica",
+      "mp": 15,
+      "win_pct": 47.0,
+      "gf": 26,
+      "ga": 13,
+      "gd": 13,
+      "pts": 26,
+      "avg": 2.6
+    },
+    {
+      "rank": 3,
+      "team": "Barcelona",
+      "mp": 15,
+      "win_pct": 47.0,
+      "gf": 18,
+      "ga": 12,
+      "gd": 6,
+      "pts": 26,
+      "avg": 2.0
+    },
+    {
+      "rank": 4,
+      "team": "SD Aucas",
+      "mp": 15,
+      "win_pct": 47.0,
+      "gf": 19,
+      "ga": 16,
+      "gd": 3,
+      "pts": 25,
+      "avg": 2.33
+    },
+    {
+      "rank": 5,
+      "team": "LDU Quito",
+      "mp": 15,
+      "win_pct": 47.0,
+      "gf": 16,
+      "ga": 13,
+      "gd": 3,
+      "pts": 24,
+      "avg": 1.93
+    },
+    {
+      "rank": 6,
+      "team": "Deportivo Cuenca",
+      "mp": 15,
+      "win_pct": 47.0,
+      "gf": 17,
+      "ga": 17,
+      "gd": 0,
+      "pts": 24,
+      "avg": 2.27
+    },
+    {
+      "rank": 7,
+      "team": "Orense SC",
+      "mp": 15,
+      "win_pct": 40.0,
+      "gf": 21,
+      "ga": 19,
+      "gd": 2,
+      "pts": 22,
+      "avg": 2.67
+    },
+    {
+      "rank": 8,
+      "team": "Guayaquil City FC",
+      "mp": 15,
+      "win_pct": 33.0,
+      "gf": 12,
+      "ga": 15,
+      "gd": -3,
+      "pts": 19,
+      "avg": 1.8
+    },
+    {
+      "rank": 9,
+      "team": "Macará",
+      "mp": 15,
+      "win_pct": 33.0,
+      "gf": 14,
+      "ga": 17,
+      "gd": -3,
+      "pts": 19,
+      "avg": 2.07
+    },
+    {
+      "rank": 10,
+      "team": "CS Emelec",
+      "mp": 15,
+      "win_pct": 33.0,
+      "gf": 12,
+      "ga": 16,
+      "gd": -4,
+      "pts": 19,
+      "avg": 1.87
+    },
+    {
+      "rank": 11,
+      "team": "Técnico Universitario",
+      "mp": 15,
+      "win_pct": 33.0,
+      "gf": 16,
+      "ga": 16,
+      "gd": 0,
+      "pts": 17,
+      "avg": 2.13
+    },
+    {
+      "rank": 12,
+      "team": "Mushuc Runa SC",
+      "mp": 15,
+      "win_pct": 27.0,
+      "gf": 19,
+      "ga": 21,
+      "gd": -2,
+      "pts": 17,
+      "avg": 2.67
+    },
+    {
+      "rank": 13,
+      "team": "Libertad",
+      "mp": 15,
+      "win_pct": 27.0,
+      "gf": 15,
+      "ga": 20,
+      "gd": -5,
+      "pts": 17,
+      "avg": 2.33
+    },
+    {
+      "rank": 14,
+      "team": "Leones del Norte",
+      "mp": 15,
+      "win_pct": 27.0,
+      "gf": 14,
+      "ga": 17,
+      "gd": -3,
+      "pts": 16,
+      "avg": 2.07
+    },
+    {
+      "rank": 15,
+      "team": "Delfin SC",
+      "mp": 15,
+      "win_pct": 27.0,
+      "gf": 8,
+      "ga": 14,
+      "gd": -6,
+      "pts": 16,
+      "avg": 1.47
+    },
+    {
+      "rank": 16,
+      "team": "Manta FC",
+      "mp": 15,
+      "win_pct": 13.0,
+      "gf": 5,
+      "ga": 18,
+      "gd": -13,
+      "pts": 9,
+      "avg": 1.53
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "8457380",
+      "date_timestamp": null,
+      "date_str": "Tue 26, 1:00am",
+      "home_team": "SD Aucas",
+      "away_team": "Manta FC",
+      "home_ppg": 2.0,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 4.0,
+        "away": 9.3
+      }
+    },
+    {
+      "id": "8457411",
+      "date_timestamp": null,
+      "date_str": "Mon 25, 12:10am",
+      "home_team": "Delfin SC",
+      "away_team": "Barcelona",
+      "home_ppg": 1.63,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.0,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8457334",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 9:30pm",
+      "home_team": "CS Emelec",
+      "away_team": "Macará",
+      "home_ppg": 1.75,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.2,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8457537",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 7:00pm",
+      "home_team": "Técnico Universitario",
+      "away_team": "Leones del Norte",
+      "home_ppg": 1.43,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.2,
+        "away": 4.05
+      }
+    },
+    {
+      "id": "8457499",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 1:00am",
+      "home_team": "Deportivo Cuenca",
+      "away_team": "LDU Quito",
+      "home_ppg": 1.29,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.1,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8457382",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 10:30pm",
+      "home_team": "Orense SC",
+      "away_team": "CD Universidad Católica",
+      "home_ppg": 1.5,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.79,
+        "draw": 3.2,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8457539",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 8:00pm",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 1.88,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.65,
+        "away": 5.07
+      }
+    },
+    {
+      "id": "8457287",
+      "date_timestamp": null,
+      "date_str": "Sat 23, 1:00am",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "Libertad",
+      "home_ppg": 2.0,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 5.75,
+        "away": 8.5
+      }
+    },
+    {
+      "id": "8457381",
+      "date_timestamp": null,
+      "date_str": "Tue 19, 1:00am",
+      "home_team": "Guayaquil City FC",
+      "away_team": "Orense SC",
+      "home_ppg": 1.29,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.98,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8457413",
+      "date_timestamp": null,
+      "date_str": "Mon 18, 12:10am",
+      "home_team": "Manta FC",
+      "away_team": "CS Emelec",
+      "home_ppg": 0.57,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.2,
+        "away": 2.33
+      }
+    },
+    {
+      "id": "8457288",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 7:00pm",
+      "home_team": "Leones del Norte",
+      "away_team": "Mushuc Runa SC",
+      "home_ppg": 1.86,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.0,
+        "away": 2.76
+      }
+    },
+    {
+      "id": "8457501",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 1:00am",
+      "home_team": "Barcelona",
+      "away_team": "SD Aucas",
+      "home_ppg": 2.43,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.08,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8457383",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 10:30pm",
+      "home_team": "CD Universidad Católica",
+      "away_team": "Delfin SC",
+      "home_ppg": 2.13,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.39,
+        "draw": 4.15,
+        "away": 5.6
+      }
+    },
+    {
+      "id": "8457500",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 8:00pm",
+      "home_team": "Macará",
+      "away_team": "CSD Independiente del Valle",
+      "home_ppg": 1.38,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.1,
+        "away": 2.37
+      }
+    },
+    {
+      "id": "8457498",
+      "date_timestamp": null,
+      "date_str": "Sat 16, 1:00am",
+      "home_team": "Libertad",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 1.57,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 2.82
+      }
+    },
+    {
+      "id": "8457408",
+      "date_timestamp": null,
+      "date_str": "Fri 15, 10:30pm",
+      "home_team": "LDU Quito",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 1.57,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.7,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8457415",
+      "date_timestamp": null,
+      "date_str": "Tue 12, 1:00am",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "LDU Quito",
+      "home_ppg": 1.88,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.3,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8457414",
+      "date_timestamp": null,
+      "date_str": "Mon 11, 12:10am",
+      "home_team": "Manta FC",
+      "away_team": "Macará",
+      "home_ppg": 0.57,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.34,
+        "draw": 2.9,
+        "away": 2.33
+      }
+    },
+    {
+      "id": "8457416",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 9:30pm",
+      "home_team": "CS Emelec",
+      "away_team": "Libertad",
+      "home_ppg": 1.75,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.33,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8457418",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 1:00am",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "Barcelona",
+      "home_ppg": 2.0,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.65,
+        "away": 5.09
+      }
+    },
+    {
+      "id": "8457384",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 10:30pm",
+      "home_team": "SD Aucas",
+      "away_team": "CD Universidad Católica",
+      "home_ppg": 2.0,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.32,
+        "draw": 3.2,
+        "away": 2.81
+      }
+    },
+    {
+      "id": "8457410",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 10:00pm",
+      "home_team": "Guayaquil City FC",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 1.29,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.0,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8457540",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 7:30pm",
+      "home_team": "Técnico Universitario",
+      "away_team": "Delfin SC",
+      "home_ppg": 1.43,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 2.9,
+        "away": 3.9
+      }
+    },
+    {
+      "id": "8457409",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 1:00am",
+      "home_team": "Orense SC",
+      "away_team": "Leones del Norte",
+      "home_ppg": 1.5,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.35,
+        "away": 5.75
+      }
+    },
+    {
+      "id": "8457421",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 11:00pm",
+      "home_team": "Leones del Norte",
+      "away_team": "CS Emelec",
+      "home_ppg": 1.86,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.41,
+        "draw": 3.0,
+        "away": 2.63
+      }
+    },
+    {
+      "id": "8457420",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 9:30pm",
+      "home_team": "Delfin SC",
+      "away_team": "Mushuc Runa SC",
+      "home_ppg": 1.63,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.0,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8457502",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 7:00pm",
+      "home_team": "Macará",
+      "away_team": "Orense SC",
+      "home_ppg": 1.38,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.1,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8457419",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 1:00am",
+      "home_team": "Barcelona",
+      "away_team": "Manta FC",
+      "home_ppg": 2.43,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.7,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8457504",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 10:30pm",
+      "home_team": "LDU Quito",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 1.57,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.33,
+        "away": 6.73
+      }
+    },
+    {
+      "id": "8457412",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 8:00pm",
+      "home_team": "Deportivo Cuenca",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 1.29,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8457407",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 1:00am",
+      "home_team": "Libertad",
+      "away_team": "SD Aucas",
+      "home_ppg": 1.57,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.3,
+        "away": 1.75
+      }
+    },
+    {
+      "id": "8457503",
+      "date_timestamp": null,
+      "date_str": "Fri 1, 10:30pm",
+      "home_team": "CD Universidad Católica",
+      "away_team": "CSD Independiente del Valle",
+      "home_ppg": 2.13,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.2,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8457423",
+      "date_timestamp": null,
+      "date_str": "Apr 28, 1:00am",
+      "home_team": "SD Aucas",
+      "away_team": "Delfin SC",
+      "home_ppg": 2.0,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 3.79,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8457424",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 10:30pm",
+      "home_team": "Manta FC",
+      "away_team": "CD Universidad Católica",
+      "home_ppg": 0.57,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.99,
+        "draw": 3.4,
+        "away": 1.8
+      }
+    },
+    {
+      "id": "8457432",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 12:10am",
+      "home_team": "Orense SC",
+      "away_team": "Barcelona",
+      "home_ppg": 1.5,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.15,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8457422",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 9:30pm",
+      "home_team": "Guayaquil City FC",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 1.29,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.95,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8457505",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 7:00pm",
+      "home_team": "Macará",
+      "away_team": "Libertad",
+      "home_ppg": 1.38,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.15,
+        "away": 3.45
+      }
+    },
+    {
+      "id": "8457428",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 11:00pm",
+      "home_team": "CS Emelec",
+      "away_team": "LDU Quito",
+      "home_ppg": 1.75,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.0,
+        "away": 3.28
+      }
+    },
+    {
+      "id": "8457509",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 8:10pm",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "Leones del Norte",
+      "home_ppg": 2.0,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.17,
+        "away": 11.7
+      }
+    },
+    {
+      "id": "8457417",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 5:45pm",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 1.88,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.15,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8457429",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 1:00am",
+      "home_team": "CD Universidad Católica",
+      "away_team": "Macará",
+      "home_ppg": 2.13,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.6,
+        "away": 4.71
+      }
+    },
+    {
+      "id": "8457507",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 2:00am",
+      "home_team": "LDU Quito",
+      "away_team": "SD Aucas",
+      "home_ppg": 1.57,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.5,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8457426",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:00am",
+      "home_team": "Barcelona",
+      "away_team": "Mushuc Runa SC",
+      "home_ppg": 2.43,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.6,
+        "away": 4.9
+      }
+    },
+    {
+      "id": "8457425",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 9:30pm",
+      "home_team": "Deportivo Cuenca",
+      "away_team": "Orense SC",
+      "home_ppg": 1.29,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.3,
+        "away": 3.81
+      }
+    },
+    {
+      "id": "8457506",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 7:00pm",
+      "home_team": "Delfin SC",
+      "away_team": "CSD Independiente del Valle",
+      "home_ppg": 1.63,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.4,
+        "away": 1.86
+      }
+    },
+    {
+      "id": "8457508",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 5:00pm",
+      "home_team": "Leones del Norte",
+      "away_team": "Manta FC",
+      "home_ppg": 1.86,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.15,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8457430",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 1:30am",
+      "home_team": "Técnico Universitario",
+      "away_team": "CS Emelec",
+      "home_ppg": 1.43,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 2.9,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8457433",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 11:00pm",
+      "home_team": "Libertad",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 1.57,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8457513",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 12:10am",
+      "home_team": "Macará",
+      "away_team": "Barcelona",
+      "home_ppg": 1.38,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.98,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8457511",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 9:30pm",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "LDU Quito",
+      "home_ppg": 2.0,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.3,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8457427",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 7:00pm",
+      "home_team": "Manta FC",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 0.57,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 2.95,
+        "away": 2.42
+      }
+    },
+    {
+      "id": "8457431",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 1:00am",
+      "home_team": "Orense SC",
+      "away_team": "Delfin SC",
+      "home_ppg": 1.5,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 2.86,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8457436",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 10:30pm",
+      "home_team": "CD Universidad Católica",
+      "away_team": "Libertad",
+      "home_ppg": 2.13,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.75,
+        "away": 6.43
+      }
+    },
+    {
+      "id": "8457515",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 8:00pm",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 1.88,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.2,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8457438",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 1:30am",
+      "home_team": "CS Emelec",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 1.75,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.4,
+        "away": 4.27
+      }
+    },
+    {
+      "id": "8457434",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 11:00pm",
+      "home_team": "Leones del Norte",
+      "away_team": "SD Aucas",
+      "home_ppg": 1.86,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.0,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8457444",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 12:10am",
+      "home_team": "SD Aucas",
+      "away_team": "CS Emelec",
+      "home_ppg": 2.0,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.3,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8457442",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 9:30pm",
+      "home_team": "Guayaquil City FC",
+      "away_team": "Macará",
+      "home_ppg": 1.29,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.51,
+        "draw": 2.97,
+        "away": 2.98
+      }
+    },
+    {
+      "id": "8457447",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 7:00pm",
+      "home_team": "Deportivo Cuenca",
+      "away_team": "CSD Independiente del Valle",
+      "home_ppg": 1.29,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.1,
+        "away": 2.13
+      }
+    },
+    {
+      "id": "8457517",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 6:00pm",
+      "home_team": "Técnico Universitario",
+      "away_team": "CD Universidad Católica",
+      "home_ppg": 1.43,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.58,
+        "draw": 3.25,
+        "away": 1.95
+      }
+    },
+    {
+      "id": "8457435",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:00am",
+      "home_team": "Orense SC",
+      "away_team": "Libertad",
+      "home_ppg": 1.5,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.58,
+        "away": 3.82
+      }
+    },
+    {
+      "id": "8457437",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 8:00pm",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "Manta FC",
+      "home_ppg": 1.88,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.75,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8457510",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 1:00am",
+      "home_team": "Barcelona",
+      "away_team": "Leones del Norte",
+      "home_ppg": 2.43,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 3.86,
+        "away": 6.66
+      }
+    },
+    {
+      "id": "8457512",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 1:00am",
+      "home_team": "Delfin SC",
+      "away_team": "LDU Quito",
+      "home_ppg": 1.63,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 3.1,
+        "away": 2.09
+      }
+    },
+    {
+      "id": "8457469",
+      "date_timestamp": null,
+      "date_str": "Apr 9, 1:00am",
+      "home_team": "CD Universidad Católica",
+      "away_team": "CS Emelec",
+      "home_ppg": 2.13,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.88,
+        "away": 4.45
+      }
+    },
+    {
+      "id": "8457443",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 1:00am",
+      "home_team": "Libertad",
+      "away_team": "Mushuc Runa SC",
+      "home_ppg": 1.57,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.15,
+        "away": 2.87
+      }
+    },
+    {
+      "id": "8457439",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 12:10am",
+      "home_team": "Macará",
+      "away_team": "SD Aucas",
+      "home_ppg": 1.38,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.0,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8457289",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 9:30pm",
+      "home_team": "Manta FC",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 0.57,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 2.85,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8457441",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 7:00pm",
+      "home_team": "Leones del Norte",
+      "away_team": "Delfin SC",
+      "home_ppg": 1.86,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.8,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8457449",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:00am",
+      "home_team": "CS Emelec",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 1.75,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.24,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8457450",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 10:30pm",
+      "home_team": "CD Universidad Católica",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 2.13,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.09,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8457440",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 8:00pm",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "Orense SC",
+      "home_ppg": 2.0,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 5.04,
+        "away": 11.4
+      }
+    },
+    {
+      "id": "8457446",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 1:00am",
+      "home_team": "LDU Quito",
+      "away_team": "Barcelona",
+      "home_ppg": 1.57,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.7,
+        "away": 4.7
+      }
+    },
+    {
+      "id": "8457514",
+      "date_timestamp": null,
+      "date_str": "Mar 24, 12:00am",
+      "home_team": "SD Aucas",
+      "away_team": "Orense SC",
+      "home_ppg": 2.0,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.45,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8457448",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 9:30pm",
+      "home_team": "Guayaquil City FC",
+      "away_team": "Leones del Norte",
+      "home_ppg": 1.29,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 2.9,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8457445",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 11:15pm",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "CS Emelec",
+      "home_ppg": 1.88,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8457520",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 8:30pm",
+      "home_team": "Barcelona",
+      "away_team": "CD Universidad Católica",
+      "home_ppg": 2.43,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.2,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8457453",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 6:00pm",
+      "home_team": "Técnico Universitario",
+      "away_team": "CSD Independiente del Valle",
+      "home_ppg": 1.43,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.3,
+        "away": 1.7
+      }
+    },
+    {
+      "id": "8457452",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 12:00am",
+      "home_team": "LDU Quito",
+      "away_team": "Manta FC",
+      "home_ppg": 1.57,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.13,
+        "away": 9.0
+      }
+    },
+    {
+      "id": "8457451",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 9:30pm",
+      "home_team": "Deportivo Cuenca",
+      "away_team": "Macará",
+      "home_ppg": 1.29,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 2.8,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8457455",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 7:00pm",
+      "home_team": "Delfin SC",
+      "away_team": "Libertad",
+      "home_ppg": 1.63,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 2.87,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8457454",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 12:00am",
+      "home_team": "CS Emelec",
+      "away_team": "CSD Independiente del Valle",
+      "home_ppg": 1.75,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.1,
+        "away": 1.98
+      }
+    },
+    {
+      "id": "8457518",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 9:30pm",
+      "home_team": "Orense SC",
+      "away_team": "Mushuc Runa SC",
+      "home_ppg": 1.5,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.4,
+        "away": 4.03
+      }
+    },
+    {
+      "id": "8457291",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 7:00pm",
+      "home_team": "SD Aucas",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 2.0,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.5,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8457458",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 12:00am",
+      "home_team": "Libertad",
+      "away_team": "Barcelona",
+      "home_ppg": 1.57,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.15,
+        "away": 2.48
+      }
+    },
+    {
+      "id": "8457522",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 9:30pm",
+      "home_team": "Manta FC",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 0.57,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 2.64
+      }
+    },
+    {
+      "id": "8457516",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 7:00pm",
+      "home_team": "Macará",
+      "away_team": "Delfin SC",
+      "home_ppg": 1.38,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.4,
+        "away": 5.55
+      }
+    },
+    {
+      "id": "8457290",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 12:00am",
+      "home_team": "Leones del Norte",
+      "away_team": "LDU Quito",
+      "home_ppg": 1.86,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.49,
+        "draw": 3.26,
+        "away": 1.8
+      }
+    },
+    {
+      "id": "8457521",
+      "date_timestamp": null,
+      "date_str": "Mar 17, 9:30pm",
+      "home_team": "CD Universidad Católica",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 2.13,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.4,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8457463",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:15pm",
+      "home_team": "Guayaquil City FC",
+      "away_team": "Barcelona",
+      "home_ppg": 1.29,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.1,
+        "away": 1.98
+      }
+    },
+    {
+      "id": "8457541",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 8:30pm",
+      "home_team": "CS Emelec",
+      "away_team": "Orense SC",
+      "home_ppg": 1.75,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.0,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8457523",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 6:00pm",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "Macará",
+      "home_ppg": 1.88,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.16,
+        "away": 3.07
+      }
+    },
+    {
+      "id": "8457526",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 12:00am",
+      "home_team": "LDU Quito",
+      "away_team": "CD Universidad Católica",
+      "home_ppg": 1.57,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.45,
+        "away": 3.77
+      }
+    },
+    {
+      "id": "8457462",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 9:30pm",
+      "home_team": "Delfin SC",
+      "away_team": "Manta FC",
+      "home_ppg": 1.63,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.95,
+        "away": 2.9
+      }
+    },
+    {
+      "id": "8457457",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 7:00pm",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "SD Aucas",
+      "home_ppg": 2.0,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.9,
+        "away": 5.8
+      }
+    },
+    {
+      "id": "8457456",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 12:00am",
+      "home_team": "Deportivo Cuenca",
+      "away_team": "Leones del Norte",
+      "home_ppg": 1.29,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.35,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8457525",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 9:30pm",
+      "home_team": "Técnico Universitario",
+      "away_team": "Libertad",
+      "home_ppg": 1.43,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.2,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8457461",
+      "date_timestamp": null,
+      "date_str": "Mar 10, 12:30am",
+      "home_team": "Orense SC",
+      "away_team": "Manta FC",
+      "home_ppg": 1.5,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.5,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8457464",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 9:00pm",
+      "home_team": "CD Universidad Católica",
+      "away_team": "Leones del Norte",
+      "home_ppg": 2.13,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 3.86,
+        "away": 6.43
+      }
+    },
+    {
+      "id": "8457542",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 6:30pm",
+      "home_team": "Macará",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 1.38,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 2.98,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8457459",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 4:00pm",
+      "home_team": "SD Aucas",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 2.0,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.3,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8457519",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 12:00am",
+      "home_team": "Libertad",
+      "away_team": "LDU Quito",
+      "home_ppg": 1.57,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.49,
+        "away": 1.98
+      }
+    },
+    {
+      "id": "8457292",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 9:30pm",
+      "home_team": "Barcelona",
+      "away_team": "CS Emelec",
+      "home_ppg": 2.43,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 2.9,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8457460",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 9:30pm",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "Mushuc Runa SC",
+      "home_ppg": 2.0,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.0,
+        "away": 5.8
+      }
+    },
+    {
+      "id": "8457465",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 12:30am",
+      "home_team": "Delfin SC",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 1.63,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 2.87,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8457527",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 12:30am",
+      "home_team": "Manta FC",
+      "away_team": "CSD Independiente del Valle",
+      "home_ppg": 0.57,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.85,
+        "draw": 3.6,
+        "away": 1.57
+      }
+    },
+    {
+      "id": "8457297",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 10:00pm",
+      "home_team": "Deportivo Cuenca",
+      "away_team": "Barcelona",
+      "home_ppg": 1.29,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.24,
+        "draw": 3.26,
+        "away": 3.16
+      }
+    },
+    {
+      "id": "8457470",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 7:30pm",
+      "home_team": "Mushuc Runa SC",
+      "away_team": "CD Universidad Católica",
+      "home_ppg": 1.88,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.24,
+        "away": 2.81
+      }
+    },
+    {
+      "id": "8457466",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 5:00pm",
+      "home_team": "LDU Quito",
+      "away_team": "Macará",
+      "home_ppg": 1.57,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.34,
+        "away": 6.95
+      }
+    },
+    {
+      "id": "8457467",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 12:00am",
+      "home_team": "CS Emelec",
+      "away_team": "Delfin SC",
+      "home_ppg": 1.75,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.5,
+        "away": 4.5
+      }
+    },
+    {
+      "id": "8457468",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 9:30pm",
+      "home_team": "Guayaquil City FC",
+      "away_team": "SD Aucas",
+      "home_ppg": 1.29,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.01,
+        "away": 2.36
+      }
+    },
+    {
+      "id": "8457528",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 7:00pm",
+      "home_team": "Leones del Norte",
+      "away_team": "Libertad",
+      "home_ppg": 1.86,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.0,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8457524",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 12:30am",
+      "home_team": "Técnico Universitario",
+      "away_team": "Orense SC",
+      "home_ppg": 1.43,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 3.04,
+        "away": 3.24
+      }
+    },
+    {
+      "id": "8457545",
+      "date_timestamp": null,
+      "date_str": "Feb 24, 12:30am",
+      "home_team": "Libertad",
+      "away_team": "Manta FC",
+      "home_ppg": 1.57,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.4,
+        "away": 4.1
+      }
+    },
+    {
+      "id": "8457471",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 11:00pm",
+      "home_team": "CSD Independiente del Valle",
+      "away_team": "Guayaquil City FC",
+      "home_ppg": 2.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.4,
+        "away": 10.0
+      }
+    },
+    {
+      "id": "8457546",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 8:30pm",
+      "home_team": "Delfin SC",
+      "away_team": "Deportivo Cuenca",
+      "home_ppg": 1.63,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.2,
+        "away": 2.49
+      }
+    },
+    {
+      "id": "8457544",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 6:00pm",
+      "home_team": "Macará",
+      "away_team": "Leones del Norte",
+      "home_ppg": 1.38,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.6,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8457543",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 9:30pm",
+      "home_team": "Barcelona",
+      "away_team": "Técnico Universitario",
+      "home_ppg": 2.43,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 3.9,
+        "away": 6.27
+      }
+    },
+    {
+      "id": "8457549",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 7:00pm",
+      "home_team": "SD Aucas",
+      "away_team": "Mushuc Runa SC",
+      "home_ppg": 2.0,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.1,
+        "away": 4.77
+      }
+    },
+    {
+      "id": "8457547",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 12:00am",
+      "home_team": "Orense SC",
+      "away_team": "LDU Quito",
+      "home_ppg": 1.5,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.1,
+        "away": 2.2
+      }
+    }
+  ]
+}

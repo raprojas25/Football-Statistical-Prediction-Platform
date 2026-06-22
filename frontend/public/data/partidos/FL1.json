@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-05-18T00:00:33.558Z",
+  "competition": "FL1",
+  "competition_name": "Ligue 1",
+  "country": "Francia",
+  "count": 10,
+  "matches": [
+    {
+      "id": 542703,
+      "homeTeam": "FC Lorient",
+      "awayTeam": "Le Havre AC",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542704,
+      "homeTeam": "FC Nantes",
+      "awayTeam": "Toulouse FC",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542705,
+      "homeTeam": "Paris FC",
+      "awayTeam": "Paris Saint-Germain FC",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542706,
+      "homeTeam": "OGC Nice",
+      "awayTeam": "FC Metz",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542707,
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "Racing Club de Lens",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542708,
+      "homeTeam": "Olympique de Marseille",
+      "awayTeam": "Stade Rennais FC 1901",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542709,
+      "homeTeam": "Lille OSC",
+      "awayTeam": "AJ Auxerre",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542710,
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "AS Monaco FC",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    },
+    {
+      "id": 542711,
+      "homeTeam": "Stade Brestois 29",
+      "awayTeam": "Angers SCO",
+      "date": "2026-05-17T19:00:00Z",
+      "competition": "FL1",
+      "matchday": 34
+    }
+  ]
+}
+

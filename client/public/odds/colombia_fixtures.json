@@ -1,0 +1,3827 @@
+{
+  "generated_at": "2026-05-29T16:34:17.971308+00:00",
+  "source": "https://footystats.org/colombia/categoria-primera-a/fixtures",
+  "league": "Categoría Primera A",
+  "country": "Colombia",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8532748",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 2:30am",
+      "home_team": "Junior",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.78,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.4,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8532749",
+      "date_timestamp": null,
+      "date_str": "Sun 24, 12:00am",
+      "home_team": "Atlético Nacional",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 2.26,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.48,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8532750",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 2:30am",
+      "home_team": "Santa Fe",
+      "away_team": "Junior",
+      "home_ppg": 1.52,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.1,
+        "away": 4.67
+      }
+    },
+    {
+      "id": "8532751",
+      "date_timestamp": null,
+      "date_str": "Sun 17, 12:00am",
+      "home_team": "Deportes Tolima",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.61,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.08,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8527871",
+      "date_timestamp": null,
+      "date_str": "Thu 14, 2:15am",
+      "home_team": "Junior",
+      "away_team": "Once Caldas",
+      "home_ppg": 1.78,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.45,
+        "away": 3.95
+      }
+    },
+    {
+      "id": "8527872",
+      "date_timestamp": null,
+      "date_str": "Thu 14, 12:00am",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.62,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 2.9,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8527869",
+      "date_timestamp": null,
+      "date_str": "Wed 13, 2:30am",
+      "home_team": "Santa Fe",
+      "away_team": "América de Cali",
+      "home_ppg": 1.52,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.02,
+        "away": 2.84
+      }
+    },
+    {
+      "id": "8527870",
+      "date_timestamp": null,
+      "date_str": "Wed 13, 12:20am",
+      "home_team": "Atlético Nacional",
+      "away_team": "La Equidad",
+      "home_ppg": 2.26,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 7,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.1,
+        "away": 5.2
+      }
+    },
+    {
+      "id": "8527873",
+      "date_timestamp": null,
+      "date_str": "Mon 11, 12:10am",
+      "home_team": "Once Caldas",
+      "away_team": "Junior",
+      "home_ppg": 1.62,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.75,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8527876",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 2:20am",
+      "home_team": "América de Cali",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.62,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.2,
+        "away": 2.98
+      }
+    },
+    {
+      "id": "8527874",
+      "date_timestamp": null,
+      "date_str": "Sun 10, 12:10am",
+      "home_team": "Deportes Tolima",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 1.61,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.4,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8527875",
+      "date_timestamp": null,
+      "date_str": "Sat 9, 10:00pm",
+      "home_team": "La Equidad",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.33,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.3,
+        "away": 2.02
+      }
+    },
+    {
+      "id": "8432084",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 11:45pm",
+      "home_team": "Junior",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 1.78,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.3,
+        "away": 4.69
+      }
+    },
+    {
+      "id": "8432086",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 11:45pm",
+      "home_team": "América de Cali",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.62,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.33,
+        "away": 6.4
+      }
+    },
+    {
+      "id": "8431998",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 9:30pm",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.16,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.9,
+        "away": 2.28
+      }
+    },
+    {
+      "id": "8431999",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 9:30pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Millonarios",
+      "home_ppg": 0.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.95,
+        "draw": 3.1,
+        "away": 1.97
+      }
+    },
+    {
+      "id": "8432083",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 9:30pm",
+      "home_team": "Santa Fe",
+      "away_team": "La Equidad",
+      "home_ppg": 1.52,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.4,
+        "away": 3.65
+      }
+    },
+    {
+      "id": "8432085",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 9:30pm",
+      "home_team": "Deportes Tolima",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 1.61,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 2.95,
+        "away": 2.75
+      }
+    },
+    {
+      "id": "8432087",
+      "date_timestamp": null,
+      "date_str": "Sun 3, 9:30pm",
+      "home_team": "Independiente Medellín",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 4.3,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8432088",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 10:00pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 0.95,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.02,
+        "away": 3.02
+      }
+    },
+    {
+      "id": "8432001",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 8:00pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Llaneros",
+      "home_ppg": 0.89,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.8,
+        "away": 2.94
+      }
+    },
+    {
+      "id": "8432000",
+      "date_timestamp": null,
+      "date_str": "Sat 2, 12:00am",
+      "home_team": "Once Caldas",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.62,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.2,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8432003",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 2:20am",
+      "home_team": "La Equidad",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 1.33,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "8432002",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 12:10am",
+      "home_team": "Llaneros",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.16,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 2.91,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8432004",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 10:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Once Caldas",
+      "home_ppg": 1.37,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.02,
+        "away": 3.04
+      }
+    },
+    {
+      "id": "8432078",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:30am",
+      "home_team": "Independiente Medellín",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 1.37,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.9,
+        "away": 5.52
+      }
+    },
+    {
+      "id": "8432090",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 12:10am",
+      "home_team": "Deportivo Cali",
+      "away_team": "América de Cali",
+      "home_ppg": 1.42,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.9,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8432089",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 10:00pm",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 0.53,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 6.25,
+        "draw": 4.4,
+        "away": 1.38
+      }
+    },
+    {
+      "id": "8432082",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 8:00pm",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 1.21,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.7,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8432091",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 10:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Junior",
+      "home_ppg": 0.84,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.67,
+        "draw": 3.15,
+        "away": 2.58
+      }
+    },
+    {
+      "id": "8432092",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 2:00am",
+      "home_team": "Millonarios",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.37,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.65,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8432005",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 12:00am",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.62,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.35
+      }
+    },
+    {
+      "id": "8432160",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 2:30am",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "América de Cali",
+      "home_ppg": 1.16,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 3.0,
+        "away": 2.5
+      }
+    },
+    {
+      "id": "8432072",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 12:20am",
+      "home_team": "Independiente Medellín",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.5,
+        "away": 7.8
+      }
+    },
+    {
+      "id": "8432101",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 2:30am",
+      "home_team": "Atlético Nacional",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 2.26,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.1,
+        "away": 3.78
+      }
+    },
+    {
+      "id": "8432079",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 12:20am",
+      "home_team": "Once Caldas",
+      "away_team": "La Equidad",
+      "home_ppg": 1.62,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.4,
+        "away": 3.92
+      }
+    },
+    {
+      "id": "8432102",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 2:30am",
+      "home_team": "América de Cali",
+      "away_team": "Millonarios",
+      "home_ppg": 1.62,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 2.95,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8432007",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 12:20am",
+      "home_team": "Junior",
+      "away_team": "Llaneros",
+      "home_ppg": 1.78,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.8,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8432006",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 10:10pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 0.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 3.22,
+        "away": 2.37
+      }
+    },
+    {
+      "id": "8432008",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 8:00pm",
+      "home_team": "Santa Fe",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 1.52,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.2,
+        "away": 6.77
+      }
+    },
+    {
+      "id": "8432103",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:30am",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 1.16,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.14,
+        "away": 3.81
+      }
+    },
+    {
+      "id": "8432009",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 12:10am",
+      "home_team": "Deportes Tolima",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.61,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 4.95,
+        "away": 8.5
+      }
+    },
+    {
+      "id": "8432010",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 10:00pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 0.89,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.1,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8432011",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 10:00pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 0.95,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 2.95,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8432012",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 2:30am",
+      "home_team": "La Equidad",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.33,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "8432104",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 12:20am",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 1.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 4.2,
+        "away": 8.0
+      }
+    },
+    {
+      "id": "8432043",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 10:10pm",
+      "home_team": "Deportivo Cali",
+      "away_team": "Llaneros",
+      "home_ppg": 1.42,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.4,
+        "away": 4.92
+      }
+    },
+    {
+      "id": "8432109",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 8:00pm",
+      "home_team": "Millonarios",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.37,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.4,
+        "away": 4.24
+      }
+    },
+    {
+      "id": "8432106",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:20am",
+      "home_team": "Independiente Medellín",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.37,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.37,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8432105",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 10:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Junior",
+      "home_ppg": 1.37,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.22,
+        "away": 2.66
+      }
+    },
+    {
+      "id": "8432107",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:05am",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.62,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.54,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8432014",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 9:30pm",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Once Caldas",
+      "home_ppg": 0.53,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.3,
+        "draw": 3.4,
+        "away": 1.73
+      }
+    },
+    {
+      "id": "8432159",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 10:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.37,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.87,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8432179",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 2:10am",
+      "home_team": "Atlético Nacional",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 2.26,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 6.0,
+        "away": 9.78
+      }
+    },
+    {
+      "id": "8432055",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 9:30pm",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 0.53,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 2.94,
+        "away": 2.27
+      }
+    },
+    {
+      "id": "8432015",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 10:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "América de Cali",
+      "home_ppg": 0.84,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.81,
+        "draw": 3.22,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8432041",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:30am",
+      "home_team": "Deportes Tolima",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.61,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.3,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8432016",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:30am",
+      "home_team": "Junior",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 1.78,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.81,
+        "draw": 3.4,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8432110",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 12:20am",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "La Equidad",
+      "home_ppg": 1.16,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.0,
+        "away": 2.77
+      }
+    },
+    {
+      "id": "8432017",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 2:30am",
+      "home_team": "Once Caldas",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 1.62,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.12,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8432108",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 12:20am",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Millonarios",
+      "home_ppg": 0.95,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.4,
+        "away": 1.95
+      }
+    },
+    {
+      "id": "8432113",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 10:10pm",
+      "home_team": "América de Cali",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.62,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.3,
+        "away": 4.05
+      }
+    },
+    {
+      "id": "8432111",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 8:00pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 0.89,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.47,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8432112",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 2:30am",
+      "home_team": "Atlético Nacional",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 2.26,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.37,
+        "away": 8.66
+      }
+    },
+    {
+      "id": "8432018",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 12:30am",
+      "home_team": "Santa Fe",
+      "away_team": "Llaneros",
+      "home_ppg": 1.52,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 3.7,
+        "away": 4.65
+      }
+    },
+    {
+      "id": "8432019",
+      "date_timestamp": null,
+      "date_str": "Apr 1, 10:10pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 0.89,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.71,
+        "draw": 2.93,
+        "away": 2.44
+      }
+    },
+    {
+      "id": "8432115",
+      "date_timestamp": null,
+      "date_str": "Apr 1, 2:00am",
+      "home_team": "Deportes Tolima",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 1.61,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.3,
+        "away": 4.4
+      }
+    },
+    {
+      "id": "8432020",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 2:20am",
+      "home_team": "Millonarios",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 1.37,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.9,
+        "away": 6.42
+      }
+    },
+    {
+      "id": "8432021",
+      "date_timestamp": null,
+      "date_str": "Mar 31, 12:10am",
+      "home_team": "Independiente Medellín",
+      "away_team": "América de Cali",
+      "home_ppg": 1.37,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.1,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8432114",
+      "date_timestamp": null,
+      "date_str": "Mar 30, 4:00pm",
+      "home_team": "Llaneros",
+      "away_team": "Once Caldas",
+      "home_ppg": 1.16,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.2,
+        "draw": 3.69,
+        "away": 1.51
+      }
+    },
+    {
+      "id": "8432022",
+      "date_timestamp": null,
+      "date_str": "Mar 30, 12:20am",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.62,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8432117",
+      "date_timestamp": null,
+      "date_str": "Mar 29, 10:10pm",
+      "home_team": "La Equidad",
+      "away_team": "Junior",
+      "home_ppg": 1.33,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.15,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8432023",
+      "date_timestamp": null,
+      "date_str": "Mar 29, 2:20am",
+      "home_team": "Deportivo Cali",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.8,
+        "away": 9.0
+      }
+    },
+    {
+      "id": "8432120",
+      "date_timestamp": null,
+      "date_str": "Mar 28, 11:10pm",
+      "home_team": "Deportes Tolima",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 1.61,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 4.4,
+        "away": 7.6
+      }
+    },
+    {
+      "id": "8432119",
+      "date_timestamp": null,
+      "date_str": "Mar 28, 9:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 0.84,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.6,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8432024",
+      "date_timestamp": null,
+      "date_str": "Mar 28, 1:10am",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.21,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.1,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8432026",
+      "date_timestamp": null,
+      "date_str": "Mar 27, 9:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 3.04,
+        "away": 3.97
+      }
+    },
+    {
+      "id": "8432025",
+      "date_timestamp": null,
+      "date_str": "Mar 26, 1:00am",
+      "home_team": "América de Cali",
+      "away_team": "Llaneros",
+      "home_ppg": 1.62,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.59,
+        "draw": 3.85,
+        "away": 6.79
+      }
+    },
+    {
+      "id": "8432116",
+      "date_timestamp": null,
+      "date_str": "Mar 25, 1:00am",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 1.16,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.02,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8432027",
+      "date_timestamp": null,
+      "date_str": "Mar 24, 11:00pm",
+      "home_team": "Junior",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.78,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 2.85,
+        "away": 3.75
+      }
+    },
+    {
+      "id": "8432121",
+      "date_timestamp": null,
+      "date_str": "Mar 24, 8:30pm",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 0.53,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.1,
+        "away": 2.4
+      }
+    },
+    {
+      "id": "8432123",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 11:20pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 0.95,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 2.96,
+        "away": 2.62
+      }
+    },
+    {
+      "id": "8432029",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 9:10pm",
+      "home_team": "Santa Fe",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 1.52,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 3.01
+      }
+    },
+    {
+      "id": "8432028",
+      "date_timestamp": null,
+      "date_str": "Mar 23, 7:00pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 0.89,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.3,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8432030",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 9:00pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 0.89,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.49,
+        "draw": 2.9,
+        "away": 2.96
+      }
+    },
+    {
+      "id": "8432122",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 1:30am",
+      "home_team": "Atlético Nacional",
+      "away_team": "La Equidad",
+      "home_ppg": 2.26,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "8432124",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 11:20pm",
+      "home_team": "Once Caldas",
+      "away_team": "Millonarios",
+      "home_ppg": 1.62,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.2,
+        "away": 2.88
+      }
+    },
+    {
+      "id": "8432126",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 9:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "América de Cali",
+      "home_ppg": 1.37,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.0,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8432031",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 1:30am",
+      "home_team": "Independiente Medellín",
+      "away_team": "Junior",
+      "home_ppg": 1.37,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.55,
+        "away": 4.53
+      }
+    },
+    {
+      "id": "8432125",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 11:20pm",
+      "home_team": "Deportes Tolima",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 1.61,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.6,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8432032",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 9:10pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 0.89,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.15,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8431997",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 1:30am",
+      "home_team": "Deportivo Cali",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.42,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.9,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8432034",
+      "date_timestamp": null,
+      "date_str": "Mar 19, 12:30am",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Once Caldas",
+      "home_ppg": 1.21,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.2,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8432118",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 11:20pm",
+      "home_team": "La Equidad",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.33,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 4.4,
+        "away": 7.75
+      }
+    },
+    {
+      "id": "8432033",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 9:10pm",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 1.62,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 3.8,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8432130",
+      "date_timestamp": null,
+      "date_str": "Mar 18, 1:30am",
+      "home_team": "Millonarios",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.37,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.52,
+        "draw": 3.05,
+        "away": 2.82
+      }
+    },
+    {
+      "id": "8432127",
+      "date_timestamp": null,
+      "date_str": "Mar 17, 9:10pm",
+      "home_team": "Llaneros",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 1.16,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.25,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8432035",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 1:30am",
+      "home_team": "Junior",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 1.78,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.75,
+        "away": 5.19
+      }
+    },
+    {
+      "id": "8432134",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:20pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 0.95,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.95,
+        "draw": 3.3,
+        "away": 1.85
+      }
+    },
+    {
+      "id": "8432129",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 9:10pm",
+      "home_team": "América de Cali",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.62,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.05,
+        "away": 4.16
+      }
+    },
+    {
+      "id": "8432036",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 8:30pm",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 0.53,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.15,
+        "away": 2.02
+      }
+    },
+    {
+      "id": "8432133",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 1:30am",
+      "home_team": "Santa Fe",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.52,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.8,
+        "away": 6.25
+      }
+    },
+    {
+      "id": "8432132",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:20pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Millonarios",
+      "home_ppg": 0.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.3,
+        "away": 1.67
+      }
+    },
+    {
+      "id": "8432131",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 9:10pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 0.84,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.9,
+        "away": 2.25
+      }
+    },
+    {
+      "id": "8432128",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 7:00pm",
+      "home_team": "La Equidad",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.33,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.85,
+        "away": 2.62
+      }
+    },
+    {
+      "id": "8432136",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 1:30am",
+      "home_team": "Atlético Nacional",
+      "away_team": "Llaneros",
+      "home_ppg": 2.26,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 5.2,
+        "away": 11.4
+      }
+    },
+    {
+      "id": "8432137",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 11:20pm",
+      "home_team": "Once Caldas",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 1.62,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.45,
+        "away": 4.45
+      }
+    },
+    {
+      "id": "8432169",
+      "date_timestamp": null,
+      "date_str": "Mar 11, 1:30am",
+      "home_team": "Junior",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.78,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.25,
+        "away": 2.53
+      }
+    },
+    {
+      "id": "8432038",
+      "date_timestamp": null,
+      "date_str": "Mar 10, 11:20pm",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.21,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 4.45,
+        "away": 8.8
+      }
+    },
+    {
+      "id": "8432141",
+      "date_timestamp": null,
+      "date_str": "Mar 10, 1:30am",
+      "home_team": "Deportivo Pasto",
+      "away_team": "América de Cali",
+      "home_ppg": 1.62,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 2.9,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8432042",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 11:20pm",
+      "home_team": "Millonarios",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 1.37,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.6,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8432081",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 9:00pm",
+      "home_team": "Llaneros",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 1.16,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.1,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8432039",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 9:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.37,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "8432073",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 1:30am",
+      "home_team": "Deportivo Cali",
+      "away_team": "Once Caldas",
+      "home_ppg": 1.42,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.0,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8432080",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 1:20am",
+      "home_team": "Junior",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.78,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.8,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8432040",
+      "date_timestamp": null,
+      "date_str": "Mar 5, 11:10pm",
+      "home_team": "Llaneros",
+      "away_team": "La Equidad",
+      "home_ppg": 1.16,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.87,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8432037",
+      "date_timestamp": null,
+      "date_str": "Mar 5, 1:00am",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 1.16,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.2,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8432144",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 1:30am",
+      "home_team": "Deportes Tolima",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.61,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.71,
+        "draw": 3.37,
+        "away": 2.78
+      }
+    },
+    {
+      "id": "8432013",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 11:10pm",
+      "home_team": "Deportivo Cali",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 1.42,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.4,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8432044",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 9:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "La Equidad",
+      "home_ppg": 1.37,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.1,
+        "away": 3.42
+      }
+    },
+    {
+      "id": "8432148",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 7:00pm",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 1.62,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.2,
+        "away": 4.55
+      }
+    },
+    {
+      "id": "8432146",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 1:30am",
+      "home_team": "Independiente Medellín",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.37,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.02,
+        "away": 3.8
+      }
+    },
+    {
+      "id": "8432150",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 11:20pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Junior",
+      "home_ppg": 0.95,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.25,
+        "away": 1.88
+      }
+    },
+    {
+      "id": "8432145",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 9:10pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "América de Cali",
+      "home_ppg": 0.89,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.67,
+        "draw": 3.08,
+        "away": 2.63
+      }
+    },
+    {
+      "id": "8432045",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 1:30am",
+      "home_team": "Once Caldas",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 1.62,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.15,
+        "away": 8.45
+      }
+    },
+    {
+      "id": "8432047",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 12:30am",
+      "home_team": "Millonarios",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.37,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.0,
+        "away": 6.2
+      }
+    },
+    {
+      "id": "8432060",
+      "date_timestamp": null,
+      "date_str": "Feb 26, 12:00am",
+      "home_team": "Santa Fe",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.52,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.81,
+        "draw": 2.99,
+        "away": 2.1
+      }
+    },
+    {
+      "id": "8432046",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 9:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 0.84,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.9,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8432077",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 1:30am",
+      "home_team": "América de Cali",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 1.62,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.0,
+        "away": 7.5
+      }
+    },
+    {
+      "id": "8432151",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 11:10pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 0.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.67,
+        "draw": 2.75,
+        "away": 2.87
+      }
+    },
+    {
+      "id": "8432048",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 9:00pm",
+      "home_team": "Santa Fe",
+      "away_team": "Junior",
+      "home_ppg": 1.52,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.15,
+        "away": 3.6
+      }
+    },
+    {
+      "id": "8432049",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 1:30am",
+      "home_team": "La Equidad",
+      "away_team": "Millonarios",
+      "home_ppg": 1.33,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 2.95,
+        "away": 2.6
+      }
+    },
+    {
+      "id": "8432152",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 11:20pm",
+      "home_team": "Atlético Nacional",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 2.26,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 4.8,
+        "away": 9.0
+      }
+    },
+    {
+      "id": "8432050",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 9:10pm",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 1.21,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.35,
+        "away": 5.39
+      }
+    },
+    {
+      "id": "8432076",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 7:00pm",
+      "home_team": "Once Caldas",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 1.62,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.1,
+        "away": 4.07
+      }
+    },
+    {
+      "id": "8432147",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 1:30am",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 0.53,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.78,
+        "away": 2.85
+      }
+    },
+    {
+      "id": "8432135",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 11:20pm",
+      "home_team": "Llaneros",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 1.16,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.17,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8432051",
+      "date_timestamp": null,
+      "date_str": "Feb 19, 12:30am",
+      "home_team": "Junior",
+      "away_team": "América de Cali",
+      "home_ppg": 1.78,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.35,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8432149",
+      "date_timestamp": null,
+      "date_str": "Feb 17, 11:00pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Santa Fe",
+      "home_ppg": 0.95,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.15,
+        "away": 2.15
+      }
+    },
+    {
+      "id": "8432138",
+      "date_timestamp": null,
+      "date_str": "Feb 17, 9:00pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 0.89,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.0,
+        "away": 4.06
+      }
+    },
+    {
+      "id": "8432153",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 1:30am",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 1.16,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.05,
+        "away": 5.4
+      }
+    },
+    {
+      "id": "8432052",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:30pm",
+      "home_team": "Deportivo Cali",
+      "away_team": "Atlético Nacional",
+      "home_ppg": 1.42,
+      "away_ppg": 2.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.35,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8432154",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 9:20pm",
+      "home_team": "Deportes Tolima",
+      "away_team": "Once Caldas",
+      "home_ppg": 1.61,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.05,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8432139",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 1:30am",
+      "home_team": "Deportivo Pasto",
+      "away_team": "La Equidad",
+      "home_ppg": 1.62,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.8,
+        "away": 3.3
+      }
+    },
+    {
+      "id": "8432155",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 11:30pm",
+      "home_team": "Independiente Medellín",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.37,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.5,
+        "away": 8.1
+      }
+    },
+    {
+      "id": "8432053",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 9:30pm",
+      "home_team": "Millonarios",
+      "away_team": "Llaneros",
+      "home_ppg": 1.37,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.6,
+        "away": 6.5
+      }
+    },
+    {
+      "id": "8432156",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 1:00am",
+      "home_team": "América de Cali",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.62,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.0,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8432157",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 1:30am",
+      "home_team": "Atlético Nacional",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 2.26,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.0,
+        "away": 7.0
+      }
+    },
+    {
+      "id": "8432054",
+      "date_timestamp": null,
+      "date_str": "Feb 12, 11:20pm",
+      "home_team": "Once Caldas",
+      "away_team": "Junior",
+      "home_ppg": 1.62,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.18,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8432142",
+      "date_timestamp": null,
+      "date_str": "Feb 12, 9:10pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 0.89,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 2.87,
+        "away": 4.0
+      }
+    },
+    {
+      "id": "8432075",
+      "date_timestamp": null,
+      "date_str": "Feb 12, 1:30am",
+      "home_team": "La Equidad",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 1.33,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.87,
+        "away": 2.7
+      }
+    },
+    {
+      "id": "8432056",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 11:30pm",
+      "home_team": "Millonarios",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.6,
+        "away": 4.8
+      }
+    },
+    {
+      "id": "8432143",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 1:30am",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.21,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 2.8,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8432057",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 11:20pm",
+      "home_team": "Llaneros",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 1.16,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.0,
+        "away": 4.45
+      }
+    },
+    {
+      "id": "8432158",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 9:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 0.84,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.24,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8432161",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 1:30am",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 0.95,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.05,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8432058",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 11:20pm",
+      "home_team": "Deportivo Cali",
+      "away_team": "Millonarios",
+      "home_ppg": 1.42,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.19,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8432059",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 9:10pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Once Caldas",
+      "home_ppg": 0.89,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.95,
+        "away": 2.8
+      }
+    },
+    {
+      "id": "8432071",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 1:30am",
+      "home_team": "Junior",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 1.78,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 4.8,
+        "away": 9.5
+      }
+    },
+    {
+      "id": "8432074",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 11:20pm",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.16,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.81,
+        "draw": 3.0,
+        "away": 2.71
+      }
+    },
+    {
+      "id": "8432162",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 9:10pm",
+      "home_team": "Deportes Tolima",
+      "away_team": "Llaneros",
+      "home_ppg": 1.61,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.3,
+        "away": 5.5
+      }
+    },
+    {
+      "id": "8432163",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 7:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 1.37,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.12,
+        "away": 4.15
+      }
+    },
+    {
+      "id": "8432062",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 1:30am",
+      "home_team": "Independiente Medellín",
+      "away_team": "La Equidad",
+      "home_ppg": 1.37,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 3.9,
+        "away": 6.0
+      }
+    },
+    {
+      "id": "8432140",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 11:20pm",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.62,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.22,
+        "draw": 2.9,
+        "away": 2.3
+      }
+    },
+    {
+      "id": "8432061",
+      "date_timestamp": null,
+      "date_str": "Feb 5, 1:00am",
+      "home_team": "Atlético Nacional",
+      "away_team": "América de Cali",
+      "home_ppg": 2.26,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.4,
+        "away": 4.6
+      }
+    },
+    {
+      "id": "8432170",
+      "date_timestamp": null,
+      "date_str": "Feb 3, 1:30am",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Junior",
+      "home_ppg": 0.53,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.07,
+        "draw": 2.88,
+        "away": 1.98
+      }
+    },
+    {
+      "id": "8432173",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 11:20pm",
+      "home_team": "La Equidad",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.33,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.11,
+        "away": 2.45
+      }
+    },
+    {
+      "id": "8432067",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 8:00pm",
+      "home_team": "Millonarios",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.07,
+        "draw": 1.03,
+        "away": 3.62
+      }
+    },
+    {
+      "id": "8432063",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 1:30am",
+      "home_team": "Llaneros",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 1.16,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.9,
+        "away": 3.1
+      }
+    },
+    {
+      "id": "8432064",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 11:10pm",
+      "home_team": "Once Caldas",
+      "away_team": "Jaguares de Córdoba",
+      "home_ppg": 1.62,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.56,
+        "draw": 3.7,
+        "away": 5.0
+      }
+    },
+    {
+      "id": "8432066",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 9:10pm",
+      "home_team": "Deportivo Cali",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 1.42,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.35,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8432065",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 7:00pm",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.7,
+        "away": 5.03
+      }
+    },
+    {
+      "id": "8432174",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 11:10pm",
+      "home_team": "Boyacá Chicó",
+      "away_team": "Santa Fe",
+      "home_ppg": 0.89,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.1,
+        "draw": 3.0,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8432183",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 9:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 0.84,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.87,
+        "away": 2.88
+      }
+    },
+    {
+      "id": "8432164",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 1:20am",
+      "home_team": "América de Cali",
+      "away_team": "Once Caldas",
+      "home_ppg": 1.62,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.4
+      }
+    },
+    {
+      "id": "8432068",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 11:10pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "La Equidad",
+      "home_ppg": 0.95,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.08,
+        "away": 4.2
+      }
+    },
+    {
+      "id": "8432178",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 9:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 1.37,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.08,
+        "away": 4.3
+      }
+    },
+    {
+      "id": "8432182",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 1:30am",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Millonarios",
+      "home_ppg": 1.62,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 2.97,
+        "away": 2.27
+      }
+    },
+    {
+      "id": "8432171",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 11:30pm",
+      "home_team": "Santa Fe",
+      "away_team": "Deportivo Pereira",
+      "home_ppg": 1.52,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 4.15,
+        "away": 9.7
+      }
+    },
+    {
+      "id": "8432177",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 9:10pm",
+      "home_team": "Alianza Petrolera",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 0.89,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 3.95,
+        "away": 9.5
+      }
+    },
+    {
+      "id": "8432181",
+      "date_timestamp": null,
+      "date_str": "Jan 28, 1:30am",
+      "home_team": "Independiente Medellín",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.37,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.9,
+        "away": 3.2
+      }
+    },
+    {
+      "id": "8432165",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 11:20pm",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Llaneros",
+      "home_ppg": 1.16,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.0,
+        "away": 5.09
+      }
+    },
+    {
+      "id": "8432180",
+      "date_timestamp": null,
+      "date_str": "Jan 27, 9:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 0.84,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.87,
+        "away": 2.35
+      }
+    },
+    {
+      "id": "8432069",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 1:20am",
+      "home_team": "Once Caldas",
+      "away_team": "Santa Fe",
+      "home_ppg": 1.62,
+      "away_ppg": 1.52,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.0
+      }
+    },
+    {
+      "id": "8432176",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 11:10pm",
+      "home_team": "Millonarios",
+      "away_team": "Junior",
+      "home_ppg": 1.37,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.15,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8432070",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 9:00pm",
+      "home_team": "Rionegro Águilas",
+      "away_team": "Deportivo Pasto",
+      "home_ppg": 1.37,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.11,
+        "away": 4.33
+      }
+    },
+    {
+      "id": "8432175",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 1:30am",
+      "home_team": "Boyacá Chicó",
+      "away_team": "América de Cali",
+      "home_ppg": 0.89,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 2.94,
+        "away": 2.0
+      }
+    },
+    {
+      "id": "8432172",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 11:20pm",
+      "home_team": "Deportivo Cali",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 1.42,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.7,
+        "away": 2.68
+      }
+    },
+    {
+      "id": "8432166",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 9:10pm",
+      "home_team": "Llaneros",
+      "away_team": "Atlético Bucaramanga",
+      "home_ppg": 1.16,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 2.83,
+        "away": 2.2
+      }
+    },
+    {
+      "id": "8432188",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 7:00pm",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Fortaleza CEIF",
+      "home_ppg": 0.53,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 2.95,
+        "away": 2.05
+      }
+    },
+    {
+      "id": "8432167",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 1:30am",
+      "home_team": "Deportes Tolima",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.61,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.6,
+        "away": 5.25
+      }
+    },
+    {
+      "id": "8432168",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 11:20pm",
+      "home_team": "La Equidad",
+      "away_team": "Cúcuta Deportivo",
+      "home_ppg": 1.33,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.85,
+        "away": 3.25
+      }
+    },
+    {
+      "id": "8431996",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 9:00pm",
+      "home_team": "Cúcuta Deportivo",
+      "away_team": "Once Caldas",
+      "home_ppg": 0.84,
+      "away_ppg": 1.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 2.97,
+        "away": 3.62
+      }
+    },
+    {
+      "id": "8432192",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 1:30am",
+      "home_team": "Santa Fe",
+      "away_team": "Rionegro Águilas",
+      "home_ppg": 1.52,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.11,
+        "away": 3.45
+      }
+    },
+    {
+      "id": "8432190",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 11:20pm",
+      "home_team": "Junior",
+      "away_team": "Deportes Tolima",
+      "home_ppg": 1.78,
+      "away_ppg": 1.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.04,
+        "away": 3.45
+      }
+    },
+    {
+      "id": "8432193",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 9:10pm",
+      "home_team": "Jaguares de Córdoba",
+      "away_team": "Deportivo Cali",
+      "home_ppg": 0.95,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.0,
+        "away": 2.37
+      }
+    },
+    {
+      "id": "8432187",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 7:00pm",
+      "home_team": "Deportivo Pasto",
+      "away_team": "Independiente Medellín",
+      "home_ppg": 1.62,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.08,
+        "away": 1.83
+      }
+    },
+    {
+      "id": "8432186",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 1:30am",
+      "home_team": "Atlético Bucaramanga",
+      "away_team": "Millonarios",
+      "home_ppg": 1.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.1,
+        "away": 3.7
+      }
+    },
+    {
+      "id": "8432191",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 11:20pm",
+      "home_team": "Atlético Nacional",
+      "away_team": "Boyacá Chicó",
+      "home_ppg": 2.26,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 6.0,
+        "away": 8.9
+      }
+    },
+    {
+      "id": "8432189",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 9:10pm",
+      "home_team": "América de Cali",
+      "away_team": "La Equidad",
+      "home_ppg": 1.62,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.2,
+        "away": 8.0
+      }
+    },
+    {
+      "id": "8432184",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 1:30am",
+      "home_team": "Fortaleza CEIF",
+      "away_team": "Alianza Petrolera",
+      "home_ppg": 1.16,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.1,
+        "away": 3.5
+      }
+    },
+    {
+      "id": "8432185",
+      "date_timestamp": null,
+      "date_str": "Jan 16, 11:20pm",
+      "home_team": "Deportivo Pereira",
+      "away_team": "Llaneros",
+      "home_ppg": 0.53,
+      "away_ppg": 1.16,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.1,
+        "away": 2.5
+      }
+    }
+  ]
+}

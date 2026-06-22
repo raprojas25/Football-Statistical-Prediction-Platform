@@ -1,0 +1,6124 @@
+{
+  "generated_at": "2026-06-21T20:35:04.360338+00:00",
+  "source": "https://footystats.org/portugal/ligapro/fixtures",
+  "league": "cup",
+  "country": "portugal",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8193893",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:30pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.47,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.81,
+        "draw": 3.8,
+        "away": 4.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193907",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:30pm",
+      "home_team": "Portimonense",
+      "away_team": "Farense",
+      "home_ppg": 1.18,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.5,
+        "away": 2.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193910",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Leixões",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.3,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193895",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:30pm",
+      "home_team": "União de Leiria",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.59,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.5,
+        "away": 3.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193908",
+      "date_timestamp": null,
+      "date_str": "May 17, 11:00am",
+      "home_team": "UD Oliveirense",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 3.54,
+        "away": 2.31
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193894",
+      "date_timestamp": null,
+      "date_str": "May 16, 11:00am",
+      "home_team": "Torreense",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193909",
+      "date_timestamp": null,
+      "date_str": "May 16, 11:00am",
+      "home_team": "Academico Viseu",
+      "away_team": "Sporting CP II",
+      "home_ppg": 2.12,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.75,
+        "away": 5.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193912",
+      "date_timestamp": null,
+      "date_str": "May 15, 7:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.82,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.3,
+        "away": 3.22
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193911",
+      "date_timestamp": null,
+      "date_str": "May 15, 6:00pm",
+      "home_team": "Porto II",
+      "away_team": "Benfica II",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.03,
+        "draw": 3.25,
+        "away": 2.23
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193659",
+      "date_timestamp": null,
+      "date_str": "May 9, 8:30pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Torreense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.31,
+        "draw": 3.28,
+        "away": 1.95
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193890",
+      "date_timestamp": null,
+      "date_str": "May 9, 8:30pm",
+      "home_team": "FC Vizela",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.65,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.2,
+        "away": 2.87
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193904",
+      "date_timestamp": null,
+      "date_str": "May 9, 8:30pm",
+      "home_team": "Benfica II",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.74,
+        "draw": 3.5,
+        "away": 2.38
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193671",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:30pm",
+      "home_team": "FC Penafiel",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.53,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.59,
+        "draw": 3.2,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193898",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:30pm",
+      "home_team": "Sporting CP II",
+      "away_team": "Porto II",
+      "home_ppg": 1.24,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.55,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193899",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:30pm",
+      "home_team": "Farense",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.0,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.1,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193902",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:30pm",
+      "home_team": "CD Feirense",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.41,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.4,
+        "away": 3.53
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193905",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:30pm",
+      "home_team": "GD Chaves",
+      "away_team": "Leixões",
+      "home_ppg": 1.35,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.05,
+        "away": 3.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193906",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:30pm",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Portimonense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.3,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193896",
+      "date_timestamp": null,
+      "date_str": "May 4, 6:00pm",
+      "home_team": "Porto II",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.1,
+        "away": 2.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193901",
+      "date_timestamp": null,
+      "date_str": "May 4, 6:00pm",
+      "home_team": "Torreense",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.88,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.51,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193892",
+      "date_timestamp": null,
+      "date_str": "May 3, 3:30pm",
+      "home_team": "União de Leiria",
+      "away_team": "Farense",
+      "home_ppg": 1.59,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.44,
+        "away": 4.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193888",
+      "date_timestamp": null,
+      "date_str": "May 3, 2:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.1,
+        "away": 3.38
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193889",
+      "date_timestamp": null,
+      "date_str": "May 3, 11:00am",
+      "home_team": "Portimonense",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.18,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.1,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193897",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "FC Vizela",
+      "home_ppg": 2.12,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.2,
+        "away": 3.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193903",
+      "date_timestamp": null,
+      "date_str": "May 2, 11:00am",
+      "home_team": "UD Oliveirense",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.29,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.15,
+        "away": 2.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193900",
+      "date_timestamp": null,
+      "date_str": "May 1, 8:30pm",
+      "home_team": "Sporting CP II",
+      "away_team": "Benfica II",
+      "home_ppg": 1.24,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.2,
+        "away": 2.62
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193891",
+      "date_timestamp": null,
+      "date_str": "May 1, 3:30pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Leixões",
+      "home_ppg": 1.82,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.1,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193825",
+      "date_timestamp": null,
+      "date_str": "Apr 28, 6:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "Torreense",
+      "home_ppg": 1.41,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.15,
+        "away": 2.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193802",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 6:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.35,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.75,
+        "away": 4.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193803",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.47,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.1,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193798",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 3:30pm",
+      "home_team": "FC Penafiel",
+      "away_team": "Porto II",
+      "home_ppg": 1.53,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.2,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193797",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:00pm",
+      "home_team": "FC Vizela",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.65,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.4,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193673",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 11:00am",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.29,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.06,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193799",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 6:00pm",
+      "home_team": "Felgueiras 1932",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.2,
+        "away": 2.38
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193823",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:00pm",
+      "home_team": "Farense",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.0,
+        "away": 2.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193796",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 11:00am",
+      "home_team": "Leixões",
+      "away_team": "Portimonense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.25,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193801",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 6:00pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "Benfica II",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.09,
+        "draw": 3.25,
+        "away": 2.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193678",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 6:45pm",
+      "home_team": "Sporting CP II",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.24,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193792",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 6:45pm",
+      "home_team": "Porto II",
+      "away_team": "Leixões",
+      "home_ppg": 1.88,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.1,
+        "away": 2.69
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193722",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00pm",
+      "home_team": "FC Vizela",
+      "away_team": "Farense",
+      "home_ppg": 1.65,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.1,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193698",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 11:00am",
+      "home_team": "Portimonense",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.18,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.2,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193684",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 6:00pm",
+      "home_team": "Torreense",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.88,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.0,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193800",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.59,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.35,
+        "away": 4.41
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193824",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 11:00am",
+      "home_team": "Paços de Ferreira",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.92,
+        "draw": 3.0,
+        "away": 2.29
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193795",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 6:45pm",
+      "home_team": "Academico Viseu",
+      "away_team": "CD Feirense",
+      "home_ppg": 2.12,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.2,
+        "away": 4.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193794",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 6:00pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Porto II",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 2.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193682",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 3:30pm",
+      "home_team": "Leixões",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.47,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.7,
+        "away": 4.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193685",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Portimonense",
+      "home_ppg": 1.82,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.0,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193681",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 11:00am",
+      "home_team": "CD Feirense",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.94,
+        "draw": 3.15,
+        "away": 2.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193680",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 6:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "Torreense",
+      "home_ppg": 1.35,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.1,
+        "away": 2.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193789",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193793",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:00pm",
+      "home_team": "Farense",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.0,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193683",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 11:00am",
+      "home_team": "FC Penafiel",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.53,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.0,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193791",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 6:45pm",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.47,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.5,
+        "away": 4.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193790",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 6:00pm",
+      "home_team": "FC Vizela",
+      "away_team": "Benfica II",
+      "home_ppg": 1.65,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.35,
+        "away": 3.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193669",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 6:00pm",
+      "home_team": "Porto II",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.88,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.04,
+        "draw": 3.05,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193670",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 6:00pm",
+      "home_team": "Torreense",
+      "away_team": "Leixões",
+      "home_ppg": 1.88,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.4,
+        "away": 3.92
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193679",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 6:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.59,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.3,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193672",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 6:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 2.12,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.24,
+        "away": 3.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193786",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.47,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 3.22,
+        "away": 1.83
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193787",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.24,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.25,
+        "away": 3.38
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193959",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 11:00am",
+      "home_team": "Farense",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.0,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.2,
+        "away": 3.54
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193826",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 3:30pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "Portimonense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.2,
+        "away": 2.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193766",
+      "date_timestamp": null,
+      "date_str": "Mar 29, 3:30pm",
+      "home_team": "União de Leiria",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.59,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 3.75,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193658",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Farense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193822",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 3:30pm",
+      "home_team": "Leixões",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.47,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 2.9,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193714",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.41,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.0,
+        "away": 2.95
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193788",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Torreense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.08,
+        "away": 3.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193694",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 6:00pm",
+      "home_team": "Portimonense",
+      "away_team": "Porto II",
+      "home_ppg": 1.18,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.2,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193885",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:30pm",
+      "home_team": "CS Marítimo",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.82,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.4,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193713",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 2:00pm",
+      "home_team": "FC Penafiel",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.53,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 3.0,
+        "away": 2.28
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193689",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 11:00am",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.1,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193715",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 6:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.35,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.0,
+        "away": 3.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193720",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 8:15pm",
+      "home_team": "Torreense",
+      "away_team": "Portimonense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.9,
+        "away": 5.27
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193958",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 6:45pm",
+      "home_team": "Porto II",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.88,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.4,
+        "away": 3.48
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193711",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 6:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.41,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.16,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193712",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.59,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.3,
+        "away": 2.49
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193740",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:00am",
+      "home_team": "FC Vizela",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.65,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.1,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193821",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 2:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Benfica II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193935",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:00am",
+      "home_team": "Academico Viseu",
+      "away_team": "Leixões",
+      "home_ppg": 2.12,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.3,
+        "away": 4.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193764",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 6:00pm",
+      "home_team": "Farense",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 3.05,
+        "away": 2.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193785",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 6:00pm",
+      "home_team": "Sporting CP II",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.24,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.54,
+        "draw": 3.1,
+        "away": 2.74
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193921",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.1,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193780",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 6:00pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.29,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.39,
+        "draw": 3.0,
+        "away": 2.86
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193783",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 3:30pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Porto II",
+      "home_ppg": 1.82,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.0,
+        "away": 6.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193709",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 2:00pm",
+      "home_team": "Leixões",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 2.9,
+        "away": 2.93
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193707",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193922",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 3:30pm",
+      "home_team": "FC Penafiel",
+      "away_team": "Farense",
+      "home_ppg": 1.53,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.91,
+        "draw": 3.15,
+        "away": 2.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193695",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 2:00pm",
+      "home_team": "Portimonense",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.18,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.2,
+        "away": 3.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193710",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 11:00am",
+      "home_team": "UD Oliveirense",
+      "away_team": "Torreense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.0,
+        "away": 2.17
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193708",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 6:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.35,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.78,
+        "draw": 3.0,
+        "away": 2.46
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193817",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 6:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.34,
+        "draw": 3.0,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193705",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 6:00pm",
+      "home_team": "FC Penafiel",
+      "away_team": "Benfica II",
+      "home_ppg": 1.53,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.27,
+        "draw": 3.4,
+        "away": 2.11
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193667",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 3:30pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.47,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.36,
+        "draw": 3.0,
+        "away": 2.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193704",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "CS Marítimo",
+      "home_ppg": 2.12,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.54,
+        "draw": 2.88,
+        "away": 3.01
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193942",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 11:00am",
+      "home_team": "Farense",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.0,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.38,
+        "away": 4.03
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193719",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 6:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "Portimonense",
+      "home_ppg": 1.59,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.65,
+        "away": 4.31
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193734",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:30pm",
+      "home_team": "FC Vizela",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.65,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.0,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193706",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 2:00pm",
+      "home_team": "Torreense",
+      "away_team": "Porto II",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.25,
+        "away": 3.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193819",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "Leixões",
+      "home_ppg": 1.24,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.4,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193782",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 8:15pm",
+      "home_team": "Porto II",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.88,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.4,
+        "away": 3.51
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193703",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 6:00pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 2.62
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193693",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:30pm",
+      "home_team": "Portimonense",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.18,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.24,
+        "draw": 3.52,
+        "away": 1.81
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193779",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "Farense",
+      "home_ppg": 1.35,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193820",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.47,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.3,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193756",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 6:00pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.02,
+        "draw": 3.2,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193784",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 2:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.82,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.5,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193687",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 11:00am",
+      "home_team": "Torreense",
+      "away_team": "Benfica II",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.2,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193759",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 6:45pm",
+      "home_team": "Leixões",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.02,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193778",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 6:00pm",
+      "home_team": "FC Penafiel",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.53,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.09,
+        "away": 2.69
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193931",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 6:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "Porto II",
+      "home_ppg": 1.59,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.4,
+        "away": 3.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193675",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "Portimonense",
+      "home_ppg": 1.24,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.3,
+        "away": 3.79
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193702",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:00am",
+      "home_team": "FC Vizela",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.65,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.79,
+        "draw": 2.98,
+        "away": 2.48
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193781",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:00am",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Torreense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.98,
+        "draw": 2.93,
+        "away": 2.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193776",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.13,
+        "away": 3.06
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193701",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 3:30pm",
+      "home_team": "Farense",
+      "away_team": "Leixões",
+      "home_ppg": 1.0,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193733",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 2:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 2.12,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.9,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193700",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 11:00am",
+      "home_team": "CD Feirense",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.41,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 2.95,
+        "away": 2.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193773",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 8:15pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.0,
+        "away": 2.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193717",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 6:00pm",
+      "home_team": "Portimonense",
+      "away_team": "Benfica II",
+      "home_ppg": 1.18,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.71,
+        "draw": 3.25,
+        "away": 2.29
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193777",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 3:30pm",
+      "home_team": "Torreense",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 2.95,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193732",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 6:00pm",
+      "home_team": "Leixões",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.9,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193775",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:30pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.25,
+        "away": 1.91
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193774",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 2:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Farense",
+      "home_ppg": 1.82,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.25,
+        "away": 4.46
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193818",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 11:00am",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.05,
+        "away": 2.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193770",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 8:15pm",
+      "home_team": "GD Chaves",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.35,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.3,
+        "away": 4.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193772",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 6:00pm",
+      "home_team": "Porto II",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.1,
+        "away": 1.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193699",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.41,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 2.9,
+        "away": 2.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193727",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.24,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.2,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193674",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 8:30pm",
+      "home_team": "FC Vizela",
+      "away_team": "Portimonense",
+      "home_ppg": 1.65,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.4,
+        "away": 4.89
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193696",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 6:00pm",
+      "home_team": "Farense",
+      "away_team": "Porto II",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.3,
+        "away": 4.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193957",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 2:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "Torreense",
+      "home_ppg": 2.12,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 2.9,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193765",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.15,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193767",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 6:45pm",
+      "home_team": "FC Penafiel",
+      "away_team": "Leixões",
+      "home_ppg": 1.53,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.1,
+        "away": 3.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193815",
+      "date_timestamp": null,
+      "date_str": "Jan 29, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193726",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 6:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.59,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193771",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 3:30pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.29,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.15,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193769",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:00pm",
+      "home_team": "Torreense",
+      "away_team": "Farense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.63
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193718",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 11:00am",
+      "home_team": "Portimonense",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.18,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.63
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193725",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 11:00am",
+      "home_team": "Porto II",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.36,
+        "away": 2.08
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193762",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:30pm",
+      "home_team": "Leixões",
+      "away_team": "Benfica II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 3.0,
+        "away": 2.38
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193691",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 2:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.82,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.3,
+        "away": 4.33
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193677",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 11:00am",
+      "home_team": "GD Chaves",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.35,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.1,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193768",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 6:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.82,
+        "draw": 3.5,
+        "away": 1.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193760",
+      "date_timestamp": null,
+      "date_str": "Jan 21, 6:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.59,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.0,
+        "away": 2.68
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193676",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 6:00pm",
+      "home_team": "Sporting CP II",
+      "away_team": "Torreense",
+      "home_ppg": 1.24,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 3.15,
+        "away": 3.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193690",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 6:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "Porto II",
+      "home_ppg": 1.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.28,
+        "away": 3.73
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193961",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 2:00pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.29,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 2.95,
+        "away": 2.08
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193688",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.16,
+        "away": 2.63
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193716",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 2:00pm",
+      "home_team": "FC Penafiel",
+      "away_team": "Portimonense",
+      "home_ppg": 1.53,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.2,
+        "away": 2.93
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193692",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 11:00am",
+      "home_team": "Farense",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.0,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.7,
+        "away": 5.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193731",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Leixões",
+      "home_ppg": 1.47,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.52,
+        "away": 4.97
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193666",
+      "date_timestamp": null,
+      "date_str": "Jan 16, 6:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "União de Leiria",
+      "home_ppg": 2.12,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.25,
+        "away": 3.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193724",
+      "date_timestamp": null,
+      "date_str": "Jan 15, 8:15pm",
+      "home_team": "FC Vizela",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.65,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 3.5,
+        "away": 4.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193723",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 6:00pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 2.9,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193881",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 3:30pm",
+      "home_team": "Porto II",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.88,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.03,
+        "draw": 3.12,
+        "away": 2.36
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193878",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 2:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.35,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 2.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193833",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 11:00am",
+      "home_team": "Portimonense",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.18,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.1,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193882",
+      "date_timestamp": null,
+      "date_str": "Jan 8, 8:15pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Leixões",
+      "home_ppg": 1.29,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.0,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193816",
+      "date_timestamp": null,
+      "date_str": "Jan 5, 8:15pm",
+      "home_team": "FC Vizela",
+      "away_team": "Torreense",
+      "home_ppg": 1.65,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.35,
+        "away": 3.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193668",
+      "date_timestamp": null,
+      "date_str": "Jan 5, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Porto II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.6,
+        "away": 4.19
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193730",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.24,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.0,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193956",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 11:00am",
+      "home_team": "FC Penafiel",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.53,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.0,
+        "away": 3.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193849",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 8:30pm",
+      "home_team": "Farense",
+      "away_team": "Portimonense",
+      "home_ppg": 1.0,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.75,
+        "away": 4.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193755",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 2:00pm",
+      "home_team": "Felgueiras 1932",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.47,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.65,
+        "away": 4.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193763",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 11:00am",
+      "home_team": "CD Feirense",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.1,
+        "away": 2.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193761",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 8:15pm",
+      "home_team": "Torreense",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.88,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.05,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193811",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 2:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Farense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.05,
+        "draw": 3.35,
+        "away": 1.77
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193835",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 11:00am",
+      "home_team": "Academico Viseu",
+      "away_team": "Benfica II",
+      "home_ppg": 2.12,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.4,
+        "away": 4.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193728",
+      "date_timestamp": null,
+      "date_str": "Dec 22, 8:45pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.29,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.79,
+        "draw": 3.2,
+        "away": 3.59
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193941",
+      "date_timestamp": null,
+      "date_str": "Dec 22, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.32,
+        "draw": 3.25,
+        "away": 2.82
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193879",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 6:00pm",
+      "home_team": "FC Penafiel",
+      "away_team": "Torreense",
+      "home_ppg": 1.53,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.2,
+        "away": 2.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193880",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 3:30pm",
+      "home_team": "Farense",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 3.0,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193813",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 2:00pm",
+      "home_team": "Leixões",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.47,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.05,
+        "away": 2.18
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193721",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Porto II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.4,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193758",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:30pm",
+      "home_team": "FC Vizela",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.65,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.2,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193834",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:30pm",
+      "home_team": "CD Feirense",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.41,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.1,
+        "away": 3.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193838",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 2:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "Portimonense",
+      "home_ppg": 1.35,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.7,
+        "away": 4.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193877",
+      "date_timestamp": null,
+      "date_str": "Dec 16, 5:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Benfica II",
+      "home_ppg": 1.82,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.25,
+        "away": 4.12
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193874",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 6:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 3.12,
+        "draw": 3.0,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193757",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.24,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.2,
+        "away": 2.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193883",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 11:00am",
+      "home_team": "Portimonense",
+      "away_team": "Leixões",
+      "home_ppg": 1.18,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.1,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193865",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 2:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "Farense",
+      "home_ppg": 2.12,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.15,
+        "away": 3.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193873",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 11:00am",
+      "home_team": "União de Leiria",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.59,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.36,
+        "draw": 3.25,
+        "away": 3.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193852",
+      "date_timestamp": null,
+      "date_str": "Dec 12, 8:15pm",
+      "home_team": "Torreense",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.35,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193665",
+      "date_timestamp": null,
+      "date_str": "Dec 12, 6:00pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.29,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.1,
+        "away": 1.83
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193729",
+      "date_timestamp": null,
+      "date_str": "Dec 12, 6:00pm",
+      "home_team": "Porto II",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.88,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.4,
+        "away": 3.41
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193866",
+      "date_timestamp": null,
+      "date_str": "Dec 8, 3:30pm",
+      "home_team": "Farense",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.0,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 2.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193953",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 3:30pm",
+      "home_team": "GD Chaves",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.35,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.72,
+        "away": 5.67
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193857",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 2:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.35,
+        "away": 1.92
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193827",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 11:00am",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Portimonense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.2,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193858",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 6:00pm",
+      "home_team": "Leixões",
+      "away_team": "Porto II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.0,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193940",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.47,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.8,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193864",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 2:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Torreense",
+      "home_ppg": 1.82,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.4,
+        "away": 3.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193954",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193955",
+      "date_timestamp": null,
+      "date_str": "Dec 5, 6:00pm",
+      "home_team": "FC Penafiel",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.53,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 1.92
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193812",
+      "date_timestamp": null,
+      "date_str": "Dec 1, 6:00pm",
+      "home_team": "FC Vizela",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.65,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.35,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193751",
+      "date_timestamp": null,
+      "date_str": "Dec 1, 2:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.25,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193752",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 3:30pm",
+      "home_team": "Sporting CP II",
+      "away_team": "Farense",
+      "home_ppg": 1.24,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.49,
+        "draw": 3.3,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193868",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 3:30pm",
+      "home_team": "União de Leiria",
+      "away_team": "Benfica II",
+      "home_ppg": 1.59,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.34,
+        "draw": 3.24,
+        "away": 3.07
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193841",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:00pm",
+      "home_team": "Portimonense",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.18,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.3,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193863",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 11:00am",
+      "home_team": "Torreense",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.88,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.1,
+        "away": 2.98
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193869",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 11:00am",
+      "home_team": "Porto II",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.88,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.3,
+        "away": 2.67
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193870",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 2:00pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "Leixões",
+      "home_ppg": 1.29,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.15,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193872",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 11:00am",
+      "home_team": "Academico Viseu",
+      "away_team": "FC Penafiel",
+      "home_ppg": 2.12,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.9,
+        "away": 5.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193930",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 2:20pm",
+      "home_team": "CS Marítimo",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.82,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.9,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193855",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 11:00am",
+      "home_team": "Porto II",
+      "away_team": "Portimonense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.25,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193939",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 11:00am",
+      "home_team": "GD Chaves",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.35,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.2,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193814",
+      "date_timestamp": null,
+      "date_str": "Nov 16, 6:00pm",
+      "home_team": "Leixões",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 2.87,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193741",
+      "date_timestamp": null,
+      "date_str": "Nov 16, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Farense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.15,
+        "away": 2.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193746",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 8:30pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.05,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193929",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 3:30pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.82,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.6,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193867",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.3,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193856",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 11:00am",
+      "home_team": "Leixões",
+      "away_team": "Torreense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.15,
+        "away": 2.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193742",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 6:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "Porto II",
+      "home_ppg": 1.35,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.3,
+        "away": 4.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193753",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.25,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193876",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 2:00pm",
+      "home_team": "Portimonense",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.18,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.65,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193749",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 11:00am",
+      "home_team": "FC Penafiel",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.53,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.49,
+        "draw": 3.0,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193754",
+      "date_timestamp": null,
+      "date_str": "Nov 7, 6:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "Farense",
+      "home_ppg": 1.41,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.3,
+        "away": 2.48
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193657",
+      "date_timestamp": null,
+      "date_str": "Nov 4, 6:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 2.12,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.2,
+        "away": 3.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193744",
+      "date_timestamp": null,
+      "date_str": "Nov 4, 4:00pm",
+      "home_team": "Torreense",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.88,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.0,
+        "draw": 1.27,
+        "away": 3.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193745",
+      "date_timestamp": null,
+      "date_str": "Nov 3, 8:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.59,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.3,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193743",
+      "date_timestamp": null,
+      "date_str": "Nov 3, 6:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Leixões",
+      "home_ppg": 1.47,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.9,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193920",
+      "date_timestamp": null,
+      "date_str": "Nov 3, 6:00pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.29,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.2,
+        "away": 1.95
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193871",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 3:30pm",
+      "home_team": "Farense",
+      "away_team": "Benfica II",
+      "home_ppg": 1.0,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.25,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193748",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 11:00am",
+      "home_team": "FC Vizela",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.65,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.75,
+        "away": 5.82
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193747",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.24,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.1,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193750",
+      "date_timestamp": null,
+      "date_str": "Oct 30, 8:15pm",
+      "home_team": "CS Marítimo",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.82,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.1,
+        "away": 3.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193928",
+      "date_timestamp": null,
+      "date_str": "Oct 30, 8:15pm",
+      "home_team": "Leixões",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 2.74
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193854",
+      "date_timestamp": null,
+      "date_str": "Oct 30, 6:00pm",
+      "home_team": "Portimonense",
+      "away_team": "Torreense",
+      "home_ppg": 1.18,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.3,
+        "away": 2.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193938",
+      "date_timestamp": null,
+      "date_str": "Oct 30, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.47,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.3,
+        "away": 4.09
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193851",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:15pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "Porto II",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.3,
+        "away": 2.44
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193861",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 5:15pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.23,
+        "draw": 3.0,
+        "away": 2.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193936",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 11:00am",
+      "home_team": "Farense",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.0,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.6,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193927",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:30pm",
+      "home_team": "CD Feirense",
+      "away_team": "Benfica II",
+      "home_ppg": 1.41,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.15,
+        "away": 2.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193952",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:30pm",
+      "home_team": "Academico Viseu",
+      "away_team": "GD Chaves",
+      "home_ppg": 2.12,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.07,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193875",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Portimonense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.15,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193860",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 11:00am",
+      "home_team": "União de Leiria",
+      "away_team": "Leixões",
+      "home_ppg": 1.59,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.1,
+        "away": 3.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193937",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.24,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 3.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193859",
+      "date_timestamp": null,
+      "date_str": "Oct 24, 8:45pm",
+      "home_team": "FC Vizela",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.65,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 3.58
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193850",
+      "date_timestamp": null,
+      "date_str": "Oct 24, 6:45pm",
+      "home_team": "Torreense",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.88,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.7,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193862",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 3:30pm",
+      "home_team": "FC Penafiel",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.53,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.0,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193919",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 11:00am",
+      "home_team": "Porto II",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.88,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193949",
+      "date_timestamp": null,
+      "date_str": "Oct 11, 3:30pm",
+      "home_team": "União de Leiria",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.59,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.95,
+        "away": 5.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193847",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.47,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.98,
+        "away": 4.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193951",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 3:30pm",
+      "home_team": "Leixões",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.18,
+        "draw": 3.25,
+        "away": 3.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193950",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Felgueiras 1932",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.25,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193663",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 11:00am",
+      "home_team": "Porto II",
+      "away_team": "Torreense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.0,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193739",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 11:00am",
+      "home_team": "UD Oliveirense",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.29,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 2.82
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193853",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 3:30pm",
+      "home_team": "Portimonense",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.18,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.45,
+        "away": 2.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193660",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 2:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.35,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 2.95,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193960",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 11:00am",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Farense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.0,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193664",
+      "date_timestamp": null,
+      "date_str": "Oct 3, 6:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.82,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 3.0,
+        "away": 3.59
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193948",
+      "date_timestamp": null,
+      "date_str": "Sep 29, 6:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "Porto II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.25,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193846",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 2:00pm",
+      "home_team": "Farense",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.0,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193933",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 11:00am",
+      "home_team": "CD Feirense",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.41,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.2,
+        "away": 2.87
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193830",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 2:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "Portimonense",
+      "home_ppg": 2.12,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.15,
+        "away": 3.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193848",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 11:00am",
+      "home_team": "FC Penafiel",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.53,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 3.34,
+        "away": 2.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193926",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 11:00am",
+      "home_team": "Benfica II",
+      "away_team": "Torreense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.1,
+        "away": 2.56
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193934",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.24,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.48,
+        "draw": 3.3,
+        "away": 2.79
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193738",
+      "date_timestamp": null,
+      "date_str": "Sep 26, 6:00pm",
+      "home_team": "FC Vizela",
+      "away_team": "Leixões",
+      "home_ppg": 1.65,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.4,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193947",
+      "date_timestamp": null,
+      "date_str": "Sep 15, 8:15pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.39,
+        "draw": 3.1,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193735",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 6:00pm",
+      "home_team": "GD Chaves",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.35,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.1,
+        "away": 3.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193944",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 3:45pm",
+      "home_team": "Porto II",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.15,
+        "draw": 3.55,
+        "away": 1.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193845",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 3:30pm",
+      "home_team": "Torreense",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.88,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 3.85,
+        "away": 6.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193946",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 2:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.82,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.05,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193839",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 11:00am",
+      "home_team": "Portimonense",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.18,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.57,
+        "draw": 3.32,
+        "away": 2.67
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193945",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:30pm",
+      "home_team": "Leixões",
+      "away_team": "Farense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.05,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193925",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 2:00pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.29,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.35,
+        "away": 4.53
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193924",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Benfica II",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.2,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193844",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 3:30pm",
+      "home_team": "FC Vizela",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.65,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.9,
+        "away": 7.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193829",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 2:00pm",
+      "home_team": "Academico Viseu",
+      "away_team": "Porto II",
+      "home_ppg": 2.12,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.36,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193842",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 1.24,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.0,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193918",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 11:00am",
+      "home_team": "Farense",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.0,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.0,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193837",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Portimonense",
+      "home_ppg": 1.47,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.79,
+        "away": 3.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193932",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 3:30pm",
+      "home_team": "CD Feirense",
+      "away_team": "Leixões",
+      "home_ppg": 1.41,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193831",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 2:00pm",
+      "home_team": "Felgueiras 1932",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.47,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 3.26,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193943",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 11:00am",
+      "home_team": "FC Penafiel",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.53,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.25,
+        "away": 2.19
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193832",
+      "date_timestamp": null,
+      "date_str": "Aug 29, 6:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "Torreense",
+      "home_ppg": 1.59,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.04,
+        "away": 3.28
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193736",
+      "date_timestamp": null,
+      "date_str": "Aug 25, 6:00pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "Benfica II",
+      "home_ppg": 1.29,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.15,
+        "away": 2.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193808",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 3:30pm",
+      "home_team": "CS Marítimo",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.82,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.18,
+        "draw": 3.2,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193806",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 2:00pm",
+      "home_team": "Leixões",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.47,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.25,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193662",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 11:00am",
+      "home_team": "UD Oliveirense",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.29,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.35,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193810",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 11:00am",
+      "home_team": "Porto II",
+      "away_team": "Farense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.1,
+        "away": 2.22
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193809",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 3:30pm",
+      "home_team": "Torreense",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.88,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.45,
+        "away": 4.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193805",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 2:00pm",
+      "home_team": "Paços de Ferreira",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.2,
+        "away": 2.12
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193840",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 11:00am",
+      "home_team": "Portimonense",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.18,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.3,
+        "away": 2.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193661",
+      "date_timestamp": null,
+      "date_str": "Aug 22, 8:15pm",
+      "home_team": "GD Chaves",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.35,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.05,
+        "away": 3.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193804",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 6:00pm",
+      "home_team": "Benfica II",
+      "away_team": "Leixões",
+      "home_ppg": 1.47,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.15,
+        "away": 3.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193828",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 2:00pm",
+      "home_team": "FC Penafiel",
+      "away_team": "UD Oliveirense",
+      "home_ppg": 1.53,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.24,
+        "draw": 3.5,
+        "away": 2.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193737",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 11:00am",
+      "home_team": "Sporting CP II",
+      "away_team": "União de Leiria",
+      "home_ppg": 1.24,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.1,
+        "away": 2.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193807",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 11:00am",
+      "home_team": "Farense",
+      "away_team": "Torreense",
+      "home_ppg": 1.0,
+      "away_ppg": 1.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.05,
+        "away": 3.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193686",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 3:30pm",
+      "home_team": "Academico Viseu",
+      "away_team": "Paços de Ferreira",
+      "home_ppg": 2.12,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.15,
+        "away": 2.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193843",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 3:30pm",
+      "home_team": "Lusitania Lourosa",
+      "away_team": "GD Chaves",
+      "home_ppg": 1.29,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 2.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193962",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 2:00pm",
+      "home_team": "FC Vizela",
+      "away_team": "Porto II",
+      "home_ppg": 1.65,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.75,
+        "away": 4.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193697",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 11:00am",
+      "home_team": "Felgueiras 1932",
+      "away_team": "CS Marítimo",
+      "home_ppg": 1.47,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.2,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193836",
+      "date_timestamp": null,
+      "date_str": "Aug 15, 6:00pm",
+      "home_team": "CD Feirense",
+      "away_team": "Portimonense",
+      "home_ppg": 1.41,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.05,
+        "away": 3.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193914",
+      "date_timestamp": null,
+      "date_str": "Aug 11, 6:00pm",
+      "home_team": "UD Oliveirense",
+      "away_team": "Farense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.35,
+        "draw": 3.55,
+        "away": 1.67
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193884",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 6:00pm",
+      "home_team": "Porto II",
+      "away_team": "CD Feirense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.36,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193886",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 6:00pm",
+      "home_team": "União de Leiria",
+      "away_team": "Academico Viseu",
+      "home_ppg": 1.59,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.25,
+        "away": 3.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193887",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 3:30pm",
+      "home_team": "Leixões",
+      "away_team": "Felgueiras 1932",
+      "home_ppg": 1.47,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.1,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193917",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 2:00pm",
+      "home_team": "CS Marítimo",
+      "away_team": "Lusitania Lourosa",
+      "home_ppg": 1.82,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.1,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193916",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 11:00am",
+      "home_team": "GD Chaves",
+      "away_team": "Benfica II",
+      "home_ppg": 1.35,
+      "away_ppg": 1.12,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.48,
+        "draw": 3.35,
+        "away": 2.62
+      },
+      "result": "X"
+    },
+    {
+      "id": "8193915",
+      "date_timestamp": null,
+      "date_str": "Aug 9, 6:00pm",
+      "home_team": "Portimonense",
+      "away_team": "FC Penafiel",
+      "home_ppg": 1.18,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 3.4,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8193913",
+      "date_timestamp": null,
+      "date_str": "Aug 9, 2:00pm",
+      "home_team": "Torreense",
+      "away_team": "Sporting CP II",
+      "home_ppg": 1.88,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.3,
+        "away": 4.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8193923",
+      "date_timestamp": null,
+      "date_str": "Aug 9, 11:00am",
+      "home_team": "Paços de Ferreira",
+      "away_team": "FC Vizela",
+      "home_ppg": 1.47,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.69,
+        "away": 1.91
+      },
+      "result": "2"
+    }
+  ]
+}

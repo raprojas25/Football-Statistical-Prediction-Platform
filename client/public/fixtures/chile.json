@@ -1,0 +1,1175 @@
+{
+  "generated_at": "2026-06-01T16:01:49Z",
+  "competition": "CHILE",
+  "competition_name": "Primera División (Chile)",
+  "country": "Chile",
+  "count": 129,
+  "matches": [
+    {
+      "id": 8432222,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Coquimbo Unido",
+      "homePpg": 1.5,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432223,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "La Serena",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 1.5,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432224,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 1.29,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432344,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "Ñublense",
+      "homePpg": 2.14,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432345,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "Universidad Católica",
+      "homePpg": 1.86,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432346,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "Concepción",
+      "homePpg": 2.14,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8432347,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "Palestino",
+      "awayTeam": "Everton",
+      "homePpg": 1.88,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432349,
+      "date": "2026-12-06T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 2.0,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432225,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 0.83,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432226,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "O'Higgins",
+      "homePpg": 1.29,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432227,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 1.43,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432228,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "La Serena",
+      "homePpg": 2.14,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432229,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "Huachipato",
+      "homePpg": 1.67,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432230,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 1.67,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432350,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Cobresal",
+      "homePpg": 1.29,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432351,
+      "date": "2026-11-29T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "Palestino",
+      "homePpg": 1.86,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432220,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "Everton",
+      "homePpg": 1.67,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432231,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "Ñublense",
+      "homePpg": 1.86,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432232,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "Concepción",
+      "homePpg": 2.14,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8432233,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "Palestino",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 1.88,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432234,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "Universidad Católica",
+      "homePpg": 2.14,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432235,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 1.29,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432238,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "La Serena",
+      "homePpg": 2.14,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432352,
+      "date": "2026-11-22T00:00:00Z",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 1.5,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432236,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "O'Higgins",
+      "homePpg": 1.86,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432237,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "Coquimbo Unido",
+      "homePpg": 1.86,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432239,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Cobresal",
+      "homePpg": 2.0,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432241,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 1.67,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432343,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "Concepción",
+      "homePpg": 1.29,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8432353,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 1.29,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432355,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "Huachipato",
+      "homePpg": 1.43,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432357,
+      "date": "2026-11-08T00:00:00Z",
+      "homeTeam": "La Serena",
+      "awayTeam": "Palestino",
+      "homePpg": 1.5,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432240,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Ñublense",
+      "homePpg": 1.5,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432242,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 2.14,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432243,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 1.67,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432244,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Everton",
+      "homePpg": 1.29,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432245,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 2.14,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432356,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 1.67,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432358,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "La Serena",
+      "homePpg": 2.14,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432359,
+      "date": "2026-11-01T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Palestino",
+      "homePpg": 0.83,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432246,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 1.86,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432247,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Coquimbo Unido",
+      "homePpg": 1.29,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432248,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Palestino",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 1.88,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432249,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Cobresal",
+      "homePpg": 1.5,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432250,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "Huachipato",
+      "homePpg": 1.86,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432251,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Everton",
+      "homePpg": 2.0,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432360,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "Universidad Católica",
+      "homePpg": 1.43,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432361,
+      "date": "2026-10-25T00:00:00Z",
+      "homeTeam": "La Serena",
+      "awayTeam": "Concepción",
+      "homePpg": 1.5,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8432252,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 0.83,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432253,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 1.67,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432254,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 1.67,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432255,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Ñublense",
+      "homePpg": 2.0,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432341,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "Palestino",
+      "homePpg": 2.14,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432362,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "O'Higgins",
+      "homePpg": 2.14,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432364,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 1.29,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432365,
+      "date": "2026-10-11T00:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "La Serena",
+      "homePpg": 1.29,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432218,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Palestino",
+      "awayTeam": "Universidad Católica",
+      "homePpg": 1.88,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432256,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 1.43,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432257,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "Concepción",
+      "homePpg": 2.14,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8432335,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Coquimbo Unido",
+      "homePpg": 1.29,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432336,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "Huachipato",
+      "homePpg": 1.86,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432342,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "La Serena",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 1.5,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432366,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Everton",
+      "homePpg": 1.29,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432367,
+      "date": "2026-09-13T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "O'Higgins",
+      "homePpg": 1.86,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432258,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 0.83,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432259,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 1.5,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432260,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "Cobresal",
+      "homePpg": 2.14,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432261,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "Universidad Católica",
+      "homePpg": 1.29,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432363,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 2.14,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432368,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Palestino",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 1.88,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432369,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "La Serena",
+      "awayTeam": "Ñublense",
+      "homePpg": 1.5,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432370,
+      "date": "2026-09-06T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Coquimbo Unido",
+      "homePpg": 2.0,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432262,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Concepción",
+      "homePpg": 1.29,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8432263,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "La Serena",
+      "homePpg": 1.43,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432265,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 2.14,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432266,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "Huachipato",
+      "homePpg": 1.67,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432372,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "Everton",
+      "homePpg": 2.14,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432373,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 1.86,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432374,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "O'Higgins",
+      "homePpg": 1.67,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432376,
+      "date": "2026-08-30T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Palestino",
+      "homePpg": 1.29,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432264,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Coquimbo Unido",
+      "homePpg": 0.83,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432267,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 2.14,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432268,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 1.86,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432269,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Palestino",
+      "homePpg": 1.5,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432270,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 1.29,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432271,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "La Serena",
+      "awayTeam": "Cobresal",
+      "homePpg": 1.5,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432272,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "Ñublense",
+      "homePpg": 1.67,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432273,
+      "date": "2026-08-23T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 2.0,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432274,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 1.29,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432275,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "La Serena",
+      "homePpg": 1.86,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432276,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 1.29,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432348,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Palestino",
+      "awayTeam": "Huachipato",
+      "homePpg": 1.88,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432371,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Concepción",
+      "homePpg": 1.29,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8432375,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "O'Higgins",
+      "homePpg": 2.14,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432377,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 2.14,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432378,
+      "date": "2026-08-16T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "Universidad Católica",
+      "homePpg": 1.67,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432221,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "La Serena",
+      "homePpg": 1.67,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432277,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 0.83,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432278,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "O'Higgins",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 1.5,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432279,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "Cobresal",
+      "homePpg": 1.67,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432380,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "Ñublense",
+      "homePpg": 1.86,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432381,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "Everton",
+      "homePpg": 2.14,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432382,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 1.43,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432385,
+      "date": "2026-08-09T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Palestino",
+      "homePpg": 2.0,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432215,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Universidad Católica",
+      "homePpg": 0.83,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432280,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Univ. Concepción",
+      "awayTeam": "Audax Italiano",
+      "homePpg": 1.86,
+      "awayPpg": 0.29,
+      "matchday": null
+    },
+    {
+      "id": 8432354,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Palestino",
+      "awayTeam": "Coquimbo Unido",
+      "homePpg": 1.88,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8432383,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "Huachipato",
+      "homePpg": 2.0,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432386,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "Colo-Colo",
+      "homePpg": 1.29,
+      "awayPpg": 2.57,
+      "matchday": null
+    },
+    {
+      "id": 8432388,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Deportes Limache",
+      "awayTeam": "Ñublense",
+      "homePpg": 2.14,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8432389,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "La Serena",
+      "awayTeam": "O'Higgins",
+      "homePpg": 1.5,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432390,
+      "date": "2026-08-02T00:00:00Z",
+      "homeTeam": "Cobresal",
+      "awayTeam": "Unión La Calera",
+      "homePpg": 1.29,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432281,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Huachipato",
+      "awayTeam": "Cobresal",
+      "homePpg": 2.14,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432283,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "Everton",
+      "homePpg": 1.43,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8432284,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "La Serena",
+      "homePpg": 1.67,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8432337,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 1.67,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432379,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 1.86,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432391,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Palestino",
+      "homePpg": 1.29,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432392,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 2.14,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432431,
+      "date": "2026-07-26T00:00:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "O'Higgins",
+      "homePpg": 0.83,
+      "awayPpg": 1.4,
+      "matchday": null,
+      "odds": {
+        "home": 3.06,
+        "draw": 3.1,
+        "away": 2.32
+      }
+    },
+    {
+      "id": 8432297,
+      "date": "2026-06-19T00:00:00Z",
+      "homeTeam": "Universidad Chile",
+      "awayTeam": "O'Higgins",
+      "homePpg": 2.0,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432384,
+      "date": "2026-06-15T00:00:00Z",
+      "homeTeam": "Coquimbo Unido",
+      "awayTeam": "O'Higgins",
+      "homePpg": 1.67,
+      "awayPpg": 1.4,
+      "matchday": null
+    },
+    {
+      "id": 8432285,
+      "date": "2026-06-14T21:30:00Z",
+      "homeTeam": "Universidad Católica",
+      "awayTeam": "Univ. Concepción",
+      "homePpg": 1.67,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432298,
+      "date": "2026-06-14T19:00:00Z",
+      "homeTeam": "Unión La Calera",
+      "awayTeam": "Universidad Chile",
+      "homePpg": 1.43,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8432393,
+      "date": "2026-06-14T16:30:00Z",
+      "homeTeam": "Concepción",
+      "awayTeam": "Deportes Limache",
+      "homePpg": 0.83,
+      "awayPpg": 0.86,
+      "matchday": null
+    },
+    {
+      "id": 8432338,
+      "date": "2026-06-14T00:00:00Z",
+      "homeTeam": "Ñublense",
+      "awayTeam": "Huachipato",
+      "homePpg": 1.29,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432287,
+      "date": "2026-06-13T21:30:00Z",
+      "homeTeam": "Colo-Colo",
+      "awayTeam": "Cobresal",
+      "homePpg": 2.14,
+      "awayPpg": 0.14,
+      "matchday": null
+    },
+    {
+      "id": 8432286,
+      "date": "2026-06-13T19:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "Palestino",
+      "homePpg": 1.29,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8432394,
+      "date": "2026-06-13T00:00:00Z",
+      "homeTeam": "Audax Italiano",
+      "awayTeam": "La Serena",
+      "homePpg": 1.86,
+      "awayPpg": 0.83,
+      "matchday": null
+    }
+  ]
+}

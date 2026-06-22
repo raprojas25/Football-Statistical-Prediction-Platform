@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-06-01T16:02:12Z",
+  "competition": "PARAGUAY",
+  "competition_name": "División Profesional (Paraguay)",
+  "country": "Paraguay",
+  "count": 7,
+  "matches": [
+    {
+      "id": 8407750,
+      "date": "2026-07-24T00:00:00Z",
+      "homeTeam": "2 de Mayo",
+      "awayTeam": "Rubio Ñú",
+      "homePpg": 1.0,
+      "awayPpg": 1.05,
+      "matchday": null
+    },
+    {
+      "id": 8407751,
+      "date": "2026-07-24T00:00:00Z",
+      "homeTeam": "Cerro Porteño",
+      "awayTeam": "Sportivo Trinidense",
+      "homePpg": 1.81,
+      "awayPpg": 1.45,
+      "matchday": null
+    },
+    {
+      "id": 8407755,
+      "date": "2026-07-24T00:00:00Z",
+      "homeTeam": "Guaraní",
+      "awayTeam": "Sportivo Luqueño",
+      "homePpg": 1.32,
+      "awayPpg": 0.91,
+      "matchday": null
+    },
+    {
+      "id": 8407757,
+      "date": "2026-07-24T00:00:00Z",
+      "homeTeam": "Sportivo Ameliano",
+      "awayTeam": "Nacional Asunción",
+      "homePpg": 1.5,
+      "awayPpg": 1.77,
+      "matchday": null
+    },
+    {
+      "id": 8407760,
+      "date": "2026-07-24T00:00:00Z",
+      "homeTeam": "Deportivo Recoleta",
+      "awayTeam": "Sportivo San Lorenzo",
+      "homePpg": 1.27,
+      "awayPpg": 0.68,
+      "matchday": null
+    },
+    {
+      "id": 8407761,
+      "date": "2026-07-24T00:00:00Z",
+      "homeTeam": "Olimpia",
+      "awayTeam": "Libertad",
+      "homePpg": 2.19,
+      "awayPpg": 1.41,
+      "matchday": null
+    },
+    {
+      "id": 8428710,
+      "date": "2026-04-19T20:30:00Z",
+      "homeTeam": "Olimpia",
+      "awayTeam": "Cerro Porteño",
+      "homePpg": 2.19,
+      "awayPpg": 1.81,
+      "matchday": null,
+      "odds": {
+        "home": 2.15,
+        "draw": 3.0,
+        "away": 3.28
+      }
+    }
+  ]
+}

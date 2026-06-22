@@ -43,8 +43,8 @@ Thumbs.db
 *.sqlite
 
 # JSON data files (keep sample)
-*.json
-!data/sample.json
+# Ignore generated advertising/data JSON files
+# frontend/public/data/*.json
 
 # React build
 frontend/.turbo/

@@ -1,0 +1,7609 @@
+{
+  "generated_at": "2026-06-19T16:22:58.502307+00:00",
+  "source": "https://footystats.org/spain/la-liga/fixtures",
+  "league": "La Liga",
+  "country": "spain",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8200718",
+      "date_timestamp": null,
+      "date_str": "May 24, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 2.42,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.51,
+        "draw": 3.75,
+        "away": 2.56
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200462",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 3.5,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200662",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.21,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.5,
+        "away": 4.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200671",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Elche CF",
+      "home_ppg": 1.26,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.65,
+        "away": 4.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200688",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 2.58,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.7,
+        "away": 5.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200703",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.2,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200704",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.65,
+        "away": 3.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200705",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.74,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.45,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200706",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.58,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.9,
+        "away": 2.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200717",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Levante UD",
+      "home_ppg": 1.89,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.5,
+        "away": 3.08
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200698",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Real Betis",
+      "home_ppg": 3.0,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.32,
+        "draw": 5.75,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200447",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Levante UD",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.37,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.5,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200660",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.0,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.53,
+        "away": 1.92
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200696",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.84,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200697",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.58,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.2,
+        "away": 3.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200699",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Girona FC",
+      "home_ppg": 2.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 4.0,
+        "away": 4.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200700",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "CA Osasuna",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.68,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.8,
+        "away": 4.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200701",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Villarreal",
+      "home_ppg": 1.63,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.65,
+        "away": 3.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200702",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.32,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.41,
+        "away": 2.11
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200716",
+      "date_timestamp": null,
+      "date_str": "May 17, 6:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.53,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.32,
+        "away": 3.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200693",
+      "date_timestamp": null,
+      "date_str": "May 14, 8:30pm",
+      "home_team": "Real Madrid",
+      "away_team": "Real Oviedo",
+      "home_ppg": 2.58,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 6.0,
+        "away": 9.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200692",
+      "date_timestamp": null,
+      "date_str": "May 14, 7:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.26,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.6,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200694",
+      "date_timestamp": null,
+      "date_str": "May 14, 6:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.58,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.08,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200690",
+      "date_timestamp": null,
+      "date_str": "May 13, 8:30pm",
+      "home_team": "Getafe CF",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.42,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 3.0,
+        "away": 3.06
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200691",
+      "date_timestamp": null,
+      "date_str": "May 13, 8:30pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.06,
+        "draw": 3.72,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200687",
+      "date_timestamp": null,
+      "date_str": "May 13, 6:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.37,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.26,
+        "away": 2.61
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200695",
+      "date_timestamp": null,
+      "date_str": "May 13, 6:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Sevilla FC",
+      "home_ppg": 2.42,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.5,
+        "away": 3.99
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200683",
+      "date_timestamp": null,
+      "date_str": "May 12, 8:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.68,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.18,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200460",
+      "date_timestamp": null,
+      "date_str": "May 12, 7:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Elche CF",
+      "home_ppg": 1.89,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.93,
+        "away": 4.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200689",
+      "date_timestamp": null,
+      "date_str": "May 12, 6:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Levante UD",
+      "home_ppg": 1.21,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.35,
+        "away": 3.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200684",
+      "date_timestamp": null,
+      "date_str": "May 11, 8:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Girona FC",
+      "home_ppg": 1.63,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.32,
+        "away": 2.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200555",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Real Madrid",
+      "home_ppg": 3.0,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 4.84,
+        "away": 4.26
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200650",
+      "date_timestamp": null,
+      "date_str": "May 10, 5:30pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.0,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.85,
+        "away": 2.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200681",
+      "date_timestamp": null,
+      "date_str": "May 10, 3:15pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.58,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.8,
+        "away": 5.17
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200679",
+      "date_timestamp": null,
+      "date_str": "May 10, 1:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Villarreal",
+      "home_ppg": 1.74,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.55,
+        "away": 2.78
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200685",
+      "date_timestamp": null,
+      "date_str": "May 9, 8:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Real Betis",
+      "home_ppg": 1.53,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.5,
+        "away": 2.62
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200652",
+      "date_timestamp": null,
+      "date_str": "May 9, 5:30pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 2.42,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.5,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200686",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:15pm",
+      "home_team": "Sevilla FC",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.32,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.25,
+        "away": 3.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200453",
+      "date_timestamp": null,
+      "date_str": "May 9, 1:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.84,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.18,
+        "away": 2.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200461",
+      "date_timestamp": null,
+      "date_str": "May 8, 8:00pm",
+      "home_team": "Levante UD",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.37,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.2,
+        "away": 2.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200676",
+      "date_timestamp": null,
+      "date_str": "May 4, 8:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.32,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.46,
+        "draw": 3.28,
+        "away": 2.92
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200674",
+      "date_timestamp": null,
+      "date_str": "May 3, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.37,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.85,
+        "away": 1.69
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200672",
+      "date_timestamp": null,
+      "date_str": "May 3, 5:30pm",
+      "home_team": "Real Betis",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.89,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.2,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200675",
+      "date_timestamp": null,
+      "date_str": "May 3, 3:15pm",
+      "home_team": "Getafe CF",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.17,
+        "away": 4.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200673",
+      "date_timestamp": null,
+      "date_str": "May 3, 1:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Elche CF",
+      "home_ppg": 1.21,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.86,
+        "away": 4.64
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200678",
+      "date_timestamp": null,
+      "date_str": "May 2, 8:00pm",
+      "home_team": "CA Osasuna",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.68,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.68,
+        "draw": 3.95,
+        "away": 1.72
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200669",
+      "date_timestamp": null,
+      "date_str": "May 2, 5:30pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.42,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.86,
+        "draw": 3.2,
+        "away": 2.58
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200680",
+      "date_timestamp": null,
+      "date_str": "May 2, 3:15pm",
+      "home_team": "Valencia CF",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.58,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.8,
+        "away": 4.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200682",
+      "date_timestamp": null,
+      "date_str": "May 2, 1:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Levante UD",
+      "home_ppg": 2.42,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 4.2,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200677",
+      "date_timestamp": null,
+      "date_str": "May 1, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.26,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.5,
+        "away": 3.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200651",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Levante UD",
+      "home_ppg": 1.37,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.2,
+        "away": 3.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200654",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 2.42,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.6,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200655",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.68,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.35,
+        "away": 4.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200659",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 3:15pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Elche CF",
+      "home_ppg": 1.0,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.45,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200656",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.63,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.35,
+        "away": 2.59
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200457",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 8:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 2.42,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.5,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200658",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 5:30pm",
+      "home_team": "Valencia CF",
+      "away_team": "Girona FC",
+      "home_ppg": 1.58,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.25,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200653",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 3:15pm",
+      "home_team": "Getafe CF",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.4,
+        "draw": 3.7,
+        "away": 1.65
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200458",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 1:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.42,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.4,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200667",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.89,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 4.0,
+        "away": 1.91
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200664",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 8:30pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Villarreal",
+      "home_ppg": 1.0,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.25,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200665",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 7:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.63,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.3,
+        "away": 3.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200661",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 6:00pm",
+      "home_team": "Levante UD",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.37,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.3,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200554",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 8:30pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 3.0,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 7.2,
+        "away": 11.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200670",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 7:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.53,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 3.15,
+        "away": 3.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200663",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 6:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.84,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.56,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200459",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 8:30pm",
+      "home_team": "Girona FC",
+      "away_team": "Real Betis",
+      "home_ppg": 1.26,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.4,
+        "away": 2.87
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200666",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 8:30pm",
+      "home_team": "Real Madrid",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 2.58,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 6.8,
+        "away": 12.78
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200657",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 6:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.58,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.5,
+        "away": 4.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200668",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 6:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.74,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 3.0,
+        "away": 2.88
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200643",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 8:00pm",
+      "home_team": "Levante UD",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.9,
+        "away": 3.02
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200642",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 8:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Villarreal",
+      "home_ppg": 1.58,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.5,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200645",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 5:30pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.21,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.45,
+        "away": 5.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200646",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 3:15pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.74,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.2,
+        "away": 3.17
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200647",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:00pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Real Betis",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.39,
+        "away": 3.34
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200649",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 8:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.32,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.15,
+        "away": 3.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200640",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 5:30pm",
+      "home_team": "FC Barcelona",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 3.0,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 5.45,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200638",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:15pm",
+      "home_team": "Elche CF",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.84,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.96,
+        "away": 2.67
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200644",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 1:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.53,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.6,
+        "away": 4.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200648",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Girona FC",
+      "home_ppg": 2.58,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 5.95,
+        "away": 9.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200715",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Villarreal",
+      "home_ppg": 1.26,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.45,
+        "away": 2.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200635",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 8:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.07,
+        "away": 2.87
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200633",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 5:30pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.0,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.89,
+        "draw": 2.9,
+        "away": 2.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200641",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 3:15pm",
+      "home_team": "Valencia CF",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.58,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.1,
+        "away": 3.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200636",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.42,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 2.75,
+        "away": 2.66
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200632",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 8:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "FC Barcelona",
+      "home_ppg": 2.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.75,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200639",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 5:30pm",
+      "home_team": "Real Betis",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.89,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 4.0,
+        "away": 4.74
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200631",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 3:15pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.74,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.1,
+        "draw": 4.2,
+        "away": 1.56
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200629",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 1:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Levante UD",
+      "home_ppg": 1.53,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.59,
+        "draw": 4.2,
+        "away": 5.54
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200637",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 8:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Elche CF",
+      "home_ppg": 1.63,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.9,
+        "away": 5.17
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200630",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 2.58,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.7,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200529",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 5:30pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Real Betis",
+      "home_ppg": 1.58,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.35,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200743",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 3:15pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.21,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.3,
+        "away": 4.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200741",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 1:00pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 7.18,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200788",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 8:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.32,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.15,
+        "away": 3.46
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200456",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:30pm",
+      "home_team": "Levante UD",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.37,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.25,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200553",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Girona FC",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.5,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200454",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:15pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 2.9,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200627",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 1:00pm",
+      "home_team": "Elche CF",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.84,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.35,
+        "away": 3.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200634",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Real Sociedad",
+      "home_ppg": 2.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.6,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200740",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 8:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Levante UD",
+      "home_ppg": 1.63,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.74,
+        "away": 5.17
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200770",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 8:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.53,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.55,
+        "away": 3.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200742",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 5:30pm",
+      "home_team": "Real Betis",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.89,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.35,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200527",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Sevilla FC",
+      "home_ppg": 3.0,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.17,
+        "draw": 6.25,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200714",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 1:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.74,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.15,
+        "away": 2.78
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200528",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Elche CF",
+      "home_ppg": 2.58,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 6.33,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200455",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 5:30pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 3.13,
+        "away": 2.62
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200452",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 3:15pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Getafe CF",
+      "home_ppg": 2.42,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.5,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200729",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 1:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.26,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.25,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200756",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 8:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Villarreal",
+      "home_ppg": 1.42,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 3.3,
+        "away": 2.24
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200748",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.37,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 3.35,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200618",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.58,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200749",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 5:30pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.32,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.87,
+        "away": 2.87
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200625",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 3:15pm",
+      "home_team": "Getafe CF",
+      "away_team": "Real Betis",
+      "home_ppg": 1.42,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.7,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200450",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 1:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Elche CF",
+      "home_ppg": 2.42,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.6,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200623",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 8:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.58,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.58,
+        "draw": 4.34,
+        "away": 1.49
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200451",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 5:30pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Real Sociedad",
+      "home_ppg": 2.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.0,
+        "away": 4.64
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200739",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 3:15pm",
+      "home_team": "Levante UD",
+      "away_team": "Girona FC",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.15,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200761",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 1:00pm",
+      "home_team": "CA Osasuna",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.68,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.55,
+        "away": 4.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200624",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 8:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.21,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.3,
+        "away": 2.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200746",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 6:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.63,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.56,
+        "draw": 3.35,
+        "away": 4.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200747",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Getafe CF",
+      "home_ppg": 2.58,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.8,
+        "away": 9.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200708",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.26,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.25,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200621",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 5:30pm",
+      "home_team": "Real Betis",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.89,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.74,
+        "away": 4.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200755",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 3:15pm",
+      "home_team": "Valencia CF",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.58,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 3.0,
+        "away": 2.87
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200754",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 1:00pm",
+      "home_team": "Elche CF",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.84,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.2,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200622",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 8:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.0,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.38,
+        "draw": 3.5,
+        "away": 1.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200619",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 5:30pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.2,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200626",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Villarreal",
+      "home_ppg": 3.0,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 5.75,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200620",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 1:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.63,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.1,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200617",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 8:00pm",
+      "home_team": "Levante UD",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.37,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200760",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 8:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Girona FC",
+      "home_ppg": 1.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 2.9,
+        "away": 3.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200787",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Valencia CF",
+      "home_ppg": 2.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 4.05,
+        "away": 4.82
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200611",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 5:30pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.21,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.2,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200526",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Levante UD",
+      "home_ppg": 3.0,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.11,
+        "draw": 9.25,
+        "away": 19.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200613",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 1:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.42,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.88,
+        "away": 3.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200612",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 8:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 2.42,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.4,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200614",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.68,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.7,
+        "draw": 4.14,
+        "away": 1.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200615",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:15pm",
+      "home_team": "Real Betis",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.89,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.4,
+        "away": 4.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200616",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 1:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.53,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.2,
+        "away": 5.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200610",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 8:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Elche CF",
+      "home_ppg": 1.58,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.68,
+        "away": 4.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200745",
+      "date_timestamp": null,
+      "date_str": "Feb 18, 7:00pm",
+      "home_team": "Levante UD",
+      "away_team": "Villarreal",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.8,
+        "away": 1.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200731",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.26,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 5.35,
+        "away": 1.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200607",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 8:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Real Betis",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.1,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200606",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 5:30pm",
+      "home_team": "Levante UD",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.37,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.69,
+        "draw": 3.1,
+        "away": 2.73
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200608",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 3:15pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.63,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 3.5,
+        "away": 1.87
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200786",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 1:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.0,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.0,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200609",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Real Sociedad",
+      "home_ppg": 2.58,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 5.75,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200605",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 5:30pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.32,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200603",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 3:15pm",
+      "home_team": "Getafe CF",
+      "away_team": "Villarreal",
+      "home_ppg": 1.42,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.9,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200604",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 1:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.37,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.07,
+        "away": 3.24
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200602",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 8:00pm",
+      "home_team": "Elche CF",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.84,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.88,
+        "draw": 3.14,
+        "away": 2.67
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200773",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 2.42,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 4.09,
+        "away": 4.86
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200782",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.58,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 4.4,
+        "away": 1.56
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200780",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 5:30pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Real Betis",
+      "home_ppg": 2.42,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.6,
+        "away": 6.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200449",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 3:15pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Levante UD",
+      "home_ppg": 1.58,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.75,
+        "away": 5.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200601",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 3:15pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Girona FC",
+      "home_ppg": 1.32,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.4,
+        "away": 3.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200599",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 1:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.42,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.75,
+        "away": 4.05
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200600",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 8:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Elche CF",
+      "home_ppg": 1.53,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.9,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200738",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 3.0,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.17,
+        "draw": 8.5,
+        "away": 12.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200769",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 8:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.21,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.36,
+        "away": 4.16
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200765",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 8:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.74,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.05,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200597",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 8:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.58,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.24,
+        "draw": 3.1,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200778",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 5:30pm",
+      "home_team": "Getafe CF",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.42,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.98,
+        "draw": 2.85,
+        "away": 2.87
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200598",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 3:15pm",
+      "home_team": "Real Betis",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.89,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.46,
+        "away": 4.24
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200781",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 1:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 2.58,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.13,
+        "draw": 6.4,
+        "away": 7.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200556",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 8:00pm",
+      "home_team": "Elche CF",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.84,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 6.0,
+        "away": 1.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200563",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 5:30pm",
+      "home_team": "Levante UD",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.37,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.78,
+        "draw": 4.0,
+        "away": 1.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200779",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:15pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Villarreal",
+      "home_ppg": 1.68,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.73,
+        "draw": 3.05,
+        "away": 2.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200736",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 1:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Girona FC",
+      "home_ppg": 1.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.0,
+        "away": 2.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200753",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.37,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.1,
+        "away": 4.66
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200596",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.26,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.9,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200594",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 8:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Betis",
+      "home_ppg": 1.42,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.57,
+        "draw": 2.9,
+        "away": 2.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200595",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 5:30pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.53,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.2,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200737",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Real Oviedo",
+      "home_ppg": 3.0,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.07,
+        "draw": 11.05,
+        "away": 10.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200759",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 1:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 2.42,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.74,
+        "away": 9.04
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200713",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Real Madrid",
+      "home_ppg": 2.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 4.0,
+        "away": 1.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200448",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 5:30pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.32,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.88,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200784",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:15pm",
+      "home_team": "Valencia CF",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.58,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200445",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 1:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.63,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.0,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200752",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 8:00pm",
+      "home_team": "Levante UD",
+      "away_team": "Elche CF",
+      "home_ppg": 1.37,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.29,
+        "draw": 3.3,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200767",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 8:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.84,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.18,
+        "away": 3.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200764",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 8:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.53,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.84,
+        "draw": 4.5,
+        "away": 1.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200591",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 5:30pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.21,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.3,
+        "away": 4.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200590",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 3:15pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 2.42,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 5.0,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200593",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 1:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 2.81,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200777",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Villarreal",
+      "home_ppg": 1.89,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.4,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200768",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.68,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.15,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200751",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 3:15pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.74,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.0,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200757",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 1:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Levante UD",
+      "home_ppg": 2.58,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.16,
+        "draw": 8.5,
+        "away": 14.83
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200592",
+      "date_timestamp": null,
+      "date_str": "Jan 16, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Girona FC",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.5,
+        "away": 4.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200588",
+      "date_timestamp": null,
+      "date_str": "Jan 12, 8:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.32,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.25,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200424",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 3:15pm",
+      "home_team": "Levante UD",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.37,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.25,
+        "away": 2.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200586",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 1:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.63,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.25,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200587",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Elche CF",
+      "home_ppg": 1.58,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 3.1,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200585",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 5:30pm",
+      "home_team": "Girona FC",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.26,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.2,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200589",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 3:15pm",
+      "home_team": "Villarreal",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 2.42,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.2,
+        "away": 6.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200446",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 1:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Real Betis",
+      "home_ppg": 1.0,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.25,
+        "draw": 3.45,
+        "away": 1.98
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200584",
+      "date_timestamp": null,
+      "date_str": "Jan 9, 8:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 2.91,
+        "away": 2.37
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200583",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 8:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.53,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.73,
+        "away": 1.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200577",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 5:30pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.1,
+        "away": 4.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200733",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 5:30pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Girona FC",
+      "home_ppg": 1.74,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.0,
+        "away": 3.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200582",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 3:15pm",
+      "home_team": "Real Madrid",
+      "away_team": "Real Betis",
+      "home_ppg": 2.58,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 4.7,
+        "away": 5.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200735",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 1:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Levante UD",
+      "home_ppg": 1.32,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.81,
+        "draw": 3.7,
+        "away": 4.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200734",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.37,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.84,
+        "away": 1.46
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200578",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 5:30pm",
+      "home_team": "Elche CF",
+      "away_team": "Villarreal",
+      "home_ppg": 1.84,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.4,
+        "away": 2.13
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200580",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:15pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.68,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.0,
+        "away": 2.36
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200576",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 1:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.21,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.28,
+        "away": 4.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200581",
+      "date_timestamp": null,
+      "date_str": "Jan 2, 8:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.63,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 2.9,
+        "away": 4.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200571",
+      "date_timestamp": null,
+      "date_str": "Dec 22, 8:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.58,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.2,
+        "away": 4.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200574",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.89,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.28,
+        "away": 5.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200572",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 5:30pm",
+      "home_team": "Elche CF",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.84,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.15,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200732",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 3:15pm",
+      "home_team": "Villarreal",
+      "away_team": "FC Barcelona",
+      "home_ppg": 2.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 4.43,
+        "away": 1.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200727",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 1:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.26,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 4.0,
+        "away": 1.73
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200783",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Sevilla FC",
+      "home_ppg": 2.58,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.21,
+        "draw": 7.0,
+        "away": 13.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200775",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.68,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 2.9,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200573",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:15pm",
+      "home_team": "Levante UD",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.37,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 3.3,
+        "away": 2.41
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200575",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 1:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.0,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.3,
+        "away": 2.16
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200579",
+      "date_timestamp": null,
+      "date_str": "Dec 19, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.58,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.25,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200570",
+      "date_timestamp": null,
+      "date_str": "Dec 15, 8:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Real Betis",
+      "home_ppg": 1.63,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.25,
+        "away": 2.68
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200569",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 8:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.4,
+        "draw": 3.9,
+        "away": 1.44
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200568",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 3:15pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.21,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 2.9,
+        "away": 2.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200443",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 1:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.32,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 3.22,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200432",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 8:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.42,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.78,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200566",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 5:30pm",
+      "home_team": "FC Barcelona",
+      "away_team": "CA Osasuna",
+      "home_ppg": 3.0,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.2,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200763",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 3:15pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Elche CF",
+      "home_ppg": 1.74,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200567",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 1:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Valencia CF",
+      "home_ppg": 2.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 5.6,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200438",
+      "date_timestamp": null,
+      "date_str": "Dec 12, 8:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Girona FC",
+      "home_ppg": 1.53,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.75,
+        "away": 4.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200560",
+      "date_timestamp": null,
+      "date_str": "Dec 8, 8:00pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Levante UD",
+      "home_ppg": 1.68,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 3.85,
+        "away": 4.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200726",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 2.58,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 6.35,
+        "away": 9.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200772",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 5:30pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.37,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 3.2,
+        "away": 3.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200564",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 3:15pm",
+      "home_team": "Valencia CF",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.58,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.3,
+        "away": 3.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200709",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 1:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Girona FC",
+      "home_ppg": 1.84,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.3,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200444",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 8:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.58,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.17,
+        "away": 2.66
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200561",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 5:30pm",
+      "home_team": "Real Betis",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.89,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 5
+      },
+      "odds": {
+        "home": 4.04,
+        "draw": 4.5,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200558",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:15pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.95,
+        "away": 2.97
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200565",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 1:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Getafe CF",
+      "home_ppg": 2.42,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.7,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200562",
+      "date_timestamp": null,
+      "date_str": "Dec 5, 8:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.0,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.59,
+        "draw": 3.0,
+        "away": 3.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200710",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 6:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.58,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.7,
+        "draw": 4.13,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200785",
+      "date_timestamp": null,
+      "date_str": "Dec 2, 8:00pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 3.0,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 4.1,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200557",
+      "date_timestamp": null,
+      "date_str": "Dec 1, 8:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.63,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.25,
+        "away": 3.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200707",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.26,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.7,
+        "draw": 5.0,
+        "away": 1.43
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200730",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 5:30pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.21,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.3,
+        "away": 3.92
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200559",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 3:15pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Real Betis",
+      "home_ppg": 1.32,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.72,
+        "draw": 3.25,
+        "away": 2.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200552",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 1:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Villarreal",
+      "home_ppg": 1.53,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200758",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 8:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Real Oviedo",
+      "home_ppg": 2.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 6.0,
+        "away": 13.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200537",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 5:30pm",
+      "home_team": "Levante UD",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.37,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.3,
+        "away": 2.19
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200549",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 3.0,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.16,
+        "draw": 6.0,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200551",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 1:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.74,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.0,
+        "away": 3.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200550",
+      "date_timestamp": null,
+      "date_str": "Nov 28, 8:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Elche CF",
+      "home_ppg": 1.42,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 2.7,
+        "away": 3.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200541",
+      "date_timestamp": null,
+      "date_str": "Nov 24, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.37,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.37,
+        "away": 3.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200540",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 8:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.84,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.5,
+        "draw": 5.0,
+        "away": 1.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200542",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 5:30pm",
+      "home_team": "Getafe CF",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.42,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.52,
+        "away": 1.78
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200728",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 3:15pm",
+      "home_team": "Real Betis",
+      "away_team": "Girona FC",
+      "home_ppg": 1.89,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.56,
+        "away": 6.22
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200547",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 1:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.2,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200750",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 2.42,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 5.25,
+        "away": 8.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200546",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.68,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.78,
+        "draw": 3.1,
+        "away": 2.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200538",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 3.0,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 5.0,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200539",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 1:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.42,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 2.94,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200548",
+      "date_timestamp": null,
+      "date_str": "Nov 21, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Levante UD",
+      "home_ppg": 1.58,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.25,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200531",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 8:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.21,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 4.18,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200536",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 5:30pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.74,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.58,
+        "draw": 2.58,
+        "away": 2.98
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200762",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 5:30pm",
+      "home_team": "Valencia CF",
+      "away_team": "Real Betis",
+      "home_ppg": 1.58,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.45,
+        "away": 2.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200534",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 3:15pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.63,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 4.6,
+        "away": 1.52
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200530",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 1:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.58,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.77,
+        "away": 7.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200533",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Villarreal",
+      "home_ppg": 1.37,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.5,
+        "away": 2.21
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200524",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 5:30pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Levante UD",
+      "home_ppg": 2.42,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.4,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200525",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 3:15pm",
+      "home_team": "Sevilla FC",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.32,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.25,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200535",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 1:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.26,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200532",
+      "date_timestamp": null,
+      "date_str": "Nov 7, 8:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.84,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.1,
+        "away": 2.68
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200522",
+      "date_timestamp": null,
+      "date_str": "Nov 3, 8:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.0,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.95,
+        "away": 2.53
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200511",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.89,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 4.0,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200518",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 5:30pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Elche CF",
+      "home_ppg": 3.0,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 6.75,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200776",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 3:15pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.42,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.1,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200519",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 1:00pm",
+      "home_team": "Levante UD",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.37,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.36,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200521",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Valencia CF",
+      "home_ppg": 2.58,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.0,
+        "away": 14.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200523",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 5:30pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.53,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.0,
+        "away": 2.77
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200464",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:15pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Sevilla FC",
+      "home_ppg": 2.42,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.21,
+        "draw": 5.0,
+        "away": 9.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200766",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 1:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 2.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.81,
+        "away": 5.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200520",
+      "date_timestamp": null,
+      "date_str": "Oct 31, 8:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Girona FC",
+      "home_ppg": 1.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.17,
+        "draw": 3.06,
+        "away": 4.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200442",
+      "date_timestamp": null,
+      "date_str": "Oct 27, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.89,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.34,
+        "draw": 3.25,
+        "away": 2.22
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200516",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 8:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.63,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.0,
+        "away": 3.84
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200515",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.68,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200517",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 3:15pm",
+      "home_team": "Real Madrid",
+      "away_team": "FC Barcelona",
+      "home_ppg": 2.58,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 4.25,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200725",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 1:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Levante UD",
+      "home_ppg": 1.74,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.46,
+        "away": 3.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200505",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Villarreal",
+      "home_ppg": 1.58,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.48,
+        "draw": 3.25,
+        "away": 2.05
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200771",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 5:30pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.58,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.4,
+        "away": 6.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200513",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:15pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Elche CF",
+      "home_ppg": 1.37,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.4,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200514",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 1:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.26,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.3,
+        "away": 4.92
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200774",
+      "date_timestamp": null,
+      "date_str": "Oct 24, 8:00pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.53,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.15,
+        "away": 3.97
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200508",
+      "date_timestamp": null,
+      "date_str": "Oct 20, 8:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.26,
+        "draw": 3.08,
+        "away": 3.48
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200503",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 8:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 7.25,
+        "draw": 4.52,
+        "away": 1.43
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200492",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 5:30pm",
+      "home_team": "Levante UD",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.37,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.3,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200507",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 3:15pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.3,
+        "away": 3.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200509",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 1:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.84,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.34,
+        "away": 1.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200504",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 8:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "CA Osasuna",
+      "home_ppg": 2.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 4.92,
+        "away": 9.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200512",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 5:30pm",
+      "home_team": "Villarreal",
+      "away_team": "Real Betis",
+      "home_ppg": 2.42,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.5,
+        "away": 3.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200498",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:15pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Girona FC",
+      "home_ppg": 3.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.3,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200506",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 1:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.32,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.4,
+        "away": 4.76
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200510",
+      "date_timestamp": null,
+      "date_str": "Oct 17, 8:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.0,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.05,
+        "away": 2.39
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200494",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 8:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.21,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.72,
+        "draw": 3.89,
+        "away": 1.92
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200496",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 5:30pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Real Betis",
+      "home_ppg": 1.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.35,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200502",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 5:30pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.53,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 3.1,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200497",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 3:15pm",
+      "home_team": "Sevilla FC",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.32,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.45,
+        "draw": 4.6,
+        "away": 1.52
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200495",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 1:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Elche CF",
+      "home_ppg": 1.42,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.39,
+        "draw": 2.8,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200499",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "Villarreal",
+      "home_ppg": 2.58,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.41,
+        "draw": 5.0,
+        "away": 6.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200493",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 5:30pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.58,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.7,
+        "away": 6.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200500",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 3:15pm",
+      "home_team": "Girona FC",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.26,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.36,
+        "draw": 3.0,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200501",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 1:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Levante UD",
+      "home_ppg": 1.0,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.0,
+        "away": 2.94
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200441",
+      "date_timestamp": null,
+      "date_str": "Oct 3, 8:00pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.68,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.83,
+        "away": 4.33
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200490",
+      "date_timestamp": null,
+      "date_str": "Sep 30, 7:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.58,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 3.75,
+        "away": 5.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200489",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.89,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.6,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200483",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 5:30pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Real Sociedad",
+      "home_ppg": 3.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 5.5,
+        "away": 10.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200712",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 3:15pm",
+      "home_team": "Elche CF",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.84,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.84,
+        "draw": 3.14,
+        "away": 2.77
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200488",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 1:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.63,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.1,
+        "away": 3.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200491",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 8:00pm",
+      "home_team": "Villarreal",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 2.42,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.45,
+        "away": 3.74
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200487",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 5:30pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.74,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.95,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200440",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:15pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Real Madrid",
+      "home_ppg": 2.42,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.65,
+        "away": 2.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200723",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 1:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Levante UD",
+      "home_ppg": 1.42,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 2.96,
+        "away": 3.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200486",
+      "date_timestamp": null,
+      "date_str": "Sep 26, 8:00pm",
+      "home_team": "Girona FC",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.26,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.35,
+        "away": 2.87
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200482",
+      "date_timestamp": null,
+      "date_str": "Sep 25, 8:30pm",
+      "home_team": "Real Oviedo",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.0,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 11.0,
+        "draw": 6.75,
+        "away": 1.21
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200481",
+      "date_timestamp": null,
+      "date_str": "Sep 25, 6:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Elche CF",
+      "home_ppg": 1.68,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.25,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200477",
+      "date_timestamp": null,
+      "date_str": "Sep 24, 8:30pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 2.42,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.2,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200484",
+      "date_timestamp": null,
+      "date_str": "Sep 24, 8:30pm",
+      "home_team": "Real Sociedad",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.53,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.6,
+        "away": 5.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200478",
+      "date_timestamp": null,
+      "date_str": "Sep 24, 6:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.42,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.32,
+        "draw": 2.88,
+        "away": 3.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200474",
+      "date_timestamp": null,
+      "date_str": "Sep 23, 8:30pm",
+      "home_team": "Levante UD",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.37,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 5.3,
+        "away": 1.32
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200485",
+      "date_timestamp": null,
+      "date_str": "Sep 23, 8:30pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Villarreal",
+      "home_ppg": 1.32,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.28,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200480",
+      "date_timestamp": null,
+      "date_str": "Sep 23, 6:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.37,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.25,
+        "away": 3.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200724",
+      "date_timestamp": null,
+      "date_str": "Sep 23, 6:00pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Girona FC",
+      "home_ppg": 1.58,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.7,
+        "away": 7.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200469",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 8:00pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Getafe CF",
+      "home_ppg": 3.0,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 5.75,
+        "away": 9.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200471",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 5:30pm",
+      "home_team": "Elche CF",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.84,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.0,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200722",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 3:15pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.74,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.05,
+        "draw": 3.5,
+        "away": 1.78
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200711",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 1:00pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.63,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 3.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200475",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 8:00pm",
+      "home_team": "Valencia CF",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.58,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.05,
+        "away": 2.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200470",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 5:30pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.42,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.01,
+        "away": 3.28
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200476",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 5:30pm",
+      "home_team": "Villarreal",
+      "away_team": "CA Osasuna",
+      "home_ppg": 2.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 3.8,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200473",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 3:15pm",
+      "home_team": "Real Madrid",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 2.58,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.22,
+        "away": 14.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200628",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 1:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Levante UD",
+      "home_ppg": 1.26,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.5,
+        "away": 4.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200472",
+      "date_timestamp": null,
+      "date_str": "Sep 19, 8:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.89,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.68,
+        "away": 3.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200437",
+      "date_timestamp": null,
+      "date_str": "Sep 15, 8:00pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 1.37,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.1,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200465",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 8:00pm",
+      "home_team": "FC Barcelona",
+      "away_team": "Valencia CF",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 5.7,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200467",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 5:30pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.68,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 2.76,
+        "away": 2.92
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200720",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 3:15pm",
+      "home_team": "Levante UD",
+      "away_team": "Real Betis",
+      "home_ppg": 1.37,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.45,
+        "away": 2.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200466",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 1:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Girona FC",
+      "home_ppg": 1.21,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.9,
+        "away": 5.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200719",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 8:00pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "home_ppg": 2.42,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.7,
+        "away": 4.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200463",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 5:30pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.58,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.6,
+        "away": 6.65
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200721",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:15pm",
+      "home_team": "Real Sociedad",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.53,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.55,
+        "draw": 4.15,
+        "away": 1.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200439",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 1:00pm",
+      "home_team": "Getafe CF",
+      "away_team": "Real Oviedo",
+      "home_ppg": 1.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 2.88,
+        "away": 4.96
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200468",
+      "date_timestamp": null,
+      "date_str": "Sep 12, 8:00pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Elche CF",
+      "home_ppg": 1.32,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.42,
+        "away": 4.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200805",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 8:30pm",
+      "home_team": "Rayo Vallecano",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.63,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.5,
+        "draw": 4.9,
+        "away": 1.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200806",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 6:30pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "CA Osasuna",
+      "home_ppg": 1.37,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 2.97,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200802",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 6:00pm",
+      "home_team": "Real Betis",
+      "away_team": "Athletic Club Bilbao",
+      "home_ppg": 1.89,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200800",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 4:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Villarreal",
+      "home_ppg": 1.21,
+      "away_ppg": 1.37,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.45,
+        "away": 2.22
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200803",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 8:30pm",
+      "home_team": "Real Madrid",
+      "away_team": "RCD Mallorca",
+      "home_ppg": 2.58,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 6.8,
+        "away": 13.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200801",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 6:30pm",
+      "home_team": "Girona FC",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.26,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.0,
+        "away": 3.11
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200804",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 6:00pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.1,
+        "away": 2.32
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200798",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 4:00pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.42,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 3.4,
+        "away": 1.84
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200799",
+      "date_timestamp": null,
+      "date_str": "Aug 29, 8:30pm",
+      "home_team": "Valencia CF",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.58,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 2.9,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200797",
+      "date_timestamp": null,
+      "date_str": "Aug 29, 6:30pm",
+      "home_team": "Elche CF",
+      "away_team": "Levante UD",
+      "home_ppg": 1.84,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.0,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200479",
+      "date_timestamp": null,
+      "date_str": "Aug 27, 8:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Real Betis",
+      "home_ppg": 1.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.5,
+        "away": 3.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200435",
+      "date_timestamp": null,
+      "date_str": "Aug 25, 8:30pm",
+      "home_team": "Sevilla FC",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.32,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.08,
+        "away": 4.11
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200792",
+      "date_timestamp": null,
+      "date_str": "Aug 25, 6:30pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.58,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.7,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200790",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 8:30pm",
+      "home_team": "Real Oviedo",
+      "away_team": "Real Madrid",
+      "home_ppg": 1.0,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 9.5,
+        "draw": 5.25,
+        "away": 1.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200428",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 6:30pm",
+      "home_team": "Real Sociedad",
+      "away_team": "RCD Espanyol",
+      "home_ppg": 1.53,
+      "away_ppg": 1.05,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.4,
+        "away": 4.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200433",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 6:30pm",
+      "home_team": "Villarreal",
+      "away_team": "Girona FC",
+      "home_ppg": 2.42,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.39,
+        "draw": 4.35,
+        "away": 5.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200427",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 4:00pm",
+      "home_team": "CA Osasuna",
+      "away_team": "Valencia CF",
+      "home_ppg": 1.68,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 3.2,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200436",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 8:30pm",
+      "home_team": "Levante UD",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.37,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 10.0,
+        "draw": 6.8,
+        "away": 1.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200426",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 6:30pm",
+      "home_team": "Atlético Madrid",
+      "away_team": "Elche CF",
+      "home_ppg": 2.42,
+      "away_ppg": 0.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.97,
+        "away": 12.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200431",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 4:00pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "Celta de Vigo",
+      "home_ppg": 1.74,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.35,
+        "away": 2.22
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200794",
+      "date_timestamp": null,
+      "date_str": "Aug 22, 8:30pm",
+      "home_team": "Real Betis",
+      "away_team": "Deportivo Alavés",
+      "home_ppg": 1.89,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.4,
+        "away": 4.36
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200434",
+      "date_timestamp": null,
+      "date_str": "Aug 19, 8:00pm",
+      "home_team": "Real Madrid",
+      "away_team": "CA Osasuna",
+      "home_ppg": 2.58,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.1,
+        "draw": 7.1,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200429",
+      "date_timestamp": null,
+      "date_str": "Aug 18, 8:00pm",
+      "home_team": "Elche CF",
+      "away_team": "Real Betis",
+      "home_ppg": 1.84,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.29,
+        "draw": 3.0,
+        "away": 2.29
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200425",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 8:30pm",
+      "home_team": "RCD Espanyol",
+      "away_team": "Atlético Madrid",
+      "home_ppg": 1.37,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.8,
+        "draw": 4.0,
+        "away": 1.63
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200789",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 6:30pm",
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Sevilla FC",
+      "home_ppg": 1.58,
+      "away_ppg": 0.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.95,
+        "away": 6.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200795",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 4:00pm",
+      "home_team": "Celta de Vigo",
+      "away_team": "Getafe CF",
+      "home_ppg": 1.21,
+      "away_ppg": 1.26,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.25,
+        "away": 6.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200744",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 8:30pm",
+      "home_team": "Deportivo Alavés",
+      "away_team": "Levante UD",
+      "home_ppg": 1.42,
+      "away_ppg": 0.84,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.15,
+        "away": 3.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200793",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 8:30pm",
+      "home_team": "Valencia CF",
+      "away_team": "Real Sociedad",
+      "home_ppg": 1.58,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.03,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8200430",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 6:30pm",
+      "home_team": "RCD Mallorca",
+      "away_team": "FC Barcelona",
+      "home_ppg": 1.74,
+      "away_ppg": 1.95,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 8.5,
+        "draw": 5.5,
+        "away": 1.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8200791",
+      "date_timestamp": null,
+      "date_str": "Aug 15, 8:30pm",
+      "home_team": "Villarreal",
+      "away_team": "Real Oviedo",
+      "home_ppg": 2.42,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.41,
+        "draw": 4.6,
+        "away": 9.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8200796",
+      "date_timestamp": null,
+      "date_str": "Aug 15, 6:00pm",
+      "home_team": "Girona FC",
+      "away_team": "Rayo Vallecano",
+      "home_ppg": 1.26,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.26,
+        "draw": 3.15,
+        "away": 3.3
+      },
+      "result": "2"
+    }
+  ]
+}
