@@ -30,23 +30,23 @@ export const Goals = ({ data }: { data: PredictionData }) => {
             <TD className={useColor(data.gf_05, 69, 'amber')}>
               {data.gf_05.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.gf_15, 55, 'indigo')}>
+            <TD className={useColor(data.gf_15, 55, 'blue')}>
               {data.gf_15.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.gf_25, 36, 'indigo')}>
+            <TD className={useColor(data.gf_25, 36, 'blue')}>
               {data.gf_25.toFixed(0)}%
             </TD>
             <TD className={useColor(data.btts, 57, 'amber')} rowSpan={2}>
               {data.btts.toFixed(0)}%
             </TD>
             <TD rowSpan={2}>{data.total_goals.toFixed(1)}</TD>
-            <TD className={useColor(data.over_1_5, 79, 'indigo')} rowSpan={2}>
+            <TD className={useColor(data.over_1_5, 79, 'blue')} rowSpan={2}>
               {data.over_1_5.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.over_2_5, 43, 'indigo')} rowSpan={2}>
+            <TD className={useColor(data.over_2_5, 43, 'blue')} rowSpan={2}>
               {data.over_2_5.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.over_3_5, 35, 'indigo')} rowSpan={2}>
+            <TD className={useColor(data.over_3_5, 35, 'blue')} rowSpan={2}>
               {data.over_3_5.toFixed(0)}%
             </TD>
           </TR>
@@ -57,10 +57,10 @@ export const Goals = ({ data }: { data: PredictionData }) => {
             <TD className={useColor(data.ga_05, 67, 'amber')}>
               {data.ga_05.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.ga_15, 49, 'indigo')}>
+            <TD className={useColor(data.ga_15, 49, 'blue')}>
               {data.ga_15.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.ga_25, 26, 'indigo')}>
+            <TD className={useColor(data.ga_25, 26, 'blue')}>
               {data.ga_25.toFixed(0)}%
             </TD>
           </TR>

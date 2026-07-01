@@ -1,0 +1,29 @@
+england: "https://www.soccerstats.com/latest.asp?league=england"
+germany: "https://www.soccerstats.com/latest.asp?league=germany"
+spain: "https://www.soccerstats.com/latest.asp?league=spain"
+norway: "https://www.soccerstats.com/latest.asp?league=norway"
+sweden: "https://www.soccerstats.com/latest.asp?league=sweden"
+netherlands: "https://www.soccerstats.com/latest.asp?league=netherlands"
+
+italy: "https://www.soccerstats.com/latest.asp?league=italy"
+france: "https://www.soccerstats.com/latest.asp?league=france"
+belgium: "https://www.soccerstats.com/latest.asp?league=belgium"
+portugal: "https://www.soccerstats.com/latest.asp?league=portugal"
+scotland: "https://www.soccerstats.com/latest.asp?league=scotland"
+turkey: "https://www.soccerstats.com/latest.asp?league=turkey"
+greece: "https://www.soccerstats.com/latest.asp?league=greece"
+russia: "https://www.soccerstats.com/latest.asp?league=russia"
+portugal2: "https://www.soccerstats.com/latest.asp?league=portugal2"
+
+brazil: "https://www.soccerstats.com/latest.asp?league=brazil"
+peru: "https://www.soccerstats.com/latest.asp?league=peru"
+argentina: "https://www.soccerstats.com/latest.asp?league=argentina"
+chile: "https://www.soccerstats.com/latest.asp?league=chile"
+uruguay: "https://www.soccerstats.com/latest.asp?league=uruguay"
+ecuador: "https://www.soccerstats.com/latest.asp?league=ecuador"
+china: "https://www.soccerstats.com/latest.asp?league=china"
+
+settings:
+  delay: 0.5
+  workers: 4
+  output_dir: "client/public/data"

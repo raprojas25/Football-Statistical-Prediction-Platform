@@ -1,0 +1,2409 @@
+{
+  "generated_at": "2026-07-01T16:16:32.643148+00:00",
+  "source": "https://footystats.org/chile/primera-division/fixtures",
+  "league": "Primera División",
+  "country": "Chile",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8432297",
+      "date_timestamp": null,
+      "date_str": "Jun 19, 1:00am",
+      "home_team": "Universidad Chile",
+      "away_team": "O'Higgins",
+      "home_ppg": 2.14,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.5,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432285",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 10:30pm",
+      "home_team": "Universidad Católica",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 1.86,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.2,
+        "away": 6.24
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432298",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 8:00pm",
+      "home_team": "Unión La Calera",
+      "away_team": "Universidad Chile",
+      "home_ppg": 1.38,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.37,
+        "draw": 3.05,
+        "away": 2.11
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432393",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 5:30pm",
+      "home_team": "Concepción",
+      "away_team": "Deportes Limache",
+      "home_ppg": 1.14,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.3,
+        "away": 2.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432338",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 1:00am",
+      "home_team": "Ñublense",
+      "away_team": "Huachipato",
+      "home_ppg": 1.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.25,
+        "away": 3.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432287",
+      "date_timestamp": null,
+      "date_str": "Jun 13, 10:30pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Cobresal",
+      "home_ppg": 2.25,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.1,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432286",
+      "date_timestamp": null,
+      "date_str": "Jun 13, 8:00pm",
+      "home_team": "Everton",
+      "away_team": "Palestino",
+      "home_ppg": 1.13,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.12,
+        "away": 2.58
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432384",
+      "date_timestamp": null,
+      "date_str": "Jun 13, 5:30pm",
+      "home_team": "Coquimbo Unido",
+      "away_team": "O'Higgins",
+      "home_ppg": 1.57,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.3,
+        "away": 3.76
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432394",
+      "date_timestamp": null,
+      "date_str": "Jun 13, 1:00am",
+      "home_team": "Audax Italiano",
+      "away_team": "La Serena",
+      "home_ppg": 1.75,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.25,
+        "away": 3.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432289",
+      "date_timestamp": null,
+      "date_str": "Jun 1, 1:00am",
+      "home_team": "Palestino",
+      "away_team": "Audax Italiano",
+      "home_ppg": 1.88,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.48,
+        "away": 3.84
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432290",
+      "date_timestamp": null,
+      "date_str": "May 31, 10:30pm",
+      "home_team": "O'Higgins",
+      "away_team": "Everton",
+      "home_ppg": 1.5,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.2,
+        "away": 3.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432291",
+      "date_timestamp": null,
+      "date_str": "May 31, 8:00pm",
+      "home_team": "Huachipato",
+      "away_team": "Universidad Católica",
+      "home_ppg": 2.14,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432294",
+      "date_timestamp": null,
+      "date_str": "May 31, 5:30pm",
+      "home_team": "Deportes Limache",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 2.14,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.54,
+        "draw": 3.27,
+        "away": 2.36
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432395",
+      "date_timestamp": null,
+      "date_str": "May 30, 10:30pm",
+      "home_team": "Universidad Chile",
+      "away_team": "Concepción",
+      "home_ppg": 2.14,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 3.85,
+        "away": 5.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432293",
+      "date_timestamp": null,
+      "date_str": "May 30, 8:00pm",
+      "home_team": "La Serena",
+      "away_team": "Colo-Colo",
+      "home_ppg": 1.5,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.69,
+        "draw": 3.35,
+        "away": 1.92
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432396",
+      "date_timestamp": null,
+      "date_str": "May 30, 1:30am",
+      "home_team": "Univ. Concepción",
+      "away_team": "Unión La Calera",
+      "home_ppg": 1.86,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.15,
+        "away": 2.52
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432292",
+      "date_timestamp": null,
+      "date_str": "May 29, 11:00pm",
+      "home_team": "Cobresal",
+      "away_team": "Ñublense",
+      "home_ppg": 1.29,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.45,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432398",
+      "date_timestamp": null,
+      "date_str": "May 24, 11:00pm",
+      "home_team": "Universidad Católica",
+      "away_team": "Colo-Colo",
+      "home_ppg": 1.86,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.1,
+        "away": 2.65
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432299",
+      "date_timestamp": null,
+      "date_str": "May 24, 8:00pm",
+      "home_team": "La Serena",
+      "away_team": "Deportes Limache",
+      "home_ppg": 1.5,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.4,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432300",
+      "date_timestamp": null,
+      "date_str": "May 24, 5:30pm",
+      "home_team": "Concepción",
+      "away_team": "Huachipato",
+      "home_ppg": 1.14,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.2,
+        "away": 2.54
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432296",
+      "date_timestamp": null,
+      "date_str": "May 24, 1:00am",
+      "home_team": "Unión La Calera",
+      "away_team": "Palestino",
+      "home_ppg": 1.38,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.0,
+        "away": 2.61
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432295",
+      "date_timestamp": null,
+      "date_str": "May 23, 8:00pm",
+      "home_team": "Ñublense",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 1.25,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.45,
+        "away": 4.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432219",
+      "date_timestamp": null,
+      "date_str": "May 23, 5:30pm",
+      "home_team": "Audax Italiano",
+      "away_team": "Cobresal",
+      "home_ppg": 1.75,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.75,
+        "away": 3.97
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432216",
+      "date_timestamp": null,
+      "date_str": "May 22, 8:00pm",
+      "home_team": "Everton",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 1.13,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 3.1,
+        "away": 2.49
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432387",
+      "date_timestamp": null,
+      "date_str": "May 18, 1:00am",
+      "home_team": "Concepción",
+      "away_team": "Everton",
+      "home_ppg": 1.14,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.2,
+        "away": 2.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432302",
+      "date_timestamp": null,
+      "date_str": "May 17, 10:30pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Ñublense",
+      "home_ppg": 2.25,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.5,
+        "away": 4.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432401",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Cobresal",
+      "away_team": "Universidad Chile",
+      "home_ppg": 1.29,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.31,
+        "away": 1.99
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432397",
+      "date_timestamp": null,
+      "date_str": "May 17, 5:30pm",
+      "home_team": "Huachipato",
+      "away_team": "Unión La Calera",
+      "home_ppg": 2.14,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.3,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432304",
+      "date_timestamp": null,
+      "date_str": "May 17, 1:00am",
+      "home_team": "Deportes Limache",
+      "away_team": "Universidad Católica",
+      "home_ppg": 2.14,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.25,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432301",
+      "date_timestamp": null,
+      "date_str": "May 16, 10:30pm",
+      "home_team": "O'Higgins",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 1.5,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.5,
+        "away": 4.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432288",
+      "date_timestamp": null,
+      "date_str": "May 16, 1:00am",
+      "home_team": "Palestino",
+      "away_team": "La Serena",
+      "home_ppg": 1.88,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.2,
+        "away": 3.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432303",
+      "date_timestamp": null,
+      "date_str": "May 16, 1:00am",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Audax Italiano",
+      "home_ppg": 1.57,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 3.35,
+        "away": 4.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432313",
+      "date_timestamp": null,
+      "date_str": "May 3, 10:30pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 2.25,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.3,
+        "away": 3.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432308",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 10:30pm",
+      "home_team": "Everton",
+      "away_team": "Cobresal",
+      "home_ppg": 1.13,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.59,
+        "draw": 3.4,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432307",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 8:00pm",
+      "home_team": "Univ. Concepción",
+      "away_team": "Colo-Colo",
+      "home_ppg": 1.86,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.4,
+        "away": 1.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432404",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 5:30pm",
+      "home_team": "La Serena",
+      "away_team": "Huachipato",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.4,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432402",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 11:00pm",
+      "home_team": "Universidad Chile",
+      "away_team": "Universidad Católica",
+      "home_ppg": 2.14,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.1,
+        "away": 3.11
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432306",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 8:00pm",
+      "home_team": "Ñublense",
+      "away_team": "O'Higgins",
+      "home_ppg": 1.25,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 3.15,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432339",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 1:30am",
+      "home_team": "Audax Italiano",
+      "away_team": "Deportes Limache",
+      "home_ppg": 1.75,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.2,
+        "away": 2.43
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432340",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 11:00pm",
+      "home_team": "Unión La Calera",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 1.38,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.2,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432305",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 1:00am",
+      "home_team": "Palestino",
+      "away_team": "Concepción",
+      "home_ppg": 1.88,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.55,
+        "away": 4.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432312",
+      "date_timestamp": null,
+      "date_str": "Apr 21, 1:30am",
+      "home_team": "Universidad Católica",
+      "away_team": "Unión La Calera",
+      "home_ppg": 1.86,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.25,
+        "away": 5.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432310",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 1:45am",
+      "home_team": "Huachipato",
+      "away_team": "Audax Italiano",
+      "home_ppg": 2.14,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.35,
+        "away": 2.87
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432405",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 11:30pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Palestino",
+      "home_ppg": 2.25,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.7,
+        "away": 5.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432309",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 8:30pm",
+      "home_team": "Cobresal",
+      "away_team": "O'Higgins",
+      "home_ppg": 1.29,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.3,
+        "away": 2.12
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432406",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 5:30pm",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Ñublense",
+      "home_ppg": 1.57,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.2,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432400",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 1:00am",
+      "home_team": "Concepción",
+      "away_team": "La Serena",
+      "home_ppg": 1.14,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.25,
+        "away": 2.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432407",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 10:30pm",
+      "home_team": "Everton",
+      "away_team": "Universidad Chile",
+      "home_ppg": 1.13,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.1,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432399",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 1:00am",
+      "home_team": "Deportes Limache",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 2.14,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.7,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432311",
+      "date_timestamp": null,
+      "date_str": "Apr 14, 1:00am",
+      "home_team": "Unión La Calera",
+      "away_team": "Concepción",
+      "home_ppg": 1.38,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.2,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432314",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 1:00am",
+      "home_team": "Univ. Concepción",
+      "away_team": "Cobresal",
+      "home_ppg": 1.86,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.7,
+        "away": 4.33
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432315",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 10:30pm",
+      "home_team": "Ñublense",
+      "away_team": "Universidad Chile",
+      "home_ppg": 1.25,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.05,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432410",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:00am",
+      "home_team": "Palestino",
+      "away_team": "Deportes Limache",
+      "home_ppg": 1.88,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.3,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432203",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 10:30pm",
+      "home_team": "Audax Italiano",
+      "away_team": "Universidad Católica",
+      "home_ppg": 1.75,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432411",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 8:00pm",
+      "home_team": "La Serena",
+      "away_team": "Everton",
+      "home_ppg": 1.5,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432408",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 1:00am",
+      "home_team": "O'Higgins",
+      "away_team": "Huachipato",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.4,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432403",
+      "date_timestamp": null,
+      "date_str": "Apr 7, 1:00am",
+      "home_team": "Huachipato",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 2.14,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.3,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432317",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 11:00pm",
+      "home_team": "Universidad Chile",
+      "away_team": "La Serena",
+      "home_ppg": 2.14,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.5,
+        "away": 4.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432416",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 8:30pm",
+      "home_team": "Concepción",
+      "away_team": "Colo-Colo",
+      "home_ppg": 1.14,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.85,
+        "draw": 3.35,
+        "away": 1.94
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432409",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 12:00am",
+      "home_team": "Everton",
+      "away_team": "Ñublense",
+      "home_ppg": 1.13,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432316",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 9:30pm",
+      "home_team": "Deportes Limache",
+      "away_team": "Unión La Calera",
+      "home_ppg": 2.14,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.6,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432412",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 12:00am",
+      "home_team": "O'Higgins",
+      "away_team": "Audax Italiano",
+      "home_ppg": 1.5,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.1,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432414",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 9:30pm",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Cobresal",
+      "home_ppg": 1.57,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.4,
+        "away": 8.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432413",
+      "date_timestamp": null,
+      "date_str": "Apr 2, 10:00pm",
+      "home_team": "Universidad Católica",
+      "away_team": "Palestino",
+      "home_ppg": 1.86,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.7,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432209",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 11:30pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Huachipato",
+      "home_ppg": 2.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.4,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432417",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 9:00pm",
+      "home_team": "Unión La Calera",
+      "away_team": "O'Higgins",
+      "home_ppg": 1.38,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.95,
+        "away": 2.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432217",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:30pm",
+      "home_team": "Ñublense",
+      "away_team": "La Serena",
+      "home_ppg": 1.25,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.25,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432205",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 9:00pm",
+      "home_team": "Cobresal",
+      "away_team": "Deportes Limache",
+      "home_ppg": 1.29,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.25,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432210",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 3:00pm",
+      "home_team": "Univ. Concepción",
+      "away_team": "Palestino",
+      "home_ppg": 1.86,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.25,
+        "away": 2.42
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432415",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 11:30pm",
+      "home_team": "Universidad Católica",
+      "away_team": "Everton",
+      "home_ppg": 1.86,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.6,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432198",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 9:00pm",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Universidad Chile",
+      "home_ppg": 1.57,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.24,
+        "draw": 3.0,
+        "away": 3.11
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432204",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 11:00pm",
+      "home_team": "Audax Italiano",
+      "away_team": "Concepción",
+      "home_ppg": 1.75,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.35,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432206",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 11:00pm",
+      "home_team": "Universidad Chile",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 2.14,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.9,
+        "away": 6.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432207",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 11:30pm",
+      "home_team": "Palestino",
+      "away_team": "Cobresal",
+      "home_ppg": 1.88,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.17,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432322",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 11:30pm",
+      "home_team": "O'Higgins",
+      "away_team": "Universidad Católica",
+      "home_ppg": 1.5,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.0,
+        "away": 2.26
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432323",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 9:00pm",
+      "home_team": "Audax Italiano",
+      "away_team": "Colo-Colo",
+      "home_ppg": 1.75,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.37,
+        "draw": 3.47,
+        "away": 2.18
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432318",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 3:00pm",
+      "home_team": "Everton",
+      "away_team": "Deportes Limache",
+      "home_ppg": 1.13,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 3.59,
+        "away": 2.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432321",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 3:00pm",
+      "home_team": "Huachipato",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 2.14,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.0,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432196",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 11:30pm",
+      "home_team": "Concepción",
+      "away_team": "Ñublense",
+      "home_ppg": 1.14,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.92,
+        "away": 2.64
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432319",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 9:00pm",
+      "home_team": "La Serena",
+      "away_team": "Unión La Calera",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.0,
+        "away": 3.54
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432421",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 11:30pm",
+      "home_team": "Ñublense",
+      "away_team": "Universidad Católica",
+      "home_ppg": 1.25,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.62,
+        "draw": 3.1,
+        "away": 2.43
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432325",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 9:00pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Universidad Chile",
+      "home_ppg": 2.25,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.29,
+        "draw": 3.22,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432420",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 3:00pm",
+      "home_team": "Univ. Concepción",
+      "away_team": "Everton",
+      "home_ppg": 1.86,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.1,
+        "away": 3.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432419",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 11:30pm",
+      "home_team": "Palestino",
+      "away_team": "O'Higgins",
+      "home_ppg": 1.88,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.46,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432320",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 9:00pm",
+      "home_team": "Deportes Limache",
+      "away_team": "Huachipato",
+      "home_ppg": 2.14,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.25,
+        "away": 3.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432197",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Concepción",
+      "home_ppg": 1.57,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.4,
+        "away": 5.14
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432324",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 11:30pm",
+      "home_team": "Unión La Calera",
+      "away_team": "Audax Italiano",
+      "home_ppg": 1.38,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 2.85,
+        "away": 2.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432418",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 9:00pm",
+      "home_team": "Cobresal",
+      "away_team": "La Serena",
+      "home_ppg": 1.29,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 2.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432422",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 11:30pm",
+      "home_team": "Universidad Chile",
+      "away_team": "Deportes Limache",
+      "home_ppg": 2.14,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.25,
+        "away": 5.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432327",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 9:00pm",
+      "home_team": "Audax Italiano",
+      "away_team": "Everton",
+      "home_ppg": 1.75,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.0,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432200",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:00pm",
+      "home_team": "La Serena",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 1.5,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.48,
+        "draw": 2.96,
+        "away": 2.84
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432208",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 11:30pm",
+      "home_team": "Universidad Católica",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 1.86,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 2.98,
+        "away": 3.61
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432214",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 9:00pm",
+      "home_team": "O'Higgins",
+      "away_team": "Colo-Colo",
+      "home_ppg": 1.5,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.25,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432423",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:00pm",
+      "home_team": "Huachipato",
+      "away_team": "Palestino",
+      "home_ppg": 2.14,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.25,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432328",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 11:30pm",
+      "home_team": "Concepción",
+      "away_team": "Cobresal",
+      "home_ppg": 1.14,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.5,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432326",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 9:00pm",
+      "home_team": "Unión La Calera",
+      "away_team": "Ñublense",
+      "home_ppg": 1.38,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.35,
+        "away": 2.65
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432330",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:30pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Unión La Calera",
+      "home_ppg": 2.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.2,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432202",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 9:00pm",
+      "home_team": "Ñublense",
+      "away_team": "Audax Italiano",
+      "home_ppg": 1.25,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.2,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432329",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 3:00pm",
+      "home_team": "Univ. Concepción",
+      "away_team": "Concepción",
+      "home_ppg": 1.86,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.3,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432211",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 11:30pm",
+      "home_team": "Cobresal",
+      "away_team": "Universidad Católica",
+      "home_ppg": 1.29,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.54,
+        "draw": 3.25,
+        "away": 2.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432194",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 9:00pm",
+      "home_team": "Deportes Limache",
+      "away_team": "O'Higgins",
+      "home_ppg": 2.14,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.2,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432331",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 3:00pm",
+      "home_team": "La Serena",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 1.5,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.1,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432425",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 11:30pm",
+      "home_team": "Palestino",
+      "away_team": "Universidad Chile",
+      "home_ppg": 1.88,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432201",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 9:00pm",
+      "home_team": "Everton",
+      "away_team": "Huachipato",
+      "home_ppg": 1.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.0,
+        "away": 2.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432334",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 11:00pm",
+      "home_team": "Unión La Calera",
+      "away_team": "Cobresal",
+      "home_ppg": 1.38,
+      "away_ppg": 0.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.34,
+        "away": 3.82
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432424",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 11:30pm",
+      "home_team": "Universidad Católica",
+      "away_team": "Concepción",
+      "home_ppg": 1.86,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.55,
+        "away": 5.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432195",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 9:00pm",
+      "home_team": "Ñublense",
+      "away_team": "Deportes Limache",
+      "home_ppg": 1.25,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.15,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432426",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 3:00pm",
+      "home_team": "Huachipato",
+      "away_team": "Universidad Chile",
+      "home_ppg": 2.14,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.3,
+        "away": 1.94
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432332",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 11:30pm",
+      "home_team": "Colo-Colo",
+      "away_team": "Everton",
+      "home_ppg": 2.25,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.5,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432333",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 9:00pm",
+      "home_team": "O'Higgins",
+      "away_team": "La Serena",
+      "home_ppg": 1.5,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.95,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432213",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 3:00pm",
+      "home_team": "Coquimbo Unido",
+      "away_team": "Palestino",
+      "home_ppg": 1.57,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.0,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432212",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 11:00pm",
+      "home_team": "Audax Italiano",
+      "away_team": "Univ. Concepción",
+      "home_ppg": 1.75,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.2,
+        "away": 3.16
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432282",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 11:30pm",
+      "home_team": "O'Higgins",
+      "away_team": "Concepción",
+      "home_ppg": 1.5,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.3,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432429",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 9:00pm",
+      "home_team": "Everton",
+      "away_team": "Unión La Calera",
+      "home_ppg": 1.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.35,
+        "away": 3.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8432433",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 11:30pm",
+      "home_team": "Palestino",
+      "away_team": "Ñublense",
+      "home_ppg": 1.88,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.35,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432430",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 9:00pm",
+      "home_team": "La Serena",
+      "away_team": "Universidad Católica",
+      "home_ppg": 1.5,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.46,
+        "draw": 3.3,
+        "away": 2.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8432428",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 9:00pm",
+      "home_team": "Cobresal",
+      "away_team": "Huachipato",
+      "home_ppg": 1.29,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.26,
+        "draw": 3.4,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432199",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 6:30pm",
+      "home_team": "Univ. Concepción",
+      "away_team": "Coquimbo Unido",
+      "home_ppg": 1.86,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.54,
+        "draw": 3.2,
+        "away": 2.03
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432432",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:00pm",
+      "home_team": "Deportes Limache",
+      "away_team": "Colo-Colo",
+      "home_ppg": 2.14,
+      "away_ppg": 2.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.4,
+        "away": 1.97
+      },
+      "result": "1"
+    },
+    {
+      "id": "8432427",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 11:00pm",
+      "home_team": "Universidad Chile",
+      "away_team": "Audax Italiano",
+      "home_ppg": 2.14,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.2,
+        "away": 6.94
+      },
+      "result": "X"
+    }
+  ]
+}

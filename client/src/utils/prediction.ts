@@ -80,23 +80,23 @@ export const getPrediction = (
   const details = `Mdo: ${(imp.home * 100).toFixed(0)}/${(imp.draw * 100).toFixed(0)}/${(imp.away * 100).toFixed(0)} Frm: ${(formHome * 100).toFixed(0)}/${(formAway * 100).toFixed(0)} Brg: ${(imp.margin * 100).toFixed(1)}% Eth: ${edge.toFixed(2)}`;
 
   if (d > 3.4 || edge > 0.65) {
-    return { label: 'No Apostar', type: 'NA', details, confidence };
+    return { label: 'NA', type: 'NA', details, confidence };
   }
 
   if (top.label === 'HOME') {
     if (edge > 0.25) {
-      return { label: 'LOCAL (1)', type: 'HOME', details, confidence };
+      return { label: '(1)', type: 'HOME', details, confidence };
     }
     if (second.label === 'DRAW') {
       return {
-        label: 'Local o Empate (1X)',
+        label: '(1X)',
         type: 'HOME_DRAW',
         details,
         confidence,
       };
     }
     return {
-      label: 'Local o Visita (12)',
+      label: '(12)',
       type: 'HOME_AWAY',
       details,
       confidence,
@@ -105,18 +105,18 @@ export const getPrediction = (
 
   if (top.label === 'AWAY') {
     if (edge > 0.25) {
-      return { label: 'VISITA (2)', type: 'AWAY', details, confidence };
+      return { label: '(2)', type: 'AWAY', details, confidence };
     }
     if (second.label === 'DRAW') {
       return {
-        label: 'Visita o Empate (2X)',
+        label: '(2X)',
         type: 'AWAY_DRAW',
         details,
         confidence,
       };
     }
     return {
-      label: 'Local o Visita (12)',
+      label: '(12)',
       type: 'HOME_AWAY',
       details,
       confidence,
@@ -128,14 +128,14 @@ export const getPrediction = (
   }
   if (second.label === 'HOME') {
     return {
-      label: 'Local o Empate (1X)',
+      label: '(1X)',
       type: 'HOME_DRAW',
       details,
       confidence,
     };
   }
   return {
-    label: 'Visita o Empate (2X)',
+    label: '(2X)',
     type: 'AWAY_DRAW',
     details,
     confidence,

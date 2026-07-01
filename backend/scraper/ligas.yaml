@@ -1,39 +1,15 @@
-chile:
-  url: /chile/primera-division/fixtures
-  name: Primera División
-  country: Chile
+settings:
+  delay: 0.5
+  workers: 4
 
-peru:
-  url: /peru/primera-division/fixtures
-  name: Primera División
-  country: Perú
-
-uruguay:
-  url: /uruguay/primera-division/fixtures
-  name: Primera División
-  country: Uruguay
-
-argentina:
-  url: /argentina/primera-division/fixtures
-  name: Primera División
-  country: Argentina
-
-colombia:
-  url: /colombia/categoria-primera-a/fixtures
-  name: Categoría Primera A
-  country: Colombia
-
-ecuador:
-  url: /ecuador/primera-categoria-serie-a/fixtures
-  name: Serie A
-  country: Ecuador
-
-paraguay:
-  url: /paraguay/division-profesional/fixtures
-  name: División Profesional
-  country: Paraguay
-
-brazil:
-  url: /brazil/serie-a/fixtures
-  name: Serie A
-  country: Brazil
+argentina: /argentina/primera-division/fixtures
+chile: /chile/primera-division/fixtures
+peru: /peru/primera-division/fixtures
+uruguay: /uruguay/primera-division/fixtures
+colombia: /colombia/categoria-primera-a/fixtures
+ecuador: /ecuador/primera-categoria-serie-a/fixtures
+paraguay: /paraguay/division-profesional/fixtures
+brazil: /brazil/serie-a/fixtures
+noruega: /norway/eliteserien/fixtures
+sweden: /sweden/allsvenskan/fixtures
+china: /china/chinese-super-league/fixtures

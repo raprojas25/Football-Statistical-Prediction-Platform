@@ -23,23 +23,24 @@ LIGAS = {
     "italia": "https://www.soccerstats.com/latest.asp?league=italy",
     "paisesbajos": "https://www.soccerstats.com/latest.asp?league=netherlands",
     "francia": "https://www.soccerstats.com/latest.asp?league=france",
-    # "peru": "https://www.soccerstats.com/latest.asp?league=peru",
-    # "inglaterra":"https://www.soccerstats.com/latest.asp?league=england",
-    # "alemania":"https://www.soccerstats.com/latest.asp?league=germany",
-    # "portugal":"https://www.soccerstats.com/latest.asp?league=portugal2",
-    # "spain":"https://www.soccerstats.com/latest.asp?league=spain",
-    # "":"",
-    # "alemania": "https://www.soccerstats.com/latest.asp?league=germany",
-    # "espana": "https://www.soccerstats.com/latest.asp?league=spain",
-    # "italia": "https://www.soccerstats.com/latest.asp?league=italy",
-    # "francia": "https://www.soccerstats.com/latest.asp?league=france",
-    # "holanda": "https://www.soccerstats.com/latest.asp?league=netherlands",
-    # "belgica": "https://www.soccerstats.com/latest.asp?league=belgium",
-    # "portugal": "https://www.soccerstats.com/latest.asp?league=portugal",
-    # "esclandia": "https://www.soccerstats.com/latest.asp?league=scotland",
-    # "turquia": "https://www.soccerstats.com/latest.asp?league=turkey",
-    # "grecia": "https://www.soccerstats.com/latest.asp?league=greece",
-    # "rusia": "https://www.soccerstats.com/latest.asp?league=russia",
+    "noruega":"https://www.soccerstats.com/latest.asp?league=norway",
+    "peru": "https://www.soccerstats.com/latest.asp?league=peru",
+    "inglaterra":"https://www.soccerstats.com/latest.asp?league=england",
+    "alemania":"https://www.soccerstats.com/latest.asp?league=germany",
+    "portugal":"https://www.soccerstats.com/latest.asp?league=portugal2",
+    "spain":"https://www.soccerstats.com/latest.asp?league=spain",
+    "":"",
+    "alemania": "https://www.soccerstats.com/latest.asp?league=germany",
+    "espana": "https://www.soccerstats.com/latest.asp?league=spain",
+    "italia": "https://www.soccerstats.com/latest.asp?league=italy",
+    "francia": "https://www.soccerstats.com/latest.asp?league=france",
+    "holanda": "https://www.soccerstats.com/latest.asp?league=netherlands",
+    "belgica": "https://www.soccerstats.com/latest.asp?league=belgium",
+    "portugal": "https://www.soccerstats.com/latest.asp?league=portugal",
+    "esclandia": "https://www.soccerstats.com/latest.asp?league=scotland",
+    "turquia": "https://www.soccerstats.com/latest.asp?league=turkey",
+    "grecia": "https://www.soccerstats.com/latest.asp?league=greece",
+    "rusia": "https://www.soccerstats.com/latest.asp?league=russia",
 }
 
 BASE_URL = "https://www.soccerstats.com/"
@@ -282,7 +283,7 @@ def main():
     print()
     
     # Directorio de salida
-    output_dir = os.path.join(os.path.dirname(__file__), "../..", "frontend", "public", "data")
+    output_dir = os.path.join(os.path.dirname(__file__), "../..", "client", "public", "data")
     os.makedirs(output_dir, exist_ok=True)
     
     # Scrapear cada liga

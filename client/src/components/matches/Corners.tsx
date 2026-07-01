@@ -17,7 +17,6 @@ export const Corners = ({ data }: { data: PredictionData }) => {
             <TH>+5.5</TH>
             <TH>+6.5</TH>
             <TH>T</TH>
-            <TH>M</TH>
             <TH>+9.5</TH>
             <TH>+10.5</TH>
             <TH>+11.5</TH>
@@ -29,28 +28,49 @@ export const Corners = ({ data }: { data: PredictionData }) => {
             <TD>L</TD>
             <TD>{data.home.id}</TD>
             <TD>{data.corners_home.toFixed(1)}</TD>
-            <TD className={useColor(data.cf_over_35, 49, 'violet')}>
+            <TD className={useColor(data.cf_over_35, 64, 'blue')}>
               {data.cf_over_35.toFixed(0)}%
             </TD>
-            <TD>{data.cf_over_45.toFixed(0)}%</TD>
-            <TD>{data.cf_over_55.toFixed(0)}%</TD>
-            <TD>{data.cf_over_65.toFixed(0)}%</TD>
-            <TD rowSpan={2}>{data.total_corners.toFixed(1)}</TD>
+            <TD className={useColor(data.cf_over_45, 54, 'blue')}>
+              {data.cf_over_45.toFixed(0)}%
+            </TD>
+            <TD className={useColor(data.cf_over_55, 44, 'blue')}>
+              {data.cf_over_55.toFixed(0)}%
+            </TD>
+            <TD className={useColor(data.cf_over_65, 34, 'blue')}>
+              {data.cf_over_65.toFixed(0)}%
+            </TD>
             <TD rowSpan={2}>{data.total_corners_match.toFixed(1)}</TD>
-            <TD rowSpan={2}>{data.tc_over_95.toFixed(0)}%</TD>
-            <TD rowSpan={2}>{data.tc_over_105.toFixed(0)}%</TD>
-            <TD rowSpan={2}>{data.tc_over_115.toFixed(0)}%</TD>
-            <TD rowSpan={2}>{data.tc_over_125.toFixed(0)}%</TD>
+            <TD rowSpan={2} className={useColor(data.tc_over_95, 54, 'blue')}>
+              {data.tc_over_95.toFixed(0)}%
+            </TD>
+            <TD rowSpan={2} className={useColor(data.tc_over_105, 44, 'blue')}>
+              {data.tc_over_105.toFixed(0)}%
+            </TD>
+            <TD rowSpan={2} className={useColor(data.tc_over_115, 34, 'blue')}>
+              {data.tc_over_115.toFixed(0)}%
+            </TD>
+            <TD rowSpan={2} className={useColor(data.tc_over_125, 24, 'blue')}>
+              {data.tc_over_125.toFixed(0)}%
+            </TD>
           </TR>
 
           <TR>
             <TD>V</TD>
             <TD>{data.away.id}</TD>
             <TD>{data.corners_away.toFixed(1)}</TD>
-            <TD>{data.ca_over_35.toFixed(0)}%</TD>
-            <TD>{data.ca_over_45.toFixed(0)}%</TD>
-            <TD>{data.ca_over_55.toFixed(0)}%</TD>
-            <TD>{data.ca_over_65.toFixed(0)}%</TD>
+            <TD className={useColor(data.ca_over_35, 64, 'blue')}>
+              {data.ca_over_35.toFixed(0)}%
+            </TD>
+            <TD className={useColor(data.ca_over_45, 54, 'blue')}>
+              {data.ca_over_45.toFixed(0)}%
+            </TD>
+            <TD className={useColor(data.ca_over_55, 44, 'blue')}>
+              {data.ca_over_55.toFixed(0)}%
+            </TD>
+            <TD className={useColor(data.ca_over_65, 34, 'blue')}>
+              {data.ca_over_65.toFixed(0)}%
+            </TD>
           </TR>
         </TBody>
       </Table>

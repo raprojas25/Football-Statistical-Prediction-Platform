@@ -27,52 +27,61 @@ except ImportError:
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 BASE_URL = "https://footystats.org"
 
-LIGAS = {
-    "belgium": {
-        "url": "/belgium/pro-league/fixtures",
-        "name": "cup",
-        "country": "belgium",
-    },
+FALLBACK_SETTINGS = {
+    "delay": 1.5,
+    "workers": 4,
+    "output_dir": os.path.join(os.path.dirname(__file__), "../..", "client", "public", "odds"),
 }
 
-OUTPUT_DIR = None
+CONFIG_DIR = os.path.dirname(os.path.abspath(__file__))
+CONFIG_PATHS = [
+    os.path.join(CONFIG_DIR, "ligas.yaml"),
+    os.path.join(CONFIG_DIR, "ligas.json"),
+]
 
 
-def parse_args():
-    p = argparse.ArgumentParser(description="FootyStats scraper multi-liga")
-    p.add_argument("-c", "--config", default=None,
-                   help="Ruta al archivo YAML de configuración")
-    p.add_argument("-l", "--leagues", default=None,
-                   help="Lista de ligas separadas por coma (ej: alemnia,argentina)")
-    p.add_argument("--delay", type=float, default=None,
-                   help="Delay entre requests (segundos)")
-    p.add_argument("--output-dir", default=None,
-                   help="Directorio de salida para los JSON")
-    return p.parse_args()
+def load_ligas():
+    for path in CONFIG_PATHS:
+        if not os.path.exists(path):
+            continue
+        ext = os.path.splitext(path)[1]
+        try:
+            if ext == ".yaml":
+                with open(path, "r") as f:
+                    data = yaml.safe_load(f)
+            else:
+                with open(path, "r") as f:
+                    data = json.load(f)
+            if isinstance(data, dict) and data:
+                settings = data.pop("settings", {}) if isinstance(data, dict) else {}
+                ligas = {k: v for k, v in data.items() if isinstance(v, str)}
+                if ligas:
+                    merged = dict(FALLBACK_SETTINGS)
+                    merged.update(settings)
+                    print(f"  Config: {path} ({len(ligas)} ligas)")
+                    return ligas, merged
+        except Exception as e:
+            print(f"  WARN: error loading {path}: {e}")
+    print(f"  WARN: usando fallback (1 liga)")
+    return {"chile": "/chile/primera-division/fixtures"}, dict(FALLBACK_SETTINGS)
+
+
+LIGAS, SETTINGS = load_ligas()
 
 
 def load_config(config_path):
-    leagues = {}
-    settings = {}
-
-    if config_path and os.path.exists(config_path):
-        with open(config_path) as f:
-            cfg = yaml.safe_load(f) or {}
-        settings = cfg.get("settings", {})
-        for entry in cfg.get("leagues", []):
-            if isinstance(entry, str):
-                if entry in LIGAS:
-                    leagues[entry] = LIGAS[entry]
-            elif isinstance(entry, dict):
-                key = entry.get("key")
-                if key:
-                    leagues[key] = {
-                        "url": entry["url"],
-                        "name": entry["name"],
-                        "country": entry.get("country", key),
-                    }
-        return leagues, settings
-
+    if not config_path or not os.path.exists(config_path):
+        return None, {}
+    with open(config_path) as f:
+        cfg = yaml.safe_load(f) or {}
+    if not isinstance(cfg, dict):
+        return None, {}
+    settings = cfg.pop("settings", {}) if isinstance(cfg, dict) else {}
+    ligas = {k: v for k, v in cfg.items() if isinstance(v, str)}
+    if ligas:
+        merged = dict(FALLBACK_SETTINGS)
+        merged.update(settings)
+        return ligas, merged
     return None, settings
 
 
@@ -222,10 +231,31 @@ def parse_single_match(ul):
     return match
 
 
-def scrape_league(league_key, info):
-    url = f"{BASE_URL}{info['url']}"
+def _extract_country(url_path):
+    parts = url_path.strip("/").split("/")
+    return parts[0].title() if parts else ""
+
+
+def _extract_league_name(soup, url_path):
+    title_tag = soup.find("title")
+    if title_tag:
+        text = title_tag.get_text(strip=True)
+        m = re.match(r"^(.+?)\s+Fixtures", text, re.IGNORECASE)
+        if m:
+            return m.group(1).strip()
+        m2 = re.match(r"^(.+?)\s*\|", text)
+        if m2:
+            return m2.group(1).strip()
+    parts = url_path.strip("/").split("/")
+    return " ".join(p.replace("-", " ").title() for p in parts)
+
+
+def scrape_league(league_key, url_path, output_dir):
+    url = f"{BASE_URL}{url_path}"
+    country = _extract_country(url_path)
+
     print(f"\n{'='*55}")
-    print(f"  {info['country']:12s} | {info['name']}")
+    print(f"  {country:12s} | {url_path}")
     print(f"{'='*55}")
     print(f"  URL: {url}")
 
@@ -238,19 +268,23 @@ def scrape_league(league_key, info):
 
     soup = BeautifulSoup(resp.text, "lxml")
 
+    competition_name = _extract_league_name(soup, url_path)
+    print(f"  Liga: {competition_name}")
+
     fixtures = parse_fixtures(soup)
     fixtures = [f for f in fixtures if f.get("status") == "FINISHED"]
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source": url,
-        "league": info["name"],
-        "country": info["country"],
+        "league": competition_name,
+        "country": country,
         "season": 2026,
         "fixtures": fixtures,
     }
 
-    output_file = os.path.join(OUTPUT_DIR, f"{league_key}_fixtures.json")
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, f"{league_key}.json")
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
@@ -262,51 +296,57 @@ def scrape_league(league_key, info):
     return output
 
 
+def parse_args():
+    p = argparse.ArgumentParser(description="FootyStats scraper multi-liga")
+    p.add_argument("-c", "--config", default=None,
+                   help="Ruta al archivo YAML de configuración (opcional, por defecto usa ligas.yaml)")
+    p.add_argument("-l", "--leagues", default=None,
+                   help="Lista de ligas separadas por coma (ej: alemnia,argentina)")
+    p.add_argument("--delay", type=float, default=None,
+                   help="Delay entre requests (segundos)")
+    p.add_argument("--output-dir", default=None,
+                   help="Directorio de salida para los JSON")
+    return p.parse_args()
+
+
 def main():
     args = parse_args()
 
-    # Resolver delay
-    delay = args.delay or 1.5
+    ligas = LIGAS
+    settings = SETTINGS
 
-    # Resolver directorio de salida
-    out_dir = args.output_dir
-    if out_dir is None:
-        out_dir = os.path.join(os.path.dirname(__file__), "../..", "client", "public", "odds")
-    os.makedirs(out_dir, exist_ok=True)
+    # Custom config overrides default
+    if args.config:
+        cfg_leagues, cfg_settings = load_config(args.config)
+        if cfg_leagues:
+            ligas = cfg_leagues
+        if cfg_settings:
+            merged = dict(settings)
+            merged.update(cfg_settings)
+            settings = merged
 
-    # Resolver ligas: YAML > CLI > defaults
-    leagues = dict(LIGAS)
-    yaml_leagues, yaml_settings = load_config(args.config)
-
-    if yaml_leagues is not None:
-        if yaml_leagues:
-            leagues = yaml_leagues
-        if yaml_settings.get("output_dir"):
-            out_dir = yaml_settings["output_dir"]
-            os.makedirs(out_dir, exist_ok=True)
-        if yaml_settings.get("delay"):
-            delay = yaml_settings["delay"]
-
+    # CLI league filter
     if args.leagues:
         keys = [k.strip() for k in args.leagues.split(",")]
-        leagues = {k: leagues[k] for k in keys if k in leagues}
+        ligas = {k: ligas[k] for k in keys if k in ligas}
 
-    # Sobrescribir output_dir global para scrape_league
-    global OUTPUT_DIR
-    OUTPUT_DIR = out_dir
+    delay = args.delay if args.delay is not None else settings.get("delay", FALLBACK_SETTINGS["delay"])
+    output_dir = args.output_dir if args.output_dir is not None else settings.get("output_dir", FALLBACK_SETTINGS["output_dir"])
+
+    os.makedirs(output_dir, exist_ok=True)
 
     print(f"{'='*55}")
-    print("  FOOTYSTATS SCRAPER - MULTI LIGA")
+    print("  FOOTYSTATS SCRAPER - MULTI LIGA (ODDS)")
     print(f"{'='*55}")
-    print(f"  Ligas: {len(leagues)}")
-    for key, info in leagues.items():
-        print(f"    - {info['country']:12s} | {info['name']:25s} | {key}")
+    print(f"  Ligas: {len(ligas)}")
+    for key, url_path in ligas.items():
+        print(f"    - {key:12s} | {url_path}")
     print(f"  Delay: {delay}s")
-    print(f"  Output: {out_dir}")
+    print(f"  Output: {output_dir}")
     print()
 
-    for league_key, info in leagues.items():
-        scrape_league(league_key, info)
+    for league_key, url_path in ligas.items():
+        scrape_league(league_key, url_path, output_dir=output_dir)
         time.sleep(delay)
 
     print(f"\n{'='*55}")

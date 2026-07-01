@@ -119,7 +119,7 @@ export interface PredictionData {
 
   corners_home: number;
   corners_away: number;
-  total_corners: number;
+
   cf_over_25: number;
   cf_over_35: number;
   cf_over_45: number;
@@ -138,6 +138,14 @@ export interface PredictionData {
   tc_over_125: number;
 
   total_corners_match: number;
+
+  homePpg: number;
+  awayPpg: number;
+  odds: {
+    home: number;
+    draw: number;
+    away: number;
+  };
 }
 // new interfaces
 export interface League {
@@ -156,7 +164,15 @@ export interface Match {
   awayTeam: string;
   date: string;
   competition: string;
-  matchday: number;
+  matchday?: number | null;
+
+  homePpg: number;
+  awayPpg: number;
+  odds?: {
+    home?: number;
+    draw?: number;
+    away?: number;
+  };
 }
 
 export interface Fixture {

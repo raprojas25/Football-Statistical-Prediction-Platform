@@ -247,8 +247,7 @@ def scrape_league(league_key, info, output_dir, dry_run=False):
     soup = BeautifulSoup(resp.text, "lxml")
 
     all_fixtures = parse_fixtures(soup)
-    # Últimos 20 partidos (desde abajo: finalizados recientes + próximos)
-    fixtures = all_fixtures[-20:] if len(all_fixtures) >= 20 else all_fixtures[:]
+    fixtures = [m for m in all_fixtures if m.get("status") == "SCHEDULED"]
 
     for m in fixtures:
         m.pop("status", None)

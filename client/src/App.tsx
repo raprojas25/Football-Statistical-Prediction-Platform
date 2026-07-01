@@ -5,8 +5,10 @@ import { useEffect } from 'react';
 import Matches from './pages/Matches';
 import { Odds } from './pages/Odds';
 import { OddsPredictor } from './pages/OddsPredictor';
+import { MimoPredictor } from './pages/MimoPredictor';
 import { TeamStats } from './pages/TeamStats';
 import { Maxon } from './components/test/Maxon';
+import NewPredictor from './pages/NewPredictor';
 
 function App() {
   const { isDarkMode } = useThemeStore();
@@ -25,8 +27,10 @@ function App() {
         <Route index element={<Matches />} />
         <Route path="cuotas/" element={<Odds />} />
         <Route path="predictor/" element={<OddsPredictor />} />
+        <Route path="mimo/" element={<MimoPredictor />} />
         <Route path="equipos/" element={<TeamStats />} />
         <Route path="home" element={<Maxon />} />
+        <Route path="fixtures" element={<NewPredictor />} />
       </Route>
     </Routes>
   );

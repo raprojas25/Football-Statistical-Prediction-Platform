@@ -3,20 +3,20 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Calendar, Loader2, AlertCircle } from 'lucide-react';
 import { mapTeamName, findTeam } from '../utils/teamAdapters';
 import MatchList from '@/components/matches/MatchList';
-import { PredictionData, TeamStatsData } from '@/types';
+import { PredictionData, TeamStatsData, Match } from '@/types';
 import { COMPETITIONS } from '@/constants/competitions';
 import { useCompetitionData } from '../hooks/useCompetitionData';
 
 const competitionIds = Object.keys(COMPETITIONS);
 
 function calculatePrediction(
-  homeTeamName: string,
-  awayTeamName: string,
+  match: Match,
   competition: string,
   teams: TeamStatsData[],
 ): PredictionData | null {
-  const homeName = mapTeamName(homeTeamName, competition);
-  const awayName = mapTeamName(awayTeamName, competition);
+
+  const homeName = mapTeamName( match.homeTeam, competition);
+  const awayName = mapTeamName( match.awayTeam, competition);
 
   const homeStats = findTeam(homeName, teams);
   const awayStats = findTeam(awayName, teams);
@@ -89,7 +89,6 @@ function calculatePrediction(
 
     corners_home: cornersH || 0,
     corners_away: cornersA || 0,
-    total_corners: cornersH + cornersA || 0,
 
     cf_over_25: calc(hCornersFor.over_2_5, aCornersAgainst.over_2_5) || 0,
     cf_over_35: calc(hCornersFor.over_3_5, aCornersAgainst.over_3_5) || 0,
@@ -109,6 +108,14 @@ function calculatePrediction(
     tc_over_125: calc(tCornersHome.over_12_5, tCornersAway.over_12_5) || 0,
 
     total_corners_match: calc(tCornersHome.avg, tCornersAway.avg) || 0,
+
+    homePpg: match.homePpg,
+    awayPpg: match.awayPpg,
+    odds:{
+      home: match.odds?.home || 1,
+      draw: match.odds?.draw || 1,
+      away: match.odds?.away || 1
+    }
   };
 }
 
@@ -130,8 +137,7 @@ export default function Matches() {
 
       matches.forEach((match) => {
         const pred = calculatePrediction(
-          match.homeTeam,
-          match.awayTeam,
+          match,
           selectedCompetition,
           teams,
         );
@@ -214,7 +220,7 @@ export default function Matches() {
           No hay partidos disponibles para esta liga
         </div>
       ) : (
-        matches.map((match) => (
+        matches.reverse().map((match) => (
           <motion.div
             key={match.id}
             initial={{ opacity: 0, y: 10 }}
@@ -227,9 +233,10 @@ export default function Matches() {
                   date={match}
                   league={leagueName}
                 />
+                {/* <PredictorCard /> */}
               </AnimatePresence>
             ) : (
-              <div className="rounded-md border border-betano-border bg-betano-card p-2 text-center text-sm text-betano-muted">
+              <div className="rounded-md border border-slate-200 dark:border-betano-border bg-white dark:bg-betano-card p-2 text-center text-sm text-betano-muted">
                 Sin datos de equipos
               </div>
             )}

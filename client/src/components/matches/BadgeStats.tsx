@@ -5,6 +5,7 @@ interface BadgeProps {
   value: number;
   className?: string;
   percent?: boolean;
+  odds?: number;
   /** Tamaño del texto: 'sm', 'base' (por defecto) o 'lg' */
   size?: 'sm' | 'md' | 'lg';
   /** Color del texto: 'default' (gris oscuro/claro) o 'muted' (más suave) */
@@ -17,6 +18,7 @@ export const BadgeStats: React.FC<BadgeProps> = ({
   metric,
   value,
   percent = true,
+  odds,
   className = '',
   color = 'muted',
   size = 'sm',
@@ -42,10 +44,25 @@ export const BadgeStats: React.FC<BadgeProps> = ({
       className={`${baseClasses} ${className} ${colors[color]} ${sizes[size]}`}
     >
       <span>{metric}</span>
-      <span>
+      <div className='flex items-center gap-1'>
+        {odds && (
+        <span className='text-[11px] '>({odds.toFixed(2)})</span>
+        )}
+        <span className='text-[9px] opacity-80'>
         {value}
         {percent && '%'}
-      </span>
+        </span>
+      </div>
+
     </div>
+    // <div
+    //   className={`flex flex-col items-center justify-center rounded-lg border px-2 py-1.5 text-center transition-all border-green-500/40 bg-green-500/10 font-bold text-green-400`}
+    // >
+    //   <span className="text-[9px] opacity-70">{metric}</span>
+    //   <div className="flex gap-1 items-center">
+    //   <span className="text-xs font-semibold">3.22</span>
+    //   <span className="font-mono text-[9px] text-gray-400">({value})%</span>
+    //   </div>
+    // </div>
   );
 };

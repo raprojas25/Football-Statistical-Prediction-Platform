@@ -1,0 +1,1629 @@
+{
+  "generated_at": "2026-06-29T15:59:44.420696+00:00",
+  "source": "https://footystats.org/sweden/allsvenskan/fixtures",
+  "league": "Allsvenskan",
+  "country": "sweden",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "8420308",
+      "date_timestamp": null,
+      "date_str": "May 31, 1:00pm",
+      "home_team": "Degerfors",
+      "away_team": "Brommapojkarna",
+      "home_ppg": 0.83,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.2,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420310",
+      "date_timestamp": null,
+      "date_str": "May 31, 1:00pm",
+      "home_team": "Häcken",
+      "away_team": "Hammarby",
+      "home_ppg": 2.2,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.62,
+        "away": 2.27
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420313",
+      "date_timestamp": null,
+      "date_str": "May 31, 1:00pm",
+      "home_team": "Västerås SK",
+      "away_team": "IFK Göteborg",
+      "home_ppg": 0.6,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.41,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420430",
+      "date_timestamp": null,
+      "date_str": "May 30, 2:00pm",
+      "home_team": "AIK",
+      "away_team": "Sirius",
+      "home_ppg": 1.2,
+      "away_ppg": 2.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.4,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420476",
+      "date_timestamp": null,
+      "date_str": "May 30, 2:00pm",
+      "home_team": "Malmö FF",
+      "away_team": "Halmstad",
+      "home_ppg": 1.2,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.4,
+        "away": 5.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420477",
+      "date_timestamp": null,
+      "date_str": "May 30, 2:00pm",
+      "home_team": "GAIS",
+      "away_team": "Kalmar",
+      "home_ppg": 1.83,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.5,
+        "away": 3.34
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420349",
+      "date_timestamp": null,
+      "date_str": "May 29, 6:00pm",
+      "home_team": "Örgryte",
+      "away_team": "Elfsborg",
+      "home_ppg": 0.6,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.5,
+        "away": 1.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420336",
+      "date_timestamp": null,
+      "date_str": "May 25, 6:00pm",
+      "home_team": "Elfsborg",
+      "away_team": "Häcken",
+      "home_ppg": 2.0,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.25,
+        "away": 2.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420452",
+      "date_timestamp": null,
+      "date_str": "May 25, 6:00pm",
+      "home_team": "IFK Göteborg",
+      "away_team": "Mjällby",
+      "home_ppg": 0.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.2,
+        "away": 2.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420478",
+      "date_timestamp": null,
+      "date_str": "May 24, 3:30pm",
+      "home_team": "Malmö FF",
+      "away_team": "Västerås SK",
+      "home_ppg": 1.2,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.6,
+        "away": 3.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420451",
+      "date_timestamp": null,
+      "date_str": "May 24, 1:00pm",
+      "home_team": "Sirius",
+      "away_team": "GAIS",
+      "home_ppg": 3.0,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.75,
+        "away": 4.28
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420453",
+      "date_timestamp": null,
+      "date_str": "May 24, 1:00pm",
+      "home_team": "Hammarby",
+      "away_team": "AIK",
+      "home_ppg": 2.17,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.9,
+        "away": 6.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420415",
+      "date_timestamp": null,
+      "date_str": "May 23, 2:00pm",
+      "home_team": "Halmstad",
+      "away_team": "Örgryte",
+      "home_ppg": 1.0,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.4,
+        "away": 3.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420431",
+      "date_timestamp": null,
+      "date_str": "May 23, 2:00pm",
+      "home_team": "Kalmar",
+      "away_team": "Degerfors",
+      "home_ppg": 2.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.25,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420479",
+      "date_timestamp": null,
+      "date_str": "May 22, 6:00pm",
+      "home_team": "Djurgården",
+      "away_team": "Brommapojkarna",
+      "home_ppg": 1.17,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.6,
+        "away": 6.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420382",
+      "date_timestamp": null,
+      "date_str": "May 21, 6:00pm",
+      "home_team": "Elfsborg",
+      "away_team": "Mjällby",
+      "home_ppg": 2.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.0,
+        "away": 2.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420424",
+      "date_timestamp": null,
+      "date_str": "May 20, 6:00pm",
+      "home_team": "GAIS",
+      "away_team": "Hammarby",
+      "home_ppg": 1.83,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 3.25,
+        "away": 2.08
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420416",
+      "date_timestamp": null,
+      "date_str": "May 19, 2:00pm",
+      "home_team": "Örgryte",
+      "away_team": "IFK Göteborg",
+      "home_ppg": 0.6,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.4,
+        "away": 1.89
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420316",
+      "date_timestamp": null,
+      "date_str": "May 18, 6:00pm",
+      "home_team": "Djurgården",
+      "away_team": "Sirius",
+      "home_ppg": 1.17,
+      "away_ppg": 2.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.6,
+        "away": 2.73
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420314",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:30pm",
+      "home_team": "Västerås SK",
+      "away_team": "AIK",
+      "home_ppg": 0.6,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.23,
+        "draw": 3.24,
+        "away": 2.23
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420315",
+      "date_timestamp": null,
+      "date_str": "May 17, 3:30pm",
+      "home_team": "Mjällby",
+      "away_team": "Häcken",
+      "home_ppg": 1.5,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.64,
+        "away": 3.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420400",
+      "date_timestamp": null,
+      "date_str": "May 17, 1:00pm",
+      "home_team": "Brommapojkarna",
+      "away_team": "Kalmar",
+      "home_ppg": 1.33,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.38,
+        "away": 2.78
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420401",
+      "date_timestamp": null,
+      "date_str": "May 17, 1:00pm",
+      "home_team": "Hammarby",
+      "away_team": "Malmö FF",
+      "home_ppg": 2.17,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 4.1,
+        "away": 4.78
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420350",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:00pm",
+      "home_team": "Halmstad",
+      "away_team": "Elfsborg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.37,
+        "draw": 3.3,
+        "away": 2.11
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420454",
+      "date_timestamp": null,
+      "date_str": "May 16, 2:00pm",
+      "home_team": "GAIS",
+      "away_team": "Degerfors",
+      "home_ppg": 1.83,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.74,
+        "away": 4.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420432",
+      "date_timestamp": null,
+      "date_str": "May 11, 6:00pm",
+      "home_team": "Sirius",
+      "away_team": "Örgryte",
+      "home_ppg": 3.0,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.24,
+        "draw": 5.7,
+        "away": 9.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420465",
+      "date_timestamp": null,
+      "date_str": "May 10, 3:30pm",
+      "home_team": "Häcken",
+      "away_team": "Malmö FF",
+      "home_ppg": 2.2,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.42,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420337",
+      "date_timestamp": null,
+      "date_str": "May 10, 1:00pm",
+      "home_team": "Kalmar",
+      "away_team": "Halmstad",
+      "home_ppg": 2.0,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.4,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420466",
+      "date_timestamp": null,
+      "date_str": "May 10, 1:00pm",
+      "home_team": "AIK",
+      "away_team": "Djurgården",
+      "home_ppg": 1.2,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.27,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420402",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:00pm",
+      "home_team": "Degerfors",
+      "away_team": "Mjällby",
+      "home_ppg": 0.83,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.3,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420455",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:00pm",
+      "home_team": "Västerås SK",
+      "away_team": "GAIS",
+      "home_ppg": 0.6,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.32,
+        "away": 2.21
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420481",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:00pm",
+      "home_team": "IFK Göteborg",
+      "away_team": "Hammarby",
+      "home_ppg": 0.5,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.73,
+        "away": 1.65
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420480",
+      "date_timestamp": null,
+      "date_str": "May 8, 6:00pm",
+      "home_team": "Elfsborg",
+      "away_team": "Brommapojkarna",
+      "home_ppg": 2.0,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.4,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420404",
+      "date_timestamp": null,
+      "date_str": "May 4, 6:00pm",
+      "home_team": "Halmstad",
+      "away_team": "Brommapojkarna",
+      "home_ppg": 1.0,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.97,
+        "draw": 3.2,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420470",
+      "date_timestamp": null,
+      "date_str": "May 4, 6:00pm",
+      "home_team": "Djurgården",
+      "away_team": "IFK Göteborg",
+      "home_ppg": 1.17,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.6,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420331",
+      "date_timestamp": null,
+      "date_str": "May 3, 3:30pm",
+      "home_team": "GAIS",
+      "away_team": "Örgryte",
+      "home_ppg": 1.83,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.5,
+        "away": 6.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420340",
+      "date_timestamp": null,
+      "date_str": "May 3, 3:30pm",
+      "home_team": "Elfsborg",
+      "away_team": "AIK",
+      "home_ppg": 2.0,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.1,
+        "away": 2.72
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420341",
+      "date_timestamp": null,
+      "date_str": "May 3, 1:00pm",
+      "home_team": "Malmö FF",
+      "away_team": "Mjällby",
+      "home_ppg": 1.2,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.37,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420405",
+      "date_timestamp": null,
+      "date_str": "May 3, 1:00pm",
+      "home_team": "Hammarby",
+      "away_team": "Västerås SK",
+      "home_ppg": 2.17,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.32,
+        "draw": 5.0,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420338",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:00pm",
+      "home_team": "Sirius",
+      "away_team": "Kalmar",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.3,
+        "away": 6.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420339",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:00pm",
+      "home_team": "Degerfors",
+      "away_team": "Häcken",
+      "home_ppg": 0.83,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.42
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420317",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 6:00pm",
+      "home_team": "Kalmar",
+      "away_team": "Elfsborg",
+      "home_ppg": 2.0,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.05,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420342",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 6:00pm",
+      "home_team": "Mjällby",
+      "away_team": "Halmstad",
+      "home_ppg": 1.5,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 4.2,
+        "away": 7.28
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420352",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 6:00pm",
+      "home_team": "AIK",
+      "away_team": "Malmö FF",
+      "home_ppg": 1.2,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.05,
+        "away": 2.86
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420383",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 6:00pm",
+      "home_team": "Örgryte",
+      "away_team": "Degerfors",
+      "home_ppg": 0.6,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 3.45,
+        "away": 2.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420441",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 6:00pm",
+      "home_team": "Häcken",
+      "away_team": "Sirius",
+      "home_ppg": 2.2,
+      "away_ppg": 2.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.65,
+        "away": 2.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420276",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 3:30pm",
+      "home_team": "Brommapojkarna",
+      "away_team": "Västerås SK",
+      "home_ppg": 1.33,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.2,
+        "away": 2.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420351",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 3:30pm",
+      "home_team": "IFK Göteborg",
+      "away_team": "GAIS",
+      "home_ppg": 0.5,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.59,
+        "draw": 3.05,
+        "away": 2.59
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420482",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 1:00pm",
+      "home_team": "Djurgården",
+      "away_team": "Hammarby",
+      "home_ppg": 1.17,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.88,
+        "draw": 3.5,
+        "away": 2.38
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420385",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 6:00pm",
+      "home_team": "Degerfors",
+      "away_team": "AIK",
+      "home_ppg": 0.83,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.15,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420471",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 6:00pm",
+      "home_team": "Malmö FF",
+      "away_team": "Sirius",
+      "home_ppg": 1.2,
+      "away_ppg": 2.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.6,
+        "away": 2.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420483",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 6:00pm",
+      "home_team": "Kalmar",
+      "away_team": "IFK Göteborg",
+      "home_ppg": 2.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.26,
+        "away": 2.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420486",
+      "date_timestamp": null,
+      "date_str": "Apr 23, 6:00pm",
+      "home_team": "GAIS",
+      "away_team": "Mjällby",
+      "home_ppg": 1.83,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.1,
+        "away": 2.31
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420332",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 6:00pm",
+      "home_team": "Örgryte",
+      "away_team": "Brommapojkarna",
+      "home_ppg": 0.6,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.35,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420417",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 6:00pm",
+      "home_team": "Hammarby",
+      "away_team": "Halmstad",
+      "home_ppg": 2.17,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.14,
+        "draw": 6.0,
+        "away": 10.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420484",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 6:00pm",
+      "home_team": "Västerås SK",
+      "away_team": "Häcken",
+      "home_ppg": 0.6,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.4,
+        "away": 2.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420485",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 6:00pm",
+      "home_team": "Elfsborg",
+      "away_team": "Djurgården",
+      "home_ppg": 2.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.96,
+        "draw": 3.1,
+        "away": 2.38
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420487",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 3:30pm",
+      "home_team": "Häcken",
+      "away_team": "GAIS",
+      "home_ppg": 2.2,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.4,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420353",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 1:00pm",
+      "home_team": "AIK",
+      "away_team": "Kalmar",
+      "home_ppg": 1.2,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.7,
+        "away": 4.79
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420442",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:00pm",
+      "home_team": "Mjällby",
+      "away_team": "Brommapojkarna",
+      "home_ppg": 1.5,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.2,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420472",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:00pm",
+      "home_team": "Halmstad",
+      "away_team": "IFK Göteborg",
+      "home_ppg": 1.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.4,
+        "away": 1.99
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420473",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:00pm",
+      "home_team": "Sirius",
+      "away_team": "Västerås SK",
+      "home_ppg": 3.0,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.0,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420488",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:00pm",
+      "home_team": "Hammarby",
+      "away_team": "Örgryte",
+      "home_ppg": 2.17,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 8,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 6.85,
+        "away": 12.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420357",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 6:00pm",
+      "home_team": "Degerfors",
+      "away_team": "Elfsborg",
+      "home_ppg": 0.83,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 2.98,
+        "away": 2.58
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420491",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 6:00pm",
+      "home_team": "Djurgården",
+      "away_team": "Malmö FF",
+      "home_ppg": 1.17,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.41,
+        "away": 2.65
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420403",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 6:00pm",
+      "home_team": "Brommapojkarna",
+      "away_team": "AIK",
+      "home_ppg": 1.33,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.5,
+        "away": 1.87
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420418",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 6:00pm",
+      "home_team": "Sirius",
+      "away_team": "Hammarby",
+      "home_ppg": 3.0,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.3,
+        "away": 2.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420384",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 3:30pm",
+      "home_team": "Malmö FF",
+      "away_team": "GAIS",
+      "home_ppg": 1.2,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.6,
+        "away": 3.78
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420443",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:00pm",
+      "home_team": "Djurgården",
+      "away_team": "Kalmar",
+      "home_ppg": 1.17,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.7,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420467",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 1:00pm",
+      "home_team": "Halmstad",
+      "away_team": "Degerfors",
+      "home_ppg": 1.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.9,
+        "away": 2.74
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420386",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:00pm",
+      "home_team": "Mjällby",
+      "away_team": "Örgryte",
+      "home_ppg": 1.5,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 4.9,
+        "away": 7.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420468",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:00pm",
+      "home_team": "Västerås SK",
+      "away_team": "Elfsborg",
+      "home_ppg": 0.6,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.45,
+        "away": 2.58
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420489",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:00pm",
+      "home_team": "IFK Göteborg",
+      "away_team": "Häcken",
+      "home_ppg": 0.5,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.57,
+        "draw": 3.0,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420490",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 3:30pm",
+      "home_team": "GAIS",
+      "away_team": "Djurgården",
+      "home_ppg": 1.83,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.14,
+        "away": 3.09
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420433",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 1:00pm",
+      "home_team": "Elfsborg",
+      "away_team": "IFK Göteborg",
+      "home_ppg": 2.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.6,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420474",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 1:00pm",
+      "home_team": "Häcken",
+      "away_team": "Brommapojkarna",
+      "home_ppg": 2.2,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.5,
+        "away": 5.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420278",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 3:30pm",
+      "home_team": "Örgryte",
+      "away_team": "Malmö FF",
+      "home_ppg": 0.6,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.21,
+        "draw": 3.88,
+        "away": 1.62
+      },
+      "result": "X"
+    },
+    {
+      "id": "8420277",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:00pm",
+      "home_team": "Kalmar",
+      "away_team": "Västerås SK",
+      "home_ppg": 2.0,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.2,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420456",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 1:00pm",
+      "home_team": "AIK",
+      "away_team": "Halmstad",
+      "home_ppg": 1.2,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.1,
+        "away": 5.81
+      },
+      "result": "1"
+    },
+    {
+      "id": "8420387",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:00pm",
+      "home_team": "Degerfors",
+      "away_team": "Sirius",
+      "home_ppg": 0.83,
+      "away_ppg": 2.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.52,
+        "draw": 3.3,
+        "away": 2.07
+      },
+      "result": "2"
+    },
+    {
+      "id": "8420457",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:00pm",
+      "home_team": "Hammarby",
+      "away_team": "Mjällby",
+      "home_ppg": 2.17,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.48,
+        "away": 3.35
+      },
+      "result": "1"
+    }
+  ]
+}

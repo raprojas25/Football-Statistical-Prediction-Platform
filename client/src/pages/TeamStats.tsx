@@ -44,7 +44,7 @@ type SortDir = 'asc' | 'desc';
 export const TeamStats = () => {
   const [searchParams] = useSearchParams();
   const liga = searchParams.get('liga') || 'argentina';
-  const { isLoading, fixtures } = useOddsFixtures(`odds/${liga}_fixtures.json`);
+  const { isLoading, fixtures } = useOddsFixtures(`odds/${liga}_odds.json`);
 
   const [searchQuery, setSearchQuery] = useState('');
   const [sortKey, setSortKey] = useState<SortKey>('accuracy');
@@ -381,7 +381,7 @@ export const TeamStats = () => {
                             sortDir === 'asc' && (
                               <Skull
                                 className="h-4 w-4 shrink-0 text-red-400"
-                                title="Peor equipo para apostar"
+                                aria-label='Peor equipo para apostar'
                               />
                             )}
                           <span className="max-w-[140px] truncate text-sm text-white sm:max-w-none">

@@ -2,2760 +2,2320 @@
   {
     "id": 1,
     "name": "FC Barcelona",
-    "goals": {
-      "home": {
-        "win": 100.0,
-        "draw": 0.0,
+    "home": {
+      "goals": {
+        "wins": 100.0,
+        "draws": 0.0,
         "defeats": 0.0,
-        "goals_scored_per_game": 3.0,
-        "goals_conceded_per_game": 0.5,
-        "team_scored_first": 83.0,
-        "opponent_scored_first": 17.0,
-        "total_goal_per_game": 3.5,
+        "scored_pg": 3.0,
+        "conceded_pg": 0.53,
+        "scored_first": 84.0,
+        "opponent_first": 16.0,
+        "total_pg": 3.53,
         "over_1_5": 89.0,
-        "over_2_5": 78.0,
-        "over_3_5": 44.0,
-        "both_teams_scored": 44.0
+        "over_2_5": 79.0,
+        "over_3_5": 47.0,
+        "both_scored": 47.0
       },
-      "away": {
-        "win": 67.0,
-        "draw": 6.0,
-        "defeats": 28.0,
-        "goals_scored_per_game": 2.06,
-        "goals_conceded_per_game": 1.28,
-        "team_scored_first": 56.0,
-        "opponent_scored_first": 44.0,
-        "total_goal_per_game": 3.33,
-        "over_1_5": 89.0,
-        "over_2_5": 67.0,
-        "over_3_5": 33.0,
-        "both_teams_scored": 67.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
+      "scoring": {
         "gf_over_05": 100,
         "gf_over_15": 89,
-        "gf_over_25": 67,
-        "gf_over_35": 28,
+        "gf_over_25": 68,
+        "gf_over_35": 26,
         "gf_over_45": 11,
-        "ga_over_05": 44,
-        "ga_over_15": 6,
+        "ga_over_05": 47,
+        "ga_over_15": 5,
         "ga_over_25": 0,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 100,
+        "rate_1st_h": 89,
+        "rate_2nd_h": 84,
+        "scored_both_halves": 74,
+        "conceding_rate": 47,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 21,
+        "conceded_both_halves": 5
       },
-      "away": {
-        "gf_over_05": 94,
-        "gf_over_15": 61,
-        "gf_over_25": 33,
+      "corners": {
+        "for_avg": 7.11,
+        "for_over_2_5": 100.0,
+        "for_over_3_5": 84.0,
+        "for_over_4_5": 79.0,
+        "for_over_5_5": 53.0,
+        "for_over_6_5": 37.0,
+        "against_avg": 4.0,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 58.0,
+        "against_over_4_5": 32.0,
+        "against_over_5_5": 21.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 11.11,
+        "total_over_9_5": 58.0,
+        "total_over_10_5": 53.0,
+        "total_over_11_5": 47.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 26.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 63.0,
+        "draws": 5.0,
+        "defeats": 32.0,
+        "scored_pg": 2.0,
+        "conceded_pg": 1.37,
+        "scored_first": 58.0,
+        "opponent_first": 42.0,
+        "total_pg": 3.37,
+        "over_1_5": 89.0,
+        "over_2_5": 68.0,
+        "over_3_5": 37.0,
+        "both_scored": 68.0
+      },
+      "scoring": {
+        "gf_over_05": 95,
+        "gf_over_15": 58,
+        "gf_over_25": 32,
         "gf_over_35": 11,
-        "gf_over_45": 6,
-        "ga_over_05": 72,
-        "ga_over_15": 39,
-        "ga_over_25": 11,
-        "ga_over_35": 6,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 100,
-        "scoring_rate_1st_h": 89,
-        "scoring_rate_2nd_h": 83,
-        "scored_in_both_halves": 72,
-        "both_teams_scored": 44,
-        "conceding_rate": 44,
-        "conceding_rate_1st_half": 33,
-        "conceding_rate_2nd_half": 17,
-        "conceded_in_both_halves": 6
+        "gf_over_45": 5,
+        "ga_over_05": 74,
+        "ga_over_15": 42,
+        "ga_over_25": 16,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 95,
+        "rate_1st_h": 53,
+        "rate_2nd_h": 79,
+        "scored_both_halves": 37,
+        "conceding_rate": 74,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 37,
+        "conceded_both_halves": 16
       },
-      "away": {
-        "scoring_rate": 94,
-        "scoring_rate_1st_h": 56,
-        "scoring_rate_2nd_h": 78,
-        "scored_in_both_halves": 39,
-        "both_teams_scored": 67,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 56,
-        "conceding_rate_2nd_half": 33,
-        "conceded_in_both_halves": 17
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 7.17,
-        "over_2_5": 100.0,
-        "over_3_5": 83.0,
-        "over_4_5": 78.0,
-        "over_5_5": 50.0,
-        "over_6_5": 39.0
-      },
-      "away": {
-        "avg": 6.61,
-        "over_2_5": 100.0,
-        "over_3_5": 94.0,
-        "over_4_5": 72.0,
-        "over_5_5": 67.0,
-        "over_6_5": 56.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.0,
-        "over_2_5": 72.0,
-        "over_3_5": 56.0,
-        "over_4_5": 33.0,
-        "over_5_5": 22.0,
-        "over_6_5": 17.0
-      },
-      "away": {
-        "avg": 4.72,
-        "over_2_5": 72.0,
-        "over_3_5": 56.0,
-        "over_4_5": 56.0,
-        "over_5_5": 44.0,
-        "over_6_5": 22.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 11.17,
-        "over_9_5": 56.0,
-        "over_10_5": 56.0,
-        "over_11_5": 50.0,
-        "over_2_5": 33.0,
-        "over_3_5": 28.0
-      },
-      "away": {
-        "avg": 11.33,
-        "over_9_5": 78.0,
-        "over_10_5": 50.0,
-        "over_11_5": 44.0,
-        "over_2_5": 39.0,
-        "over_3_5": 28.0
+      "corners": {
+        "for_avg": 6.68,
+        "for_over_2_5": 100.0,
+        "for_over_3_5": 95.0,
+        "for_over_4_5": 74.0,
+        "for_over_5_5": 68.0,
+        "for_over_6_5": 58.0,
+        "against_avg": 4.84,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 58.0,
+        "against_over_4_5": 58.0,
+        "against_over_5_5": 47.0,
+        "against_over_6_5": 26.0,
+        "total_avg": 11.53,
+        "total_over_9_5": 79.0,
+        "total_over_10_5": 53.0,
+        "total_over_11_5": 47.0,
+        "total_over_12_5": 42.0,
+        "total_over_13_5": 32.0
       }
     }
   },
   {
     "id": 2,
     "name": "Real Madrid",
-    "goals": {
-      "home": {
-        "win": 83.0,
-        "draw": 6.0,
+    "home": {
+      "goals": {
+        "wins": 84.0,
+        "draws": 5.0,
         "defeats": 11.0,
-        "goals_scored_per_game": 2.28,
-        "goals_conceded_per_game": 0.78,
-        "team_scored_first": 78.0,
-        "opponent_scored_first": 22.0,
-        "total_goal_per_game": 3.06,
+        "scored_pg": 2.37,
+        "conceded_pg": 0.84,
+        "scored_first": 79.0,
+        "opponent_first": 21.0,
+        "total_pg": 3.21,
         "over_1_5": 89.0,
-        "over_2_5": 56.0,
-        "over_3_5": 33.0,
-        "both_teams_scored": 56.0
+        "over_2_5": 58.0,
+        "over_3_5": 37.0,
+        "both_scored": 58.0
       },
-      "away": {
-        "win": 56.0,
-        "draw": 22.0,
-        "defeats": 22.0,
-        "goals_scored_per_game": 1.72,
-        "goals_conceded_per_game": 1.06,
-        "team_scored_first": 61.0,
-        "opponent_scored_first": 33.0,
-        "total_goal_per_game": 2.78,
-        "over_1_5": 89.0,
-        "over_2_5": 56.0,
-        "over_3_5": 17.0,
-        "both_teams_scored": 56.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
+      "scoring": {
         "gf_over_05": 89,
-        "gf_over_15": 78,
-        "gf_over_25": 33,
-        "gf_over_35": 22,
-        "gf_over_45": 6,
-        "ga_over_05": 67,
-        "ga_over_15": 11,
+        "gf_over_15": 79,
+        "gf_over_25": 37,
+        "gf_over_35": 26,
+        "gf_over_45": 5,
+        "ga_over_05": 68,
+        "ga_over_15": 16,
         "ga_over_25": 0,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 89,
+        "rate_1st_h": 63,
+        "rate_2nd_h": 79,
+        "scored_both_halves": 53,
+        "conceding_rate": 68,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 47,
+        "conceded_both_halves": 11
       },
-      "away": {
+      "corners": {
+        "for_avg": 6.47,
+        "for_over_2_5": 95.0,
+        "for_over_3_5": 95.0,
+        "for_over_4_5": 68.0,
+        "for_over_5_5": 53.0,
+        "for_over_6_5": 47.0,
+        "against_avg": 3.0,
+        "against_over_2_5": 53.0,
+        "against_over_3_5": 47.0,
+        "against_over_4_5": 32.0,
+        "against_over_5_5": 16.0,
+        "against_over_6_5": 5.0,
+        "total_avg": 9.47,
+        "total_over_9_5": 42.0,
+        "total_over_10_5": 37.0,
+        "total_over_11_5": 26.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 11.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 58.0,
+        "draws": 21.0,
+        "defeats": 21.0,
+        "scored_pg": 1.68,
+        "conceded_pg": 1.0,
+        "scored_first": 63.0,
+        "opponent_first": 32.0,
+        "total_pg": 2.68,
+        "over_1_5": 84.0,
+        "over_2_5": 53.0,
+        "over_3_5": 16.0,
+        "both_scored": 53.0
+      },
+      "scoring": {
         "gf_over_05": 89,
-        "gf_over_15": 61,
-        "gf_over_25": 17,
-        "gf_over_35": 6,
+        "gf_over_15": 58,
+        "gf_over_25": 16,
+        "gf_over_35": 5,
         "gf_over_45": 0,
-        "ga_over_05": 61,
-        "ga_over_15": 28,
-        "ga_over_25": 6,
-        "ga_over_35": 6,
-        "ga_over_45": 6
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 61,
-        "scoring_rate_2nd_h": 78,
-        "scored_in_both_halves": 50,
-        "both_teams_scored": 56,
-        "conceding_rate": 67,
-        "conceding_rate_1st_half": 28,
-        "conceding_rate_2nd_half": 44,
-        "conceded_in_both_halves": 6
+        "ga_over_05": 58,
+        "ga_over_15": 26,
+        "ga_over_25": 5,
+        "ga_over_35": 5,
+        "ga_over_45": 5,
+        "rate": 89,
+        "rate_1st_h": 47,
+        "rate_2nd_h": 68,
+        "scored_both_halves": 26,
+        "conceding_rate": 58,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 42,
+        "conceded_both_halves": 16
       },
-      "away": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 72,
-        "scored_in_both_halves": 28,
-        "both_teams_scored": 56,
-        "conceding_rate": 61,
-        "conceding_rate_1st_half": 33,
-        "conceding_rate_2nd_half": 44,
-        "conceded_in_both_halves": 17
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 6.72,
-        "over_2_5": 100.0,
-        "over_3_5": 100.0,
-        "over_4_5": 72.0,
-        "over_5_5": 56.0,
-        "over_6_5": 50.0
-      },
-      "away": {
-        "avg": 6.22,
-        "over_2_5": 94.0,
-        "over_3_5": 94.0,
-        "over_4_5": 78.0,
-        "over_5_5": 72.0,
-        "over_6_5": 50.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.11,
-        "over_2_5": 56.0,
-        "over_3_5": 50.0,
-        "over_4_5": 33.0,
-        "over_5_5": 17.0,
-        "over_6_5": 6.0
-      },
-      "away": {
-        "avg": 4.33,
-        "over_2_5": 67.0,
-        "over_3_5": 61.0,
-        "over_4_5": 56.0,
-        "over_5_5": 28.0,
-        "over_6_5": 17.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 9.83,
-        "over_9_5": 44.0,
-        "over_10_5": 39.0,
-        "over_11_5": 28.0,
-        "over_2_5": 22.0,
-        "over_3_5": 11.0
-      },
-      "away": {
-        "avg": 10.56,
-        "over_9_5": 72.0,
-        "over_10_5": 50.0,
-        "over_11_5": 44.0,
-        "over_2_5": 22.0,
-        "over_3_5": 6.0
+      "corners": {
+        "for_avg": 6.11,
+        "for_over_2_5": 95.0,
+        "for_over_3_5": 95.0,
+        "for_over_4_5": 74.0,
+        "for_over_5_5": 68.0,
+        "for_over_6_5": 47.0,
+        "against_avg": 4.32,
+        "against_over_2_5": 68.0,
+        "against_over_3_5": 63.0,
+        "against_over_4_5": 53.0,
+        "against_over_5_5": 26.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 10.42,
+        "total_over_9_5": 68.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 42.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 5.0
       }
     }
   },
   {
     "id": 3,
     "name": "Villarreal",
-    "goals": {
-      "home": {
-        "win": 78.0,
-        "draw": 6.0,
-        "defeats": 17.0,
-        "goals_scored_per_game": 2.39,
-        "goals_conceded_per_game": 1.0,
-        "team_scored_first": 78.0,
-        "opponent_scored_first": 22.0,
-        "total_goal_per_game": 3.39,
-        "over_1_5": 94.0,
-        "over_2_5": 72.0,
-        "over_3_5": 44.0,
-        "both_teams_scored": 61.0
+    "home": {
+      "goals": {
+        "wins": 79.0,
+        "draws": 5.0,
+        "defeats": 16.0,
+        "scored_pg": 2.53,
+        "conceded_pg": 1.0,
+        "scored_first": 79.0,
+        "opponent_first": 21.0,
+        "total_pg": 3.53,
+        "over_1_5": 95.0,
+        "over_2_5": 74.0,
+        "over_3_5": 47.0,
+        "both_scored": 63.0
       },
-      "away": {
-        "win": 39.0,
-        "draw": 28.0,
-        "defeats": 33.0,
-        "goals_scored_per_game": 1.33,
-        "goals_conceded_per_game": 1.39,
-        "team_scored_first": 61.0,
-        "opponent_scored_first": 39.0,
-        "total_goal_per_game": 2.72,
-        "over_1_5": 89.0,
-        "over_2_5": 44.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 67.0
+      "scoring": {
+        "gf_over_05": 89,
+        "gf_over_15": 84,
+        "gf_over_25": 37,
+        "gf_over_35": 26,
+        "gf_over_45": 16,
+        "ga_over_05": 74,
+        "ga_over_15": 21,
+        "ga_over_25": 5,
+        "ga_over_35": 0,
+        "ga_over_45": 0,
+        "rate": 89,
+        "rate_1st_h": 74,
+        "rate_2nd_h": 58,
+        "scored_both_halves": 42,
+        "conceding_rate": 74,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 53,
+        "conceded_both_halves": 11
+      },
+      "corners": {
+        "for_avg": 5.37,
+        "for_over_2_5": 95.0,
+        "for_over_3_5": 84.0,
+        "for_over_4_5": 74.0,
+        "for_over_5_5": 42.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 4.63,
+        "against_over_2_5": 79.0,
+        "against_over_3_5": 68.0,
+        "against_over_4_5": 58.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 10.0,
+        "total_over_9_5": 58.0,
+        "total_over_10_5": 42.0,
+        "total_over_11_5": 26.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 11.0
       }
     },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 89,
-        "gf_over_15": 83,
-        "gf_over_25": 33,
-        "gf_over_35": 22,
-        "gf_over_45": 11,
-        "ga_over_05": 72,
-        "ga_over_15": 22,
-        "ga_over_25": 6,
-        "ga_over_35": 0,
-        "ga_over_45": 0
+    "away": {
+      "goals": {
+        "wins": 37.0,
+        "draws": 26.0,
+        "defeats": 37.0,
+        "scored_pg": 1.26,
+        "conceded_pg": 1.42,
+        "scored_first": 58.0,
+        "opponent_first": 42.0,
+        "total_pg": 2.68,
+        "over_1_5": 89.0,
+        "over_2_5": 42.0,
+        "over_3_5": 26.0,
+        "both_scored": 63.0
       },
-      "away": {
-        "gf_over_05": 83,
-        "gf_over_15": 39,
+      "scoring": {
+        "gf_over_05": 79,
+        "gf_over_15": 37,
         "gf_over_25": 11,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 83,
-        "ga_over_15": 39,
+        "ga_over_05": 84,
+        "ga_over_15": 42,
         "ga_over_25": 11,
-        "ga_over_35": 6,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 72,
-        "scoring_rate_2nd_h": 56,
-        "scored_in_both_halves": 39,
-        "both_teams_scored": 61,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 28,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 11
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 79,
+        "rate_1st_h": 47,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 32,
+        "conceding_rate": 84,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 58,
+        "conceded_both_halves": 21
       },
-      "away": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 50,
-        "scoring_rate_2nd_h": 67,
-        "scored_in_both_halves": 33,
-        "both_teams_scored": 67,
-        "conceding_rate": 83,
-        "conceding_rate_1st_half": 44,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 17
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 5.39,
-        "over_2_5": 94.0,
-        "over_3_5": 83.0,
-        "over_4_5": 72.0,
-        "over_5_5": 44.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 2.67,
-        "over_2_5": 50.0,
-        "over_3_5": 28.0,
-        "over_4_5": 11.0,
-        "over_5_5": 0.0,
-        "over_6_5": 0.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.39,
-        "over_2_5": 78.0,
-        "over_3_5": 67.0,
-        "over_4_5": 56.0,
-        "over_5_5": 33.0,
-        "over_6_5": 11.0
-      },
-      "away": {
-        "avg": 5.39,
-        "over_2_5": 89.0,
-        "over_3_5": 67.0,
-        "over_4_5": 56.0,
-        "over_5_5": 44.0,
-        "over_6_5": 33.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 9.78,
-        "over_9_5": 56.0,
-        "over_10_5": 39.0,
-        "over_11_5": 22.0,
-        "over_2_5": 11.0,
-        "over_3_5": 6.0
-      },
-      "away": {
-        "avg": 8.06,
-        "over_9_5": 28.0,
-        "over_10_5": 22.0,
-        "over_11_5": 11.0,
-        "over_2_5": 6.0,
-        "over_3_5": 6.0
+      "corners": {
+        "for_avg": 3.0,
+        "for_over_2_5": 53.0,
+        "for_over_3_5": 32.0,
+        "for_over_4_5": 16.0,
+        "for_over_5_5": 5.0,
+        "for_over_6_5": 5.0,
+        "against_avg": 5.16,
+        "against_over_2_5": 84.0,
+        "against_over_3_5": 63.0,
+        "against_over_4_5": 53.0,
+        "against_over_5_5": 42.0,
+        "against_over_6_5": 32.0,
+        "total_avg": 8.16,
+        "total_over_9_5": 32.0,
+        "total_over_10_5": 21.0,
+        "total_over_11_5": 11.0,
+        "total_over_12_5": 5.0,
+        "total_over_13_5": 5.0
       }
     }
   },
   {
     "id": 4,
     "name": "Atletico Madrid",
-    "goals": {
-      "home": {
-        "win": 78.0,
-        "draw": 6.0,
-        "defeats": 17.0,
-        "goals_scored_per_game": 2.11,
-        "goals_conceded_per_game": 0.94,
-        "team_scored_first": 78.0,
-        "opponent_scored_first": 22.0,
-        "total_goal_per_game": 3.06,
-        "over_1_5": 72.0,
-        "over_2_5": 56.0,
-        "over_3_5": 33.0,
-        "both_teams_scored": 50.0
+    "home": {
+      "goals": {
+        "wins": 79.0,
+        "draws": 5.0,
+        "defeats": 16.0,
+        "scored_pg": 2.05,
+        "conceded_pg": 0.89,
+        "scored_first": 79.0,
+        "opponent_first": 21.0,
+        "total_pg": 2.95,
+        "over_1_5": 68.0,
+        "over_2_5": 53.0,
+        "over_3_5": 32.0,
+        "both_scored": 47.0
       },
-      "away": {
-        "win": 33.0,
-        "draw": 28.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 1.22,
-        "goals_conceded_per_game": 1.22,
-        "team_scored_first": 78.0,
-        "opponent_scored_first": 17.0,
-        "total_goal_per_game": 2.44,
-        "over_1_5": 78.0,
-        "over_2_5": 44.0,
-        "over_3_5": 17.0,
-        "both_teams_scored": 56.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
+      "scoring": {
         "gf_over_05": 89,
-        "gf_over_15": 61,
-        "gf_over_25": 44,
+        "gf_over_15": 58,
+        "gf_over_25": 42,
         "gf_over_35": 11,
-        "gf_over_45": 6,
-        "ga_over_05": 61,
-        "ga_over_15": 33,
+        "gf_over_45": 5,
+        "ga_over_05": 58,
+        "ga_over_15": 32,
         "ga_over_25": 0,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 89,
+        "rate_1st_h": 68,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 42,
+        "conceding_rate": 58,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 37,
+        "conceded_both_halves": 26
       },
-      "away": {
-        "gf_over_05": 83,
-        "gf_over_15": 33,
-        "gf_over_25": 6,
+      "corners": {
+        "for_avg": 7.79,
+        "for_over_2_5": 95.0,
+        "for_over_3_5": 89.0,
+        "for_over_4_5": 84.0,
+        "for_over_5_5": 74.0,
+        "for_over_6_5": 68.0,
+        "against_avg": 3.79,
+        "against_over_2_5": 68.0,
+        "against_over_3_5": 42.0,
+        "against_over_4_5": 26.0,
+        "against_over_5_5": 26.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 11.58,
+        "total_over_9_5": 68.0,
+        "total_over_10_5": 53.0,
+        "total_over_11_5": 47.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 16.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 32.0,
+        "draws": 26.0,
+        "defeats": 42.0,
+        "scored_pg": 1.21,
+        "conceded_pg": 1.42,
+        "scored_first": 74.0,
+        "opponent_first": 21.0,
+        "total_pg": 2.63,
+        "over_1_5": 79.0,
+        "over_2_5": 47.0,
+        "over_3_5": 21.0,
+        "both_scored": 58.0
+      },
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 32,
+        "gf_over_25": 5,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 67,
-        "ga_over_15": 33,
-        "ga_over_25": 22,
-        "ga_over_35": 0,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 67,
-        "scoring_rate_2nd_h": 67,
-        "scored_in_both_halves": 44,
-        "both_teams_scored": 50,
-        "conceding_rate": 61,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 39,
-        "conceded_in_both_halves": 28
+        "ga_over_05": 68,
+        "ga_over_15": 37,
+        "ga_over_25": 26,
+        "ga_over_35": 5,
+        "ga_over_45": 5,
+        "rate": 84,
+        "rate_1st_h": 58,
+        "rate_2nd_h": 42,
+        "scored_both_halves": 16,
+        "conceding_rate": 68,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 58,
+        "conceded_both_halves": 21
       },
-      "away": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 56,
-        "scoring_rate_2nd_h": 44,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 56,
-        "conceding_rate": 67,
-        "conceding_rate_1st_half": 28,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 17
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 7.72,
-        "over_2_5": 94.0,
-        "over_3_5": 89.0,
-        "over_4_5": 83.0,
-        "over_5_5": 72.0,
-        "over_6_5": 67.0
-      },
-      "away": {
-        "avg": 4.94,
-        "over_2_5": 94.0,
-        "over_3_5": 72.0,
-        "over_4_5": 56.0,
-        "over_5_5": 50.0,
-        "over_6_5": 22.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.56,
-        "over_2_5": 67.0,
-        "over_3_5": 39.0,
-        "over_4_5": 22.0,
-        "over_5_5": 22.0,
-        "over_6_5": 11.0
-      },
-      "away": {
-        "avg": 4.78,
-        "over_2_5": 78.0,
-        "over_3_5": 67.0,
-        "over_4_5": 50.0,
-        "over_5_5": 39.0,
-        "over_6_5": 17.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 11.28,
-        "over_9_5": 67.0,
-        "over_10_5": 50.0,
-        "over_11_5": 44.0,
-        "over_2_5": 28.0,
-        "over_3_5": 11.0
-      },
-      "away": {
-        "avg": 9.72,
-        "over_9_5": 50.0,
-        "over_10_5": 50.0,
-        "over_11_5": 33.0,
-        "over_2_5": 11.0,
-        "over_3_5": 6.0
+      "corners": {
+        "for_avg": 5.16,
+        "for_over_2_5": 95.0,
+        "for_over_3_5": 74.0,
+        "for_over_4_5": 58.0,
+        "for_over_5_5": 53.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 4.79,
+        "against_over_2_5": 79.0,
+        "against_over_3_5": 68.0,
+        "against_over_4_5": 53.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 9.95,
+        "total_over_9_5": 53.0,
+        "total_over_10_5": 53.0,
+        "total_over_11_5": 37.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 11.0
       }
     }
   },
   {
     "id": 5,
     "name": "Real Betis",
-    "goals": {
-      "home": {
-        "win": 50.0,
-        "draw": 33.0,
-        "defeats": 17.0,
-        "goals_scored_per_game": 1.78,
-        "goals_conceded_per_game": 1.0,
-        "team_scored_first": 61.0,
-        "opponent_scored_first": 33.0,
-        "total_goal_per_game": 2.78,
+    "home": {
+      "goals": {
+        "wins": 53.0,
+        "draws": 32.0,
+        "defeats": 16.0,
+        "scored_pg": 1.79,
+        "conceded_pg": 1.0,
+        "scored_first": 63.0,
+        "opponent_first": 32.0,
+        "total_pg": 2.79,
         "over_1_5": 89.0,
-        "over_2_5": 50.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 56.0
+        "over_2_5": 53.0,
+        "over_3_5": 21.0,
+        "both_scored": 58.0
       },
-      "away": {
-        "win": 28.0,
-        "draw": 50.0,
-        "defeats": 22.0,
-        "goals_scored_per_game": 1.33,
-        "goals_conceded_per_game": 1.44,
-        "team_scored_first": 44.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 2.78,
-        "over_1_5": 89.0,
-        "over_2_5": 50.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 78.0
+      "scoring": {
+        "gf_over_05": 89,
+        "gf_over_15": 58,
+        "gf_over_25": 26,
+        "gf_over_35": 5,
+        "gf_over_45": 0,
+        "ga_over_05": 63,
+        "ga_over_15": 21,
+        "ga_over_25": 5,
+        "ga_over_35": 5,
+        "ga_over_45": 5,
+        "rate": 89,
+        "rate_1st_h": 63,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 37,
+        "conceding_rate": 63,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 16,
+        "conceded_both_halves": 5
+      },
+      "corners": {
+        "for_avg": 4.63,
+        "for_over_2_5": 89.0,
+        "for_over_3_5": 68.0,
+        "for_over_4_5": 42.0,
+        "for_over_5_5": 26.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 4.53,
+        "against_over_2_5": 84.0,
+        "against_over_3_5": 68.0,
+        "against_over_4_5": 58.0,
+        "against_over_5_5": 21.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 9.16,
+        "total_over_9_5": 32.0,
+        "total_over_10_5": 26.0,
+        "total_over_11_5": 26.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 11.0
       }
     },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 89,
-        "gf_over_15": 56,
-        "gf_over_25": 28,
-        "gf_over_35": 6,
-        "gf_over_45": 0,
-        "ga_over_05": 61,
-        "ga_over_15": 22,
-        "ga_over_25": 6,
-        "ga_over_35": 6,
-        "ga_over_45": 6
+    "away": {
+      "goals": {
+        "wins": 26.0,
+        "draws": 47.0,
+        "defeats": 26.0,
+        "scored_pg": 1.32,
+        "conceded_pg": 1.53,
+        "scored_first": 42.0,
+        "opponent_first": 53.0,
+        "total_pg": 2.84,
+        "over_1_5": 89.0,
+        "over_2_5": 53.0,
+        "over_3_5": 32.0,
+        "both_scored": 79.0
       },
-      "away": {
+      "scoring": {
         "gf_over_05": 89,
-        "gf_over_15": 39,
-        "gf_over_25": 6,
+        "gf_over_15": 37,
+        "gf_over_25": 5,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 83,
-        "ga_over_15": 44,
-        "ga_over_25": 6,
-        "ga_over_35": 6,
-        "ga_over_45": 6
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 61,
-        "scoring_rate_2nd_h": 61,
-        "scored_in_both_halves": 33,
-        "both_teams_scored": 56,
-        "conceding_rate": 61,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 17,
-        "conceded_in_both_halves": 6
+        "ga_over_05": 84,
+        "ga_over_15": 47,
+        "ga_over_25": 11,
+        "ga_over_35": 5,
+        "ga_over_45": 5,
+        "rate": 89,
+        "rate_1st_h": 42,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 16,
+        "conceding_rate": 84,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 58,
+        "conceded_both_halves": 26
       },
-      "away": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 61,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 78,
-        "conceding_rate": 83,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 22
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.67,
-        "over_2_5": 89.0,
-        "over_3_5": 67.0,
-        "over_4_5": 44.0,
-        "over_5_5": 28.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 4.39,
-        "over_2_5": 83.0,
-        "over_3_5": 50.0,
-        "over_4_5": 33.0,
-        "over_5_5": 22.0,
-        "over_6_5": 17.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.33,
-        "over_2_5": 83.0,
-        "over_3_5": 67.0,
-        "over_4_5": 56.0,
-        "over_5_5": 17.0,
-        "over_6_5": 11.0
-      },
-      "away": {
-        "avg": 5.72,
-        "over_2_5": 94.0,
-        "over_3_5": 83.0,
-        "over_4_5": 72.0,
-        "over_5_5": 56.0,
-        "over_6_5": 33.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 9.0,
-        "over_9_5": 28.0,
-        "over_10_5": 22.0,
-        "over_11_5": 22.0,
-        "over_2_5": 17.0,
-        "over_3_5": 11.0
-      },
-      "away": {
-        "avg": 10.11,
-        "over_9_5": 67.0,
-        "over_10_5": 44.0,
-        "over_11_5": 22.0,
-        "over_2_5": 22.0,
-        "over_3_5": 17.0
+      "corners": {
+        "for_avg": 4.37,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 53.0,
+        "for_over_4_5": 32.0,
+        "for_over_5_5": 21.0,
+        "for_over_6_5": 16.0,
+        "against_avg": 5.74,
+        "against_over_2_5": 95.0,
+        "against_over_3_5": 84.0,
+        "against_over_4_5": 74.0,
+        "against_over_5_5": 58.0,
+        "against_over_6_5": 32.0,
+        "total_avg": 10.11,
+        "total_over_9_5": 68.0,
+        "total_over_10_5": 42.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 16.0
       }
     }
   },
   {
     "id": 6,
     "name": "Celta Vigo",
-    "goals": {
-      "home": {
-        "win": 28.0,
-        "draw": 28.0,
-        "defeats": 44.0,
-        "goals_scored_per_game": 1.56,
-        "goals_conceded_per_game": 1.56,
-        "team_scored_first": 44.0,
-        "opponent_scored_first": 56.0,
-        "total_goal_per_game": 3.11,
-        "over_1_5": 94.0,
-        "over_2_5": 50.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 67.0
+    "home": {
+      "goals": {
+        "wins": 32.0,
+        "draws": 26.0,
+        "defeats": 42.0,
+        "scored_pg": 1.53,
+        "conceded_pg": 1.47,
+        "scored_first": 47.0,
+        "opponent_first": 53.0,
+        "total_pg": 3.0,
+        "over_1_5": 89.0,
+        "over_2_5": 47.0,
+        "over_3_5": 26.0,
+        "both_scored": 63.0
       },
-      "away": {
-        "win": 44.0,
-        "draw": 33.0,
-        "defeats": 22.0,
-        "goals_scored_per_game": 1.28,
-        "goals_conceded_per_game": 1.06,
-        "team_scored_first": 56.0,
-        "opponent_scored_first": 33.0,
-        "total_goal_per_game": 2.33,
-        "over_1_5": 67.0,
-        "over_2_5": 44.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 61.0
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 42,
+        "gf_over_25": 21,
+        "gf_over_35": 5,
+        "gf_over_45": 0,
+        "ga_over_05": 79,
+        "ga_over_15": 37,
+        "ga_over_25": 21,
+        "ga_over_35": 11,
+        "ga_over_45": 0,
+        "rate": 84,
+        "rate_1st_h": 42,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 21,
+        "conceding_rate": 79,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 63,
+        "conceded_both_halves": 32
+      },
+      "corners": {
+        "for_avg": 4.53,
+        "for_over_2_5": 68.0,
+        "for_over_3_5": 68.0,
+        "for_over_4_5": 37.0,
+        "for_over_5_5": 32.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 3.84,
+        "against_over_2_5": 79.0,
+        "against_over_3_5": 47.0,
+        "against_over_4_5": 26.0,
+        "against_over_5_5": 16.0,
+        "against_over_6_5": 11.0,
+        "total_avg": 8.37,
+        "total_over_9_5": 32.0,
+        "total_over_10_5": 26.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 11.0,
+        "total_over_13_5": 5.0
       }
     },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 83,
-        "gf_over_15": 44,
-        "gf_over_25": 22,
-        "gf_over_35": 6,
-        "gf_over_45": 0,
-        "ga_over_05": 83,
-        "ga_over_15": 39,
-        "ga_over_25": 22,
-        "ga_over_35": 11,
-        "ga_over_45": 0
+    "away": {
+      "goals": {
+        "wins": 42.0,
+        "draws": 37.0,
+        "defeats": 21.0,
+        "scored_pg": 1.26,
+        "conceded_pg": 1.05,
+        "scored_first": 58.0,
+        "opponent_first": 32.0,
+        "total_pg": 2.32,
+        "over_1_5": 68.0,
+        "over_2_5": 42.0,
+        "over_3_5": 21.0,
+        "both_scored": 63.0
       },
-      "away": {
-        "gf_over_05": 83,
-        "gf_over_15": 33,
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 32,
         "gf_over_25": 11,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 67,
-        "ga_over_15": 33,
-        "ga_over_25": 6,
+        "ga_over_05": 68,
+        "ga_over_15": 32,
+        "ga_over_25": 5,
         "ga_over_35": 0,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 61,
-        "scored_in_both_halves": 22,
-        "both_teams_scored": 67,
-        "conceding_rate": 83,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 67,
-        "conceded_in_both_halves": 33
+        "ga_over_45": 0,
+        "rate": 84,
+        "rate_1st_h": 37,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 16,
+        "conceding_rate": 68,
+        "conceding_1st_h": 37,
+        "conceding_2nd_h": 47,
+        "conceded_both_halves": 16
       },
-      "away": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 33,
-        "scoring_rate_2nd_h": 67,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 61,
-        "conceding_rate": 67,
-        "conceding_rate_1st_half": 39,
-        "conceding_rate_2nd_half": 44,
-        "conceded_in_both_halves": 17
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.56,
-        "over_2_5": 67.0,
-        "over_3_5": 67.0,
-        "over_4_5": 39.0,
-        "over_5_5": 33.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 3.22,
-        "over_2_5": 56.0,
-        "over_3_5": 39.0,
-        "over_4_5": 22.0,
-        "over_5_5": 17.0,
-        "over_6_5": 11.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.89,
-        "over_2_5": 78.0,
-        "over_3_5": 50.0,
-        "over_4_5": 28.0,
-        "over_5_5": 17.0,
-        "over_6_5": 11.0
-      },
-      "away": {
-        "avg": 5.33,
-        "over_2_5": 89.0,
-        "over_3_5": 78.0,
-        "over_4_5": 61.0,
-        "over_5_5": 39.0,
-        "over_6_5": 28.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 8.44,
-        "over_9_5": 33.0,
-        "over_10_5": 28.0,
-        "over_11_5": 22.0,
-        "over_2_5": 11.0,
-        "over_3_5": 6.0
-      },
-      "away": {
-        "avg": 8.56,
-        "over_9_5": 28.0,
-        "over_10_5": 22.0,
-        "over_11_5": 17.0,
-        "over_2_5": 6.0,
-        "over_3_5": 6.0
+      "corners": {
+        "for_avg": 3.05,
+        "for_over_2_5": 53.0,
+        "for_over_3_5": 37.0,
+        "for_over_4_5": 21.0,
+        "for_over_5_5": 16.0,
+        "for_over_6_5": 11.0,
+        "against_avg": 5.32,
+        "against_over_2_5": 89.0,
+        "against_over_3_5": 79.0,
+        "against_over_4_5": 63.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 26.0,
+        "total_avg": 8.37,
+        "total_over_9_5": 26.0,
+        "total_over_10_5": 21.0,
+        "total_over_11_5": 16.0,
+        "total_over_12_5": 5.0,
+        "total_over_13_5": 5.0
       }
     }
   },
   {
     "id": 7,
     "name": "Getafe",
-    "goals": {
-      "home": {
-        "win": 39.0,
-        "draw": 17.0,
-        "defeats": 44.0,
-        "goals_scored_per_game": 0.94,
-        "goals_conceded_per_game": 0.89,
-        "team_scored_first": 44.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 1.83,
-        "over_1_5": 61.0,
-        "over_2_5": 22.0,
-        "over_3_5": 6.0,
-        "both_teams_scored": 33.0
+    "home": {
+      "goals": {
+        "wins": 42.0,
+        "draws": 16.0,
+        "defeats": 42.0,
+        "scored_pg": 0.95,
+        "conceded_pg": 0.84,
+        "scored_first": 47.0,
+        "opponent_first": 47.0,
+        "total_pg": 1.79,
+        "over_1_5": 58.0,
+        "over_2_5": 21.0,
+        "over_3_5": 5.0,
+        "both_scored": 32.0
       },
-      "away": {
-        "win": 39.0,
-        "draw": 17.0,
-        "defeats": 44.0,
-        "goals_scored_per_game": 0.78,
-        "goals_conceded_per_game": 1.17,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 44.0,
-        "total_goal_per_game": 1.94,
-        "over_1_5": 61.0,
-        "over_2_5": 33.0,
-        "over_3_5": 6.0,
-        "both_teams_scored": 28.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 56,
-        "gf_over_15": 33,
-        "gf_over_25": 6,
+      "scoring": {
+        "gf_over_05": 58,
+        "gf_over_15": 32,
+        "gf_over_25": 5,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 72,
-        "ga_over_15": 17,
+        "ga_over_05": 68,
+        "ga_over_15": 16,
         "ga_over_25": 0,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 58,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 47,
+        "scored_both_halves": 16,
+        "conceding_rate": 68,
+        "conceding_1st_h": 21,
+        "conceding_2nd_h": 63,
+        "conceded_both_halves": 16
       },
-      "away": {
-        "gf_over_05": 56,
-        "gf_over_15": 22,
+      "corners": {
+        "for_avg": 4.16,
+        "for_over_2_5": 74.0,
+        "for_over_3_5": 53.0,
+        "for_over_4_5": 37.0,
+        "for_over_5_5": 32.0,
+        "for_over_6_5": 11.0,
+        "against_avg": 3.84,
+        "against_over_2_5": 84.0,
+        "against_over_3_5": 47.0,
+        "against_over_4_5": 21.0,
+        "against_over_5_5": 16.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 8.0,
+        "total_over_9_5": 26.0,
+        "total_over_10_5": 21.0,
+        "total_over_11_5": 11.0,
+        "total_over_12_5": 5.0,
+        "total_over_13_5": 0.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 37.0,
+        "draws": 16.0,
+        "defeats": 47.0,
+        "scored_pg": 0.74,
+        "conceded_pg": 1.16,
+        "scored_first": 47.0,
+        "opponent_first": 47.0,
+        "total_pg": 1.89,
+        "over_1_5": 58.0,
+        "over_2_5": 32.0,
+        "over_3_5": 5.0,
+        "both_scored": 26.0
+      },
+      "scoring": {
+        "gf_over_05": 53,
+        "gf_over_15": 21,
         "gf_over_25": 0,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 67,
-        "ga_over_15": 28,
-        "ga_over_25": 17,
-        "ga_over_35": 6,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 56,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 44,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 33,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 22,
-        "conceding_rate_2nd_half": 67,
-        "conceded_in_both_halves": 17
+        "ga_over_05": 68,
+        "ga_over_15": 26,
+        "ga_over_25": 16,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 53,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 32,
+        "scored_both_halves": 5,
+        "conceding_rate": 68,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 42,
+        "conceded_both_halves": 26
       },
-      "away": {
-        "scoring_rate": 56,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 33,
-        "scored_in_both_halves": 6,
-        "both_teams_scored": 28,
-        "conceding_rate": 67,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 44,
-        "conceded_in_both_halves": 28
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.28,
-        "over_2_5": 78.0,
-        "over_3_5": 56.0,
-        "over_4_5": 39.0,
-        "over_5_5": 33.0,
-        "over_6_5": 11.0
-      },
-      "away": {
-        "avg": 4.67,
-        "over_2_5": 78.0,
-        "over_3_5": 44.0,
-        "over_4_5": 39.0,
-        "over_5_5": 28.0,
-        "over_6_5": 17.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.83,
-        "over_2_5": 83.0,
-        "over_3_5": 44.0,
-        "over_4_5": 22.0,
-        "over_5_5": 17.0,
-        "over_6_5": 17.0
-      },
-      "away": {
-        "avg": 5.5,
-        "over_2_5": 78.0,
-        "over_3_5": 61.0,
-        "over_4_5": 61.0,
-        "over_5_5": 50.0,
-        "over_6_5": 39.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 8.11,
-        "over_9_5": 28.0,
-        "over_10_5": 22.0,
-        "over_11_5": 11.0,
-        "over_2_5": 6.0,
-        "over_3_5": 0.0
-      },
-      "away": {
-        "avg": 10.17,
-        "over_9_5": 50.0,
-        "over_10_5": 39.0,
-        "over_11_5": 39.0,
-        "over_2_5": 22.0,
-        "over_3_5": 17.0
+      "corners": {
+        "for_avg": 4.42,
+        "for_over_2_5": 74.0,
+        "for_over_3_5": 42.0,
+        "for_over_4_5": 37.0,
+        "for_over_5_5": 26.0,
+        "for_over_6_5": 16.0,
+        "against_avg": 5.42,
+        "against_over_2_5": 79.0,
+        "against_over_3_5": 63.0,
+        "against_over_4_5": 58.0,
+        "against_over_5_5": 47.0,
+        "against_over_6_5": 37.0,
+        "total_avg": 9.84,
+        "total_over_9_5": 47.0,
+        "total_over_10_5": 37.0,
+        "total_over_11_5": 37.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 16.0
       }
     }
   },
   {
     "id": 8,
-    "name": "Real Sociedad",
-    "goals": {
-      "home": {
-        "win": 44.0,
-        "draw": 28.0,
-        "defeats": 28.0,
-        "goals_scored_per_game": 1.89,
-        "goals_conceded_per_game": 1.5,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 3.39,
-        "over_1_5": 83.0,
-        "over_2_5": 72.0,
-        "over_3_5": 50.0,
-        "both_teams_scored": 78.0
+    "name": "Rayo Vallecano",
+    "home": {
+      "goals": {
+        "wins": 37.0,
+        "draws": 53.0,
+        "defeats": 11.0,
+        "scored_pg": 1.26,
+        "conceded_pg": 0.79,
+        "scored_first": 58.0,
+        "opponent_first": 32.0,
+        "total_pg": 2.05,
+        "over_1_5": 68.0,
+        "over_2_5": 26.0,
+        "over_3_5": 11.0,
+        "both_scored": 53.0
       },
-      "away": {
-        "win": 17.0,
-        "draw": 39.0,
-        "defeats": 44.0,
-        "goals_scored_per_game": 1.17,
-        "goals_conceded_per_game": 1.61,
-        "team_scored_first": 39.0,
-        "opponent_scored_first": 61.0,
-        "total_goal_per_game": 2.78,
-        "over_1_5": 78.0,
-        "over_2_5": 44.0,
-        "over_3_5": 33.0,
-        "both_teams_scored": 78.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 89,
-        "gf_over_15": 67,
-        "gf_over_25": 33,
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 26,
+        "gf_over_25": 16,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 89,
-        "ga_over_15": 44,
-        "ga_over_25": 17,
+        "ga_over_05": 58,
+        "ga_over_15": 11,
+        "ga_over_25": 11,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 84,
+        "rate_1st_h": 42,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 21,
+        "conceding_rate": 58,
+        "conceding_1st_h": 26,
+        "conceding_2nd_h": 42,
+        "conceded_both_halves": 11
       },
-      "away": {
-        "gf_over_05": 83,
-        "gf_over_15": 22,
+      "corners": {
+        "for_avg": 6.63,
+        "for_over_2_5": 95.0,
+        "for_over_3_5": 89.0,
+        "for_over_4_5": 79.0,
+        "for_over_5_5": 58.0,
+        "for_over_6_5": 42.0,
+        "against_avg": 4.89,
+        "against_over_2_5": 89.0,
+        "against_over_3_5": 79.0,
+        "against_over_4_5": 53.0,
+        "against_over_5_5": 26.0,
+        "against_over_6_5": 21.0,
+        "total_avg": 11.53,
+        "total_over_9_5": 84.0,
+        "total_over_10_5": 74.0,
+        "total_over_11_5": 53.0,
+        "total_over_12_5": 37.0,
+        "total_over_13_5": 21.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 26.0,
+        "draws": 21.0,
+        "defeats": 53.0,
+        "scored_pg": 0.89,
+        "conceded_pg": 1.53,
+        "scored_first": 26.0,
+        "opponent_first": 68.0,
+        "total_pg": 2.42,
+        "over_1_5": 74.0,
+        "over_2_5": 47.0,
+        "over_3_5": 21.0,
+        "both_scored": 37.0
+      },
+      "scoring": {
+        "gf_over_05": 53,
+        "gf_over_15": 26,
         "gf_over_25": 11,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 94,
-        "ga_over_15": 33,
-        "ga_over_25": 28,
-        "ga_over_35": 6,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 50,
-        "scoring_rate_2nd_h": 78,
-        "scored_in_both_halves": 39,
-        "both_teams_scored": 78,
-        "conceding_rate": 89,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 61,
-        "conceded_in_both_halves": 22
+        "ga_over_05": 79,
+        "ga_over_15": 37,
+        "ga_over_25": 26,
+        "ga_over_35": 11,
+        "ga_over_45": 0,
+        "rate": 53,
+        "rate_1st_h": 32,
+        "rate_2nd_h": 37,
+        "scored_both_halves": 16,
+        "conceding_rate": 79,
+        "conceding_1st_h": 68,
+        "conceding_2nd_h": 47,
+        "conceded_both_halves": 37
       },
-      "away": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 56,
-        "scoring_rate_2nd_h": 44,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 78,
-        "conceding_rate": 94,
-        "conceding_rate_1st_half": 56,
-        "conceding_rate_2nd_half": 67,
-        "conceded_in_both_halves": 28
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 6.11,
-        "over_2_5": 83.0,
-        "over_3_5": 78.0,
-        "over_4_5": 67.0,
-        "over_5_5": 61.0,
-        "over_6_5": 39.0
-      },
-      "away": {
-        "avg": 5.17,
-        "over_2_5": 89.0,
-        "over_3_5": 61.0,
-        "over_4_5": 50.0,
-        "over_5_5": 39.0,
-        "over_6_5": 33.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.61,
-        "over_2_5": 78.0,
-        "over_3_5": 61.0,
-        "over_4_5": 50.0,
-        "over_5_5": 28.0,
-        "over_6_5": 17.0
-      },
-      "away": {
-        "avg": 4.61,
-        "over_2_5": 78.0,
-        "over_3_5": 56.0,
-        "over_4_5": 44.0,
-        "over_5_5": 39.0,
-        "over_6_5": 22.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 10.72,
-        "over_9_5": 61.0,
-        "over_10_5": 50.0,
-        "over_11_5": 44.0,
-        "over_2_5": 33.0,
-        "over_3_5": 22.0
-      },
-      "away": {
-        "avg": 9.78,
-        "over_9_5": 50.0,
-        "over_10_5": 33.0,
-        "over_11_5": 22.0,
-        "over_2_5": 22.0,
-        "over_3_5": 11.0
+      "corners": {
+        "for_avg": 4.74,
+        "for_over_2_5": 79.0,
+        "for_over_3_5": 79.0,
+        "for_over_4_5": 63.0,
+        "for_over_5_5": 37.0,
+        "for_over_6_5": 16.0,
+        "against_avg": 5.58,
+        "against_over_2_5": 95.0,
+        "against_over_3_5": 74.0,
+        "against_over_4_5": 63.0,
+        "against_over_5_5": 47.0,
+        "against_over_6_5": 26.0,
+        "total_avg": 10.32,
+        "total_over_9_5": 47.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 42.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 21.0
       }
     }
   },
   {
     "id": 9,
-    "name": "Athletic Bilbao",
-    "goals": {
-      "home": {
-        "win": 50.0,
-        "draw": 11.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 1.17,
-        "goals_conceded_per_game": 1.11,
-        "team_scored_first": 56.0,
-        "opponent_scored_first": 44.0,
-        "total_goal_per_game": 2.28,
-        "over_1_5": 56.0,
-        "over_2_5": 44.0,
-        "over_3_5": 11.0,
-        "both_teams_scored": 50.0
-      },
-      "away": {
-        "win": 22.0,
-        "draw": 17.0,
-        "defeats": 61.0,
-        "goals_scored_per_game": 1.06,
-        "goals_conceded_per_game": 1.83,
-        "team_scored_first": 22.0,
-        "opponent_scored_first": 72.0,
-        "total_goal_per_game": 2.89,
+    "name": "Valencia",
+    "home": {
+      "goals": {
+        "wins": 42.0,
+        "draws": 32.0,
+        "defeats": 26.0,
+        "scored_pg": 1.42,
+        "conceded_pg": 1.21,
+        "scored_first": 47.0,
+        "opponent_first": 53.0,
+        "total_pg": 2.63,
         "over_1_5": 89.0,
-        "over_2_5": 50.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 50.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 72,
-        "gf_over_15": 28,
-        "gf_over_25": 11,
-        "gf_over_35": 6,
+        "over_2_5": 37.0,
+        "over_3_5": 21.0,
+        "both_scored": 63.0
+      },
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 37,
+        "gf_over_25": 21,
+        "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 78,
-        "ga_over_15": 28,
-        "ga_over_25": 6,
+        "ga_over_05": 79,
+        "ga_over_15": 37,
+        "ga_over_25": 5,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 84,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 74,
+        "scored_both_halves": 16,
+        "conceding_rate": 79,
+        "conceding_1st_h": 21,
+        "conceding_2nd_h": 68,
+        "conceded_both_halves": 11
       },
-      "away": {
-        "gf_over_05": 56,
-        "gf_over_15": 39,
-        "gf_over_25": 6,
-        "gf_over_35": 6,
+      "corners": {
+        "for_avg": 6.0,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 84.0,
+        "for_over_4_5": 79.0,
+        "for_over_5_5": 53.0,
+        "for_over_6_5": 47.0,
+        "against_avg": 4.32,
+        "against_over_2_5": 68.0,
+        "against_over_3_5": 63.0,
+        "against_over_4_5": 47.0,
+        "against_over_5_5": 42.0,
+        "against_over_6_5": 26.0,
+        "total_avg": 10.32,
+        "total_over_9_5": 47.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 42.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 26.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 26.0,
+        "draws": 21.0,
+        "defeats": 53.0,
+        "scored_pg": 1.0,
+        "conceded_pg": 1.68,
+        "scored_first": 37.0,
+        "opponent_first": 58.0,
+        "total_pg": 2.68,
+        "over_1_5": 68.0,
+        "over_2_5": 47.0,
+        "over_3_5": 26.0,
+        "both_scored": 47.0
+      },
+      "scoring": {
+        "gf_over_05": 68,
+        "gf_over_15": 21,
+        "gf_over_25": 5,
+        "gf_over_35": 5,
         "gf_over_45": 0,
-        "ga_over_05": 89,
-        "ga_over_15": 61,
-        "ga_over_25": 28,
-        "ga_over_35": 6,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 72,
-        "scoring_rate_1st_h": 39,
-        "scoring_rate_2nd_h": 50,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 50,
-        "conceding_rate": 78,
-        "conceding_rate_1st_half": 28,
-        "conceding_rate_2nd_half": 61,
-        "conceded_in_both_halves": 11
+        "ga_over_05": 74,
+        "ga_over_15": 47,
+        "ga_over_25": 21,
+        "ga_over_35": 16,
+        "ga_over_45": 5,
+        "rate": 68,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 53,
+        "scored_both_halves": 11,
+        "conceding_rate": 74,
+        "conceding_1st_h": 58,
+        "conceding_2nd_h": 53,
+        "conceded_both_halves": 37
       },
-      "away": {
-        "scoring_rate": 56,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 39,
-        "scored_in_both_halves": 11,
-        "both_teams_scored": 50,
-        "conceding_rate": 89,
-        "conceding_rate_1st_half": 56,
-        "conceding_rate_2nd_half": 72,
-        "conceded_in_both_halves": 39
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 6.39,
-        "over_2_5": 89.0,
-        "over_3_5": 83.0,
-        "over_4_5": 72.0,
-        "over_5_5": 56.0,
-        "over_6_5": 39.0
-      },
-      "away": {
-        "avg": 5.44,
-        "over_2_5": 83.0,
-        "over_3_5": 72.0,
-        "over_4_5": 56.0,
-        "over_5_5": 44.0,
-        "over_6_5": 39.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.89,
-        "over_2_5": 78.0,
-        "over_3_5": 61.0,
-        "over_4_5": 39.0,
-        "over_5_5": 22.0,
-        "over_6_5": 6.0
-      },
-      "away": {
-        "avg": 4.11,
-        "over_2_5": 78.0,
-        "over_3_5": 67.0,
-        "over_4_5": 44.0,
-        "over_5_5": 22.0,
-        "over_6_5": 6.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 10.28,
-        "over_9_5": 50.0,
-        "over_10_5": 50.0,
-        "over_11_5": 28.0,
-        "over_2_5": 11.0,
-        "over_3_5": 11.0
-      },
-      "away": {
-        "avg": 9.56,
-        "over_9_5": 56.0,
-        "over_10_5": 39.0,
-        "over_11_5": 17.0,
-        "over_2_5": 11.0,
-        "over_3_5": 11.0
+      "corners": {
+        "for_avg": 4.16,
+        "for_over_2_5": 79.0,
+        "for_over_3_5": 63.0,
+        "for_over_4_5": 37.0,
+        "for_over_5_5": 21.0,
+        "for_over_6_5": 21.0,
+        "against_avg": 5.26,
+        "against_over_2_5": 84.0,
+        "against_over_3_5": 63.0,
+        "against_over_4_5": 58.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 37.0,
+        "total_avg": 9.42,
+        "total_over_9_5": 42.0,
+        "total_over_10_5": 42.0,
+        "total_over_11_5": 26.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 16.0
       }
     }
   },
   {
     "id": 10,
-    "name": "Rayo Vallecano",
-    "goals": {
-      "home": {
-        "win": 33.0,
-        "draw": 56.0,
-        "defeats": 11.0,
-        "goals_scored_per_game": 1.22,
-        "goals_conceded_per_game": 0.83,
-        "team_scored_first": 56.0,
-        "opponent_scored_first": 33.0,
-        "total_goal_per_game": 2.06,
-        "over_1_5": 67.0,
-        "over_2_5": 28.0,
-        "over_3_5": 11.0,
-        "both_teams_scored": 56.0
+    "name": "Espanyol",
+    "home": {
+      "goals": {
+        "wins": 37.0,
+        "draws": 26.0,
+        "defeats": 37.0,
+        "scored_pg": 1.11,
+        "conceded_pg": 1.26,
+        "scored_first": 42.0,
+        "opponent_first": 53.0,
+        "total_pg": 2.37,
+        "over_1_5": 79.0,
+        "over_2_5": 42.0,
+        "over_3_5": 16.0,
+        "both_scored": 53.0
       },
-      "away": {
-        "win": 22.0,
-        "draw": 22.0,
-        "defeats": 56.0,
-        "goals_scored_per_game": 0.83,
-        "goals_conceded_per_game": 1.56,
-        "team_scored_first": 28.0,
-        "opponent_scored_first": 67.0,
-        "total_goal_per_game": 2.39,
-        "over_1_5": 72.0,
-        "over_2_5": 44.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 33.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 83,
-        "gf_over_15": 22,
-        "gf_over_25": 17,
+      "scoring": {
+        "gf_over_05": 74,
+        "gf_over_15": 32,
+        "gf_over_25": 5,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 61,
-        "ga_over_15": 11,
-        "ga_over_25": 11,
+        "ga_over_05": 74,
+        "ga_over_15": 53,
+        "ga_over_25": 0,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 74,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 53,
+        "scored_both_halves": 5,
+        "conceding_rate": 74,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 53,
+        "conceded_both_halves": 32
       },
-      "away": {
-        "gf_over_05": 50,
-        "gf_over_15": 22,
-        "gf_over_25": 11,
+      "corners": {
+        "for_avg": 5.16,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 74.0,
+        "for_over_4_5": 47.0,
+        "for_over_5_5": 32.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 4.74,
+        "against_over_2_5": 68.0,
+        "against_over_3_5": 53.0,
+        "against_over_4_5": 42.0,
+        "against_over_5_5": 32.0,
+        "against_over_6_5": 26.0,
+        "total_avg": 9.89,
+        "total_over_9_5": 42.0,
+        "total_over_10_5": 42.0,
+        "total_over_11_5": 32.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 21.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 26.0,
+        "draws": 26.0,
+        "defeats": 47.0,
+        "scored_pg": 1.16,
+        "conceded_pg": 1.63,
+        "scored_first": 53.0,
+        "opponent_first": 37.0,
+        "total_pg": 2.79,
+        "over_1_5": 74.0,
+        "over_2_5": 58.0,
+        "over_3_5": 32.0,
+        "both_scored": 63.0
+      },
+      "scoring": {
+        "gf_over_05": 79,
+        "gf_over_15": 37,
+        "gf_over_25": 0,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 78,
-        "ga_over_15": 39,
-        "ga_over_25": 28,
-        "ga_over_35": 11,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 39,
-        "scoring_rate_2nd_h": 61,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 56,
-        "conceding_rate": 61,
-        "conceding_rate_1st_half": 28,
-        "conceding_rate_2nd_half": 44,
-        "conceded_in_both_halves": 11
+        "ga_over_05": 74,
+        "ga_over_15": 53,
+        "ga_over_25": 21,
+        "ga_over_35": 16,
+        "ga_over_45": 0,
+        "rate": 79,
+        "rate_1st_h": 32,
+        "rate_2nd_h": 68,
+        "scored_both_halves": 21,
+        "conceding_rate": 74,
+        "conceding_1st_h": 42,
+        "conceding_2nd_h": 63,
+        "conceded_both_halves": 32
       },
-      "away": {
-        "scoring_rate": 50,
-        "scoring_rate_1st_h": 33,
-        "scoring_rate_2nd_h": 33,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 33,
-        "conceding_rate": 78,
-        "conceding_rate_1st_half": 67,
-        "conceding_rate_2nd_half": 50,
-        "conceded_in_both_halves": 39
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 6.94,
-        "over_2_5": 100.0,
-        "over_3_5": 94.0,
-        "over_4_5": 83.0,
-        "over_5_5": 61.0,
-        "over_6_5": 44.0
-      },
-      "away": {
-        "avg": 4.72,
-        "over_2_5": 78.0,
-        "over_3_5": 78.0,
-        "over_4_5": 61.0,
-        "over_5_5": 39.0,
-        "over_6_5": 17.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.67,
-        "over_2_5": 89.0,
-        "over_3_5": 78.0,
-        "over_4_5": 50.0,
-        "over_5_5": 22.0,
-        "over_6_5": 17.0
-      },
-      "away": {
-        "avg": 5.33,
-        "over_2_5": 94.0,
-        "over_3_5": 72.0,
-        "over_4_5": 61.0,
-        "over_5_5": 44.0,
-        "over_6_5": 22.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 11.61,
-        "over_9_5": 83.0,
-        "over_10_5": 78.0,
-        "over_11_5": 56.0,
-        "over_2_5": 39.0,
-        "over_3_5": 22.0
-      },
-      "away": {
-        "avg": 10.06,
-        "over_9_5": 44.0,
-        "over_10_5": 44.0,
-        "over_11_5": 39.0,
-        "over_2_5": 28.0,
-        "over_3_5": 17.0
+      "corners": {
+        "for_avg": 4.21,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 58.0,
+        "for_over_4_5": 42.0,
+        "for_over_5_5": 26.0,
+        "for_over_6_5": 11.0,
+        "against_avg": 4.95,
+        "against_over_2_5": 89.0,
+        "against_over_3_5": 79.0,
+        "against_over_4_5": 58.0,
+        "against_over_5_5": 32.0,
+        "against_over_6_5": 21.0,
+        "total_avg": 9.16,
+        "total_over_9_5": 47.0,
+        "total_over_10_5": 37.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 5.0,
+        "total_over_13_5": 0.0
       }
     }
   },
   {
     "id": 11,
-    "name": "Valencia",
-    "goals": {
-      "home": {
-        "win": 39.0,
-        "draw": 33.0,
-        "defeats": 28.0,
-        "goals_scored_per_game": 1.33,
-        "goals_conceded_per_game": 1.22,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 2.56,
-        "over_1_5": 89.0,
-        "over_2_5": 33.0,
-        "over_3_5": 17.0,
-        "both_teams_scored": 61.0
+    "name": "Real Sociedad",
+    "home": {
+      "goals": {
+        "wins": 42.0,
+        "draws": 26.0,
+        "defeats": 32.0,
+        "scored_pg": 1.95,
+        "conceded_pg": 1.63,
+        "scored_first": 53.0,
+        "opponent_first": 47.0,
+        "total_pg": 3.58,
+        "over_1_5": 84.0,
+        "over_2_5": 74.0,
+        "over_3_5": 53.0,
+        "both_scored": 79.0
       },
-      "away": {
-        "win": 22.0,
-        "draw": 22.0,
-        "defeats": 56.0,
-        "goals_scored_per_game": 0.83,
-        "goals_conceded_per_game": 1.61,
-        "team_scored_first": 39.0,
-        "opponent_scored_first": 56.0,
-        "total_goal_per_game": 2.44,
-        "over_1_5": 67.0,
-        "over_2_5": 44.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 44.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 83,
-        "gf_over_15": 33,
-        "gf_over_25": 17,
+      "scoring": {
+        "gf_over_05": 89,
+        "gf_over_15": 68,
+        "gf_over_25": 37,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 78,
-        "ga_over_15": 39,
-        "ga_over_25": 6,
-        "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_05": 89,
+        "ga_over_15": 47,
+        "ga_over_25": 21,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 89,
+        "rate_1st_h": 53,
+        "rate_2nd_h": 79,
+        "scored_both_halves": 42,
+        "conceding_rate": 89,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 63,
+        "conceded_both_halves": 26
       },
-      "away": {
-        "gf_over_05": 67,
-        "gf_over_15": 17,
-        "gf_over_25": 0,
+      "corners": {
+        "for_avg": 5.95,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 74.0,
+        "for_over_4_5": 63.0,
+        "for_over_5_5": 58.0,
+        "for_over_6_5": 37.0,
+        "against_avg": 4.47,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 58.0,
+        "against_over_4_5": 47.0,
+        "against_over_5_5": 26.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 10.42,
+        "total_over_9_5": 58.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 42.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 21.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 16.0,
+        "draws": 42.0,
+        "defeats": 42.0,
+        "scored_pg": 1.16,
+        "conceded_pg": 1.58,
+        "scored_first": 42.0,
+        "opponent_first": 58.0,
+        "total_pg": 2.74,
+        "over_1_5": 79.0,
+        "over_2_5": 42.0,
+        "over_3_5": 32.0,
+        "both_scored": 79.0
+      },
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 21,
+        "gf_over_25": 11,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 72,
-        "ga_over_15": 44,
-        "ga_over_25": 17,
-        "ga_over_35": 17,
-        "ga_over_45": 6
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 72,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 61,
-        "conceding_rate": 78,
-        "conceding_rate_1st_half": 22,
-        "conceding_rate_2nd_half": 67,
-        "conceded_in_both_halves": 11
+        "ga_over_05": 95,
+        "ga_over_15": 32,
+        "ga_over_25": 26,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 84,
+        "rate_1st_h": 58,
+        "rate_2nd_h": 42,
+        "scored_both_halves": 16,
+        "conceding_rate": 95,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 68,
+        "conceded_both_halves": 26
       },
-      "away": {
-        "scoring_rate": 67,
-        "scoring_rate_1st_h": 22,
-        "scoring_rate_2nd_h": 50,
-        "scored_in_both_halves": 6,
-        "both_teams_scored": 44,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 56,
-        "conceding_rate_2nd_half": 50,
-        "conceded_in_both_halves": 33
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 5.94,
-        "over_2_5": 83.0,
-        "over_3_5": 83.0,
-        "over_4_5": 78.0,
-        "over_5_5": 50.0,
-        "over_6_5": 44.0
-      },
-      "away": {
-        "avg": 4.28,
-        "over_2_5": 83.0,
-        "over_3_5": 67.0,
-        "over_4_5": 39.0,
-        "over_5_5": 22.0,
-        "over_6_5": 22.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.11,
-        "over_2_5": 67.0,
-        "over_3_5": 61.0,
-        "over_4_5": 44.0,
-        "over_5_5": 39.0,
-        "over_6_5": 22.0
-      },
-      "away": {
-        "avg": 5.39,
-        "over_2_5": 83.0,
-        "over_3_5": 67.0,
-        "over_4_5": 61.0,
-        "over_5_5": 39.0,
-        "over_6_5": 39.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 10.06,
-        "over_9_5": 44.0,
-        "over_10_5": 44.0,
-        "over_11_5": 39.0,
-        "over_2_5": 28.0,
-        "over_3_5": 22.0
-      },
-      "away": {
-        "avg": 9.67,
-        "over_9_5": 44.0,
-        "over_10_5": 44.0,
-        "over_11_5": 28.0,
-        "over_2_5": 17.0,
-        "over_3_5": 17.0
+      "corners": {
+        "for_avg": 5.16,
+        "for_over_2_5": 89.0,
+        "for_over_3_5": 63.0,
+        "for_over_4_5": 53.0,
+        "for_over_5_5": 37.0,
+        "for_over_6_5": 32.0,
+        "against_avg": 4.53,
+        "against_over_2_5": 79.0,
+        "against_over_3_5": 53.0,
+        "against_over_4_5": 42.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 21.0,
+        "total_avg": 9.68,
+        "total_over_9_5": 47.0,
+        "total_over_10_5": 32.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 11.0
       }
     }
   },
   {
     "id": 12,
-    "name": "Sevilla FC",
-    "goals": {
-      "home": {
-        "win": 39.0,
-        "draw": 22.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 1.33,
-        "goals_conceded_per_game": 1.33,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 2.67,
-        "over_1_5": 83.0,
-        "over_2_5": 56.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 61.0
+    "name": "Athletic Bilbao",
+    "home": {
+      "goals": {
+        "wins": 47.0,
+        "draws": 16.0,
+        "defeats": 37.0,
+        "scored_pg": 1.16,
+        "conceded_pg": 1.11,
+        "scored_first": 53.0,
+        "opponent_first": 47.0,
+        "total_pg": 2.26,
+        "over_1_5": 58.0,
+        "over_2_5": 42.0,
+        "over_3_5": 11.0,
+        "both_scored": 53.0
       },
-      "away": {
-        "win": 28.0,
-        "draw": 17.0,
-        "defeats": 56.0,
-        "goals_scored_per_game": 1.22,
-        "goals_conceded_per_game": 1.89,
-        "team_scored_first": 33.0,
-        "opponent_scored_first": 67.0,
-        "total_goal_per_game": 3.11,
-        "over_1_5": 83.0,
-        "over_2_5": 61.0,
-        "over_3_5": 33.0,
-        "both_teams_scored": 61.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 78,
-        "gf_over_15": 33,
+      "scoring": {
+        "gf_over_05": 74,
+        "gf_over_15": 26,
         "gf_over_25": 11,
-        "gf_over_35": 11,
+        "gf_over_35": 5,
         "gf_over_45": 0,
-        "ga_over_05": 83,
-        "ga_over_15": 39,
-        "ga_over_25": 11,
+        "ga_over_05": 79,
+        "ga_over_15": 26,
+        "ga_over_25": 5,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 74,
+        "rate_1st_h": 37,
+        "rate_2nd_h": 53,
+        "scored_both_halves": 16,
+        "conceding_rate": 79,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 58,
+        "conceded_both_halves": 11
       },
-      "away": {
-        "gf_over_05": 78,
-        "gf_over_15": 39,
-        "gf_over_25": 6,
-        "gf_over_35": 0,
+      "corners": {
+        "for_avg": 6.32,
+        "for_over_2_5": 89.0,
+        "for_over_3_5": 84.0,
+        "for_over_4_5": 74.0,
+        "for_over_5_5": 53.0,
+        "for_over_6_5": 37.0,
+        "against_avg": 3.68,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 58.0,
+        "against_over_4_5": 37.0,
+        "against_over_5_5": 21.0,
+        "against_over_6_5": 5.0,
+        "total_avg": 10.0,
+        "total_over_9_5": 47.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 26.0,
+        "total_over_12_5": 11.0,
+        "total_over_13_5": 11.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 21.0,
+        "draws": 16.0,
+        "defeats": 63.0,
+        "scored_pg": 1.11,
+        "conceded_pg": 1.95,
+        "scored_first": 21.0,
+        "opponent_first": 74.0,
+        "total_pg": 3.05,
+        "over_1_5": 89.0,
+        "over_2_5": 53.0,
+        "over_3_5": 32.0,
+        "both_scored": 53.0
+      },
+      "scoring": {
+        "gf_over_05": 58,
+        "gf_over_15": 42,
+        "gf_over_25": 5,
+        "gf_over_35": 5,
         "gf_over_45": 0,
-        "ga_over_05": 83,
-        "ga_over_15": 67,
-        "ga_over_25": 22,
+        "ga_over_05": 89,
+        "ga_over_15": 63,
+        "ga_over_25": 32,
         "ga_over_35": 11,
-        "ga_over_45": 6
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 78,
-        "scoring_rate_1st_h": 50,
-        "scoring_rate_2nd_h": 50,
-        "scored_in_both_halves": 22,
-        "both_teams_scored": 61,
-        "conceding_rate": 83,
-        "conceding_rate_1st_half": 44,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 17
+        "ga_over_45": 0,
+        "rate": 58,
+        "rate_1st_h": 32,
+        "rate_2nd_h": 42,
+        "scored_both_halves": 16,
+        "conceding_rate": 89,
+        "conceding_1st_h": 58,
+        "conceding_2nd_h": 74,
+        "conceded_both_halves": 42
       },
-      "away": {
-        "scoring_rate": 78,
-        "scoring_rate_1st_h": 33,
-        "scoring_rate_2nd_h": 67,
-        "scored_in_both_halves": 22,
-        "both_teams_scored": 61,
-        "conceding_rate": 83,
-        "conceding_rate_1st_half": 61,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 33
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.61,
-        "over_2_5": 83.0,
-        "over_3_5": 72.0,
-        "over_4_5": 67.0,
-        "over_5_5": 33.0,
-        "over_6_5": 11.0
-      },
-      "away": {
-        "avg": 5.11,
-        "over_2_5": 83.0,
-        "over_3_5": 72.0,
-        "over_4_5": 39.0,
-        "over_5_5": 33.0,
-        "over_6_5": 28.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.67,
-        "over_2_5": 72.0,
-        "over_3_5": 39.0,
-        "over_4_5": 33.0,
-        "over_5_5": 28.0,
-        "over_6_5": 6.0
-      },
-      "away": {
-        "avg": 5.5,
-        "over_2_5": 83.0,
-        "over_3_5": 72.0,
-        "over_4_5": 44.0,
-        "over_5_5": 39.0,
-        "over_6_5": 28.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 8.28,
-        "over_9_5": 44.0,
-        "over_10_5": 28.0,
-        "over_11_5": 17.0,
-        "over_2_5": 6.0,
-        "over_3_5": 0.0
-      },
-      "away": {
-        "avg": 10.61,
-        "over_9_5": 61.0,
-        "over_10_5": 50.0,
-        "over_11_5": 39.0,
-        "over_2_5": 33.0,
-        "over_3_5": 28.0
+      "corners": {
+        "for_avg": 5.21,
+        "for_over_2_5": 79.0,
+        "for_over_3_5": 68.0,
+        "for_over_4_5": 53.0,
+        "for_over_5_5": 42.0,
+        "for_over_6_5": 37.0,
+        "against_avg": 4.0,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 63.0,
+        "against_over_4_5": 42.0,
+        "against_over_5_5": 21.0,
+        "against_over_6_5": 5.0,
+        "total_avg": 9.21,
+        "total_over_9_5": 53.0,
+        "total_over_10_5": 37.0,
+        "total_over_11_5": 16.0,
+        "total_over_12_5": 11.0,
+        "total_over_13_5": 11.0
       }
     }
   },
   {
     "id": 13,
-    "name": "Osasuna",
-    "goals": {
-      "home": {
-        "win": 50.0,
-        "draw": 28.0,
-        "defeats": 22.0,
-        "goals_scored_per_game": 1.67,
-        "goals_conceded_per_game": 1.22,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 2.89,
-        "over_1_5": 89.0,
-        "over_2_5": 61.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 72.0
+    "name": "Sevilla FC",
+    "home": {
+      "goals": {
+        "wins": 37.0,
+        "draws": 21.0,
+        "defeats": 42.0,
+        "scored_pg": 1.26,
+        "conceded_pg": 1.32,
+        "scored_first": 47.0,
+        "opponent_first": 53.0,
+        "total_pg": 2.58,
+        "over_1_5": 79.0,
+        "over_2_5": 53.0,
+        "over_3_5": 21.0,
+        "both_scored": 58.0
       },
-      "away": {
-        "win": 11.0,
-        "draw": 22.0,
-        "defeats": 67.0,
-        "goals_scored_per_game": 0.72,
-        "goals_conceded_per_game": 1.39,
-        "team_scored_first": 28.0,
-        "opponent_scored_first": 61.0,
-        "total_goal_per_game": 2.11,
-        "over_1_5": 50.0,
-        "over_2_5": 39.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 39.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 100,
-        "gf_over_15": 56,
+      "scoring": {
+        "gf_over_05": 74,
+        "gf_over_15": 32,
         "gf_over_25": 11,
-        "gf_over_35": 0,
+        "gf_over_35": 11,
         "gf_over_45": 0,
-        "ga_over_05": 72,
-        "ga_over_15": 39,
+        "ga_over_05": 84,
+        "ga_over_15": 37,
         "ga_over_25": 11,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 74,
+        "rate_1st_h": 47,
+        "rate_2nd_h": 47,
+        "scored_both_halves": 21,
+        "conceding_rate": 84,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 53,
+        "conceded_both_halves": 16
       },
-      "away": {
-        "gf_over_05": 39,
-        "gf_over_15": 28,
-        "gf_over_25": 6,
+      "corners": {
+        "for_avg": 4.58,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 74.0,
+        "for_over_4_5": 63.0,
+        "for_over_5_5": 32.0,
+        "for_over_6_5": 11.0,
+        "against_avg": 3.68,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 42.0,
+        "against_over_4_5": 32.0,
+        "against_over_5_5": 26.0,
+        "against_over_6_5": 5.0,
+        "total_avg": 8.26,
+        "total_over_9_5": 42.0,
+        "total_over_10_5": 26.0,
+        "total_over_11_5": 16.0,
+        "total_over_12_5": 5.0,
+        "total_over_13_5": 0.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 26.0,
+        "draws": 16.0,
+        "defeats": 58.0,
+        "scored_pg": 1.16,
+        "conceded_pg": 1.84,
+        "scored_first": 32.0,
+        "opponent_first": 68.0,
+        "total_pg": 3.0,
+        "over_1_5": 79.0,
+        "over_2_5": 58.0,
+        "over_3_5": 32.0,
+        "both_scored": 58.0
+      },
+      "scoring": {
+        "gf_over_05": 74,
+        "gf_over_15": 37,
+        "gf_over_25": 5,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 89,
-        "ga_over_15": 39,
-        "ga_over_25": 11,
-        "ga_over_35": 0,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 100,
-        "scoring_rate_1st_h": 67,
-        "scoring_rate_2nd_h": 56,
-        "scored_in_both_halves": 22,
-        "both_teams_scored": 72,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 39,
-        "conceding_rate_2nd_half": 61,
-        "conceded_in_both_halves": 28
+        "ga_over_05": 84,
+        "ga_over_15": 63,
+        "ga_over_25": 21,
+        "ga_over_35": 11,
+        "ga_over_45": 5,
+        "rate": 74,
+        "rate_1st_h": 32,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 21,
+        "conceding_rate": 84,
+        "conceding_1st_h": 58,
+        "conceding_2nd_h": 58,
+        "conceded_both_halves": 32
       },
-      "away": {
-        "scoring_rate": 39,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 28,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 39,
-        "conceding_rate": 89,
-        "conceding_rate_1st_half": 33,
-        "conceding_rate_2nd_half": 72,
-        "conceded_in_both_halves": 17
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.28,
-        "over_2_5": 83.0,
-        "over_3_5": 44.0,
-        "over_4_5": 39.0,
-        "over_5_5": 33.0,
-        "over_6_5": 17.0
-      },
-      "away": {
-        "avg": 2.89,
-        "over_2_5": 56.0,
-        "over_3_5": 33.0,
-        "over_4_5": 22.0,
-        "over_5_5": 11.0,
-        "over_6_5": 6.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.94,
-        "over_2_5": 72.0,
-        "over_3_5": 50.0,
-        "over_4_5": 33.0,
-        "over_5_5": 33.0,
-        "over_6_5": 17.0
-      },
-      "away": {
-        "avg": 6.0,
-        "over_2_5": 83.0,
-        "over_3_5": 78.0,
-        "over_4_5": 61.0,
-        "over_5_5": 39.0,
-        "over_6_5": 39.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 8.22,
-        "over_9_5": 22.0,
-        "over_10_5": 6.0,
-        "over_11_5": 6.0,
-        "over_2_5": 0.0,
-        "over_3_5": 0.0
-      },
-      "away": {
-        "avg": 8.89,
-        "over_9_5": 39.0,
-        "over_10_5": 22.0,
-        "over_11_5": 17.0,
-        "over_2_5": 17.0,
-        "over_3_5": 11.0
+      "corners": {
+        "for_avg": 5.0,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 68.0,
+        "for_over_4_5": 37.0,
+        "for_over_5_5": 32.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 5.42,
+        "against_over_2_5": 84.0,
+        "against_over_3_5": 74.0,
+        "against_over_4_5": 42.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 26.0,
+        "total_avg": 10.42,
+        "total_over_9_5": 58.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 37.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 26.0
       }
     }
   },
   {
     "id": 14,
-    "name": "Espanyol",
-    "goals": {
-      "home": {
-        "win": 39.0,
-        "draw": 22.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 1.11,
-        "goals_conceded_per_game": 1.28,
-        "team_scored_first": 44.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 2.39,
-        "over_1_5": 78.0,
-        "over_2_5": 44.0,
-        "over_3_5": 17.0,
-        "both_teams_scored": 50.0
+    "name": "Alaves",
+    "home": {
+      "goals": {
+        "wins": 37.0,
+        "draws": 32.0,
+        "defeats": 32.0,
+        "scored_pg": 1.32,
+        "conceded_pg": 1.32,
+        "scored_first": 53.0,
+        "opponent_first": 42.0,
+        "total_pg": 2.63,
+        "over_1_5": 79.0,
+        "over_2_5": 58.0,
+        "over_3_5": 21.0,
+        "both_scored": 74.0
       },
-      "away": {
-        "win": 22.0,
-        "draw": 28.0,
-        "defeats": 50.0,
-        "goals_scored_per_game": 1.11,
-        "goals_conceded_per_game": 1.67,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 39.0,
-        "total_goal_per_game": 2.78,
-        "over_1_5": 72.0,
-        "over_2_5": 56.0,
-        "over_3_5": 33.0,
-        "both_teams_scored": 61.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 72,
-        "gf_over_15": 33,
-        "gf_over_25": 6,
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 42,
+        "gf_over_25": 5,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 72,
-        "ga_over_15": 56,
-        "ga_over_25": 0,
+        "ga_over_05": 84,
+        "ga_over_15": 37,
+        "ga_over_25": 5,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 84,
+        "rate_1st_h": 63,
+        "rate_2nd_h": 47,
+        "scored_both_halves": 26,
+        "conceding_rate": 84,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 74,
+        "conceded_both_halves": 21
+      },
+      "corners": {
+        "for_avg": 6.16,
+        "for_over_2_5": 89.0,
+        "for_over_3_5": 89.0,
+        "for_over_4_5": 74.0,
+        "for_over_5_5": 58.0,
+        "for_over_6_5": 37.0,
+        "against_avg": 4.26,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 68.0,
+        "against_over_4_5": 42.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 21.0,
+        "total_avg": 10.42,
+        "total_over_9_5": 58.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 37.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 11.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 21.0,
+        "draws": 21.0,
+        "defeats": 58.0,
+        "scored_pg": 1.0,
+        "conceded_pg": 1.63,
+        "scored_first": 32.0,
+        "opponent_first": 68.0,
+        "total_pg": 2.63,
+        "over_1_5": 63.0,
+        "over_2_5": 42.0,
+        "over_3_5": 26.0,
+        "both_scored": 53.0
+      },
+      "scoring": {
+        "gf_over_05": 63,
+        "gf_over_15": 21,
+        "gf_over_25": 11,
+        "gf_over_35": 5,
+        "gf_over_45": 0,
+        "ga_over_05": 89,
+        "ga_over_15": 42,
+        "ga_over_25": 32,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 63,
+        "rate_1st_h": 32,
+        "rate_2nd_h": 53,
+        "scored_both_halves": 21,
+        "conceding_rate": 89,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 58,
+        "conceded_both_halves": 16
       },
-      "away": {
-        "gf_over_05": 78,
-        "gf_over_15": 33,
-        "gf_over_25": 0,
-        "gf_over_35": 0,
-        "gf_over_45": 0,
-        "ga_over_05": 72,
-        "ga_over_15": 56,
-        "ga_over_25": 22,
-        "ga_over_35": 17,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 72,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 50,
-        "scored_in_both_halves": 6,
-        "both_teams_scored": 50,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 33
-      },
-      "away": {
-        "scoring_rate": 78,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 67,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 61,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 44,
-        "conceding_rate_2nd_half": 61,
-        "conceded_in_both_halves": 33
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 5.28,
-        "over_2_5": 83.0,
-        "over_3_5": 78.0,
-        "over_4_5": 50.0,
-        "over_5_5": 33.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 4.33,
-        "over_2_5": 89.0,
-        "over_3_5": 61.0,
-        "over_4_5": 44.0,
-        "over_5_5": 28.0,
-        "over_6_5": 11.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.72,
-        "over_2_5": 67.0,
-        "over_3_5": 50.0,
-        "over_4_5": 39.0,
-        "over_5_5": 33.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 4.72,
-        "over_2_5": 89.0,
-        "over_3_5": 78.0,
-        "over_4_5": 56.0,
-        "over_5_5": 28.0,
-        "over_6_5": 17.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 10.0,
-        "over_9_5": 44.0,
-        "over_10_5": 44.0,
-        "over_11_5": 33.0,
-        "over_2_5": 22.0,
-        "over_3_5": 22.0
-      },
-      "away": {
-        "avg": 9.06,
-        "over_9_5": 44.0,
-        "over_10_5": 33.0,
-        "over_11_5": 22.0,
-        "over_2_5": 6.0,
-        "over_3_5": 0.0
+      "corners": {
+        "for_avg": 3.95,
+        "for_over_2_5": 63.0,
+        "for_over_3_5": 53.0,
+        "for_over_4_5": 47.0,
+        "for_over_5_5": 37.0,
+        "for_over_6_5": 11.0,
+        "against_avg": 5.74,
+        "against_over_2_5": 84.0,
+        "against_over_3_5": 84.0,
+        "against_over_4_5": 68.0,
+        "against_over_5_5": 53.0,
+        "against_over_6_5": 37.0,
+        "total_avg": 9.68,
+        "total_over_9_5": 47.0,
+        "total_over_10_5": 42.0,
+        "total_over_11_5": 42.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 16.0
       }
     }
   },
   {
     "id": 15,
-    "name": "Girona",
-    "goals": {
-      "home": {
-        "win": 33.0,
-        "draw": 28.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 1.11,
-        "goals_conceded_per_game": 1.44,
-        "team_scored_first": 44.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 2.56,
-        "over_1_5": 72.0,
-        "over_2_5": 50.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 50.0
+    "name": "Elche",
+    "home": {
+      "goals": {
+        "wins": 47.0,
+        "draws": 42.0,
+        "defeats": 11.0,
+        "scored_pg": 1.58,
+        "conceded_pg": 1.0,
+        "scored_first": 53.0,
+        "opponent_first": 37.0,
+        "total_pg": 2.58,
+        "over_1_5": 74.0,
+        "over_2_5": 53.0,
+        "over_3_5": 37.0,
+        "both_scored": 58.0
       },
-      "away": {
-        "win": 17.0,
-        "draw": 44.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 1.0,
-        "goals_conceded_per_game": 1.5,
-        "team_scored_first": 33.0,
-        "opponent_scored_first": 67.0,
-        "total_goal_per_game": 2.5,
-        "over_1_5": 89.0,
-        "over_2_5": 44.0,
-        "over_3_5": 11.0,
-        "both_teams_scored": 72.0
+      "scoring": {
+        "gf_over_05": 89,
+        "gf_over_15": 47,
+        "gf_over_25": 16,
+        "gf_over_35": 5,
+        "gf_over_45": 0,
+        "ga_over_05": 58,
+        "ga_over_15": 32,
+        "ga_over_25": 11,
+        "ga_over_35": 0,
+        "ga_over_45": 0,
+        "rate": 89,
+        "rate_1st_h": 53,
+        "rate_2nd_h": 68,
+        "scored_both_halves": 32,
+        "conceding_rate": 58,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 42,
+        "conceded_both_halves": 16
+      },
+      "corners": {
+        "for_avg": 4.79,
+        "for_over_2_5": 68.0,
+        "for_over_3_5": 58.0,
+        "for_over_4_5": 42.0,
+        "for_over_5_5": 37.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 3.58,
+        "against_over_2_5": 58.0,
+        "against_over_3_5": 26.0,
+        "against_over_4_5": 26.0,
+        "against_over_5_5": 21.0,
+        "against_over_6_5": 21.0,
+        "total_avg": 8.37,
+        "total_over_9_5": 37.0,
+        "total_over_10_5": 21.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 16.0
       }
     },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 72,
-        "gf_over_15": 28,
-        "gf_over_25": 11,
-        "gf_over_35": 0,
-        "gf_over_45": 0,
-        "ga_over_05": 72,
-        "ga_over_15": 39,
-        "ga_over_25": 28,
-        "ga_over_35": 6,
-        "ga_over_45": 0
+    "away": {
+      "goals": {
+        "wins": 5.0,
+        "draws": 26.0,
+        "defeats": 68.0,
+        "scored_pg": 1.0,
+        "conceded_pg": 2.0,
+        "scored_first": 21.0,
+        "opponent_first": 79.0,
+        "total_pg": 3.0,
+        "over_1_5": 84.0,
+        "over_2_5": 63.0,
+        "over_3_5": 42.0,
+        "both_scored": 84.0
       },
-      "away": {
-        "gf_over_05": 78,
-        "gf_over_15": 22,
+      "scoring": {
+        "gf_over_05": 84,
+        "gf_over_15": 16,
         "gf_over_25": 0,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 94,
-        "ga_over_15": 33,
-        "ga_over_25": 11,
-        "ga_over_35": 6,
-        "ga_over_45": 6
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 72,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 44,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 50,
-        "conceding_rate": 72,
-        "conceding_rate_1st_half": 44,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 28
+        "ga_over_05": 100,
+        "ga_over_15": 58,
+        "ga_over_25": 37,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 84,
+        "rate_1st_h": 42,
+        "rate_2nd_h": 47,
+        "scored_both_halves": 5,
+        "conceding_rate": 100,
+        "conceding_1st_h": 53,
+        "conceding_2nd_h": 84,
+        "conceded_both_halves": 37
       },
-      "away": {
-        "scoring_rate": 78,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 50,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 72,
-        "conceding_rate": 94,
-        "conceding_rate_1st_half": 28,
-        "conceding_rate_2nd_half": 89,
-        "conceded_in_both_halves": 22
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.94,
-        "over_2_5": 72.0,
-        "over_3_5": 50.0,
-        "over_4_5": 50.0,
-        "over_5_5": 39.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 3.33,
-        "over_2_5": 67.0,
-        "over_3_5": 44.0,
-        "over_4_5": 28.0,
-        "over_5_5": 17.0,
-        "over_6_5": 6.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.06,
-        "over_2_5": 78.0,
-        "over_3_5": 67.0,
-        "over_4_5": 28.0,
-        "over_5_5": 22.0,
-        "over_6_5": 17.0
-      },
-      "away": {
-        "avg": 6.33,
-        "over_2_5": 89.0,
-        "over_3_5": 83.0,
-        "over_4_5": 67.0,
-        "over_5_5": 56.0,
-        "over_6_5": 50.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 9.0,
-        "over_9_5": 39.0,
-        "over_10_5": 33.0,
-        "over_11_5": 22.0,
-        "over_2_5": 17.0,
-        "over_3_5": 17.0
-      },
-      "away": {
-        "avg": 9.67,
-        "over_9_5": 39.0,
-        "over_10_5": 39.0,
-        "over_11_5": 28.0,
-        "over_2_5": 22.0,
-        "over_3_5": 11.0
+      "corners": {
+        "for_avg": 2.79,
+        "for_over_2_5": 47.0,
+        "for_over_3_5": 37.0,
+        "for_over_4_5": 16.0,
+        "for_over_5_5": 11.0,
+        "for_over_6_5": 0.0,
+        "against_avg": 5.42,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 68.0,
+        "against_over_4_5": 47.0,
+        "against_over_5_5": 42.0,
+        "against_over_6_5": 32.0,
+        "total_avg": 8.21,
+        "total_over_9_5": 32.0,
+        "total_over_10_5": 21.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 11.0
       }
     }
   },
   {
     "id": 16,
-    "name": "Alaves",
-    "goals": {
-      "home": {
-        "win": 39.0,
-        "draw": 33.0,
-        "defeats": 28.0,
-        "goals_scored_per_game": 1.33,
-        "goals_conceded_per_game": 1.28,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 44.0,
-        "total_goal_per_game": 2.61,
-        "over_1_5": 78.0,
-        "over_2_5": 56.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 72.0
+    "name": "Osasuna",
+    "home": {
+      "goals": {
+        "wins": 47.0,
+        "draws": 26.0,
+        "defeats": 26.0,
+        "scored_pg": 1.63,
+        "conceded_pg": 1.26,
+        "scored_first": 47.0,
+        "opponent_first": 53.0,
+        "total_pg": 2.89,
+        "over_1_5": 89.0,
+        "over_2_5": 63.0,
+        "over_3_5": 26.0,
+        "both_scored": 74.0
       },
-      "away": {
-        "win": 17.0,
-        "draw": 22.0,
-        "defeats": 61.0,
-        "goals_scored_per_game": 1.0,
-        "goals_conceded_per_game": 1.72,
-        "team_scored_first": 28.0,
-        "opponent_scored_first": 72.0,
-        "total_goal_per_game": 2.72,
-        "over_1_5": 67.0,
-        "over_2_5": 44.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 56.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 83,
-        "gf_over_15": 44,
-        "gf_over_25": 6,
+      "scoring": {
+        "gf_over_05": 100,
+        "gf_over_15": 53,
+        "gf_over_25": 11,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 83,
-        "ga_over_15": 33,
-        "ga_over_25": 6,
-        "ga_over_35": 6,
-        "ga_over_45": 0
-      },
-      "away": {
-        "gf_over_05": 61,
-        "gf_over_15": 22,
-        "gf_over_25": 11,
-        "gf_over_35": 6,
-        "gf_over_45": 0,
-        "ga_over_05": 94,
-        "ga_over_15": 44,
-        "ga_over_25": 33,
+        "ga_over_05": 74,
+        "ga_over_15": 42,
+        "ga_over_25": 11,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 100,
+        "rate_1st_h": 63,
+        "rate_2nd_h": 58,
+        "scored_both_halves": 21,
+        "conceding_rate": 74,
+        "conceding_1st_h": 42,
+        "conceding_2nd_h": 63,
+        "conceded_both_halves": 32
+      },
+      "corners": {
+        "for_avg": 4.53,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 47.0,
+        "for_over_4_5": 42.0,
+        "for_over_5_5": 37.0,
+        "for_over_6_5": 21.0,
+        "against_avg": 3.84,
+        "against_over_2_5": 68.0,
+        "against_over_3_5": 47.0,
+        "against_over_4_5": 32.0,
+        "against_over_5_5": 32.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 8.37,
+        "total_over_9_5": 26.0,
+        "total_over_10_5": 11.0,
+        "total_over_11_5": 5.0,
+        "total_over_12_5": 0.0,
+        "total_over_13_5": 0.0
       }
     },
-    "rates": {
-      "home": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 61,
-        "scoring_rate_2nd_h": 50,
-        "scored_in_both_halves": 28,
-        "both_teams_scored": 72,
-        "conceding_rate": 83,
-        "conceding_rate_1st_half": 33,
-        "conceding_rate_2nd_half": 72,
-        "conceded_in_both_halves": 22
+    "away": {
+      "goals": {
+        "wins": 11.0,
+        "draws": 21.0,
+        "defeats": 68.0,
+        "scored_pg": 0.68,
+        "conceded_pg": 1.37,
+        "scored_first": 26.0,
+        "opponent_first": 63.0,
+        "total_pg": 2.05,
+        "over_1_5": 47.0,
+        "over_2_5": 37.0,
+        "over_3_5": 26.0,
+        "both_scored": 37.0
       },
-      "away": {
-        "scoring_rate": 61,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 56,
-        "scored_in_both_halves": 22,
-        "both_teams_scored": 56,
-        "conceding_rate": 94,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 61,
-        "conceded_in_both_halves": 17
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 5.94,
-        "over_2_5": 89.0,
-        "over_3_5": 89.0,
-        "over_4_5": 72.0,
-        "over_5_5": 56.0,
-        "over_6_5": 33.0
+      "scoring": {
+        "gf_over_05": 37,
+        "gf_over_15": 26,
+        "gf_over_25": 5,
+        "gf_over_35": 0,
+        "gf_over_45": 0,
+        "ga_over_05": 89,
+        "ga_over_15": 37,
+        "ga_over_25": 11,
+        "ga_over_35": 0,
+        "ga_over_45": 0,
+        "rate": 37,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 26,
+        "scored_both_halves": 16,
+        "conceding_rate": 89,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 74,
+        "conceded_both_halves": 16
       },
-      "away": {
-        "avg": 4.06,
-        "over_2_5": 67.0,
-        "over_3_5": 56.0,
-        "over_4_5": 50.0,
-        "over_5_5": 39.0,
-        "over_6_5": 11.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.22,
-        "over_2_5": 72.0,
-        "over_3_5": 67.0,
-        "over_4_5": 39.0,
-        "over_5_5": 39.0,
-        "over_6_5": 22.0
-      },
-      "away": {
-        "avg": 5.78,
-        "over_2_5": 83.0,
-        "over_3_5": 83.0,
-        "over_4_5": 67.0,
-        "over_5_5": 56.0,
-        "over_6_5": 39.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 10.17,
-        "over_9_5": 56.0,
-        "over_10_5": 44.0,
-        "over_11_5": 33.0,
-        "over_2_5": 28.0,
-        "over_3_5": 6.0
-      },
-      "away": {
-        "avg": 9.83,
-        "over_9_5": 50.0,
-        "over_10_5": 44.0,
-        "over_11_5": 44.0,
-        "over_2_5": 17.0,
-        "over_3_5": 17.0
+      "corners": {
+        "for_avg": 2.95,
+        "for_over_2_5": 58.0,
+        "for_over_3_5": 37.0,
+        "for_over_4_5": 21.0,
+        "for_over_5_5": 11.0,
+        "for_over_6_5": 5.0,
+        "against_avg": 5.79,
+        "against_over_2_5": 79.0,
+        "against_over_3_5": 74.0,
+        "against_over_4_5": 58.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 37.0,
+        "total_avg": 8.74,
+        "total_over_9_5": 37.0,
+        "total_over_10_5": 21.0,
+        "total_over_11_5": 16.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 11.0
       }
     }
   },
   {
     "id": 17,
-    "name": "Elche",
-    "goals": {
-      "home": {
-        "win": 44.0,
-        "draw": 44.0,
-        "defeats": 11.0,
-        "goals_scored_per_game": 1.61,
-        "goals_conceded_per_game": 1.06,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 39.0,
-        "total_goal_per_game": 2.67,
-        "over_1_5": 78.0,
-        "over_2_5": 56.0,
-        "over_3_5": 39.0,
-        "both_teams_scored": 61.0
+    "name": "Levante",
+    "home": {
+      "goals": {
+        "wins": 37.0,
+        "draws": 26.0,
+        "defeats": 37.0,
+        "scored_pg": 1.37,
+        "conceded_pg": 1.47,
+        "scored_first": 42.0,
+        "opponent_first": 53.0,
+        "total_pg": 2.84,
+        "over_1_5": 84.0,
+        "over_2_5": 42.0,
+        "over_3_5": 32.0,
+        "both_scored": 53.0
       },
-      "away": {
-        "win": 6.0,
-        "draw": 22.0,
-        "defeats": 72.0,
-        "goals_scored_per_game": 1.0,
-        "goals_conceded_per_game": 2.06,
-        "team_scored_first": 17.0,
-        "opponent_scored_first": 83.0,
-        "total_goal_per_game": 3.06,
-        "over_1_5": 83.0,
-        "over_2_5": 67.0,
-        "over_3_5": 44.0,
-        "both_teams_scored": 83.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 89,
-        "gf_over_15": 50,
-        "gf_over_25": 17,
-        "gf_over_35": 6,
+      "scoring": {
+        "gf_over_05": 74,
+        "gf_over_15": 42,
+        "gf_over_25": 16,
+        "gf_over_35": 5,
         "gf_over_45": 0,
-        "ga_over_05": 61,
-        "ga_over_15": 33,
-        "ga_over_25": 11,
-        "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_05": 74,
+        "ga_over_15": 53,
+        "ga_over_25": 16,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 74,
+        "rate_1st_h": 32,
+        "rate_2nd_h": 63,
+        "scored_both_halves": 21,
+        "conceding_rate": 74,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 53,
+        "conceded_both_halves": 26
       },
-      "away": {
-        "gf_over_05": 83,
-        "gf_over_15": 17,
-        "gf_over_25": 0,
-        "gf_over_35": 0,
+      "corners": {
+        "for_avg": 5.21,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 63.0,
+        "for_over_4_5": 32.0,
+        "for_over_5_5": 32.0,
+        "for_over_6_5": 32.0,
+        "against_avg": 4.74,
+        "against_over_2_5": 63.0,
+        "against_over_3_5": 53.0,
+        "against_over_4_5": 42.0,
+        "against_over_5_5": 42.0,
+        "against_over_6_5": 26.0,
+        "total_avg": 9.95,
+        "total_over_9_5": 53.0,
+        "total_over_10_5": 37.0,
+        "total_over_11_5": 26.0,
+        "total_over_12_5": 26.0,
+        "total_over_13_5": 26.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 21.0,
+        "draws": 21.0,
+        "defeats": 58.0,
+        "scored_pg": 1.11,
+        "conceded_pg": 1.74,
+        "scored_first": 32.0,
+        "opponent_first": 63.0,
+        "total_pg": 2.84,
+        "over_1_5": 89.0,
+        "over_2_5": 47.0,
+        "over_3_5": 26.0,
+        "both_scored": 47.0
+      },
+      "scoring": {
+        "gf_over_05": 63,
+        "gf_over_15": 26,
+        "gf_over_25": 16,
+        "gf_over_35": 5,
         "gf_over_45": 0,
-        "ga_over_05": 100,
-        "ga_over_15": 61,
-        "ga_over_25": 39,
-        "ga_over_35": 6,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 50,
-        "scoring_rate_2nd_h": 72,
-        "scored_in_both_halves": 33,
-        "both_teams_scored": 61,
-        "conceding_rate": 61,
-        "conceding_rate_1st_half": 33,
-        "conceding_rate_2nd_half": 44,
-        "conceded_in_both_halves": 17
+        "ga_over_05": 79,
+        "ga_over_15": 58,
+        "ga_over_25": 21,
+        "ga_over_35": 11,
+        "ga_over_45": 5,
+        "rate": 63,
+        "rate_1st_h": 47,
+        "rate_2nd_h": 37,
+        "scored_both_halves": 21,
+        "conceding_rate": 79,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 74,
+        "conceded_both_halves": 42
       },
-      "away": {
-        "scoring_rate": 83,
-        "scoring_rate_1st_h": 39,
-        "scoring_rate_2nd_h": 50,
-        "scored_in_both_halves": 6,
-        "both_teams_scored": 83,
-        "conceding_rate": 100,
-        "conceding_rate_1st_half": 56,
-        "conceding_rate_2nd_half": 83,
-        "conceded_in_both_halves": 39
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.83,
-        "over_2_5": 67.0,
-        "over_3_5": 56.0,
-        "over_4_5": 44.0,
-        "over_5_5": 39.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 2.89,
-        "over_2_5": 50.0,
-        "over_3_5": 39.0,
-        "over_4_5": 17.0,
-        "over_5_5": 11.0,
-        "over_6_5": 0.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 3.78,
-        "over_2_5": 61.0,
-        "over_3_5": 28.0,
-        "over_4_5": 28.0,
-        "over_5_5": 22.0,
-        "over_6_5": 22.0
-      },
-      "away": {
-        "avg": 5.61,
-        "over_2_5": 78.0,
-        "over_3_5": 72.0,
-        "over_4_5": 50.0,
-        "over_5_5": 44.0,
-        "over_6_5": 33.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 8.61,
-        "over_9_5": 39.0,
-        "over_10_5": 22.0,
-        "over_11_5": 22.0,
-        "over_2_5": 22.0,
-        "over_3_5": 17.0
-      },
-      "away": {
-        "avg": 8.5,
-        "over_9_5": 33.0,
-        "over_10_5": 22.0,
-        "over_11_5": 22.0,
-        "over_2_5": 17.0,
-        "over_3_5": 11.0
+      "corners": {
+        "for_avg": 3.32,
+        "for_over_2_5": 68.0,
+        "for_over_3_5": 47.0,
+        "for_over_4_5": 21.0,
+        "for_over_5_5": 16.0,
+        "for_over_6_5": 5.0,
+        "against_avg": 7.11,
+        "against_over_2_5": 100.0,
+        "against_over_3_5": 95.0,
+        "against_over_4_5": 68.0,
+        "against_over_5_5": 47.0,
+        "against_over_6_5": 42.0,
+        "total_avg": 10.42,
+        "total_over_9_5": 42.0,
+        "total_over_10_5": 37.0,
+        "total_over_11_5": 26.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 16.0
       }
     }
   },
   {
     "id": 18,
     "name": "Mallorca",
-    "goals": {
-      "home": {
-        "win": 44.0,
-        "draw": 33.0,
-        "defeats": 22.0,
-        "goals_scored_per_game": 1.56,
-        "goals_conceded_per_game": 1.17,
-        "team_scored_first": 50.0,
-        "opponent_scored_first": 50.0,
-        "total_goal_per_game": 2.72,
-        "over_1_5": 83.0,
-        "over_2_5": 56.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 72.0
+    "home": {
+      "goals": {
+        "wins": 47.0,
+        "draws": 32.0,
+        "defeats": 21.0,
+        "scored_pg": 1.63,
+        "conceded_pg": 1.11,
+        "scored_first": 53.0,
+        "opponent_first": 47.0,
+        "total_pg": 2.74,
+        "over_1_5": 84.0,
+        "over_2_5": 58.0,
+        "over_3_5": 21.0,
+        "both_scored": 68.0
       },
-      "away": {
-        "win": 11.0,
-        "draw": 17.0,
-        "defeats": 72.0,
-        "goals_scored_per_game": 0.89,
-        "goals_conceded_per_game": 1.89,
-        "team_scored_first": 33.0,
-        "opponent_scored_first": 61.0,
-        "total_goal_per_game": 2.78,
-        "over_1_5": 83.0,
-        "over_2_5": 72.0,
-        "over_3_5": 22.0,
-        "both_teams_scored": 61.0
+      "scoring": {
+        "gf_over_05": 89,
+        "gf_over_15": 42,
+        "gf_over_25": 26,
+        "gf_over_35": 5,
+        "gf_over_45": 0,
+        "ga_over_05": 79,
+        "ga_over_15": 26,
+        "ga_over_25": 5,
+        "ga_over_35": 0,
+        "ga_over_45": 0,
+        "rate": 89,
+        "rate_1st_h": 47,
+        "rate_2nd_h": 74,
+        "scored_both_halves": 32,
+        "conceding_rate": 79,
+        "conceding_1st_h": 58,
+        "conceding_2nd_h": 32,
+        "conceded_both_halves": 11
+      },
+      "corners": {
+        "for_avg": 4.0,
+        "for_over_2_5": 84.0,
+        "for_over_3_5": 53.0,
+        "for_over_4_5": 42.0,
+        "for_over_5_5": 21.0,
+        "for_over_6_5": 11.0,
+        "against_avg": 5.89,
+        "against_over_2_5": 95.0,
+        "against_over_3_5": 89.0,
+        "against_over_4_5": 63.0,
+        "against_over_5_5": 58.0,
+        "against_over_6_5": 37.0,
+        "total_avg": 9.89,
+        "total_over_9_5": 63.0,
+        "total_over_10_5": 32.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 11.0,
+        "total_over_13_5": 5.0
       }
     },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 89,
-        "gf_over_15": 39,
-        "gf_over_25": 22,
-        "gf_over_35": 6,
-        "gf_over_45": 0,
-        "ga_over_05": 83,
-        "ga_over_15": 28,
-        "ga_over_25": 6,
-        "ga_over_35": 0,
-        "ga_over_45": 0
+    "away": {
+      "goals": {
+        "wins": 11.0,
+        "draws": 16.0,
+        "defeats": 74.0,
+        "scored_pg": 0.84,
+        "conceded_pg": 1.89,
+        "scored_first": 32.0,
+        "opponent_first": 63.0,
+        "total_pg": 2.74,
+        "over_1_5": 84.0,
+        "over_2_5": 68.0,
+        "over_3_5": 21.0,
+        "both_scored": 58.0
       },
-      "away": {
-        "gf_over_05": 67,
-        "gf_over_15": 17,
-        "gf_over_25": 6,
+      "scoring": {
+        "gf_over_05": 63,
+        "gf_over_15": 16,
+        "gf_over_25": 5,
         "gf_over_35": 0,
         "gf_over_45": 0,
         "ga_over_05": 89,
-        "ga_over_15": 72,
-        "ga_over_25": 28,
+        "ga_over_15": 74,
+        "ga_over_25": 26,
         "ga_over_35": 0,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 89,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 72,
-        "scored_in_both_halves": 28,
-        "both_teams_scored": 72,
-        "conceding_rate": 83,
-        "conceding_rate_1st_half": 61,
-        "conceding_rate_2nd_half": 33,
-        "conceded_in_both_halves": 11
-      },
-      "away": {
-        "scoring_rate": 67,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 33,
-        "scored_in_both_halves": 11,
-        "both_teams_scored": 61,
+        "ga_over_45": 0,
+        "rate": 63,
+        "rate_1st_h": 42,
+        "rate_2nd_h": 32,
+        "scored_both_halves": 11,
         "conceding_rate": 89,
-        "conceding_rate_1st_half": 56,
-        "conceding_rate_2nd_half": 67,
-        "conceded_in_both_halves": 33
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 3.94,
-        "over_2_5": 83.0,
-        "over_3_5": 50.0,
-        "over_4_5": 39.0,
-        "over_5_5": 22.0,
-        "over_6_5": 11.0
+        "conceding_1st_h": 58,
+        "conceding_2nd_h": 68,
+        "conceded_both_halves": 37
       },
-      "away": {
-        "avg": 3.22,
-        "over_2_5": 56.0,
-        "over_3_5": 33.0,
-        "over_4_5": 28.0,
-        "over_5_5": 6.0,
-        "over_6_5": 6.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 5.94,
-        "over_2_5": 94.0,
-        "over_3_5": 89.0,
-        "over_4_5": 61.0,
-        "over_5_5": 61.0,
-        "over_6_5": 39.0
-      },
-      "away": {
-        "avg": 6.83,
-        "over_2_5": 94.0,
-        "over_3_5": 78.0,
-        "over_4_5": 67.0,
-        "over_5_5": 61.0,
-        "over_6_5": 56.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 9.89,
-        "over_9_5": 61.0,
-        "over_10_5": 33.0,
-        "over_11_5": 22.0,
-        "over_2_5": 11.0,
-        "over_3_5": 6.0
-      },
-      "away": {
-        "avg": 10.06,
-        "over_9_5": 50.0,
-        "over_10_5": 50.0,
-        "over_11_5": 39.0,
-        "over_2_5": 33.0,
-        "over_3_5": 11.0
+      "corners": {
+        "for_avg": 3.37,
+        "for_over_2_5": 58.0,
+        "for_over_3_5": 37.0,
+        "for_over_4_5": 32.0,
+        "for_over_5_5": 11.0,
+        "for_over_6_5": 5.0,
+        "against_avg": 6.68,
+        "against_over_2_5": 95.0,
+        "against_over_3_5": 79.0,
+        "against_over_4_5": 63.0,
+        "against_over_5_5": 58.0,
+        "against_over_6_5": 53.0,
+        "total_avg": 10.05,
+        "total_over_9_5": 53.0,
+        "total_over_10_5": 47.0,
+        "total_over_11_5": 37.0,
+        "total_over_12_5": 32.0,
+        "total_over_13_5": 11.0
       }
     }
   },
   {
     "id": 19,
-    "name": "Levante",
-    "goals": {
-      "home": {
-        "win": 33.0,
-        "draw": 28.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 1.33,
-        "goals_conceded_per_game": 1.56,
-        "team_scored_first": 39.0,
-        "opponent_scored_first": 56.0,
-        "total_goal_per_game": 2.89,
-        "over_1_5": 83.0,
-        "over_2_5": 44.0,
-        "over_3_5": 33.0,
-        "both_teams_scored": 56.0
+    "name": "Girona",
+    "home": {
+      "goals": {
+        "wins": 32.0,
+        "draws": 32.0,
+        "defeats": 37.0,
+        "scored_pg": 1.11,
+        "conceded_pg": 1.42,
+        "scored_first": 42.0,
+        "opponent_first": 53.0,
+        "total_pg": 2.53,
+        "over_1_5": 74.0,
+        "over_2_5": 47.0,
+        "over_3_5": 21.0,
+        "both_scored": 53.0
       },
-      "away": {
-        "win": 22.0,
-        "draw": 22.0,
-        "defeats": 56.0,
-        "goals_scored_per_game": 1.11,
-        "goals_conceded_per_game": 1.72,
-        "team_scored_first": 33.0,
-        "opponent_scored_first": 61.0,
-        "total_goal_per_game": 2.83,
-        "over_1_5": 89.0,
-        "over_2_5": 44.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 44.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 72,
-        "gf_over_15": 39,
-        "gf_over_25": 17,
-        "gf_over_35": 6,
+      "scoring": {
+        "gf_over_05": 74,
+        "gf_over_15": 26,
+        "gf_over_25": 11,
+        "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 78,
-        "ga_over_15": 56,
-        "ga_over_25": 17,
-        "ga_over_35": 6,
-        "ga_over_45": 0
+        "ga_over_05": 74,
+        "ga_over_15": 37,
+        "ga_over_25": 26,
+        "ga_over_35": 5,
+        "ga_over_45": 0,
+        "rate": 74,
+        "rate_1st_h": 42,
+        "rate_2nd_h": 47,
+        "scored_both_halves": 16,
+        "conceding_rate": 74,
+        "conceding_1st_h": 47,
+        "conceding_2nd_h": 53,
+        "conceded_both_halves": 26
       },
-      "away": {
-        "gf_over_05": 61,
-        "gf_over_15": 28,
-        "gf_over_25": 17,
-        "gf_over_35": 6,
+      "corners": {
+        "for_avg": 4.79,
+        "for_over_2_5": 68.0,
+        "for_over_3_5": 47.0,
+        "for_over_4_5": 47.0,
+        "for_over_5_5": 37.0,
+        "for_over_6_5": 26.0,
+        "against_avg": 3.89,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 63.0,
+        "against_over_4_5": 26.0,
+        "against_over_5_5": 21.0,
+        "against_over_6_5": 16.0,
+        "total_avg": 8.68,
+        "total_over_9_5": 37.0,
+        "total_over_10_5": 32.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 16.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 16.0,
+        "draws": 42.0,
+        "defeats": 42.0,
+        "scored_pg": 0.95,
+        "conceded_pg": 1.47,
+        "scored_first": 32.0,
+        "opponent_first": 68.0,
+        "total_pg": 2.42,
+        "over_1_5": 84.0,
+        "over_2_5": 42.0,
+        "over_3_5": 11.0,
+        "both_scored": 68.0
+      },
+      "scoring": {
+        "gf_over_05": 74,
+        "gf_over_15": 21,
+        "gf_over_25": 0,
+        "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 78,
-        "ga_over_15": 56,
-        "ga_over_25": 22,
-        "ga_over_35": 11,
-        "ga_over_45": 6
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 72,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 61,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 56,
-        "conceding_rate": 78,
-        "conceding_rate_1st_half": 50,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 28
+        "ga_over_05": 95,
+        "ga_over_15": 32,
+        "ga_over_25": 11,
+        "ga_over_35": 5,
+        "ga_over_45": 5,
+        "rate": 74,
+        "rate_1st_h": 42,
+        "rate_2nd_h": 47,
+        "scored_both_halves": 16,
+        "conceding_rate": 95,
+        "conceding_1st_h": 32,
+        "conceding_2nd_h": 84,
+        "conceded_both_halves": 21
       },
-      "away": {
-        "scoring_rate": 61,
-        "scoring_rate_1st_h": 44,
-        "scoring_rate_2nd_h": 39,
-        "scored_in_both_halves": 22,
-        "both_teams_scored": 44,
-        "conceding_rate": 78,
-        "conceding_rate_1st_half": 44,
-        "conceding_rate_2nd_half": 72,
-        "conceded_in_both_halves": 39
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 5.28,
-        "over_2_5": 83.0,
-        "over_3_5": 61.0,
-        "over_4_5": 33.0,
-        "over_5_5": 33.0,
-        "over_6_5": 33.0
-      },
-      "away": {
-        "avg": 3.06,
-        "over_2_5": 67.0,
-        "over_3_5": 44.0,
-        "over_4_5": 17.0,
-        "over_5_5": 11.0,
-        "over_6_5": 0.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 4.67,
-        "over_2_5": 61.0,
-        "over_3_5": 50.0,
-        "over_4_5": 39.0,
-        "over_5_5": 39.0,
-        "over_6_5": 28.0
-      },
-      "away": {
-        "avg": 7.28,
-        "over_2_5": 100.0,
-        "over_3_5": 94.0,
-        "over_4_5": 72.0,
-        "over_5_5": 50.0,
-        "over_6_5": 44.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 9.94,
-        "over_9_5": 50.0,
-        "over_10_5": 39.0,
-        "over_11_5": 28.0,
-        "over_2_5": 28.0,
-        "over_3_5": 28.0
-      },
-      "away": {
-        "avg": 10.33,
-        "over_9_5": 39.0,
-        "over_10_5": 33.0,
-        "over_11_5": 22.0,
-        "over_2_5": 17.0,
-        "over_3_5": 17.0
+      "corners": {
+        "for_avg": 3.58,
+        "for_over_2_5": 68.0,
+        "for_over_3_5": 47.0,
+        "for_over_4_5": 32.0,
+        "for_over_5_5": 21.0,
+        "for_over_6_5": 11.0,
+        "against_avg": 6.47,
+        "against_over_2_5": 89.0,
+        "against_over_3_5": 84.0,
+        "against_over_4_5": 68.0,
+        "against_over_5_5": 58.0,
+        "against_over_6_5": 53.0,
+        "total_avg": 10.05,
+        "total_over_9_5": 42.0,
+        "total_over_10_5": 42.0,
+        "total_over_11_5": 32.0,
+        "total_over_12_5": 26.0,
+        "total_over_13_5": 16.0
       }
     }
   },
   {
     "id": 20,
     "name": "Real Oviedo",
-    "goals": {
-      "home": {
-        "win": 22.0,
-        "draw": 39.0,
-        "defeats": 39.0,
-        "goals_scored_per_game": 0.5,
-        "goals_conceded_per_game": 0.94,
-        "team_scored_first": 39.0,
-        "opponent_scored_first": 33.0,
-        "total_goal_per_game": 1.44,
-        "over_1_5": 44.0,
-        "over_2_5": 22.0,
-        "over_3_5": 6.0,
-        "both_teams_scored": 28.0
+    "home": {
+      "goals": {
+        "wins": 21.0,
+        "draws": 37.0,
+        "defeats": 42.0,
+        "scored_pg": 0.47,
+        "conceded_pg": 0.95,
+        "scored_first": 37.0,
+        "opponent_first": 37.0,
+        "total_pg": 1.42,
+        "over_1_5": 42.0,
+        "over_2_5": 21.0,
+        "over_3_5": 5.0,
+        "both_scored": 26.0
       },
-      "away": {
-        "win": 11.0,
-        "draw": 22.0,
-        "defeats": 67.0,
-        "goals_scored_per_game": 0.94,
-        "goals_conceded_per_game": 2.17,
-        "team_scored_first": 33.0,
-        "opponent_scored_first": 67.0,
-        "total_goal_per_game": 3.11,
-        "over_1_5": 89.0,
-        "over_2_5": 56.0,
-        "over_3_5": 28.0,
-        "both_teams_scored": 39.0
-      }
-    },
-    "scored_conceded": {
-      "home": {
-        "gf_over_05": 50,
+      "scoring": {
+        "gf_over_05": 47,
         "gf_over_15": 0,
         "gf_over_25": 0,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 50,
-        "ga_over_15": 33,
+        "ga_over_05": 53,
+        "ga_over_15": 32,
         "ga_over_25": 11,
         "ga_over_35": 0,
-        "ga_over_45": 0
+        "ga_over_45": 0,
+        "rate": 47,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 21,
+        "scored_both_halves": 0,
+        "conceding_rate": 53,
+        "conceding_1st_h": 26,
+        "conceding_2nd_h": 37,
+        "conceded_both_halves": 11
       },
-      "away": {
-        "gf_over_05": 44,
-        "gf_over_15": 33,
-        "gf_over_25": 17,
+      "corners": {
+        "for_avg": 4.63,
+        "for_over_2_5": 79.0,
+        "for_over_3_5": 74.0,
+        "for_over_4_5": 53.0,
+        "for_over_5_5": 32.0,
+        "for_over_6_5": 21.0,
+        "against_avg": 4.84,
+        "against_over_2_5": 74.0,
+        "against_over_3_5": 53.0,
+        "against_over_4_5": 47.0,
+        "against_over_5_5": 37.0,
+        "against_over_6_5": 32.0,
+        "total_avg": 9.47,
+        "total_over_9_5": 53.0,
+        "total_over_10_5": 42.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 16.0,
+        "total_over_13_5": 11.0
+      }
+    },
+    "away": {
+      "goals": {
+        "wins": 11.0,
+        "draws": 21.0,
+        "defeats": 68.0,
+        "scored_pg": 0.89,
+        "conceded_pg": 2.21,
+        "scored_first": 32.0,
+        "opponent_first": 68.0,
+        "total_pg": 3.11,
+        "over_1_5": 89.0,
+        "over_2_5": 58.0,
+        "over_3_5": 26.0,
+        "both_scored": 37.0
+      },
+      "scoring": {
+        "gf_over_05": 42,
+        "gf_over_15": 32,
+        "gf_over_25": 16,
         "gf_over_35": 0,
         "gf_over_45": 0,
-        "ga_over_05": 94,
-        "ga_over_15": 67,
-        "ga_over_25": 44,
+        "ga_over_05": 95,
+        "ga_over_15": 68,
+        "ga_over_25": 47,
         "ga_over_35": 11,
-        "ga_over_45": 0
-      }
-    },
-    "rates": {
-      "home": {
-        "scoring_rate": 50,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 22,
-        "scored_in_both_halves": 0,
-        "both_teams_scored": 28,
-        "conceding_rate": 50,
-        "conceding_rate_1st_half": 22,
-        "conceding_rate_2nd_half": 39,
-        "conceded_in_both_halves": 11
+        "ga_over_45": 0,
+        "rate": 42,
+        "rate_1st_h": 26,
+        "rate_2nd_h": 32,
+        "scored_both_halves": 16,
+        "conceding_rate": 95,
+        "conceding_1st_h": 74,
+        "conceding_2nd_h": 58,
+        "conceded_both_halves": 37
       },
-      "away": {
-        "scoring_rate": 44,
-        "scoring_rate_1st_h": 28,
-        "scoring_rate_2nd_h": 33,
-        "scored_in_both_halves": 17,
-        "both_teams_scored": 39,
-        "conceding_rate": 94,
-        "conceding_rate_1st_half": 72,
-        "conceding_rate_2nd_half": 56,
-        "conceded_in_both_halves": 33
-      }
-    },
-    "corners_for": {
-      "home": {
-        "avg": 4.61,
-        "over_2_5": 78.0,
-        "over_3_5": 72.0,
-        "over_4_5": 50.0,
-        "over_5_5": 33.0,
-        "over_6_5": 22.0
-      },
-      "away": {
-        "avg": 3.17,
-        "over_2_5": 61.0,
-        "over_3_5": 44.0,
-        "over_4_5": 22.0,
-        "over_5_5": 17.0,
-        "over_6_5": 6.0
-      }
-    },
-    "corners_against": {
-      "home": {
-        "avg": 5.0,
-        "over_2_5": 78.0,
-        "over_3_5": 56.0,
-        "over_4_5": 50.0,
-        "over_5_5": 39.0,
-        "over_6_5": 33.0
-      },
-      "away": {
-        "avg": 6.33,
-        "over_2_5": 100.0,
-        "over_3_5": 83.0,
-        "over_4_5": 67.0,
-        "over_5_5": 50.0,
-        "over_6_5": 44.0
-      }
-    },
-    "Total_corners": {
-      "home": {
-        "avg": 9.61,
-        "over_9_5": 56.0,
-        "over_10_5": 44.0,
-        "over_11_5": 22.0,
-        "over_2_5": 17.0,
-        "over_3_5": 11.0
-      },
-      "away": {
-        "avg": 9.5,
-        "over_9_5": 39.0,
-        "over_10_5": 39.0,
-        "over_11_5": 22.0,
-        "over_2_5": 22.0,
-        "over_3_5": 11.0
+      "corners": {
+        "for_avg": 3.26,
+        "for_over_2_5": 63.0,
+        "for_over_3_5": 47.0,
+        "for_over_4_5": 26.0,
+        "for_over_5_5": 16.0,
+        "for_over_6_5": 5.0,
+        "against_avg": 6.26,
+        "against_over_2_5": 100.0,
+        "against_over_3_5": 84.0,
+        "against_over_4_5": 68.0,
+        "against_over_5_5": 47.0,
+        "against_over_6_5": 42.0,
+        "total_avg": 9.53,
+        "total_over_9_5": 42.0,
+        "total_over_10_5": 37.0,
+        "total_over_11_5": 21.0,
+        "total_over_12_5": 21.0,
+        "total_over_13_5": 11.0
       }
     }
   }

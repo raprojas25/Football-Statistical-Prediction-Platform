@@ -6,7 +6,7 @@ export const COMPETITIONS: Record<
     name: 'Liga 1',
     flag: '🇵🇪',
     teamsFile: '/data/peru.json',
-    partidosFile: '/fixtures/PE.json',
+    partidosFile: '/fixtures/perucopia.json',
   },
   PL: {
     name: 'Premier League',
@@ -49,5 +49,11 @@ export const COMPETITIONS: Record<
     flag: '🇧🇷',
     teamsFile: '/data/brasil.json',
     partidosFile: '/fixtures/brazil.json',
+  },
+  NOR: {
+    name: 'Elite Serien',
+    flag: '🇳🇴',
+    teamsFile: '/data/noruega.json',
+    partidosFile: '/fixtures/NOR.json',
   },
 };

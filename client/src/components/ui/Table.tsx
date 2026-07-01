@@ -59,7 +59,7 @@ const THead: React.FC<TableHeaderProps> = ({ children, className }) => {
 const TBody: React.FC<TableBodyProps> = ({ children, className }) => {
   return (
     <tbody
-      className={`divide-y border-slate-200 dark:divide-betano-border ${className}`}
+      className={`divide-y border-slate-200 dark:divide-slate-600/80 ${className}`}
     >
       {children}
     </tbody>

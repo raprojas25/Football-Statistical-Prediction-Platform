@@ -49,6 +49,7 @@ const LEAGUES: { id: string; label: string }[] = [
   { id: 'norway', label: 'Noruega' },
   { id: 'usa', label: 'USA' },
   { id: 'world', label: 'Mundial' },
+  { id: 'sweden', label: 'Sweden' },
 ];
 
 export const OddsPredictor = () => {
@@ -57,7 +58,7 @@ export const OddsPredictor = () => {
     isLoading,
     data: odds,
     fixtures,
-  } = useOddsFixtures(`odds/${selectedLeague}_fixtures.json`);
+  } = useOddsFixtures(`odds/${selectedLeague}_odds.json`);
 
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedActualResult, setSelectedActualResult] =

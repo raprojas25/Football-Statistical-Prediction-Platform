@@ -32,13 +32,13 @@ export const Rates = ({ data }: { data: PredictionData }) => {
             <TD className={useColor(first_home - first_away, 24, 'emerald')}>
               {first_home}%
             </TD>
-            <TD className={useColor(data.ht_home, 49, 'indigo')}>
+            <TD className={useColor(data.ht_home, 49, 'blue')}>
               {data.ht_home.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.st_home, 49, 'indigo')}>
+            <TD className={useColor(data.st_home, 49, 'blue')}>
               {data.st_home.toFixed(0)}%
             </TD>
-            <TD className={useColor(bt_home - bt_away, 14.4, 'indigo')}>
+            <TD className={useColor(bt_home - bt_away, 14.4, 'blue')}>
               {bt_home}%
             </TD>
             <TD className={useColor(data.scoring_home, 69, 'amber')}>
@@ -57,13 +57,13 @@ export const Rates = ({ data }: { data: PredictionData }) => {
             <TD className={useColor(first_away - first_home, 24, 'emerald')}>
               {first_away}%
             </TD>
-            <TD className={useColor(data.ht_away, 49, 'indigo')}>
+            <TD className={useColor(data.ht_away, 49, 'blue')}>
               {data.ht_away.toFixed(0)}%
             </TD>
-            <TD className={useColor(data.st_away, 49, 'indigo')}>
+            <TD className={useColor(data.st_away, 49, 'blue')}>
               {data.st_away.toFixed(0)}%
             </TD>
-            <TD className={useColor(bt_away - bt_home, 14.4, 'indigo')}>
+            <TD className={useColor(bt_away - bt_home, 14.4, 'blue')}>
               {bt_away}%
             </TD>
             <TD className={useColor(data.scoring_away, 69, 'amber')}>

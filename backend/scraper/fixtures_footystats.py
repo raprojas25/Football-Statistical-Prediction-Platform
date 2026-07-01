@@ -21,14 +21,11 @@ except ImportError:
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 BASE_URL = "https://footystats.org"
-DELAY = 1.5
 
-LIGAS_FALLBACK = {
-    "chile": {
-        "url": "/chile/primera-division/fixtures",
-        "name": "Primera División",
-        "country": "Chile",
-    },
+FALLBACK_SETTINGS = {
+    "delay": 1.5,
+    "workers": 4,
+    "output_dir": os.path.join(os.path.dirname(__file__), "../..", "client", "public", "fixtures"),
 }
 
 CONFIG_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -52,17 +49,20 @@ def load_ligas():
                 with open(path, "r") as f:
                     data = json.load(f)
             if isinstance(data, dict) and data:
-                print(f"  Config: {path} ({len(data)} ligas)")
-                return data
+                settings = data.pop("settings", {}) if isinstance(data, dict) else {}
+                ligas = {k: v for k, v in data.items() if isinstance(v, str)}
+                if ligas:
+                    merged = dict(FALLBACK_SETTINGS)
+                    merged.update(settings)
+                    print(f"  Config: {path} ({len(ligas)} ligas)")
+                    return ligas, merged
         except Exception as e:
             print(f"  WARN: error loading {path}: {e}")
-    print(f"  WARN: usando LIGAS_FALLBACK (1 liga)")
-    return dict(LIGAS_FALLBACK)
+    print(f"  WARN: usando fallback (1 liga)")
+    return {"chile": "/chile/primera-division/fixtures"}, dict(FALLBACK_SETTINGS)
 
 
-LIGAS = load_ligas()
-
-DEFAULT_OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "../..", "client", "public", "fixtures")
+LIGAS, SETTINGS = load_ligas()
 
 
 def parse_fixtures(soup):
@@ -183,6 +183,25 @@ def parse_single_match(ul):
     return match
 
 
+def _extract_country(url_path):
+    parts = url_path.strip("/").split("/")
+    return parts[0].title() if parts else ""
+
+
+def _extract_league_name(soup, url_path):
+    title_tag = soup.find("title")
+    if title_tag:
+        text = title_tag.get_text(strip=True)
+        m = re.match(r"^(.+?)\s+Fixtures", text, re.IGNORECASE)
+        if m:
+            return m.group(1).strip()
+        m2 = re.match(r"^(.+?)\s*\|", text)
+        if m2:
+            return m2.group(1).strip()
+    parts = url_path.strip("/").split("/")
+    return " ".join(p.replace("-", " ").title() for p in parts)
+
+
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Scrapea fixtures programados con odds desde footystats.org",
@@ -207,22 +226,24 @@ def parse_args():
     )
     parser.add_argument(
         "--output", "-o",
-        default=DEFAULT_OUTPUT_DIR,
-        help="Directorio de salida (default: client/public/fixtures/)",
+        default=None,
+        help="Directorio de salida (default: de settings en ligas.yaml)",
     )
     parser.add_argument(
         "--delay", "-d",
         type=float,
-        default=DELAY,
-        help=f"Segundos entre requests (default: {DELAY})",
+        default=None,
+        help="Segundos entre requests (default: de settings en ligas.yaml)",
     )
     return parser.parse_args()
 
 
-def scrape_league(league_key, info, output_dir, dry_run=False):
-    url = f"{BASE_URL}{info['url']}"
+def scrape_league(league_key, url_path, output_dir, dry_run=False):
+    url = f"{BASE_URL}{url_path}"
+    country = _extract_country(url_path)
+
     print(f"\n{'='*55}")
-    print(f"  {info['country']:12s} | {info['name']}")
+    print(f"  {country:12s} | {url_path}")
     print(f"{'='*55}")
     print(f"  URL: {url}")
 
@@ -231,8 +252,8 @@ def scrape_league(league_key, info, output_dir, dry_run=False):
         return {
             "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "competition": league_key.upper(),
-            "competition_name": f"{info['name']} ({info['country']})",
-            "country": info["country"],
+            "competition_name": f"{country} League",
+            "country": country,
             "count": 0,
             "matches": [],
         }
@@ -246,9 +267,13 @@ def scrape_league(league_key, info, output_dir, dry_run=False):
 
     soup = BeautifulSoup(resp.text, "lxml")
 
+    competition_name = _extract_league_name(soup, url_path)
+    print(f"  Liga: {competition_name}")
+
     all_fixtures = parse_fixtures(soup)
-    # Últimos 20 partidos (desde abajo: finalizados recientes + próximos)
-    fixtures = all_fixtures[-20:] if len(all_fixtures) >= 20 else all_fixtures[:]
+    scheduled = [m for m in all_fixtures if m.get("status") == "SCHEDULED"]
+    fixtures = scheduled[-20:] if len(scheduled) >= 20 else scheduled[:]
+    fixtures.reverse()
 
     for m in fixtures:
         m.pop("status", None)
@@ -256,8 +281,8 @@ def scrape_league(league_key, info, output_dir, dry_run=False):
     output = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "competition": league_key.upper(),
-        "competition_name": f"{info['name']} ({info['country']})",
-        "country": info["country"],
+        "competition_name": competition_name,
+        "country": country,
         "count": len(fixtures),
         "matches": fixtures,
     }
@@ -267,7 +292,7 @@ def scrape_league(league_key, info, output_dir, dry_run=False):
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"  Partidos programados: {len(fixtures)}/{len(all_fixtures)}")
+    print(f"  Partidos programados: {len(fixtures)}/{len(scheduled)} (SCHEDULED)")
     with_odds = sum(1 for f in fixtures if f.get("odds"))
     print(f"  With odds: {with_odds}/{len(fixtures)}")
     print(f"  Guardado:  {output_file}")
@@ -285,22 +310,27 @@ def main():
             sys.exit(1)
         ligas = {args.liga: ligas[args.liga]}
 
+    delay = args.delay if args.delay is not None else SETTINGS.get("delay", FALLBACK_SETTINGS["delay"])
+    output_dir = args.output if args.output is not None else SETTINGS.get("output_dir", FALLBACK_SETTINGS["output_dir"])
+    workers = SETTINGS.get("workers", FALLBACK_SETTINGS["workers"])
+
     print(f"{'='*55}")
     print("  FOOTYSTATS SCRAPER - MULTI LIGA")
     print(f"{'='*55}")
     print(f"  Ligas: {len(ligas)}")
-    for key, info in ligas.items():
-        print(f"    - {info['country']:12s} | {info['name']:25s} | {key}")
+    for key, url_path in ligas.items():
+        print(f"    - {key:12s} | {url_path}")
     if args.dry_run:
         print(f"  Modo:  DRY-RUN (no se guardarán archivos)")
-    print(f"  Delay: {args.delay}s")
-    print(f"  Salida: {args.output}")
+    print(f"  Delay: {delay}s")
+    print(f"  Workers: {workers}")
+    print(f"  Salida: {output_dir}")
     print()
 
-    for league_key, info in ligas.items():
-        scrape_league(league_key, info, output_dir=args.output, dry_run=args.dry_run)
+    for league_key, url_path in ligas.items():
+        scrape_league(league_key, url_path, output_dir=output_dir, dry_run=args.dry_run)
         if not args.dry_run:
-            time.sleep(args.delay)
+            time.sleep(delay)
 
     print(f"\n{'='*55}")
     print("  LISTO!")

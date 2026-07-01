@@ -1,0 +1,219 @@
+{
+  "generated_at": "2026-07-01T16:20:19Z",
+  "competition": "CHINA",
+  "competition_name": "Chinese Super League",
+  "country": "China",
+  "count": 20,
+  "matches": [
+    {
+      "id": 8471306,
+      "date": "2026-07-03T12:00:00Z",
+      "homeTeam": "Yunnan Yukun",
+      "awayTeam": "Henan Jianye",
+      "homePpg": 1.43,
+      "awayPpg": 1.38,
+      "matchday": null,
+      "odds": {
+        "home": 2.16,
+        "draw": 3.55,
+        "away": 2.32
+      }
+    },
+    {
+      "id": 8471164,
+      "date": "2026-07-04T11:00:00Z",
+      "homeTeam": "Shenyang Urban",
+      "awayTeam": "Chongqing Tongliang Long",
+      "homePpg": 1.5,
+      "awayPpg": 1.57,
+      "matchday": null,
+      "odds": {
+        "home": 2.05,
+        "draw": 3.56,
+        "away": 3.59
+      }
+    },
+    {
+      "id": 8471163,
+      "date": "2026-07-04T11:00:00Z",
+      "homeTeam": "Qingdao Youth Island",
+      "awayTeam": "Shanghai SIPG",
+      "homePpg": 1.5,
+      "awayPpg": 1.0,
+      "matchday": null,
+      "odds": {
+        "home": 3.2,
+        "draw": 3.56,
+        "away": 2.21
+      }
+    },
+    {
+      "id": 8471305,
+      "date": "2026-07-04T11:35:00Z",
+      "homeTeam": "Beijing Guoan",
+      "awayTeam": "Shandong Luneng",
+      "homePpg": 1.38,
+      "awayPpg": 1.5,
+      "matchday": null,
+      "odds": {
+        "home": 1.7,
+        "draw": 3.8,
+        "away": 3.8
+      }
+    },
+    {
+      "id": 8471162,
+      "date": "2026-07-04T11:35:00Z",
+      "homeTeam": "Dalian Zhixing",
+      "awayTeam": "Wuhan Three Towns",
+      "homePpg": 1.88,
+      "awayPpg": 0.56,
+      "matchday": null,
+      "odds": {
+        "home": 1.73,
+        "draw": 3.91,
+        "away": 4.69
+      }
+    },
+    {
+      "id": 8471304,
+      "date": "2026-07-04T12:00:00Z",
+      "homeTeam": "Tianjin Teda",
+      "awayTeam": "Sichuan Jiuniu",
+      "homePpg": 0.75,
+      "awayPpg": 0.57,
+      "matchday": null
+    },
+    {
+      "id": 8471161,
+      "date": "2026-07-05T11:00:00Z",
+      "homeTeam": "Qingdao Jonoon",
+      "awayTeam": "Chengdu Better City FC",
+      "homePpg": 2.0,
+      "awayPpg": 2.38,
+      "matchday": null
+    },
+    {
+      "id": 8471303,
+      "date": "2026-07-05T11:35:00Z",
+      "homeTeam": "Shanghai Shenhua",
+      "awayTeam": "Zhejiang FC",
+      "homePpg": 1.75,
+      "awayPpg": 1.25,
+      "matchday": null,
+      "odds": {
+        "home": 1.71,
+        "draw": 3.85,
+        "away": 4.15
+      }
+    },
+    {
+      "id": 8471160,
+      "date": "2026-07-10T11:35:00Z",
+      "homeTeam": "Shandong Luneng",
+      "awayTeam": "Yunnan Yukun",
+      "homePpg": 1.88,
+      "awayPpg": 1.22,
+      "matchday": null
+    },
+    {
+      "id": 8471302,
+      "date": "2026-07-11T11:00:00Z",
+      "homeTeam": "Zhejiang FC",
+      "awayTeam": "Qingdao Jonoon",
+      "homePpg": 1.5,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8471159,
+      "date": "2026-07-11T11:00:00Z",
+      "homeTeam": "Wuhan Three Towns",
+      "awayTeam": "Henan Jianye",
+      "homePpg": 1.14,
+      "awayPpg": 1.38,
+      "matchday": null
+    },
+    {
+      "id": 8471158,
+      "date": "2026-07-11T11:35:00Z",
+      "homeTeam": "Shanghai Shenhua",
+      "awayTeam": "Beijing Guoan",
+      "homePpg": 1.75,
+      "awayPpg": 1.5,
+      "matchday": null
+    },
+    {
+      "id": 8471157,
+      "date": "2026-07-11T11:35:00Z",
+      "homeTeam": "Sichuan Jiuniu",
+      "awayTeam": "Qingdao Youth Island",
+      "homePpg": 1.44,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8471301,
+      "date": "2026-07-11T12:00:00Z",
+      "homeTeam": "Chengdu Better City FC",
+      "awayTeam": "Chongqing Tongliang Long",
+      "homePpg": 2.63,
+      "awayPpg": 1.57,
+      "matchday": null
+    },
+    {
+      "id": 8471300,
+      "date": "2026-07-12T11:00:00Z",
+      "homeTeam": "Tianjin Teda",
+      "awayTeam": "Shenyang Urban",
+      "homePpg": 0.75,
+      "awayPpg": 0.63,
+      "matchday": null
+    },
+    {
+      "id": 8471299,
+      "date": "2026-07-12T11:35:00Z",
+      "homeTeam": "Shanghai SIPG",
+      "awayTeam": "Dalian Zhixing",
+      "homePpg": 1.5,
+      "awayPpg": 0.88,
+      "matchday": null
+    },
+    {
+      "id": 8471298,
+      "date": "2026-07-17T11:35:00Z",
+      "homeTeam": "Henan Jianye",
+      "awayTeam": "Qingdao Jonoon",
+      "homePpg": 1.25,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8471156,
+      "date": "2026-07-17T11:35:00Z",
+      "homeTeam": "Beijing Guoan",
+      "awayTeam": "Shenyang Urban",
+      "homePpg": 1.38,
+      "awayPpg": 0.63,
+      "matchday": null
+    },
+    {
+      "id": 8471155,
+      "date": "2026-07-17T12:00:00Z",
+      "homeTeam": "Yunnan Yukun",
+      "awayTeam": "Shanghai SIPG",
+      "homePpg": 1.43,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8471297,
+      "date": "2026-07-18T11:00:00Z",
+      "homeTeam": "Chongqing Tongliang Long",
+      "awayTeam": "Zhejiang FC",
+      "homePpg": 1.78,
+      "awayPpg": 1.25,
+      "matchday": null
+    }
+  ]
+}

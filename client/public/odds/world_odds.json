@@ -1,0 +1,2089 @@
+{
+  "generated_at": "2026-06-23T17:36:24.225175+00:00",
+  "source": "https://www.oddshub.io/world-cup-2026, https://oddspedia.com/football/world/world-cup, https://www.soccerpunter.com/season/26618/World-World-Cup-2026, https://worldcuppass.com/schedule/",
+  "league": "World Cup",
+  "country": "world",
+  "season": 2026,
+  "fixtures": [
+    {
+      "id": "1",
+      "date_timestamp": null,
+      "date_str": "Jun 11, 3:00pm",
+      "home_team": "Mexico",
+      "away_team": "South Africa",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.4,
+        "away": 7.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "2",
+      "date_timestamp": null,
+      "date_str": "Jun 11, 10:00pm",
+      "home_team": "South Korea",
+      "away_team": "Czechia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.46,
+        "draw": 3.0,
+        "away": 2.74
+      },
+      "result": "1"
+    },
+    {
+      "id": "3",
+      "date_timestamp": null,
+      "date_str": "Jun 18, 12:00pm",
+      "home_team": "Czechia",
+      "away_team": "South Africa",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.5,
+        "away": 4.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "4",
+      "date_timestamp": null,
+      "date_str": "Jun 18, 9:00pm",
+      "home_team": "Mexico",
+      "away_team": "South Korea",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.3,
+        "away": 4.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "5",
+      "date_timestamp": null,
+      "date_str": "Jun 24, 9:00pm",
+      "home_team": "Czechia",
+      "away_team": "Mexico",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 3.56,
+        "draw": 3.3,
+        "away": 1.96
+      },
+      "result": 0
+    },
+    {
+      "id": "6",
+      "date_timestamp": null,
+      "date_str": "Jun 24, 9:00pm",
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 4.45,
+        "draw": 3.6,
+        "away": 1.64
+      },
+      "result": 0
+    },
+    {
+      "id": "7",
+      "date_timestamp": null,
+      "date_str": "Jun 12, 3:00pm",
+      "home_team": "Canada",
+      "away_team": "Bosnia and Herzegovina",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.5,
+        "away": 4.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8",
+      "date_timestamp": null,
+      "date_str": "Jun 13, 3:00pm",
+      "home_team": "Qatar",
+      "away_team": "Switzerland",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 11.0,
+        "draw": 6.5,
+        "away": 1.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "9",
+      "date_timestamp": null,
+      "date_str": "Jun 18, 3:00pm",
+      "home_team": "Switzerland",
+      "away_team": "Bosnia and Herzegovina",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.25,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "10",
+      "date_timestamp": null,
+      "date_str": "Jun 18, 6:00pm",
+      "home_team": "Canada",
+      "away_team": "Qatar",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 6.3,
+        "away": 14.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "11",
+      "date_timestamp": null,
+      "date_str": "Jun 24, 3:00pm",
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.98,
+        "away": 3.0
+      },
+      "result": 0
+    },
+    {
+      "id": "12",
+      "date_timestamp": null,
+      "date_str": "Jun 24, 3:00pm",
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 5.1,
+        "away": 6.5
+      },
+      "result": 0
+    },
+    {
+      "id": "13",
+      "date_timestamp": null,
+      "date_str": "Jun 13, 6:00pm",
+      "home_team": "Brazil",
+      "away_team": "Morocco",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.75,
+        "away": 4.82
+      },
+      "result": "X"
+    },
+    {
+      "id": "14",
+      "date_timestamp": null,
+      "date_str": "Jun 13, 9:00pm",
+      "home_team": "Haiti",
+      "away_team": "Scotland",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.4,
+        "draw": 4.33,
+        "away": 1.42
+      },
+      "result": "2"
+    },
+    {
+      "id": "15",
+      "date_timestamp": null,
+      "date_str": "Jun 19, 6:00pm",
+      "home_team": "Scotland",
+      "away_team": "Morocco",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.75,
+        "draw": 3.75,
+        "away": 1.78
+      },
+      "result": "2"
+    },
+    {
+      "id": "16",
+      "date_timestamp": null,
+      "date_str": "Jun 19, 8:30pm",
+      "home_team": "Brazil",
+      "away_team": "Haiti",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.15,
+        "draw": 13.0,
+        "away": 22.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "17",
+      "date_timestamp": null,
+      "date_str": "Jun 24, 6:00pm",
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 7.8,
+        "draw": 4.75,
+        "away": 1.3
+      },
+      "result": 0
+    },
+    {
+      "id": "18",
+      "date_timestamp": null,
+      "date_str": "Jun 24, 6:00pm",
+      "home_team": "Morocco",
+      "away_team": "Haiti",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 7.5,
+        "away": 20.0
+      },
+      "result": 0
+    },
+    {
+      "id": "19",
+      "date_timestamp": null,
+      "date_str": "Jun 12, 9:00pm",
+      "home_team": "USA",
+      "away_team": "Paraguay",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.3,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "20",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 12:00am",
+      "home_team": "Australia",
+      "away_team": "Türkiye",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.36,
+        "draw": 3.85,
+        "away": 1.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "21",
+      "date_timestamp": null,
+      "date_str": "Jun 19, 12:00am",
+      "home_team": "Türkiye",
+      "away_team": "Paraguay",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.35,
+        "away": 3.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "22",
+      "date_timestamp": null,
+      "date_str": "Jun 19, 3:00pm",
+      "home_team": "USA",
+      "away_team": "Australia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 4.33,
+        "away": 6.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "23",
+      "date_timestamp": null,
+      "date_str": "Jun 25, 10:00pm",
+      "home_team": "Türkiye",
+      "away_team": "USA",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 3.46,
+        "draw": 3.4,
+        "away": 1.95
+      },
+      "result": 0
+    },
+    {
+      "id": "24",
+      "date_timestamp": null,
+      "date_str": "Jun 25, 10:00pm",
+      "home_team": "Paraguay",
+      "away_team": "Australia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 2.16,
+        "away": 3.9
+      },
+      "result": 0
+    },
+    {
+      "id": "25",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 1:00pm",
+      "home_team": "Germany",
+      "away_team": "Curaçao",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 7,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.05,
+        "draw": 15.0,
+        "away": 51.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "26",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 7:00pm",
+      "home_team": "Ivory Coast",
+      "away_team": "Ecuador",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 2.82,
+        "away": 2.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "27",
+      "date_timestamp": null,
+      "date_str": "Jun 20, 4:00pm",
+      "home_team": "Germany",
+      "away_team": "Ivory Coast",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.75,
+        "away": 6.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "28",
+      "date_timestamp": null,
+      "date_str": "Jun 20, 8:00pm",
+      "home_team": "Ecuador",
+      "away_team": "Curaçao",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.19,
+        "draw": 9.0,
+        "away": 22.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "29",
+      "date_timestamp": null,
+      "date_str": "Jun 25, 4:00pm",
+      "home_team": "Curaçao",
+      "away_team": "Ivory Coast",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 16.0,
+        "draw": 8.5,
+        "away": 1.16
+      },
+      "result": 0
+    },
+    {
+      "id": "30",
+      "date_timestamp": null,
+      "date_str": "Jun 25, 4:00pm",
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.4,
+        "away": 1.95
+      },
+      "result": 0
+    },
+    {
+      "id": "31",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 4:00pm",
+      "home_team": "Netherlands",
+      "away_team": "Japan",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.5,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "32",
+      "date_timestamp": null,
+      "date_str": "Jun 14, 10:00pm",
+      "home_team": "Sweden",
+      "away_team": "Tunisia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.4,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "33",
+      "date_timestamp": null,
+      "date_str": "Jun 20, 1:00pm",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 4.1,
+        "away": 4.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "34",
+      "date_timestamp": null,
+      "date_str": "Jun 21, 12:00am",
+      "home_team": "Tunisia",
+      "away_team": "Japan",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 8.5,
+        "draw": 4.5,
+        "away": 1.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "35",
+      "date_timestamp": null,
+      "date_str": "Jun 25, 7:00pm",
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.5,
+        "away": 3.9
+      },
+      "result": 0
+    },
+    {
+      "id": "36",
+      "date_timestamp": null,
+      "date_str": "Jun 25, 7:00pm",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 15.0,
+        "draw": 6.55,
+        "away": 1.1
+      },
+      "result": 0
+    },
+    {
+      "id": "37",
+      "date_timestamp": null,
+      "date_str": "Jun 15, 3:00pm",
+      "home_team": "Belgium",
+      "away_team": "Egypt",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.1,
+        "away": 5.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "38",
+      "date_timestamp": null,
+      "date_str": "Jun 15, 9:00pm",
+      "home_team": "Iran",
+      "away_team": "New Zealand",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.44,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "39",
+      "date_timestamp": null,
+      "date_str": "Jun 21, 3:00pm",
+      "home_team": "Belgium",
+      "away_team": "Iran",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.55,
+        "away": 8.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "40",
+      "date_timestamp": null,
+      "date_str": "Jun 21, 9:00pm",
+      "home_team": "New Zealand",
+      "away_team": "Egypt",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 6.1,
+        "draw": 3.9,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "41",
+      "date_timestamp": null,
+      "date_str": "Jun 26, 11:00pm",
+      "home_team": "Egypt",
+      "away_team": "Iran",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 2.72,
+        "away": 3.68
+      },
+      "result": 0
+    },
+    {
+      "id": "42",
+      "date_timestamp": null,
+      "date_str": "Jun 26, 11:00pm",
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 16.0,
+        "draw": 5.8,
+        "away": 1.18
+      },
+      "result": 0
+    },
+    {
+      "id": "43",
+      "date_timestamp": null,
+      "date_str": "Jun 15, 12:00pm",
+      "home_team": "Spain",
+      "away_team": "Cape Verde",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 12.0,
+        "away": 22.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "44",
+      "date_timestamp": null,
+      "date_str": "Jun 15, 6:00pm",
+      "home_team": "Saudi Arabia",
+      "away_team": "Uruguay",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 4.4,
+        "away": 1.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "45",
+      "date_timestamp": null,
+      "date_str": "Jun 21, 12:00pm",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 12.5,
+        "away": 27.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "46",
+      "date_timestamp": null,
+      "date_str": "Jun 21, 6:00pm",
+      "home_team": "Uruguay",
+      "away_team": "Cape Verde",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.75,
+        "away": 10.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "47",
+      "date_timestamp": null,
+      "date_str": "Jun 26, 8:00pm",
+      "home_team": "Cape Verde",
+      "away_team": "Saudi Arabia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.4,
+        "away": 2.9
+      },
+      "result": 0
+    },
+    {
+      "id": "48",
+      "date_timestamp": null,
+      "date_str": "Jun 26, 8:00pm",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 4.1,
+        "away": 1.51
+      },
+      "result": 0
+    },
+    {
+      "id": "49",
+      "date_timestamp": null,
+      "date_str": "Jun 16, 3:00pm",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.5,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "50",
+      "date_timestamp": null,
+      "date_str": "Jun 16, 6:00pm",
+      "home_team": "Iraq",
+      "away_team": "Norway",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 18.5,
+        "draw": 6.9,
+        "away": 1.22
+      },
+      "result": "2"
+    },
+    {
+      "id": "51",
+      "date_timestamp": null,
+      "date_str": "Jun 22, 5:00pm",
+      "home_team": "France",
+      "away_team": "Iraq",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.11,
+        "draw": 12.0,
+        "away": 44.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "52",
+      "date_timestamp": null,
+      "date_str": "Jun 22, 8:00pm",
+      "home_team": "Norway",
+      "away_team": "Senegal",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.45,
+        "away": 2.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "53",
+      "date_timestamp": null,
+      "date_str": "Jun 26, 3:00pm",
+      "home_team": "Norway",
+      "away_team": "France",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 5.15,
+        "draw": 3.8,
+        "away": 1.9
+      },
+      "result": 0
+    },
+    {
+      "id": "54",
+      "date_timestamp": null,
+      "date_str": "Jun 26, 3:00pm",
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 5.35,
+        "away": 11.0
+      },
+      "result": 0
+    },
+    {
+      "id": "55",
+      "date_timestamp": null,
+      "date_str": "Jun 16, 9:00pm",
+      "home_team": "Argentina",
+      "away_team": "Algeria",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.25,
+        "away": 8.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "56",
+      "date_timestamp": null,
+      "date_str": "Jun 17, 12:00am",
+      "home_team": "Austria",
+      "away_team": "Jordan",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 4.5,
+        "away": 8.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "57",
+      "date_timestamp": null,
+      "date_str": "Jun 22, 1:00pm",
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.45,
+        "away": 7.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "58",
+      "date_timestamp": null,
+      "date_str": "Jun 22, 11:00pm",
+      "home_team": "Jordan",
+      "away_team": "Algeria",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.5,
+        "draw": 4.5,
+        "away": 1.53
+      },
+      "result": "2"
+    },
+    {
+      "id": "59",
+      "date_timestamp": null,
+      "date_str": "Jun 27, 10:00pm",
+      "home_team": "Algeria",
+      "away_team": "Austria",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 3.28,
+        "draw": 2.85,
+        "away": 2.62
+      },
+      "result": 0
+    },
+    {
+      "id": "60",
+      "date_timestamp": null,
+      "date_str": "Jun 27, 10:00pm",
+      "home_team": "Jordan",
+      "away_team": "Argentina",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 10.0,
+        "draw": 6.35,
+        "away": 1.17
+      },
+      "result": 0
+    },
+    {
+      "id": "61",
+      "date_timestamp": null,
+      "date_str": "Jun 17, 1:00pm",
+      "home_team": "Portugal",
+      "away_team": "DR Congo",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 5.75,
+        "away": 11.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "62",
+      "date_timestamp": null,
+      "date_str": "Jun 17, 10:00pm",
+      "home_team": "Uzbekistan",
+      "away_team": "Colombia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 4.6,
+        "away": 1.32
+      },
+      "result": "2"
+    },
+    {
+      "id": "63",
+      "date_timestamp": null,
+      "date_str": "Jun 23, 1:00pm",
+      "home_team": "Portugal",
+      "away_team": "Uzbekistan",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 9.0,
+        "away": 14.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "64",
+      "date_timestamp": null,
+      "date_str": "Jun 23, 10:00pm",
+      "home_team": "Colombia",
+      "away_team": "DR Congo",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.05,
+        "away": 7.0
+      },
+      "result": 0
+    },
+    {
+      "id": "65",
+      "date_timestamp": null,
+      "date_str": "Jun 27, 7:30pm",
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 3.58,
+        "draw": 3.42,
+        "away": 2.0
+      },
+      "result": 0
+    },
+    {
+      "id": "66",
+      "date_timestamp": null,
+      "date_str": "Jun 27, 7:30pm",
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.25,
+        "away": 3.1
+      },
+      "result": 0
+    },
+    {
+      "id": "67",
+      "date_timestamp": null,
+      "date_str": "Jun 17, 4:00pm",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.5,
+        "away": 4.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "68",
+      "date_timestamp": null,
+      "date_str": "Jun 17, 7:00pm",
+      "home_team": "Ghana",
+      "away_team": "Panama",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.35,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "69",
+      "date_timestamp": null,
+      "date_str": "Jun 23, 4:00pm",
+      "home_team": "England",
+      "away_team": "Ghana",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.24,
+        "draw": 7.5,
+        "away": 16.0
+      },
+      "result": 0
+    },
+    {
+      "id": "70",
+      "date_timestamp": null,
+      "date_str": "Jun 23, 7:00pm",
+      "home_team": "Panama",
+      "away_team": "Croatia",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 7.5,
+        "draw": 4.4,
+        "away": 1.53
+      },
+      "result": 0
+    },
+    {
+      "id": "71",
+      "date_timestamp": null,
+      "date_str": "Jun 27, 5:00pm",
+      "home_team": "Panama",
+      "away_team": "England",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 11.0,
+        "draw": 6.5,
+        "away": 1.21
+      },
+      "result": 0
+    },
+    {
+      "id": "72",
+      "date_timestamp": null,
+      "date_str": "Jun 27, 5:00pm",
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.84,
+        "away": 5.85
+      },
+      "result": 0
+    },
+    {
+      "id": "73",
+      "date_timestamp": null,
+      "date_str": "Jun 28, 3:00pm",
+      "home_team": "2nd Group A",
+      "away_team": "2nd Group B",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "74",
+      "date_timestamp": null,
+      "date_str": "Jun 29, 1:00pm",
+      "home_team": "1st Group C",
+      "away_team": "2nd Group F",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "75",
+      "date_timestamp": null,
+      "date_str": "Jun 29, 4:30pm",
+      "home_team": "1st Group E (Germany)",
+      "away_team": "Best 3rd (A/B/C/D/F)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "76",
+      "date_timestamp": null,
+      "date_str": "Jun 29, 9:00pm",
+      "home_team": "1st Group F",
+      "away_team": "2nd Group C",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "77",
+      "date_timestamp": null,
+      "date_str": "Jun 30, 1:00pm",
+      "home_team": "2nd Group E",
+      "away_team": "2nd Group I",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "78",
+      "date_timestamp": null,
+      "date_str": "Jun 30, 5:00pm",
+      "home_team": "1st Group I",
+      "away_team": "Best 3rd (C/D/F/G/H)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "79",
+      "date_timestamp": null,
+      "date_str": "Jun 30, 9:00pm",
+      "home_team": "1st Group A (Mexico)",
+      "away_team": "Best 3rd (C/E/F/H/I)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "80",
+      "date_timestamp": null,
+      "date_str": "Jul 1, 12:00pm",
+      "home_team": "1st Group L",
+      "away_team": "Best 3rd (E/H/I/J/K)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "81",
+      "date_timestamp": null,
+      "date_str": "Jul 1, 4:00pm",
+      "home_team": "1st Group G",
+      "away_team": "Best 3rd (A/E/H/I/J)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "82",
+      "date_timestamp": null,
+      "date_str": "Jul 1, 8:00pm",
+      "home_team": "1st Group D (USA)",
+      "away_team": "Best 3rd (B/E/F/I/J)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "83",
+      "date_timestamp": null,
+      "date_str": "Jul 2, 3:00pm",
+      "home_team": "1st Group H",
+      "away_team": "2nd Group J",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "84",
+      "date_timestamp": null,
+      "date_str": "Jul 2, 7:00pm",
+      "home_team": "2nd Group K",
+      "away_team": "2nd Group L",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "85",
+      "date_timestamp": null,
+      "date_str": "Jul 2, 11:00pm",
+      "home_team": "1st Group B",
+      "away_team": "Best 3rd (E/F/G/I/J)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "86",
+      "date_timestamp": null,
+      "date_str": "Jul 3, 2:00pm",
+      "home_team": "2nd Group D",
+      "away_team": "2nd Group G",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "87",
+      "date_timestamp": null,
+      "date_str": "Jul 3, 6:00pm",
+      "home_team": "1st Group J (Argentina)",
+      "away_team": "2nd Group H",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "88",
+      "date_timestamp": null,
+      "date_str": "Jul 3, 9:30pm",
+      "home_team": "1st Group K",
+      "away_team": "Best 3rd (D/E/I/J/L)",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "89",
+      "date_timestamp": null,
+      "date_str": "Jul 4, 1:00pm",
+      "home_team": "Winner M73",
+      "away_team": "Winner M75",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "90",
+      "date_timestamp": null,
+      "date_str": "Jul 4, 5:00pm",
+      "home_team": "Winner M74",
+      "away_team": "Winner M77",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "91",
+      "date_timestamp": null,
+      "date_str": "Jul 5, 4:00pm",
+      "home_team": "Winner M76",
+      "away_team": "Winner M78",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "92",
+      "date_timestamp": null,
+      "date_str": "Jul 5, 8:00pm",
+      "home_team": "Winner M79",
+      "away_team": "Winner M80",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "93",
+      "date_timestamp": null,
+      "date_str": "Jul 6, 3:00pm",
+      "home_team": "Winner M83",
+      "away_team": "Winner M84",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "94",
+      "date_timestamp": null,
+      "date_str": "Jul 6, 8:00pm",
+      "home_team": "Winner M81",
+      "away_team": "Winner M82",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "95",
+      "date_timestamp": null,
+      "date_str": "Jul 7, 12:00pm",
+      "home_team": "Winner M86",
+      "away_team": "Winner M88",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "96",
+      "date_timestamp": null,
+      "date_str": "Jul 7, 4:00pm",
+      "home_team": "Winner M85",
+      "away_team": "Winner M87",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "97",
+      "date_timestamp": null,
+      "date_str": "Jul 9, 4:00pm",
+      "home_team": "Winner M89",
+      "away_team": "Winner M90",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "98",
+      "date_timestamp": null,
+      "date_str": "Jul 10, 3:00pm",
+      "home_team": "Winner M93",
+      "away_team": "Winner M94",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "99",
+      "date_timestamp": null,
+      "date_str": "Jul 11, 5:00pm",
+      "home_team": "Winner M91",
+      "away_team": "Winner M92",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "100",
+      "date_timestamp": null,
+      "date_str": "Jul 11, 9:00pm",
+      "home_team": "Winner M95",
+      "away_team": "Winner M96",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "101",
+      "date_timestamp": null,
+      "date_str": "Jul 14, 3:00pm",
+      "home_team": "Winner M97",
+      "away_team": "Winner M98",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "102",
+      "date_timestamp": null,
+      "date_str": "Jul 15, 3:00pm",
+      "home_team": "Winner M99",
+      "away_team": "Winner M100",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "103",
+      "date_timestamp": null,
+      "date_str": "Jul 18, 5:00pm",
+      "home_team": "Loser M101",
+      "away_team": "Loser M102",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    },
+    {
+      "id": "104",
+      "date_timestamp": null,
+      "date_str": "Jul 19, 3:00pm",
+      "home_team": "Winner M101",
+      "away_team": "Winner M102",
+      "home_ppg": 0,
+      "away_ppg": 0,
+      "status": 0,
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "result": 0
+    }
+  ]
+}
