@@ -1,0 +1,6109 @@
+{
+  "generated_at": "2026-07-07T15:40:47.465452+00:00",
+  "source": "https://footystats.org/france/ligue-1/fixtures",
+  "league": "France Ligue 1 Fixtures",
+  "country": "France",
+  "season": "2025/26",
+  "fixtures": [
+    {
+      "id": "8206507",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Lorient",
+      "away_team": "Le Havre",
+      "home_ppg": 1.88,
+      "away_ppg": 0.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.46,
+        "draw": 3.25,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360545",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Lens",
+      "home_ppg": 2.31,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 4.2,
+        "away": 4.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360554",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Nice",
+      "away_team": "Metz",
+      "home_ppg": 1.19,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 5.6,
+        "away": 8.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360555",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Rennes",
+      "home_ppg": 2.13,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 4.0,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360564",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Strasbourg",
+      "away_team": "Monaco",
+      "home_ppg": 1.69,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.85,
+        "away": 2.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360565",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Lille",
+      "away_team": "Auxerre",
+      "home_ppg": 1.81,
+      "away_ppg": 0.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.8,
+        "away": 7.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360567",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Paris",
+      "away_team": "PSG",
+      "home_ppg": 1.38,
+      "away_ppg": 2.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 4.5,
+        "away": 1.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360568",
+      "date_timestamp": null,
+      "date_str": "May 17, 8:00pm",
+      "home_team": "Brest",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.56,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.75,
+        "away": 4.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206485",
+      "date_timestamp": null,
+      "date_str": "May 13, 8:00pm",
+      "home_team": "Lens",
+      "away_team": "PSG",
+      "home_ppg": 2.63,
+      "away_ppg": 2.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.8,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206544",
+      "date_timestamp": null,
+      "date_str": "May 13, 6:00pm",
+      "home_team": "Brest",
+      "away_team": "Strasbourg",
+      "home_ppg": 1.67,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.5,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206494",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "Metz",
+      "away_team": "Lorient",
+      "home_ppg": 0.63,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.77,
+        "draw": 3.58,
+        "away": 2.08
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206496",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "Auxerre",
+      "away_team": "Nice",
+      "home_ppg": 1.19,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.4,
+        "away": 2.87
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206497",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "Le Havre",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 1.44,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.13,
+        "draw": 3.68,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206499",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "Angers SCO",
+      "away_team": "Strasbourg",
+      "home_ppg": 1.38,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.5,
+        "away": 2.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206500",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "Monaco",
+      "away_team": "Lille",
+      "home_ppg": 2.0,
+      "away_ppg": 1.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.72,
+        "away": 2.65
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360550",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "PSG",
+      "away_team": "Brest",
+      "home_ppg": 2.38,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.14,
+        "draw": 7.5,
+        "away": 10.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360566",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "Rennes",
+      "away_team": "Paris",
+      "home_ppg": 1.94,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.74,
+        "away": 5.49
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360570",
+      "date_timestamp": null,
+      "date_str": "May 10, 8:00pm",
+      "home_team": "Toulouse",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.31,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.96,
+        "draw": 3.55,
+        "away": 1.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360551",
+      "date_timestamp": null,
+      "date_str": "May 8, 7:45pm",
+      "home_team": "Lens",
+      "away_team": "Nantes",
+      "home_ppg": 2.6,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 5.0,
+        "away": 6.47
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206493",
+      "date_timestamp": null,
+      "date_str": "May 3, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Rennes",
+      "home_ppg": 2.27,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.7,
+        "away": 3.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206360",
+      "date_timestamp": null,
+      "date_str": "May 3, 4:15pm",
+      "home_team": "Paris",
+      "away_team": "Brest",
+      "home_ppg": 1.27,
+      "away_ppg": 0.87,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.76,
+        "away": 3.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206512",
+      "date_timestamp": null,
+      "date_str": "May 3, 4:15pm",
+      "home_team": "Strasbourg",
+      "away_team": "Toulouse",
+      "home_ppg": 1.8,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.45,
+        "away": 2.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206526",
+      "date_timestamp": null,
+      "date_str": "May 3, 4:15pm",
+      "home_team": "Auxerre",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.07,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.75,
+        "away": 5.69
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206538",
+      "date_timestamp": null,
+      "date_str": "May 3, 2:00pm",
+      "home_team": "Lille",
+      "away_team": "Le Havre",
+      "home_ppg": 1.87,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.66,
+        "away": 8.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206527",
+      "date_timestamp": null,
+      "date_str": "May 2, 8:05pm",
+      "home_team": "Nice",
+      "away_team": "Lens",
+      "home_ppg": 1.2,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.68,
+        "draw": 4.25,
+        "away": 1.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206541",
+      "date_timestamp": null,
+      "date_str": "May 2, 6:00pm",
+      "home_team": "Metz",
+      "away_team": "Monaco",
+      "home_ppg": 0.67,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.4,
+        "draw": 5.4,
+        "away": 1.37
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206515",
+      "date_timestamp": null,
+      "date_str": "May 2, 4:00pm",
+      "home_team": "PSG",
+      "away_team": "Lorient",
+      "home_ppg": 2.47,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 5.5,
+        "away": 7.88
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206549",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:00pm",
+      "home_team": "Nantes",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 0.6,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.54,
+        "draw": 4.21,
+        "away": 1.62
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206492",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 7:45pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Nice",
+      "home_ppg": 2.2,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.4,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206513",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:15pm",
+      "home_team": "Paris",
+      "away_team": "Lille",
+      "home_ppg": 1.36,
+      "away_ppg": 1.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.68,
+        "draw": 3.9,
+        "away": 1.68
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206514",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Metz",
+      "home_ppg": 1.47,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.51,
+        "away": 5.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206546",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:15pm",
+      "home_team": "Rennes",
+      "away_team": "Nantes",
+      "home_ppg": 1.87,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.5,
+        "away": 6.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206548",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:00pm",
+      "home_team": "Lorient",
+      "away_team": "Strasbourg",
+      "home_ppg": 2.0,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.7,
+        "away": 3.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206511",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 8:05pm",
+      "home_team": "Toulouse",
+      "away_team": "Monaco",
+      "home_ppg": 1.33,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.3,
+        "draw": 3.43,
+        "away": 1.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206490",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 6:00pm",
+      "home_team": "Angers SCO",
+      "away_team": "PSG",
+      "home_ppg": 1.47,
+      "away_ppg": 2.07,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 10.5,
+        "draw": 6.5,
+        "away": 1.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206525",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:00pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Auxerre",
+      "home_ppg": 2.21,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 4.1,
+        "away": 5.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206491",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 7:45pm",
+      "home_team": "Brest",
+      "away_team": "Lens",
+      "home_ppg": 1.71,
+      "away_ppg": 1.64,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 4.36,
+        "away": 1.68
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206472",
+      "date_timestamp": null,
+      "date_str": "Apr 22, 6:00pm",
+      "home_team": "PSG",
+      "away_team": "Nantes",
+      "home_ppg": 2.43,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.17,
+        "draw": 7.75,
+        "away": 14.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206487",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 7:45pm",
+      "home_team": "PSG",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 2.62,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 5.95,
+        "away": 9.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206517",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:15pm",
+      "home_team": "Strasbourg",
+      "away_team": "Rennes",
+      "home_ppg": 1.93,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.79,
+        "draw": 4.0,
+        "away": 1.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206537",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Paris",
+      "home_ppg": 0.71,
+      "away_ppg": 1.07,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.48,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206545",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 4:15pm",
+      "home_team": "Nantes",
+      "away_team": "Brest",
+      "home_ppg": 0.57,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.34,
+        "draw": 3.27,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206489",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00pm",
+      "home_team": "Monaco",
+      "away_team": "Auxerre",
+      "home_ppg": 2.07,
+      "away_ppg": 0.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.4,
+        "away": 5.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206523",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 8:05pm",
+      "home_team": "Lille",
+      "away_team": "Nice",
+      "home_ppg": 1.93,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.5,
+        "away": 5.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206524",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 6:00pm",
+      "home_team": "Angers SCO",
+      "away_team": "Le Havre",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.75,
+        "away": 2.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206547",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 4:00pm",
+      "home_team": "Lorient",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 1.93,
+      "away_ppg": 1.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.75,
+        "draw": 3.97,
+        "away": 1.56
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206488",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 7:45pm",
+      "home_team": "Lens",
+      "away_team": "Toulouse",
+      "home_ppg": 2.57,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.74,
+        "away": 7.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206521",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Lorient",
+      "home_ppg": 2.15,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.25,
+        "away": 5.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206483",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 4:15pm",
+      "home_team": "Nice",
+      "away_team": "Le Havre",
+      "home_ppg": 1.21,
+      "away_ppg": 0.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.4,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206520",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 4:15pm",
+      "home_team": "Toulouse",
+      "away_team": "Lille",
+      "home_ppg": 1.43,
+      "away_ppg": 1.64,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.2,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206522",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 8:05pm",
+      "home_team": "Rennes",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.79,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 5.05,
+        "away": 9.34
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206484",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 6:00pm",
+      "home_team": "Auxerre",
+      "away_team": "Nantes",
+      "home_ppg": 1.07,
+      "away_ppg": 0.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.35,
+        "away": 4.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206486",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 8:05pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Metz",
+      "home_ppg": 2.14,
+      "away_ppg": 0.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.3,
+        "away": 10.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206530",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 6:00pm",
+      "home_team": "Paris",
+      "away_team": "Monaco",
+      "home_ppg": 1.23,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.86,
+        "draw": 3.8,
+        "away": 1.91
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206482",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 7:45pm",
+      "home_team": "Monaco",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 2.0,
+      "away_ppg": 1.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.8,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206531",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Nantes",
+      "home_ppg": 0.69,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.88,
+        "draw": 3.3,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206533",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 4:15pm",
+      "home_team": "Lorient",
+      "away_team": "Paris",
+      "home_ppg": 2.0,
+      "away_ppg": 1.07,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.3,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206539",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Auxerre",
+      "home_ppg": 1.5,
+      "away_ppg": 0.54,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.52,
+        "draw": 3.06,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206535",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 2:00pm",
+      "home_team": "Angers SCO",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.54,
+      "away_ppg": 1.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.2,
+        "draw": 3.8,
+        "away": 1.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206542",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 8:05pm",
+      "home_team": "Lille",
+      "away_team": "Lens",
+      "home_ppg": 1.85,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.4,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206519",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 6:00pm",
+      "home_team": "Brest",
+      "away_team": "Rennes",
+      "home_ppg": 1.85,
+      "away_ppg": 1.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.4,
+        "away": 2.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206540",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 4:00pm",
+      "home_team": "Strasbourg",
+      "away_team": "Nice",
+      "home_ppg": 1.85,
+      "away_ppg": 0.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.7,
+        "away": 4.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206543",
+      "date_timestamp": null,
+      "date_str": "Apr 3, 7:45pm",
+      "home_team": "PSG",
+      "away_team": "Toulouse",
+      "home_ppg": 2.58,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.0,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206476",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 7:45pm",
+      "home_team": "Nantes",
+      "away_team": "Strasbourg",
+      "home_ppg": 0.62,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.5,
+        "away": 2.17
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206362",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 4:15pm",
+      "home_team": "Paris",
+      "away_team": "Le Havre",
+      "home_ppg": 1.08,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.15,
+        "away": 3.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206477",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 4:15pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Lille",
+      "home_ppg": 2.31,
+      "away_ppg": 1.54,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.7,
+        "away": 4.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206479",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 4:15pm",
+      "home_team": "Rennes",
+      "away_team": "Metz",
+      "home_ppg": 1.85,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.5,
+        "away": 8.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206475",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:00pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Monaco",
+      "home_ppg": 2.33,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.4,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206480",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 8:05pm",
+      "home_team": "Nice",
+      "away_team": "PSG",
+      "home_ppg": 1.31,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 6.25,
+        "draw": 4.75,
+        "away": 1.47
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206478",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 6:00pm",
+      "home_team": "Auxerre",
+      "away_team": "Brest",
+      "home_ppg": 0.92,
+      "away_ppg": 0.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.2,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206474",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 4:00pm",
+      "home_team": "Toulouse",
+      "away_team": "Lorient",
+      "home_ppg": 1.31,
+      "away_ppg": 0.85,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.4,
+        "away": 4.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206481",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 7:45pm",
+      "home_team": "Lens",
+      "away_team": "Angers SCO",
+      "home_ppg": 2.54,
+      "away_ppg": 0.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.5,
+        "away": 14.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206468",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 7:45pm",
+      "home_team": "Rennes",
+      "away_team": "Lille",
+      "home_ppg": 2.0,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.15,
+        "away": 3.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206466",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.54,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.59,
+        "draw": 3.35,
+        "away": 2.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206470",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Toulouse",
+      "home_ppg": 0.75,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.89,
+        "draw": 3.15,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206473",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "Strasbourg",
+      "away_team": "Paris",
+      "home_ppg": 1.92,
+      "away_ppg": 1.08,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.8,
+        "away": 4.58
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206467",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 8:05pm",
+      "home_team": "Monaco",
+      "away_team": "Brest",
+      "home_ppg": 1.92,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 4.3,
+        "away": 5.06
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206471",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 6:00pm",
+      "home_team": "Angers SCO",
+      "away_team": "Nice",
+      "home_ppg": 1.67,
+      "away_ppg": 0.58,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.06,
+        "away": 2.36
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206469",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 4:00pm",
+      "home_team": "Lorient",
+      "away_team": "Lens",
+      "home_ppg": 1.92,
+      "away_ppg": 1.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.0,
+        "away": 1.64
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206465",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 7:45pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Auxerre",
+      "home_ppg": 2.25,
+      "away_ppg": 0.58,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.91,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206459",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Paris",
+      "home_ppg": 2.45,
+      "away_ppg": 1.08,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.7,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206461",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 4:15pm",
+      "home_team": "Lille",
+      "away_team": "Lorient",
+      "home_ppg": 1.92,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.33,
+        "away": 6.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206463",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 4:15pm",
+      "home_team": "Nice",
+      "away_team": "Rennes",
+      "home_ppg": 1.42,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.5,
+        "away": 2.61
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206464",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 4:15pm",
+      "home_team": "Brest",
+      "away_team": "Le Havre",
+      "home_ppg": 1.75,
+      "away_ppg": 0.55,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.61,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206462",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 2:00pm",
+      "home_team": "Lens",
+      "away_team": "Metz",
+      "home_ppg": 2.5,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.9,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206460",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 8:05pm",
+      "home_team": "Toulouse",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 1.42,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.5,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206458",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 6:00pm",
+      "home_team": "Auxerre",
+      "away_team": "Strasbourg",
+      "home_ppg": 0.92,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.5,
+        "away": 1.87
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206456",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 4:00pm",
+      "home_team": "Nantes",
+      "away_team": "Angers SCO",
+      "home_ppg": 0.67,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.06,
+        "draw": 3.0,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206457",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 7:45pm",
+      "home_team": "PSG",
+      "away_team": "Monaco",
+      "home_ppg": 2.82,
+      "away_ppg": 1.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 6.0,
+        "away": 7.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206452",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 7:45pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 2.18,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.99,
+        "away": 3.84
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206450",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 4:15pm",
+      "home_team": "Lille",
+      "away_team": "Nantes",
+      "home_ppg": 1.82,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 5.07,
+        "away": 8.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206454",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 4:15pm",
+      "home_team": "Lorient",
+      "away_team": "Auxerre",
+      "home_ppg": 2.0,
+      "away_ppg": 0.55,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.51,
+        "away": 4.17
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206455",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Brest",
+      "home_ppg": 0.82,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.23,
+        "draw": 3.64,
+        "away": 2.32
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206363",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:00pm",
+      "home_team": "Paris",
+      "away_team": "Nice",
+      "home_ppg": 0.91,
+      "away_ppg": 0.64,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.52,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206453",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 8:05pm",
+      "home_team": "Le Havre",
+      "away_team": "PSG",
+      "home_ppg": 1.67,
+      "away_ppg": 1.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 10.5,
+        "draw": 6.15,
+        "away": 1.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206448",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 6:00pm",
+      "home_team": "Monaco",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.83,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.6,
+        "away": 6.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206449",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 4:00pm",
+      "home_team": "Rennes",
+      "away_team": "Toulouse",
+      "home_ppg": 1.91,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.54,
+        "away": 3.84
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206451",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 7:45pm",
+      "home_team": "Strasbourg",
+      "away_team": "Lens",
+      "home_ppg": 2.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.5,
+        "away": 2.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360559",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 7:45pm",
+      "home_team": "Strasbourg",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.9,
+      "away_ppg": 1.64,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 3.5,
+        "away": 2.78
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206441",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Lille",
+      "home_ppg": 1.82,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.24,
+        "draw": 3.5,
+        "away": 1.93
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206445",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 4:15pm",
+      "home_team": "Nantes",
+      "away_team": "Le Havre",
+      "home_ppg": 0.45,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 2.93,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206446",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 4:15pm",
+      "home_team": "Nice",
+      "away_team": "Lorient",
+      "home_ppg": 1.45,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.4,
+        "away": 3.42
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206444",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:00pm",
+      "home_team": "Auxerre",
+      "away_team": "Rennes",
+      "home_ppg": 1.0,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.4,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206442",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 8:05pm",
+      "home_team": "PSG",
+      "away_team": "Metz",
+      "home_ppg": 2.8,
+      "away_ppg": 0.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.16,
+        "draw": 8.8,
+        "away": 16.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206447",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 6:00pm",
+      "home_team": "Toulouse",
+      "away_team": "Paris",
+      "home_ppg": 1.45,
+      "away_ppg": 1.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.28,
+        "away": 3.96
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206439",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 4:00pm",
+      "home_team": "Lens",
+      "away_team": "Monaco",
+      "home_ppg": 2.73,
+      "away_ppg": 0.9,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 4.35,
+        "away": 4.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206440",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 7:45pm",
+      "home_team": "Brest",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 1.64,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.04,
+        "draw": 3.9,
+        "away": 1.94
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360553",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Nice",
+      "home_ppg": 2.4,
+      "away_ppg": 0.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.8,
+        "away": 4.44
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206431",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 4:15pm",
+      "home_team": "Lorient",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.9,
+      "away_ppg": 0.9,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.1,
+        "away": 4.33
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360571",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Auxerre",
+      "home_ppg": 0.9,
+      "away_ppg": 0.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.1,
+        "away": 2.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360541",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 2:00pm",
+      "home_team": "Le Havre",
+      "away_team": "Toulouse",
+      "home_ppg": 1.55,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 2.93,
+        "away": 2.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360544",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 8:05pm",
+      "home_team": "Paris",
+      "away_team": "Lens",
+      "home_ppg": 1.0,
+      "away_ppg": 1.9,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.55,
+        "away": 1.94
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360572",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 6:00pm",
+      "home_team": "Lille",
+      "away_team": "Brest",
+      "home_ppg": 1.9,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.2,
+        "away": 5.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360563",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 4:00pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Strasbourg",
+      "home_ppg": 2.3,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.9,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206433",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 8:05pm",
+      "home_team": "Monaco",
+      "away_team": "Nantes",
+      "home_ppg": 1.73,
+      "away_ppg": 0.9,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.75,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360546",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 6:00pm",
+      "home_team": "Rennes",
+      "away_team": "PSG",
+      "home_ppg": 1.8,
+      "away_ppg": 2.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.4,
+        "draw": 5.4,
+        "away": 1.44
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360574",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 7:45pm",
+      "home_team": "PSG",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 2.78,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.8,
+        "away": 5.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206421",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Strasbourg",
+      "home_ppg": 1.4,
+      "away_ppg": 1.1,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.35,
+        "away": 1.99
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206423",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Toulouse",
+      "home_ppg": 1.7,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.2,
+        "away": 1.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206425",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 4:15pm",
+      "home_team": "Auxerre",
+      "away_team": "Paris",
+      "home_ppg": 1.0,
+      "away_ppg": 1.1,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.2,
+        "away": 2.63
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360575",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 2:00pm",
+      "home_team": "Nice",
+      "away_team": "Monaco",
+      "home_ppg": 1.5,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 3.85,
+        "away": 2.12
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360549",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 8:05pm",
+      "home_team": "Nantes",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 0.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.8,
+        "draw": 3.6,
+        "away": 1.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360573",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 6:00pm",
+      "home_team": "Brest",
+      "away_team": "Lorient",
+      "home_ppg": 1.5,
+      "away_ppg": 0.9,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.12,
+        "draw": 3.05,
+        "away": 3.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360561",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 4:00pm",
+      "home_team": "Lens",
+      "away_team": "Rennes",
+      "home_ppg": 2.7,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.83,
+        "away": 3.97
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360547",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 7:45pm",
+      "home_team": "Metz",
+      "away_team": "Lille",
+      "home_ppg": 0.89,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 6.18,
+        "draw": 4.25,
+        "away": 1.52
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360562",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 7:45pm",
+      "home_team": "Strasbourg",
+      "away_team": "PSG",
+      "home_ppg": 2.11,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.2,
+        "away": 1.57
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206414",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Metz",
+      "home_ppg": 1.56,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.4,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360543",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 4:15pm",
+      "home_team": "Nice",
+      "away_team": "Brest",
+      "home_ppg": 1.56,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.4,
+        "away": 3.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360576",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 4:15pm",
+      "home_team": "Toulouse",
+      "away_team": "Auxerre",
+      "home_ppg": 1.5,
+      "away_ppg": 0.22,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.59,
+        "draw": 3.35,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360552",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:00pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Lille",
+      "home_ppg": 2.33,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.66,
+        "away": 3.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206427",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 8:05pm",
+      "home_team": "Monaco",
+      "away_team": "Rennes",
+      "home_ppg": 1.6,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.92,
+        "away": 3.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360542",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 6:00pm",
+      "home_team": "Lorient",
+      "away_team": "Nantes",
+      "home_ppg": 1.78,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.51,
+        "away": 4.09
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360577",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 4:00pm",
+      "home_team": "Paris",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 1.0,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.5,
+        "away": 1.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360560",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 7:45pm",
+      "home_team": "Lens",
+      "away_team": "Le Havre",
+      "home_ppg": 2.67,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 4.9,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8360580",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 7:45pm",
+      "home_team": "Lille",
+      "away_team": "Strasbourg",
+      "home_ppg": 2.11,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.55,
+        "away": 2.99
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360548",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 4:15pm",
+      "home_team": "Brest",
+      "away_team": "Toulouse",
+      "home_ppg": 1.67,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.02,
+        "away": 2.67
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360557",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 4:15pm",
+      "home_team": "Paris",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.0,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.3,
+        "away": 4.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360579",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "odds": {
+        "home": 4.9,
+        "draw": 3.8,
+        "away": 1.64
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360558",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:00pm",
+      "home_team": "Nantes",
+      "away_team": "Nice",
+      "home_ppg": 0.56,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.55,
+        "away": 2.34
+      },
+      "result": "2"
+    },
+    {
+      "id": "8360578",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 8:05pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Lens",
+      "home_ppg": 2.22,
+      "away_ppg": 2.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.8,
+        "away": 3.54
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206368",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 6:00pm",
+      "home_team": "Le Havre",
+      "away_team": "Monaco",
+      "home_ppg": 1.44,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.61,
+        "draw": 3.81,
+        "away": 1.89
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360556",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 4:00pm",
+      "home_team": "Rennes",
+      "away_team": "Lorient",
+      "home_ppg": 2.0,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.62,
+        "away": 4.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206412",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 7:00pm",
+      "home_team": "Auxerre",
+      "away_team": "PSG",
+      "home_ppg": 1.11,
+      "away_ppg": 1.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 9.3,
+        "draw": 5.75,
+        "away": 1.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206566",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Brest",
+      "home_ppg": 2.25,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.92,
+        "away": 5.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206562",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 4:15pm",
+      "home_team": "Nantes",
+      "away_team": "Paris",
+      "home_ppg": 0.63,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.98,
+        "draw": 3.2,
+        "away": 2.49
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206648",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 4:15pm",
+      "home_team": "Rennes",
+      "away_team": "Le Havre",
+      "home_ppg": 2.13,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 4.1,
+        "away": 5.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206567",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 2:00pm",
+      "home_team": "Strasbourg",
+      "away_team": "Metz",
+      "home_ppg": 2.0,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.8,
+        "away": 7.44
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206646",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 8:05pm",
+      "home_team": "Angers SCO",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 1.75,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 4.13,
+        "away": 1.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206649",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 6:00pm",
+      "home_team": "Toulouse",
+      "away_team": "Nice",
+      "home_ppg": 1.33,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.5,
+        "away": 3.81
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206568",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 4:00pm",
+      "home_team": "Lens",
+      "away_team": "Auxerre",
+      "home_ppg": 2.63,
+      "away_ppg": 0.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.54,
+        "away": 7.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206647",
+      "date_timestamp": null,
+      "date_str": "Jan 16, 8:00pm",
+      "home_team": "PSG",
+      "away_team": "Lille",
+      "home_ppg": 2.75,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 6.0,
+        "away": 9.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206565",
+      "date_timestamp": null,
+      "date_str": "Jan 16, 6:00pm",
+      "home_team": "Monaco",
+      "away_team": "Lorient",
+      "home_ppg": 1.78,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 4.2,
+        "away": 4.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206374",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 7:45pm",
+      "home_team": "PSG",
+      "away_team": "Paris",
+      "home_ppg": 2.71,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.15,
+        "draw": 7.5,
+        "away": 19.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206561",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 4:15pm",
+      "home_team": "Brest",
+      "away_team": "Auxerre",
+      "home_ppg": 1.5,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.3,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206637",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 4:15pm",
+      "home_team": "Lorient",
+      "away_team": "Metz",
+      "home_ppg": 1.88,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 3.4,
+        "away": 3.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206645",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.2,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206563",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 2:00pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Nantes",
+      "home_ppg": 2.5,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 6.3,
+        "away": 11.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206640",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 8:05pm",
+      "home_team": "Lille",
+      "away_team": "Rennes",
+      "home_ppg": 2.38,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.9,
+        "away": 4.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206641",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 6:00pm",
+      "home_team": "Nice",
+      "away_team": "Strasbourg",
+      "home_ppg": 1.63,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.5,
+        "away": 2.42
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206644",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 4:00pm",
+      "home_team": "Monaco",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 2.0,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.7,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206564",
+      "date_timestamp": null,
+      "date_str": "Jan 2, 7:45pm",
+      "home_team": "Toulouse",
+      "away_team": "Lens",
+      "home_ppg": 1.5,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 2.96,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206642",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 7:45pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Monaco",
+      "home_ppg": 2.43,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.74,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206373",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 4:15pm",
+      "home_team": "Auxerre",
+      "away_team": "Lille",
+      "home_ppg": 1.25,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 4.14,
+        "draw": 3.34,
+        "away": 2.06
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206638",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 4:15pm",
+      "home_team": "Strasbourg",
+      "away_team": "Lorient",
+      "home_ppg": 2.14,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.5,
+        "away": 4.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206643",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 4:15pm",
+      "home_team": "Lens",
+      "away_team": "Nice",
+      "home_ppg": 2.57,
+      "away_ppg": 0.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.8,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206636",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:00pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Le Havre",
+      "home_ppg": 2.14,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 4.0,
+        "away": 5.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206358",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 8:05pm",
+      "home_team": "Paris",
+      "away_team": "Toulouse",
+      "home_ppg": 1.14,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.25,
+        "away": 2.96
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206635",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 6:00pm",
+      "home_team": "Metz",
+      "away_team": "PSG",
+      "home_ppg": 1.14,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 9.0,
+        "draw": 6.0,
+        "away": 1.29
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206639",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 4:00pm",
+      "home_team": "Rennes",
+      "away_team": "Brest",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.7,
+        "away": 4.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206371",
+      "date_timestamp": null,
+      "date_str": "Dec 12, 7:45pm",
+      "home_team": "Angers SCO",
+      "away_team": "Nantes",
+      "home_ppg": 1.57,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206628",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 7:45pm",
+      "home_team": "Lorient",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.71,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.25,
+        "away": 1.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206627",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 4:15pm",
+      "home_team": "Auxerre",
+      "away_team": "Metz",
+      "home_ppg": 1.0,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.81,
+        "draw": 3.54,
+        "away": 3.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206634",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Paris",
+      "home_ppg": 1.29,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.57,
+        "draw": 3.2,
+        "away": 2.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206560",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 2:00pm",
+      "home_team": "Nice",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.86,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.6,
+        "away": 4.06
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206559",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 8:05pm",
+      "home_team": "PSG",
+      "away_team": "Rennes",
+      "home_ppg": 2.67,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.17,
+        "draw": 6.25,
+        "away": 9.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206623",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 6:00pm",
+      "home_team": "Toulouse",
+      "away_team": "Strasbourg",
+      "home_ppg": 1.29,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.15,
+        "away": 2.78
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206632",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 4:00pm",
+      "home_team": "Nantes",
+      "away_team": "Lens",
+      "home_ppg": 0.71,
+      "away_ppg": 1.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.92,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206631",
+      "date_timestamp": null,
+      "date_str": "Dec 5, 8:00pm",
+      "home_team": "Lille",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 2.29,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.56,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206622",
+      "date_timestamp": null,
+      "date_str": "Dec 5, 6:00pm",
+      "home_team": "Brest",
+      "away_team": "Monaco",
+      "home_ppg": 1.29,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.8,
+        "away": 2.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206626",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Nantes",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.74,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206372",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Lille",
+      "home_ppg": 1.5,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.35,
+        "draw": 3.6,
+        "away": 1.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206629",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Lens",
+      "home_ppg": 1.83,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.76,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206633",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 4:15pm",
+      "home_team": "Lorient",
+      "away_team": "Nice",
+      "home_ppg": 1.5,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.23,
+        "draw": 3.38,
+        "away": 2.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206558",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:00pm",
+      "home_team": "Strasbourg",
+      "away_team": "Brest",
+      "home_ppg": 2.5,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.5,
+        "away": 4.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206556",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 8:05pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Toulouse",
+      "home_ppg": 2.67,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 4.0,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206557",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 6:00pm",
+      "home_team": "Paris",
+      "away_team": "Auxerre",
+      "home_ppg": 1.17,
+      "away_ppg": 0.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.45,
+        "away": 4.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206621",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 4:00pm",
+      "home_team": "Monaco",
+      "away_team": "PSG",
+      "home_ppg": 1.86,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.2,
+        "draw": 4.3,
+        "away": 1.67
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206630",
+      "date_timestamp": null,
+      "date_str": "Nov 28, 7:45pm",
+      "home_team": "Metz",
+      "away_team": "Rennes",
+      "home_ppg": 1.33,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.02,
+        "draw": 3.82,
+        "away": 1.87
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206610",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 7:45pm",
+      "home_team": "Lille",
+      "away_team": "Paris",
+      "home_ppg": 2.17,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.85,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206555",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 4:15pm",
+      "home_team": "Brest",
+      "away_team": "Metz",
+      "home_ppg": 1.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.55,
+        "away": 4.64
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206607",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 4:15pm",
+      "home_team": "Nantes",
+      "away_team": "Lorient",
+      "home_ppg": 0.67,
+      "away_ppg": 0.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.87,
+        "draw": 3.3,
+        "away": 2.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206620",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 4:15pm",
+      "home_team": "Toulouse",
+      "away_team": "Angers SCO",
+      "home_ppg": 1.5,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.76,
+        "away": 5.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206604",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 2:00pm",
+      "home_team": "Auxerre",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.58,
+        "draw": 3.38,
+        "away": 2.13
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206611",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 8:05pm",
+      "home_team": "PSG",
+      "away_team": "Le Havre",
+      "home_ppg": 2.6,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.14,
+        "draw": 8.6,
+        "away": 14.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206614",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 6:00pm",
+      "home_team": "Rennes",
+      "away_team": "Monaco",
+      "home_ppg": 1.83,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.51,
+        "draw": 3.67,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206619",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 4:00pm",
+      "home_team": "Lens",
+      "away_team": "Strasbourg",
+      "home_ppg": 2.5,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.68,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206370",
+      "date_timestamp": null,
+      "date_str": "Nov 21, 7:45pm",
+      "home_team": "Nice",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 2.17,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.5,
+        "away": 1.93
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206609",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "PSG",
+      "home_ppg": 2.4,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.9,
+        "away": 1.78
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206553",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Auxerre",
+      "home_ppg": 1.6,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.0,
+        "away": 2.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206618",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 4:15pm",
+      "home_team": "Strasbourg",
+      "away_team": "Lille",
+      "home_ppg": 2.4,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.77,
+        "draw": 3.45,
+        "away": 2.56
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206625",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Nice",
+      "home_ppg": 1.0,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.5,
+        "away": 2.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206617",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Lorient",
+      "away_team": "Toulouse",
+      "home_ppg": 1.6,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.25,
+        "away": 2.29
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206613",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 8:05pm",
+      "home_team": "Monaco",
+      "away_team": "Lens",
+      "home_ppg": 2.17,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.9,
+        "away": 3.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206624",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 6:00pm",
+      "home_team": "Le Havre",
+      "away_team": "Nantes",
+      "home_ppg": 1.6,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.25,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8360581",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 4:00pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Brest",
+      "home_ppg": 2.6,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.75,
+        "away": 6.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206615",
+      "date_timestamp": null,
+      "date_str": "Nov 7, 7:45pm",
+      "home_team": "Paris",
+      "away_team": "Rennes",
+      "home_ppg": 1.4,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.58,
+        "away": 2.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206402",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 7:45pm",
+      "home_team": "Brest",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.0,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.98,
+        "draw": 3.55,
+        "away": 2.21
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206397",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 4:15pm",
+      "home_team": "Nantes",
+      "away_team": "Metz",
+      "home_ppg": 0.8,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.5,
+        "away": 3.74
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206398",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 4:15pm",
+      "home_team": "Toulouse",
+      "away_team": "Le Havre",
+      "home_ppg": 1.6,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 3.72,
+        "away": 4.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206400",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 4:15pm",
+      "home_team": "Lille",
+      "away_team": "Angers SCO",
+      "home_ppg": 2.0,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 5.3,
+        "away": 10.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206403",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 4:15pm",
+      "home_team": "Lens",
+      "away_team": "Lorient",
+      "home_ppg": 2.4,
+      "away_ppg": 0.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.2,
+        "away": 5.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206405",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 2:00pm",
+      "home_team": "Rennes",
+      "away_team": "Strasbourg",
+      "home_ppg": 1.6,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.5,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206404",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 8:05pm",
+      "home_team": "Auxerre",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 1.2,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.82,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206401",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 6:00pm",
+      "home_team": "Monaco",
+      "away_team": "Paris",
+      "home_ppg": 2.6,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.6,
+        "away": 6.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206399",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 4:00pm",
+      "home_team": "PSG",
+      "away_team": "Nice",
+      "home_ppg": 2.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 5.5,
+        "away": 7.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206366",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 8:05pm",
+      "home_team": "Paris",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.41,
+        "draw": 3.4,
+        "away": 2.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206367",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 8:05pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Angers SCO",
+      "home_ppg": 3.0,
+      "away_ppg": 0.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 6.0,
+        "away": 12.24
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206605",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 8:05pm",
+      "home_team": "Strasbourg",
+      "away_team": "Auxerre",
+      "home_ppg": 2.25,
+      "away_ppg": 0.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.86,
+        "away": 4.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206606",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 8:05pm",
+      "home_team": "Toulouse",
+      "away_team": "Rennes",
+      "home_ppg": 1.75,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.4,
+        "away": 3.38
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206616",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 8:05pm",
+      "home_team": "Nantes",
+      "away_team": "Monaco",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 5
+      },
+      "odds": {
+        "home": 4.66,
+        "draw": 4.05,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206369",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 6:00pm",
+      "home_team": "Lorient",
+      "away_team": "PSG",
+      "home_ppg": 1.75,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 10.5,
+        "draw": 6.5,
+        "away": 1.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206554",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 6:00pm",
+      "home_team": "Nice",
+      "away_team": "Lille",
+      "home_ppg": 2.0,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.55,
+        "away": 2.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206608",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 6:00pm",
+      "home_team": "Le Havre",
+      "away_team": "Brest",
+      "home_ppg": 1.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.52,
+        "draw": 3.3,
+        "away": 2.52
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206612",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 6:00pm",
+      "home_team": "Metz",
+      "away_team": "Lens",
+      "home_ppg": 0.5,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 6.25,
+        "draw": 4.84,
+        "away": 1.44
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206388",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Strasbourg",
+      "home_ppg": 2.25,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.4,
+        "away": 3.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206390",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 4:15pm",
+      "home_team": "Auxerre",
+      "away_team": "Le Havre",
+      "home_ppg": 1.5,
+      "away_ppg": 0.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.3,
+        "away": 3.48
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206394",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 4:15pm",
+      "home_team": "Rennes",
+      "away_team": "Nice",
+      "home_ppg": 2.0,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.14,
+        "draw": 3.25,
+        "away": 3.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206395",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Lorient",
+      "home_ppg": 1.25,
+      "away_ppg": 0.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.54,
+        "draw": 2.9,
+        "away": 3.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206392",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:00pm",
+      "home_team": "Lille",
+      "away_team": "Metz",
+      "home_ppg": 1.75,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 5.5,
+        "away": 10.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206389",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 8:05pm",
+      "home_team": "Lens",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 2.25,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.47,
+        "away": 2.32
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206391",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 6:00pm",
+      "home_team": "Monaco",
+      "away_team": "Toulouse",
+      "home_ppg": 2.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 4.0,
+        "away": 4.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206393",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 4:00pm",
+      "home_team": "Brest",
+      "away_team": "PSG",
+      "home_ppg": 1.25,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 7.5,
+        "draw": 5.2,
+        "away": 1.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206396",
+      "date_timestamp": null,
+      "date_str": "Oct 24, 7:45pm",
+      "home_team": "Paris",
+      "away_team": "Nantes",
+      "home_ppg": 2.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.64,
+        "draw": 3.92,
+        "away": 4.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206383",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 7:45pm",
+      "home_team": "Nantes",
+      "away_team": "Lille",
+      "home_ppg": 1.33,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 3.61,
+        "away": 1.81
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206385",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 4:15pm",
+      "home_team": "Lorient",
+      "away_team": "Brest",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.31,
+        "away": 2.72
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206386",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 4:15pm",
+      "home_team": "Toulouse",
+      "away_team": "Metz",
+      "home_ppg": 1.33,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.0,
+        "away": 5.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206536",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 4:15pm",
+      "home_team": "Rennes",
+      "away_team": "Auxerre",
+      "home_ppg": 2.33,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.75,
+        "away": 4.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206387",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 2:00pm",
+      "home_team": "Lens",
+      "away_team": "Paris",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.7,
+        "away": 3.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206384",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 8:05pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Le Havre",
+      "home_ppg": 3.0,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 4.9,
+        "away": 7.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206534",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 6:00pm",
+      "home_team": "Angers SCO",
+      "away_team": "Monaco",
+      "home_ppg": 1.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.58,
+        "draw": 4.2,
+        "away": 1.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206518",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 4:00pm",
+      "home_team": "Nice",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 1.75,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.25,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206532",
+      "date_timestamp": null,
+      "date_str": "Oct 17, 7:45pm",
+      "home_team": "PSG",
+      "away_team": "Strasbourg",
+      "home_ppg": 3.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 5.9,
+        "away": 8.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206376",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 7:45pm",
+      "home_team": "Lille",
+      "away_team": "PSG",
+      "home_ppg": 2.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.92,
+        "away": 1.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206377",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 4:15pm",
+      "home_team": "Strasbourg",
+      "away_team": "Angers SCO",
+      "home_ppg": 2.0,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.55,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206378",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Rennes",
+      "home_ppg": 1.33,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.03,
+        "draw": 3.4,
+        "away": 2.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206382",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 4:15pm",
+      "home_team": "Monaco",
+      "away_team": "Nice",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 4.2,
+        "away": 4.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206528",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Toulouse",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.4,
+        "away": 4.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206529",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 8:05pm",
+      "home_team": "Auxerre",
+      "away_team": "Lens",
+      "home_ppg": 2.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 3.75,
+        "away": 1.95
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206381",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 6:00pm",
+      "home_team": "Brest",
+      "away_team": "Nantes",
+      "home_ppg": 1.33,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.58,
+        "away": 4.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206379",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 4:00pm",
+      "home_team": "Metz",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 0.67,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 6.09,
+        "draw": 4.3,
+        "away": 1.53
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206380",
+      "date_timestamp": null,
+      "date_str": "Oct 3, 7:45pm",
+      "home_team": "Paris",
+      "away_team": "Lorient",
+      "home_ppg": 1.5,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.8,
+        "away": 3.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206601",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 7:45pm",
+      "home_team": "Rennes",
+      "away_team": "Lens",
+      "home_ppg": 3.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.41,
+        "draw": 3.58,
+        "away": 2.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206573",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 4:15pm",
+      "home_team": "Lille",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 3.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 3.4,
+        "away": 2.83
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206584",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Brest",
+      "home_ppg": 2.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.36,
+        "draw": 3.35,
+        "away": 2.18
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206602",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Le Havre",
+      "home_ppg": 0.5,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.4,
+        "away": 2.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206596",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 2:00pm",
+      "home_team": "Nice",
+      "away_team": "Paris",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.7,
+        "away": 3.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206575",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 8:05pm",
+      "home_team": "PSG",
+      "away_team": "Auxerre",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.16,
+        "draw": 8.0,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206585",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 6:00pm",
+      "home_team": "Toulouse",
+      "away_team": "Nantes",
+      "home_ppg": 1.5,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.6,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206572",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 4:00pm",
+      "home_team": "Lorient",
+      "away_team": "Monaco",
+      "home_ppg": 1.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.9,
+        "away": 1.62
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206552",
+      "date_timestamp": null,
+      "date_str": "Sep 26, 7:45pm",
+      "home_team": "Strasbourg",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.63,
+        "draw": 3.68,
+        "away": 1.91
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206600",
+      "date_timestamp": null,
+      "date_str": "Sep 22, 7:00pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "PSG",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.34,
+        "draw": 3.8,
+        "away": 1.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206587",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Lorient",
+      "home_ppg": 1.5,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.4,
+        "away": 3.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206594",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 4:15pm",
+      "home_team": "Monaco",
+      "away_team": "Metz",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.75,
+        "away": 7.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206597",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 4:15pm",
+      "home_team": "Auxerre",
+      "away_team": "Toulouse",
+      "home_ppg": 1.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.3,
+        "away": 2.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206598",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 2:00pm",
+      "home_team": "Paris",
+      "away_team": "Strasbourg",
+      "home_ppg": 3.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.46,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206574",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 8:05pm",
+      "home_team": "Lens",
+      "away_team": "Lille",
+      "home_ppg": 1.5,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 3.39,
+        "away": 2.73
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206603",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 6:00pm",
+      "home_team": "Brest",
+      "away_team": "Nice",
+      "home_ppg": 0.5,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.49,
+        "draw": 3.39,
+        "away": 2.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206599",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 4:00pm",
+      "home_team": "Nantes",
+      "away_team": "Rennes",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.4,
+        "away": 2.12
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206595",
+      "date_timestamp": null,
+      "date_str": "Sep 19, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Angers SCO",
+      "home_ppg": 3.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.32,
+        "draw": 5.2,
+        "away": 8.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206583",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 7:45pm",
+      "home_team": "Rennes",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.2,
+        "away": 2.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206578",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 4:15pm",
+      "home_team": "Strasbourg",
+      "away_team": "Le Havre",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.75,
+        "away": 4.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206580",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 4:15pm",
+      "home_team": "PSG",
+      "away_team": "Lens",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 5.84,
+        "away": 7.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206592",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Angers SCO",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.3,
+        "away": 3.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206593",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 4:15pm",
+      "home_team": "Brest",
+      "away_team": "Paris",
+      "home_ppg": 1.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.25,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206589",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 2:00pm",
+      "home_team": "Lille",
+      "away_team": "Toulouse",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.7,
+        "away": 3.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206588",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 8:05pm",
+      "home_team": "Auxerre",
+      "away_team": "Monaco",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 4.2,
+        "away": 1.64
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206590",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 4:00pm",
+      "home_team": "Nice",
+      "away_team": "Nantes",
+      "home_ppg": 1.5,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.2,
+        "away": 5.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206551",
+      "date_timestamp": null,
+      "date_str": "Sep 12, 7:45pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Lorient",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.5,
+        "away": 8.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206576",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 7:45pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.5,
+        "away": 2.42
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206550",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 4:15pm",
+      "home_team": "Paris",
+      "away_team": "Metz",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.7,
+        "away": 4.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206582",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Nice",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.55,
+        "away": 2.08
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206653",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 4:15pm",
+      "home_team": "Monaco",
+      "away_team": "Strasbourg",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.55,
+        "away": 5.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206581",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 2:00pm",
+      "home_team": "Angers SCO",
+      "away_team": "Rennes",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 3.55,
+        "away": 2.02
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206591",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 8:05pm",
+      "home_team": "Toulouse",
+      "away_team": "PSG",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 6
+      },
+      "odds": {
+        "home": 8.5,
+        "draw": 5.1,
+        "away": 1.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206586",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 6:00pm",
+      "home_team": "Nantes",
+      "away_team": "Auxerre",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.05,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206579",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 4:00pm",
+      "home_team": "Lorient",
+      "away_team": "Lille",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 7
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.42,
+        "away": 2.17
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206577",
+      "date_timestamp": null,
+      "date_str": "Aug 29, 7:45pm",
+      "home_team": "Lens",
+      "away_team": "Brest",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.85,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206652",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 7:45pm",
+      "home_team": "Lille",
+      "away_team": "Monaco",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.74,
+        "away": 2.12
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206570",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 4:15pm",
+      "home_team": "Le Havre",
+      "away_team": "Lens",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.1,
+        "draw": 3.7,
+        "away": 1.78
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206654",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 4:15pm",
+      "home_team": "Strasbourg",
+      "away_team": "Nantes",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.6,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206655",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 4:15pm",
+      "home_team": "Toulouse",
+      "away_team": "Brest",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.4,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206650",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 2:00pm",
+      "home_team": "Lorient",
+      "away_team": "Rennes",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.3,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206571",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 8:05pm",
+      "home_team": "Olympique Lyonnais",
+      "away_team": "Metz",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.2,
+        "away": 5.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206651",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 6:00pm",
+      "home_team": "Nice",
+      "away_team": "Auxerre",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.97,
+        "away": 4.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206657",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 4:00pm",
+      "home_team": "Olympique Marseille",
+      "away_team": "Paris",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.0,
+        "away": 8.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206661",
+      "date_timestamp": null,
+      "date_str": "Aug 22, 7:45pm",
+      "home_team": "PSG",
+      "away_team": "Angers SCO",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.04,
+        "draw": 11.0,
+        "away": 26.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206354",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 7:45pm",
+      "home_team": "Nantes",
+      "away_team": "PSG",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 12.82,
+        "draw": 6.9,
+        "away": 1.21
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206658",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 4:15pm",
+      "home_team": "Auxerre",
+      "away_team": "Lorient",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.27,
+        "away": 2.73
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206659",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 4:15pm",
+      "home_team": "Metz",
+      "away_team": "Strasbourg",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.4,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206660",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 4:15pm",
+      "home_team": "Angers SCO",
+      "away_team": "Paris",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.4,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206569",
+      "date_timestamp": null,
+      "date_str": "Aug 17, 2:00pm",
+      "home_team": "Brest",
+      "away_team": "Lille",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.1,
+        "away": 3.09
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206516",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 8:05pm",
+      "home_team": "Nice",
+      "away_team": "Toulouse",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.4,
+        "away": 4.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206355",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 6:00pm",
+      "home_team": "Monaco",
+      "away_team": "Le Havre",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 6.75,
+        "away": 11.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206656",
+      "date_timestamp": null,
+      "date_str": "Aug 16, 4:00pm",
+      "home_team": "Lens",
+      "away_team": "Olympique Lyonnais",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.5,
+        "away": 2.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206365",
+      "date_timestamp": null,
+      "date_str": "Aug 15, 7:45pm",
+      "home_team": "Rennes",
+      "away_team": "Olympique Marseille",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.81,
+        "away": 1.92
+      },
+      "result": "1"
+    }
+  ]
+}

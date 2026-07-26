@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-07-07T01:08:36Z",
+  "competition": "FRANCE",
+  "competition_name": "Ligue 1",
+  "country": "France",
+  "count": 20,
+  "matches": [
+    {
+      "id": 8548658,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Monaco",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548657,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Lens",
+      "awayTeam": "Auxerre",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548656,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Nice",
+      "awayTeam": "Lorient",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548655,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Olympique Marseille",
+      "awayTeam": "Strasbourg",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548654,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Olympique Lyonnais",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548653,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "PSG",
+      "awayTeam": "Rennes",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548652,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Angers SCO",
+      "awayTeam": "Lille",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548629,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Brest",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548570,
+      "date": "2026-08-22T00:00:00Z",
+      "homeTeam": "Troyes",
+      "awayTeam": "Paris",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548726,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Paris",
+      "awayTeam": "Nice",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548649,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Auxerre",
+      "awayTeam": "Angers SCO",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548648,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Lorient",
+      "awayTeam": "Troyes",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548647,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lens",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548638,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Brest",
+      "awayTeam": "Toulouse",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548628,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Rennes",
+      "awayTeam": "Le Mans",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548615,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Monaco",
+      "awayTeam": "Olympique Marseille",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548610,
+      "date": "2026-08-29T00:00:00Z",
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "Le Havre",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548642,
+      "date": "2026-08-30T18:45:00Z",
+      "homeTeam": "Lille",
+      "awayTeam": "PSG",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548724,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lille",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8548651,
+      "date": "2026-09-05T00:00:00Z",
+      "homeTeam": "Troyes",
+      "awayTeam": "Strasbourg",
+      "homePpg": 0.0,
+      "awayPpg": 0.0,
+      "matchday": null
+    }
+  ]
+}

@@ -1,122 +1,58 @@
-export interface League {
-  id: number;
-  name: string;
-  country: string;
-  continent: string;
-  logo_url?: string;
-  created_at: string;
-  updated_at: string;
-}
-
-export interface Team {
-  id: number;
-  league_id: number;
-  name: string;
-  slug: string;
-  logo_url?: string;
-  league?: League;
-}
-
-export interface TeamStats {
-  id: number;
-  team_id: number;
-  match_date: string;
-  is_home: boolean;
-  goals_scored: number;
-  goals_conceded: number;
-  total_goals: number;
+interface TeamGoals {
+  wins: number;
+  draws: number;
+  defeats: number;
+  scored_pg: number;
+  conceded_pg: number;
+  scored_first: number;
+  opponent_first: number;
+  total_pg: number;
   over_1_5: number;
   over_2_5: number;
   over_3_5: number;
-  both_teams_scored: number;
-  win_rate: number;
-  draw_rate: number;
-  defeat_rate: number;
-  scored_first_rate: number;
-  conceded_first_rate: number;
-  corners_for_avg: number;
-  corners_against_avg: number;
-  total_corners_avg: number;
-  corners_over_2_5: number;
-  corners_over_3_5: number;
-  scoring_rate: number;
-  scoring_rate_1st_half: number;
-  scoring_rate_2nd_half: number;
+  both_scored: number;
+}
+
+interface TeamScoring {
+  gf_over_05: number;
+  gf_over_15: number;
+  gf_over_25: number;
+  gf_over_35: number;
+  gf_over_45: number;
+  ga_over_05: number;
+  ga_over_15: number;
+  ga_over_25: number;
+  ga_over_35: number;
+  ga_over_45: number;
+  rate: number;
+  rate_1st_h: number;
+  rate_2nd_h: number;
+  scored_both_halves: number;
   conceding_rate: number;
+  conceding_1st_h: number;
+  conceding_2nd_h: number;
+  conceded_both_halves: number;
 }
 
-export interface Match {
-  id: number;
-  league_id: number;
-  home_team_id: number;
-  away_team_id: number;
-  match_date: string;
-  status: "scheduled" | "live" | "finished";
-  home_goals?: number;
-  away_goals?: number;
-  home_team?: Team;
-  away_team?: Team;
-  league?: League;
-}
-
-export interface Prediction {
-  id: number;
-  match_id: number;
-  predicted_winner: "home" | "draw" | "away";
-  over_1_5_probability: number;
-  over_2_5_probability: number;
-  over_3_5_probability: number;
-  btts_probability: number;
-  corners_over_9_5_probability: number;
-  confidence_level: "high" | "medium" | "low";
-  created_at: string;
+interface TeamHalf {
+  goals: TeamGoals;
+  scoring: TeamScoring;
+  corners: Record<string, number>;
 }
 
 export interface TeamStatsData {
   id: number;
   name: string;
-  goals: {
-    home: Record<string, number>;
-    away: Record<string, number>;
-  };
-  scored_conceded: {
-    home: Record<string, number>;
-    away: Record<string, number>;
-  };
-  rates: {
-    home: Record<string, number>;
-    away: Record<string, number>;
-  };
-  corners_for: {
-    home: Record<string, number>;
-    away: Record<string, number>;
-  };
-  corners_against: {
-    home: Record<string, number>;
-    away: Record<string, number>;
-  };
-  Total_corners: {
-    home: Record<string, number>;
-    away: Record<string, number>;
-  };
-}
-
-export interface ScraperTeamData {
-  id: number;
-  name: string;
-  goals: Record<string, Record<string, number>>;
-  scored_conceded: Record<string, Record<string, number>>;
-  rates: Record<string, Record<string, number>>;
-  corners_for: Record<string, Record<string, number>>;
-  corners_against: Record<string, Record<string, number>>;
-  Total_corners: Record<string, Record<string, number>>;
+  home: TeamHalf;
+  away: TeamHalf;
 }
 
 export interface PredictionData {
-  home: object;
-  away: object;
+  home: TeamStatsData;
+  away: TeamStatsData;
   pgfl: number;
   pgfv: number;
+
   over_1_5: number;
   over_2_5: number;
   over_3_5: number;
@@ -145,14 +81,158 @@ export interface PredictionData {
   bt_home: number;
   bt_away: number;
 
-  corners_local: number;
+  corners_home: number;
   corners_away: number;
-  total_corners: number;
-  cf_over_25: number;
+
   cf_over_35: number;
   cf_over_45: number;
-  ca_over_25: number;
+  cf_over_55: number;
+  cf_over_65: number;
+
+  ca_over_35: number;
+  ca_over_45: number;
+  ca_over_55: number;
+  ca_over_65: number;
+
   tc_over_95: number;
   tc_over_105: number;
+  tc_over_115: number;
+  tc_over_125: number;
+
+  total_corners_match: number;
+
+  homePpg: number;
+  awayPpg: number;
+  odds: {
+    home: number;
+    draw: number;
+    away: number;
+  };
+}
+// new interfaces
+export interface League {
+  id: number;
+  name: string;
+  country: string;
+  continent: string;
+  logo_url?: string;
+  created_at: string;
+  updated_at: string;
 }
 
+export interface Match {
+  id: number;
+  homeTeam: string;
+  awayTeam: string;
+  date: string;
+  competition: string;
+  matchday?: number | null;
+
+  homePpg: number;
+  awayPpg: number;
+  odds?: {
+    home?: number;
+    draw?: number;
+    away?: number;
+  };
+}
+
+export interface Fixture {
+  generated_at: string;
+  competition: string;
+  competition_name: string;
+  country: string;
+  count: number;
+  matches: Match[];
+}
+
+export interface CompetitionData {
+  matches: Match[];
+  teams: TeamStatsData[];
+  leagueName: Fixture;
+}
+
+export interface Score {
+  home: number;
+  away: number;
+}
+export interface MatchOdds {
+  home: number;
+  draw: number;
+  away: number;
+}
+export interface OddsFixture {
+  id: string;
+  date_timestamp: number | null;
+  date_str: string;
+  home_team: string;
+  away_team: string;
+  home_ppg: number;
+  away_ppg: number;
+  status: string;
+  score?: Score;
+  odds?: MatchOdds;
+}
+export interface OddsData {
+  generated_at?: string;
+  source?: string;
+  league?: string;
+  country?: string;
+  season?: number;
+  fixtures?: OddsFixture[];
+}
+
+export interface TeamStats {
+  id: number;
+  name: string;
+  goals: {
+    home: {
+      win: number;
+      draw: number;
+      defeats: number;
+      goals_scored_per_game: number;
+      goals_conceded_per_game: number;
+      team_scored_first: number;
+      opponent_scored_first: number;
+      total_goal_per_game: number;
+      over_1_5: number;
+      over_2_5: number;
+      over_3_5: number;
+      both_teams_scored: number;
+    };
+    away: {
+      win: number;
+      draw: number;
+      defeats: number;
+      goals_scored_per_game: number;
+      goals_conceded_per_game: number;
+      team_scored_first: number;
+      opponent_scored_first: number;
+      total_goal_per_game: number;
+      over_1_5: number;
+      over_2_5: number;
+      over_3_5: number;
+      both_teams_scored: number;
+    };
+  };
+  scored_conceded: {
+    home: Record<string, number>;
+    away: Record<string, number>;
+  };
+  rates: {
+    home: Record<string, number>;
+    away: Record<string, number>;
+  };
+  corners_for: {
+    home: Record<string, number>;
+    away: Record<string, number>;
+  };
+  corners_against: {
+    home: Record<string, number>;
+    away: Record<string, number>;
+  };
+  Total_corners: {
+    home: Record<string, number>;
+    away: Record<string, number>;
+  };
+}

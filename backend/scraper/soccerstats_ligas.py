@@ -325,7 +325,7 @@ def main():
     out_dir = args.output_dir or settings.get("output_dir")
     if not out_dir:
         out_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                               "../..", "client", "public", "data")
+                               "../..", "frontend", "public", "data")
     os.makedirs(out_dir, exist_ok=True)
 
     print("=" * 50)

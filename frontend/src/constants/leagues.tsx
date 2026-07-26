@@ -1,0 +1,26 @@
+export const LEAGUES: { id: string; label: string }[] = [
+  { id: 'peru', label: 'Perú' },
+  { id: 'argentina', label: 'Argentina' },
+  { id: 'brazil', label: 'Brasil' },
+  { id: 'chile', label: 'Chile' },
+  { id: 'colombia', label: 'Colombia' },
+  { id: 'ecuador', label: 'Ecuador' },
+  { id: 'paraguay', label: 'Paraguay' },
+  { id: 'uruguay', label: 'Uruguay' },
+  { id: 'spain', label: 'España' },
+  { id: 'alemania', label: 'Alemania' },
+  { id: 'inglaterra', label: 'Inglaterra' },
+  { id: 'portugal', label: 'Portugal' },
+  { id: 'belgium', label: 'Bélgica' },
+  { id: 'norway', label: 'Noruega' },
+  { id: 'usa', label: 'USA' },
+  { id: 'world', label: 'Mundial' },
+  { id: 'france', label: 'France' },
+  { id: 'italy', label: 'Italy' },
+  { id: 'belgium', label: 'Belgium' },
+  { id: 'scotland', label: 'Scotland' },
+  { id: 'germany2', label: 'Germany2' },
+  { id: 'sweden', label: 'Sweden' },
+];
+
+

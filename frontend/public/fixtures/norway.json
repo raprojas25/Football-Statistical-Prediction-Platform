@@ -1,0 +1,239 @@
+{
+  "generated_at": "2026-07-16T16:31:30Z",
+  "competition": "NORWAY",
+  "competition_name": "Eliteserien",
+  "country": "Norway",
+  "count": 20,
+  "matches": [
+    {
+      "id": 8411734,
+      "date": "2026-07-16T17:00:00Z",
+      "homeTeam": "Vålerenga",
+      "awayTeam": "Aalesund",
+      "homePpg": 1.67,
+      "awayPpg": 1.0,
+      "matchday": null,
+      "odds": {
+        "home": 1.62,
+        "draw": 4.25,
+        "away": 4.2
+      }
+    },
+    {
+      "id": 8411873,
+      "date": "2026-07-17T17:15:00Z",
+      "homeTeam": "FK Bodo - Glimt",
+      "awayTeam": "Fredrikstad",
+      "homePpg": 2.4,
+      "awayPpg": 0.67,
+      "matchday": null,
+      "odds": {
+        "home": 1.15,
+        "draw": 8.8,
+        "away": 10.0
+      }
+    },
+    {
+      "id": 8411872,
+      "date": "2026-07-18T12:00:00Z",
+      "homeTeam": "HamKam",
+      "awayTeam": "Tromsø",
+      "homePpg": 2.5,
+      "awayPpg": 1.6,
+      "matchday": null,
+      "odds": {
+        "home": 3.2,
+        "draw": 3.25,
+        "away": 2.15
+      }
+    },
+    {
+      "id": 8411870,
+      "date": "2026-07-18T14:00:00Z",
+      "homeTeam": "Kristiansund",
+      "awayTeam": "Sarpsborg 08",
+      "homePpg": 1.4,
+      "awayPpg": 1.0,
+      "matchday": null,
+      "odds": {
+        "home": 3.02,
+        "draw": 3.77,
+        "away": 2.22
+      }
+    },
+    {
+      "id": 8411869,
+      "date": "2026-07-18T14:00:00Z",
+      "homeTeam": "Lillestrøm",
+      "awayTeam": "KFUM",
+      "homePpg": 1.8,
+      "awayPpg": 0.4,
+      "matchday": null,
+      "odds": {
+        "home": 1.69,
+        "draw": 3.96,
+        "away": 4.55
+      }
+    },
+    {
+      "id": 8411867,
+      "date": "2026-07-18T14:00:00Z",
+      "homeTeam": "Start",
+      "awayTeam": "Rosenborg",
+      "homePpg": 1.2,
+      "awayPpg": 0.2,
+      "matchday": null,
+      "odds": {
+        "home": 3.1,
+        "draw": 3.5,
+        "away": 2.15
+      }
+    },
+    {
+      "id": 8411868,
+      "date": "2026-07-18T16:00:00Z",
+      "homeTeam": "Molde",
+      "awayTeam": "Brann",
+      "homePpg": 2.5,
+      "awayPpg": 1.0,
+      "matchday": null,
+      "odds": {
+        "home": 1.99,
+        "draw": 3.53,
+        "away": 3.0
+      }
+    },
+    {
+      "id": 8411866,
+      "date": "2026-07-18T16:00:00Z",
+      "homeTeam": "Viking",
+      "awayTeam": "Sandefjord",
+      "homePpg": 3.0,
+      "awayPpg": 1.0,
+      "matchday": null,
+      "odds": {
+        "home": 1.3,
+        "draw": 5.9,
+        "away": 8.7
+      }
+    },
+    {
+      "id": 8411959,
+      "date": "2026-07-22T17:00:00Z",
+      "homeTeam": "FK Bodo - Glimt",
+      "awayTeam": "HamKam",
+      "homePpg": 2.4,
+      "awayPpg": 0.6,
+      "matchday": null,
+      "odds": {
+        "home": 1.2,
+        "draw": 8.24,
+        "away": 11.12
+      }
+    },
+    {
+      "id": 8411895,
+      "date": "2026-07-22T17:00:00Z",
+      "homeTeam": "Lillestrøm",
+      "awayTeam": "Viking",
+      "homePpg": 1.8,
+      "awayPpg": 2.0,
+      "matchday": null,
+      "odds": {
+        "home": 3.0,
+        "draw": 4.0,
+        "away": 2.05
+      }
+    },
+    {
+      "id": 8411860,
+      "date": "2026-07-25T14:00:00Z",
+      "homeTeam": "Kristiansund",
+      "awayTeam": "Start",
+      "homePpg": 1.4,
+      "awayPpg": 0.13,
+      "matchday": null
+    },
+    {
+      "id": 8411864,
+      "date": "2026-07-26T12:30:00Z",
+      "homeTeam": "Brann",
+      "awayTeam": "Vålerenga",
+      "homePpg": 1.5,
+      "awayPpg": 0.67,
+      "matchday": null
+    },
+    {
+      "id": 8411863,
+      "date": "2026-07-26T15:00:00Z",
+      "homeTeam": "KFUM",
+      "awayTeam": "Molde",
+      "homePpg": 1.43,
+      "awayPpg": 0.83,
+      "matchday": null
+    },
+    {
+      "id": 8411858,
+      "date": "2026-07-26T15:00:00Z",
+      "homeTeam": "Sandefjord",
+      "awayTeam": "FK Bodo - Glimt",
+      "homePpg": 1.5,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8411857,
+      "date": "2026-07-26T15:00:00Z",
+      "homeTeam": "Sarpsborg 08",
+      "awayTeam": "HamKam",
+      "homePpg": 1.83,
+      "awayPpg": 0.6,
+      "matchday": null
+    },
+    {
+      "id": 8411856,
+      "date": "2026-07-26T17:15:00Z",
+      "homeTeam": "Aalesund",
+      "awayTeam": "Viking",
+      "homePpg": 1.0,
+      "awayPpg": 2.0,
+      "matchday": null
+    },
+    {
+      "id": 8411859,
+      "date": "2026-07-27T17:00:00Z",
+      "homeTeam": "Rosenborg",
+      "awayTeam": "Fredrikstad",
+      "homePpg": 1.57,
+      "awayPpg": 0.67,
+      "matchday": null
+    },
+    {
+      "id": 8411849,
+      "date": "2026-07-31T17:00:00Z",
+      "homeTeam": "Vålerenga",
+      "awayTeam": "HamKam",
+      "homePpg": 1.67,
+      "awayPpg": 0.6,
+      "matchday": null
+    },
+    {
+      "id": 8411855,
+      "date": "2026-07-31T19:00:00Z",
+      "homeTeam": "FK Bodo - Glimt",
+      "awayTeam": "Lillestrøm",
+      "homePpg": 2.4,
+      "awayPpg": 1.86,
+      "matchday": null
+    },
+    {
+      "id": 8411853,
+      "date": "2026-08-01T14:00:00Z",
+      "homeTeam": "Fredrikstad",
+      "awayTeam": "Sandefjord",
+      "homePpg": 1.67,
+      "awayPpg": 1.0,
+      "matchday": null
+    }
+  ]
+}

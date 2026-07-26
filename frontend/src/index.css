@@ -1,58 +1,83 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-@layer base {
-  * {
-    @apply box-border;
-  }
+@custom-variant dark (&:where(.dark, .dark *));
 
-  body {
-    @apply font-sans antialiased bg-betano-dark text-betano-text;
-  }
+@theme {
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #3b82f6;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8;
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
 
-  ::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
-  }
+  --color-dark-50: #f9fafb;
+  --color-dark-100: #f3f4f6;
+  --color-dark-200: #e5e7eb;
+  --color-dark-300: #d1d5db;
+  --color-dark-400: #9ca3af;
+  --color-dark-500: #6b7280;
+  --color-dark-600: #4b5563;
+  --color-dark-700: #374151;
+  --color-dark-800: #1f2937;
+  --color-dark-900: #111827;
 
-  ::-webkit-scrollbar-track {
-    @apply bg-betano-surface;
-  }
+  --color-betano-primary: #FF3C00;
+  --color-betano-secondary: #FF0279;
+  --color-betano-green: #0ECF5E;
+  --color-betano-orange: #EF4A0F;
+  --color-betano-dark: #222536;
+  --color-betano-surface: #1A202E;
+  --color-betano-card: #2A3046;
+  --color-betano-border: #303649;
+  --color-betano-light: #3A4863;
+  --color-betano-muted: #B3B3B3;
+  --color-betano-text: #FFFFFF;
 
-  ::-webkit-scrollbar-thumb {
-    @apply bg-betano-border rounded-full;
-  }
+  --animate-border-spin: border-spin 7s linear infinite;
 
-  ::-webkit-scrollbar-thumb:hover {
-    @apply bg-betano-muted;
+  --shadow-theme-xs: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+}
+
+:root{
+  --color-betano-primary: #FF3C00;
+  --color-betano-border: #E4E8F1;
+  --color-betano-card: #ffffff;
+  --color-betano-surface: #F8F9FD;
+
+  --color-betano-muted: #566680;
+  --color-betano-dark: #EFF2FB;
+  --color-betano-text: #151922;
+  --color-betano-light:#2A3046;  /* #D9E0F0 #C2CEE6*/
+}
+
+.dark{
+  --color-betano-primary: #FF0279;
+  --color-betano-border: #303649;
+  --color-betano-card: #2A3046;
+  --color-betano-dark: #222536;
+  --color-betano-surface: #1A202E;
+  --color-betano-muted: #B3B3B3;
+  --color-betano-text: #FFFFFF;
+  --color-betano-light: #3A4863;
+}
+
+@keyframes border-spin {
+  100% {
+    transform: rotate(-360deg);
   }
 }
 
-@layer components {
-  .btn-primary {
-    @apply bg-betano-primary/90 hover:bg-betano-primary/90 text-white font-medium px-4 py-2 rounded-lg transition-colors;
-  }
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
 
-  .btn-secondary {
-    @apply bg-betano-secondary hover:bg-betano-secondary/90 text-white font-medium px-4 py-2 rounded-lg transition-colors;
-  }
-
-  .card {
-    @apply bg-betano-card border border-betano-border rounded-xl p-4;
-  }
-
-  .input {
-    @apply bg-betano-border border border-betano-light rounded-lg px-4 py-2 text-betano-text placeholder-betano-muted focus:outline-none focus:border-betano-green transition-colors;
-  }
-
-  .select {
-    @apply bg-betano-dark border border-betano-border rounded-lg px-4 py-2 text-betano-text focus:outline-none focus:border-betano-primary transition-colors cursor-pointer;
-  }
-}
-
-@layer utilities {
-  .text-gradient {
-    @apply bg-gradient-betano bg-clip-text text-transparent;
-  }
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

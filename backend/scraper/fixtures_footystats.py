@@ -25,7 +25,7 @@ BASE_URL = "https://footystats.org"
 FALLBACK_SETTINGS = {
     "delay": 1.5,
     "workers": 4,
-    "output_dir": os.path.join(os.path.dirname(__file__), "../..", "client", "public", "fixtures"),
+    "output_dir": os.path.join(os.path.dirname(__file__), "../..", "frontend", "public", "fixtures"),
 }
 
 CONFIG_DIR = os.path.dirname(os.path.abspath(__file__))

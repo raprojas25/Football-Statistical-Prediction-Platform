@@ -1,0 +1,289 @@
+{
+  "generated_at": "2026-07-16T16:32:49Z",
+  "competition": "USA",
+  "competition_name": "MLS",
+  "country": "Usa",
+  "count": 20,
+  "matches": [
+    {
+      "id": 8391026,
+      "date": "2026-07-16T23:30:00Z",
+      "homeTeam": "Montreal Impact",
+      "awayTeam": "Toronto",
+      "homePpg": 1.67,
+      "awayPpg": 0.6,
+      "matchday": null,
+      "odds": {
+        "home": 1.91,
+        "draw": 3.75,
+        "away": 3.03
+      }
+    },
+    {
+      "id": 8391045,
+      "date": "2026-07-17T00:30:00Z",
+      "homeTeam": "St. Louis City",
+      "awayTeam": "Sporting KC",
+      "homePpg": 1.67,
+      "awayPpg": 0.86,
+      "matchday": null,
+      "odds": {
+        "home": 1.48,
+        "draw": 4.92,
+        "away": 5.25
+      }
+    },
+    {
+      "id": 8390766,
+      "date": "2026-07-17T00:30:00Z",
+      "homeTeam": "Chicago Fire",
+      "awayTeam": "Vancouver Whitecaps",
+      "homePpg": 1.88,
+      "awayPpg": 1.83,
+      "matchday": null,
+      "odds": {
+        "home": 2.83,
+        "draw": 3.71,
+        "away": 2.18
+      }
+    },
+    {
+      "id": 8391011,
+      "date": "2026-07-17T02:30:00Z",
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Portland Timbers",
+      "homePpg": 2.17,
+      "awayPpg": 0.5,
+      "matchday": null,
+      "odds": {
+        "home": 1.44,
+        "draw": 4.6,
+        "away": 5.25
+      }
+    },
+    {
+      "id": 8390789,
+      "date": "2026-07-18T00:10:00Z",
+      "homeTeam": "Nashville SC",
+      "awayTeam": "Atlanta United FC",
+      "homePpg": 2.71,
+      "awayPpg": 0.67,
+      "matchday": null,
+      "odds": {
+        "home": 1.43,
+        "draw": 4.6,
+        "away": 6.5
+      }
+    },
+    {
+      "id": 8390640,
+      "date": "2026-07-18T02:25:00Z",
+      "homeTeam": "LA Galaxy",
+      "awayTeam": "Los Angeles FC",
+      "homePpg": 1.29,
+      "awayPpg": 1.14,
+      "matchday": null,
+      "odds": {
+        "home": 2.8,
+        "draw": 3.4,
+        "away": 2.37
+      }
+    },
+    {
+      "id": 8391054,
+      "date": "2026-07-22T23:30:00Z",
+      "homeTeam": "Philadelphia Union",
+      "awayTeam": "New York RB",
+      "homePpg": 0.5,
+      "awayPpg": 1.38,
+      "matchday": null,
+      "odds": {
+        "home": 1.71,
+        "draw": 4.32,
+        "away": 4.68
+      }
+    },
+    {
+      "id": 8391040,
+      "date": "2026-07-22T23:30:00Z",
+      "homeTeam": "Columbus Crew",
+      "awayTeam": "New York City",
+      "homePpg": 1.57,
+      "awayPpg": 1.14,
+      "matchday": null,
+      "odds": {
+        "home": 2.03,
+        "draw": 3.76,
+        "away": 3.68
+      }
+    },
+    {
+      "id": 8391039,
+      "date": "2026-07-22T23:30:00Z",
+      "homeTeam": "Inter Miami",
+      "awayTeam": "Chicago Fire",
+      "homePpg": 1.5,
+      "awayPpg": 1.83,
+      "matchday": null,
+      "odds": {
+        "home": 1.59,
+        "draw": 4.89,
+        "away": 5.04
+      }
+    },
+    {
+      "id": 8391036,
+      "date": "2026-07-22T23:30:00Z",
+      "homeTeam": "FC Cincinnati",
+      "awayTeam": "Vancouver Whitecaps",
+      "homePpg": 1.86,
+      "awayPpg": 1.83,
+      "matchday": null,
+      "odds": {
+        "home": 3.56,
+        "draw": 4.14,
+        "away": 1.97
+      }
+    },
+    {
+      "id": 8391012,
+      "date": "2026-07-22T23:30:00Z",
+      "homeTeam": "New England Revolution",
+      "awayTeam": "Toronto",
+      "homePpg": 2.63,
+      "awayPpg": 0.6,
+      "matchday": null,
+      "odds": {
+        "home": 1.81,
+        "draw": 3.9,
+        "away": 4.51
+      }
+    },
+    {
+      "id": 8391037,
+      "date": "2026-07-23T00:15:00Z",
+      "homeTeam": "Charlotte",
+      "awayTeam": "Atlanta United FC",
+      "homePpg": 1.89,
+      "awayPpg": 0.67,
+      "matchday": null,
+      "odds": {
+        "home": 1.72,
+        "draw": 4.08,
+        "away": 4.94
+      }
+    },
+    {
+      "id": 8391013,
+      "date": "2026-07-23T00:30:00Z",
+      "homeTeam": "Nashville SC",
+      "awayTeam": "Montreal Impact",
+      "homePpg": 2.71,
+      "awayPpg": 0.5,
+      "matchday": null,
+      "odds": {
+        "home": 1.47,
+        "draw": 4.79,
+        "away": 7.12
+      }
+    },
+    {
+      "id": 8390730,
+      "date": "2026-07-23T00:30:00Z",
+      "homeTeam": "Austin",
+      "awayTeam": "Seattle Sounders",
+      "homePpg": 1.57,
+      "awayPpg": 1.57,
+      "matchday": null,
+      "odds": {
+        "home": 3.49,
+        "draw": 3.66,
+        "away": 2.12
+      }
+    },
+    {
+      "id": 8390729,
+      "date": "2026-07-23T00:30:00Z",
+      "homeTeam": "Sporting KC",
+      "awayTeam": "Minnesota United",
+      "homePpg": 0.71,
+      "awayPpg": 1.63,
+      "matchday": null,
+      "odds": {
+        "home": 3.6,
+        "draw": 4.01,
+        "away": 1.99
+      }
+    },
+    {
+      "id": 8390636,
+      "date": "2026-07-23T00:30:00Z",
+      "homeTeam": "Houston Dynamo",
+      "awayTeam": "DC United",
+      "homePpg": 2.14,
+      "awayPpg": 1.25,
+      "matchday": null,
+      "odds": {
+        "home": 1.73,
+        "draw": 4.08,
+        "away": 4.79
+      }
+    },
+    {
+      "id": 8390731,
+      "date": "2026-07-23T01:30:00Z",
+      "homeTeam": "Colorado Rapids",
+      "awayTeam": "San Diego",
+      "homePpg": 1.5,
+      "awayPpg": 0.83,
+      "matchday": null,
+      "odds": {
+        "home": 2.17,
+        "draw": 3.93,
+        "away": 3.16
+      }
+    },
+    {
+      "id": 8391068,
+      "date": "2026-07-23T02:30:00Z",
+      "homeTeam": "Portland Timbers",
+      "awayTeam": "FC Dallas",
+      "homePpg": 1.67,
+      "awayPpg": 2.0,
+      "matchday": null,
+      "odds": {
+        "home": 2.33,
+        "draw": 3.9,
+        "away": 2.89
+      }
+    },
+    {
+      "id": 8391067,
+      "date": "2026-07-23T02:30:00Z",
+      "homeTeam": "Los Angeles FC",
+      "awayTeam": "Real Salt Lake",
+      "homePpg": 2.0,
+      "awayPpg": 0.83,
+      "matchday": null,
+      "odds": {
+        "home": 1.76,
+        "draw": 4.21,
+        "away": 4.47
+      }
+    },
+    {
+      "id": 8391061,
+      "date": "2026-07-23T02:30:00Z",
+      "homeTeam": "LA Galaxy",
+      "awayTeam": "St. Louis City",
+      "homePpg": 1.29,
+      "awayPpg": 0.75,
+      "matchday": null,
+      "odds": {
+        "home": 2.04,
+        "draw": 3.93,
+        "away": 3.5
+      }
+    }
+  ]
+}

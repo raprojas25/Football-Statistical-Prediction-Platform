@@ -283,7 +283,7 @@ def main():
     print()
     
     # Directorio de salida
-    output_dir = os.path.join(os.path.dirname(__file__), "../..", "client", "public", "data")
+    output_dir = os.path.join(os.path.dirname(__file__), "../..", "frontend", "public", "data")
     os.makedirs(output_dir, exist_ok=True)
     
     # Scrapear cada liga

@@ -23,7 +23,9 @@ uruguay: "https://www.soccerstats.com/latest.asp?league=uruguay"
 ecuador: "https://www.soccerstats.com/latest.asp?league=ecuador"
 china: "https://www.soccerstats.com/latest.asp?league=china"
 
+usa: "https://www.soccerstats.com/latest.asp?league=usa"
+
 settings:
   delay: 0.5
-  workers: 4
-  output_dir: "client/public/data"
+  workers: 2
+  output_dir: "frontend/public/data"

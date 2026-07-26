@@ -10,6 +10,12 @@ colombia: /colombia/categoria-primera-a/fixtures
 ecuador: /ecuador/primera-categoria-serie-a/fixtures
 paraguay: /paraguay/division-profesional/fixtures
 brazil: /brazil/serie-a/fixtures
-noruega: /norway/eliteserien/fixtures
+norway: /norway/eliteserien/fixtures
 sweden: /sweden/allsvenskan/fixtures
 china: /china/chinese-super-league/fixtures
+france: /france/ligue-1/fixtures
+germany2: /germany/2-bundesliga/fixtures
+italy: /italy/serie-a/fixtures
+belgium: /belgium/pro-league/fixtures
+scotland: /scotland/premiership/fixtures
+usa: /usa/mls/fixtures

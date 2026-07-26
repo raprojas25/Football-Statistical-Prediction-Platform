@@ -1,0 +1,7609 @@
+{
+  "generated_at": "2026-07-07T15:47:43.307489+00:00",
+  "source": "https://footystats.org/italy/serie-a/fixtures",
+  "league": "Italy Serie A Fixtures",
+  "country": "Italy",
+  "season": "2025/26",
+  "fixtures": [
+    {
+      "id": "8238661",
+      "date_timestamp": null,
+      "date_str": "May 24, 8:45pm",
+      "home_team": "Torino",
+      "away_team": "Juventus",
+      "home_ppg": 1.5,
+      "away_ppg": 1.72,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.25,
+        "draw": 4.7,
+        "away": 1.49
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238565",
+      "date_timestamp": null,
+      "date_str": "May 24, 7:45pm",
+      "home_team": "Cremonese",
+      "away_team": "Como",
+      "home_ppg": 0.89,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 5.4,
+        "draw": 4.52,
+        "away": 1.46
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238636",
+      "date_timestamp": null,
+      "date_str": "May 24, 7:45pm",
+      "home_team": "Lecce",
+      "away_team": "Genoa",
+      "home_ppg": 0.94,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.4,
+        "away": 4.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238637",
+      "date_timestamp": null,
+      "date_str": "May 24, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Cagliari",
+      "home_ppg": 1.78,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 5.25,
+        "away": 11.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238656",
+      "date_timestamp": null,
+      "date_str": "May 24, 7:45pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Roma",
+      "home_ppg": 0.44,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 9.0,
+        "draw": 5.0,
+        "away": 1.37
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238660",
+      "date_timestamp": null,
+      "date_str": "May 24, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Udinese",
+      "home_ppg": 2.22,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.1,
+        "away": 5.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238659",
+      "date_timestamp": null,
+      "date_str": "May 24, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.0,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.1,
+        "away": 2.43
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238657",
+      "date_timestamp": null,
+      "date_str": "May 23, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Pisa",
+      "home_ppg": 1.5,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.56,
+        "draw": 3.84,
+        "away": 4.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238655",
+      "date_timestamp": null,
+      "date_str": "May 23, 5:00pm",
+      "home_team": "Bologna",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.17,
+      "away_ppg": 2.28,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 3.45,
+        "away": 2.14
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238658",
+      "date_timestamp": null,
+      "date_str": "May 22, 7:45pm",
+      "home_team": "Fiorentina",
+      "away_team": "Atalanta",
+      "home_ppg": 1.11,
+      "away_ppg": 1.39,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.71,
+        "draw": 3.4,
+        "away": 2.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238496",
+      "date_timestamp": null,
+      "date_str": "May 17, 7:45pm",
+      "home_team": "Sassuolo",
+      "away_team": "Lecce",
+      "home_ppg": 1.61,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.25,
+        "away": 2.62
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238651",
+      "date_timestamp": null,
+      "date_str": "May 17, 7:45pm",
+      "home_team": "Cagliari",
+      "away_team": "Torino",
+      "home_ppg": 1.22,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238654",
+      "date_timestamp": null,
+      "date_str": "May 17, 7:45pm",
+      "home_team": "Udinese",
+      "away_team": "Cremonese",
+      "home_ppg": 1.28,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.2,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238647",
+      "date_timestamp": null,
+      "date_str": "May 17, 5:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Bologna",
+      "home_ppg": 1.83,
+      "away_ppg": 1.72,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 4.0,
+        "away": 4.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238650",
+      "date_timestamp": null,
+      "date_str": "May 17, 2:00pm",
+      "home_team": "Inter Milan",
+      "away_team": "Hellas Verona",
+      "home_ppg": 2.44,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.0,
+        "away": 14.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238535",
+      "date_timestamp": null,
+      "date_str": "May 17, 11:00am",
+      "home_team": "Roma",
+      "away_team": "Lazio",
+      "home_ppg": 2.17,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.24,
+        "away": 5.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238648",
+      "date_timestamp": null,
+      "date_str": "May 17, 11:00am",
+      "home_team": "Como",
+      "away_team": "Parma",
+      "home_ppg": 1.83,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 5.85,
+        "away": 9.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238649",
+      "date_timestamp": null,
+      "date_str": "May 17, 11:00am",
+      "home_team": "Genoa",
+      "away_team": "AC Milan",
+      "home_ppg": 1.22,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.35,
+        "draw": 3.65,
+        "away": 1.72
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238652",
+      "date_timestamp": null,
+      "date_str": "May 17, 11:00am",
+      "home_team": "Juventus",
+      "away_team": "Fiorentina",
+      "home_ppg": 2.06,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 5.4,
+        "away": 8.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238653",
+      "date_timestamp": null,
+      "date_str": "May 17, 11:00am",
+      "home_team": "Pisa",
+      "away_team": "Napoli",
+      "home_ppg": 0.56,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 7.1,
+        "draw": 4.72,
+        "away": 1.44
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238644",
+      "date_timestamp": null,
+      "date_str": "May 11, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Bologna",
+      "home_ppg": 2.35,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.0,
+        "away": 5.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238645",
+      "date_timestamp": null,
+      "date_str": "May 10, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Atalanta",
+      "home_ppg": 1.88,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.35,
+        "away": 3.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238643",
+      "date_timestamp": null,
+      "date_str": "May 10, 5:00pm",
+      "home_team": "Parma",
+      "away_team": "Roma",
+      "home_ppg": 1.06,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 7.5,
+        "draw": 4.3,
+        "away": 1.44
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238495",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Genoa",
+      "home_ppg": 1.12,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.07,
+        "away": 3.38
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238639",
+      "date_timestamp": null,
+      "date_str": "May 10, 2:00pm",
+      "home_team": "Cremonese",
+      "away_team": "Pisa",
+      "home_ppg": 0.76,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.5,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238642",
+      "date_timestamp": null,
+      "date_str": "May 10, 11:30am",
+      "home_team": "Hellas Verona",
+      "away_team": "Como",
+      "home_ppg": 0.47,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 8.5,
+        "draw": 4.6,
+        "away": 1.42
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238624",
+      "date_timestamp": null,
+      "date_str": "May 9, 7:45pm",
+      "home_team": "Lecce",
+      "away_team": "Juventus",
+      "home_ppg": 1.0,
+      "away_ppg": 1.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 7.75,
+        "draw": 4.4,
+        "away": 1.44
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238623",
+      "date_timestamp": null,
+      "date_str": "May 9, 5:00pm",
+      "home_team": "Lazio",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.59,
+      "away_ppg": 2.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.4,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238641",
+      "date_timestamp": null,
+      "date_str": "May 9, 2:00pm",
+      "home_team": "Cagliari",
+      "away_team": "Udinese",
+      "home_ppg": 1.29,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 3.01
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238646",
+      "date_timestamp": null,
+      "date_str": "May 8, 7:45pm",
+      "home_team": "Torino",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.41,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.68,
+        "draw": 3.15,
+        "away": 2.83
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238635",
+      "date_timestamp": null,
+      "date_str": "May 4, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Fiorentina",
+      "home_ppg": 2.12,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 4.0,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238633",
+      "date_timestamp": null,
+      "date_str": "May 4, 5:30pm",
+      "home_team": "Cremonese",
+      "away_team": "Lazio",
+      "home_ppg": 0.81,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.2,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238621",
+      "date_timestamp": null,
+      "date_str": "May 3, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Parma",
+      "home_ppg": 2.41,
+      "away_ppg": 1.41,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.6,
+        "away": 14.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238622",
+      "date_timestamp": null,
+      "date_str": "May 3, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Hellas Verona",
+      "home_ppg": 2.12,
+      "away_ppg": 0.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.0,
+        "away": 12.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238638",
+      "date_timestamp": null,
+      "date_str": "May 3, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "AC Milan",
+      "home_ppg": 1.53,
+      "away_ppg": 2.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.9,
+        "away": 1.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238619",
+      "date_timestamp": null,
+      "date_str": "May 3, 11:30am",
+      "home_team": "Bologna",
+      "away_team": "Cagliari",
+      "home_ppg": 1.18,
+      "away_ppg": 0.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.35,
+        "away": 4.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238632",
+      "date_timestamp": null,
+      "date_str": "May 2, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Genoa",
+      "home_ppg": 1.88,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.4,
+        "away": 6.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238620",
+      "date_timestamp": null,
+      "date_str": "May 2, 5:00pm",
+      "home_team": "Como",
+      "away_team": "Napoli",
+      "home_ppg": 1.88,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.15,
+        "away": 3.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238640",
+      "date_timestamp": null,
+      "date_str": "May 2, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Torino",
+      "home_ppg": 1.18,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.3,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238634",
+      "date_timestamp": null,
+      "date_str": "May 1, 7:45pm",
+      "home_team": "Pisa",
+      "away_team": "Lecce",
+      "home_ppg": 0.59,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 2.96,
+        "away": 2.38
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238629",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Udinese",
+      "home_ppg": 1.63,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.15,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238625",
+      "date_timestamp": null,
+      "date_str": "Apr 27, 5:30pm",
+      "home_team": "Cagliari",
+      "away_team": "Atalanta",
+      "home_ppg": 1.19,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.75,
+        "draw": 3.45,
+        "away": 1.74
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238627",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Juventus",
+      "home_ppg": 1.94,
+      "away_ppg": 1.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.15,
+        "away": 2.65
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238617",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 5:00pm",
+      "home_team": "Torino",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.44,
+      "away_ppg": 2.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.5,
+        "draw": 5.0,
+        "away": 1.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238494",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:00pm",
+      "home_team": "Genoa",
+      "away_team": "Como",
+      "home_ppg": 1.29,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.78,
+        "draw": 3.45,
+        "away": 1.73
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238626",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 11:30am",
+      "home_team": "Fiorentina",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.13,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.5,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238628",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 7:45pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Lecce",
+      "home_ppg": 0.44,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.52,
+        "draw": 2.87,
+        "away": 3.19
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238482",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 5:00pm",
+      "home_team": "Bologna",
+      "away_team": "Roma",
+      "home_ppg": 1.25,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.0,
+        "away": 2.12
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238630",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Pisa",
+      "home_ppg": 0.94,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.95,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238631",
+      "date_timestamp": null,
+      "date_str": "Apr 24, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Cremonese",
+      "home_ppg": 2.31,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.45,
+        "away": 9.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238613",
+      "date_timestamp": null,
+      "date_str": "Apr 20, 7:45pm",
+      "home_team": "Lecce",
+      "away_team": "Fiorentina",
+      "home_ppg": 1.0,
+      "away_ppg": 1.06,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.25,
+        "away": 1.98
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238611",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "Bologna",
+      "home_ppg": 2.06,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.3,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238610",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 5:00pm",
+      "home_team": "Pisa",
+      "away_team": "Genoa",
+      "home_ppg": 0.63,
+      "away_ppg": 0.93,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.14,
+        "draw": 2.95,
+        "away": 2.56
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238607",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 2:00pm",
+      "home_team": "Hellas Verona",
+      "away_team": "AC Milan",
+      "home_ppg": 0.47,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.8,
+        "draw": 3.95,
+        "away": 1.52
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238608",
+      "date_timestamp": null,
+      "date_str": "Apr 19, 11:30am",
+      "home_team": "Cremonese",
+      "away_team": "Torino",
+      "home_ppg": 0.8,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.0,
+        "away": 2.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238615",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Atalanta",
+      "home_ppg": 2.19,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.1,
+        "away": 2.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238614",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Lazio",
+      "home_ppg": 2.47,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.0,
+        "away": 6.42
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238616",
+      "date_timestamp": null,
+      "date_str": "Apr 18, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Parma",
+      "home_ppg": 1.25,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.95,
+        "away": 3.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238609",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Cagliari",
+      "home_ppg": 2.38,
+      "away_ppg": 0.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.21,
+        "draw": 6.3,
+        "away": 12.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238612",
+      "date_timestamp": null,
+      "date_str": "Apr 17, 5:30pm",
+      "home_team": "Sassuolo",
+      "away_team": "Como",
+      "home_ppg": 1.44,
+      "away_ppg": 1.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.7,
+        "draw": 4.1,
+        "away": 1.53
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238603",
+      "date_timestamp": null,
+      "date_str": "Apr 13, 7:45pm",
+      "home_team": "Fiorentina",
+      "away_team": "Lazio",
+      "home_ppg": 1.0,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238602",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 7:45pm",
+      "home_team": "Como",
+      "away_team": "Inter Milan",
+      "home_ppg": 2.0,
+      "away_ppg": 2.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.3,
+        "away": 2.37
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238600",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 5:00pm",
+      "home_team": "Bologna",
+      "away_team": "Lecce",
+      "home_ppg": 1.13,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.26,
+        "away": 4.72
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238481",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Napoli",
+      "home_ppg": 0.93,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 3.8,
+        "away": 1.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238492",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 11:30am",
+      "home_team": "Genoa",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.19,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.3,
+        "away": 3.56
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238598",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Juventus",
+      "home_ppg": 2.0,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.48,
+        "away": 2.29
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238605",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 5:00pm",
+      "home_team": "AC Milan",
+      "away_team": "Udinese",
+      "home_ppg": 2.07,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.64,
+        "away": 7.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238601",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:00pm",
+      "home_team": "Cagliari",
+      "away_team": "Cremonese",
+      "home_ppg": 1.07,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.15,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238606",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 2:00pm",
+      "home_team": "Torino",
+      "away_team": "Hellas Verona",
+      "home_ppg": 1.33,
+      "away_ppg": 0.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.2,
+        "away": 4.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238604",
+      "date_timestamp": null,
+      "date_str": "Apr 10, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Pisa",
+      "home_ppg": 2.13,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 5.0,
+        "away": 11.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238597",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "AC Milan",
+      "home_ppg": 2.43,
+      "away_ppg": 2.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 3.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238596",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Genoa",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.41,
+        "draw": 4.6,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238468",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 2:00pm",
+      "home_team": "Lecce",
+      "away_team": "Atalanta",
+      "home_ppg": 1.07,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.5,
+        "away": 1.54
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238785",
+      "date_timestamp": null,
+      "date_str": "Apr 6, 11:30am",
+      "home_team": "Udinese",
+      "away_team": "Como",
+      "home_ppg": 1.27,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.7,
+        "away": 1.64
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238454",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Roma",
+      "home_ppg": 2.33,
+      "away_ppg": 1.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.59,
+        "draw": 3.85,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238471",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 5:00pm",
+      "home_team": "Pisa",
+      "away_team": "Torino",
+      "home_ppg": 0.67,
+      "away_ppg": 0.87,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.34,
+        "draw": 3.0,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238470",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 2:00pm",
+      "home_team": "Cremonese",
+      "away_team": "Bologna",
+      "home_ppg": 0.86,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.39,
+        "draw": 3.3,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238467",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Parma",
+      "home_ppg": 1.67,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.35,
+        "away": 4.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238469",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 5:00pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Fiorentina",
+      "home_ppg": 0.5,
+      "away_ppg": 0.93,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.04,
+        "draw": 3.15,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238599",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Cagliari",
+      "home_ppg": 1.33,
+      "away_ppg": 0.93,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.11,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238490",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 7:45pm",
+      "home_team": "Fiorentina",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.0,
+      "away_ppg": 2.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 4.12,
+        "away": 1.61
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238595",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 5:00pm",
+      "home_team": "Roma",
+      "away_team": "Lecce",
+      "home_ppg": 2.07,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.0,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238466",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:00pm",
+      "home_team": "Bologna",
+      "away_team": "Lazio",
+      "home_ppg": 1.21,
+      "away_ppg": 1.07,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.1,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238770",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 2:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Hellas Verona",
+      "home_ppg": 1.93,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.8,
+        "away": 7.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238491",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 11:30am",
+      "home_team": "Como",
+      "away_team": "Pisa",
+      "home_ppg": 1.93,
+      "away_ppg": 0.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 5.9,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238594",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "Sassuolo",
+      "home_ppg": 2.07,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.19,
+        "draw": 5.75,
+        "away": 9.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238759",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:00pm",
+      "home_team": "AC Milan",
+      "away_team": "Torino",
+      "home_ppg": 2.0,
+      "away_ppg": 0.93,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 4.8,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238767",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Cremonese",
+      "home_ppg": 1.0,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.21,
+        "draw": 3.04,
+        "away": 3.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238493",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 7:45pm",
+      "home_team": "Genoa",
+      "away_team": "Udinese",
+      "home_ppg": 1.27,
+      "away_ppg": 1.21,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 3.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238591",
+      "date_timestamp": null,
+      "date_str": "Mar 20, 5:30pm",
+      "home_team": "Cagliari",
+      "away_team": "Napoli",
+      "home_ppg": 1.14,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 3.3,
+        "away": 1.76
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238589",
+      "date_timestamp": null,
+      "date_str": "Mar 16, 7:45pm",
+      "home_team": "Cremonese",
+      "away_team": "Fiorentina",
+      "home_ppg": 0.92,
+      "away_ppg": 0.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 3.75,
+        "draw": 3.25,
+        "away": 1.91
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238462",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "AC Milan",
+      "home_ppg": 1.57,
+      "away_ppg": 2.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.45,
+        "draw": 3.35,
+        "away": 1.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238463",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 5:00pm",
+      "home_team": "Como",
+      "away_team": "Roma",
+      "home_ppg": 1.86,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.25,
+        "away": 3.66
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238768",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Cagliari",
+      "home_ppg": 0.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.95,
+        "away": 2.97
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238769",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Bologna",
+      "home_ppg": 1.43,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.98
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238590",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 11:30am",
+      "home_team": "Hellas Verona",
+      "away_team": "Genoa",
+      "home_ppg": 0.54,
+      "away_ppg": 0.85,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 2.77,
+        "away": 2.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238593",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 7:45pm",
+      "home_team": "Udinese",
+      "away_team": "Juventus",
+      "home_ppg": 1.36,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.1,
+        "away": 1.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238465",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Lecce",
+      "home_ppg": 2.38,
+      "away_ppg": 0.85,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.5,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238464",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 2:00pm",
+      "home_team": "Inter Milan",
+      "away_team": "Atalanta",
+      "home_ppg": 2.43,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 4.4,
+        "away": 5.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238592",
+      "date_timestamp": null,
+      "date_str": "Mar 13, 7:45pm",
+      "home_team": "Torino",
+      "away_team": "Parma",
+      "home_ppg": 1.21,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.0,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238766",
+      "date_timestamp": null,
+      "date_str": "Mar 9, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.46,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 3.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238458",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.92,
+      "away_ppg": 2.54,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.05,
+        "away": 2.52
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238765",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 5:00pm",
+      "home_team": "Genoa",
+      "away_team": "Roma",
+      "home_ppg": 1.14,
+      "away_ppg": 1.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.05,
+        "draw": 3.35,
+        "away": 2.02
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238457",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 2:00pm",
+      "home_team": "Bologna",
+      "away_team": "Hellas Verona",
+      "home_ppg": 1.31,
+      "away_ppg": 0.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.67,
+        "draw": 3.6,
+        "away": 5.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238764",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 2:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Parma",
+      "home_ppg": 1.0,
+      "away_ppg": 1.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.78,
+        "draw": 3.7,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238461",
+      "date_timestamp": null,
+      "date_str": "Mar 8, 11:30am",
+      "home_team": "Lecce",
+      "away_team": "Cremonese",
+      "home_ppg": 0.93,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 2.88,
+        "away": 3.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238784",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "Pisa",
+      "home_ppg": 2.0,
+      "away_ppg": 0.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.15,
+        "draw": 6.7,
+        "away": 15.31
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238758",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 5:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Udinese",
+      "home_ppg": 2.0,
+      "away_ppg": 1.23,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.74,
+        "away": 5.19
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238728",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 2:00pm",
+      "home_team": "Cagliari",
+      "away_team": "Como",
+      "home_ppg": 1.23,
+      "away_ppg": 1.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.6,
+        "draw": 3.95,
+        "away": 1.57
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238588",
+      "date_timestamp": null,
+      "date_str": "Mar 6, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Torino",
+      "home_ppg": 2.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 3.9,
+        "away": 6.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238587",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 7:45pm",
+      "home_team": "Udinese",
+      "away_team": "Fiorentina",
+      "home_ppg": 1.23,
+      "away_ppg": 0.85,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.13,
+        "away": 2.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238488",
+      "date_timestamp": null,
+      "date_str": "Mar 2, 5:30pm",
+      "home_team": "Pisa",
+      "away_team": "Bologna",
+      "home_ppg": 0.54,
+      "away_ppg": 1.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.32,
+        "away": 2.01
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238460",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Juventus",
+      "home_ppg": 2.15,
+      "away_ppg": 1.54,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.1,
+        "away": 2.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238489",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 5:00pm",
+      "home_team": "Torino",
+      "away_team": "Lazio",
+      "home_ppg": 1.08,
+      "away_ppg": 1.15,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.1,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238783",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Atalanta",
+      "home_ppg": 1.31,
+      "away_ppg": 1.42,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.03,
+        "draw": 3.56,
+        "away": 2.06
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238755",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 11:30am",
+      "home_team": "Cremonese",
+      "away_team": "AC Milan",
+      "home_ppg": 1.0,
+      "away_ppg": 2.23,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.25,
+        "draw": 3.9,
+        "away": 1.57
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238586",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Genoa",
+      "home_ppg": 2.38,
+      "away_ppg": 0.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.0,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238761",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 5:00pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Napoli",
+      "home_ppg": 0.58,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.11,
+        "draw": 3.65,
+        "away": 1.67
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238585",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 2:00pm",
+      "home_team": "Como",
+      "away_team": "Lecce",
+      "home_ppg": 1.77,
+      "away_ppg": 0.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 4.8,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238487",
+      "date_timestamp": null,
+      "date_str": "Feb 27, 7:45pm",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.88,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238781",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 7:45pm",
+      "home_team": "Bologna",
+      "away_team": "Udinese",
+      "home_ppg": 1.17,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.55,
+        "away": 4.23
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238782",
+      "date_timestamp": null,
+      "date_str": "Feb 23, 5:30pm",
+      "home_team": "Fiorentina",
+      "away_team": "Pisa",
+      "home_ppg": 0.83,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.75,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238584",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Cremonese",
+      "home_ppg": 2.08,
+      "away_ppg": 0.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 4.95,
+        "away": 9.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238727",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 5:00pm",
+      "home_team": "AC Milan",
+      "away_team": "Parma",
+      "home_ppg": 2.08,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 5.2,
+        "away": 10.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238583",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 2:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Napoli",
+      "home_ppg": 1.92,
+      "away_ppg": 1.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.51,
+        "draw": 2.98,
+        "away": 2.84
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238671",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 11:30am",
+      "home_team": "Genoa",
+      "away_team": "Torino",
+      "home_ppg": 1.0,
+      "away_ppg": 1.08,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.05,
+        "away": 3.47
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238486",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 7:45pm",
+      "home_team": "Cagliari",
+      "away_team": "Lazio",
+      "home_ppg": 1.25,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 3.0,
+        "away": 2.34
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238726",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 5:00pm",
+      "home_team": "Lecce",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.0,
+      "away_ppg": 2.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.23,
+        "draw": 4.0,
+        "away": 1.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238725",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 2:00pm",
+      "home_team": "Juventus",
+      "away_team": "Como",
+      "home_ppg": 2.17,
+      "away_ppg": 1.58,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.4,
+        "away": 3.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238763",
+      "date_timestamp": null,
+      "date_str": "Feb 20, 7:45pm",
+      "home_team": "Sassuolo",
+      "away_team": "Hellas Verona",
+      "home_ppg": 1.17,
+      "away_ppg": 0.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.4,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238577",
+      "date_timestamp": null,
+      "date_str": "Feb 18, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Como",
+      "home_ppg": 2.18,
+      "away_ppg": 1.64,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.37,
+        "draw": 3.02,
+        "away": 3.12
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238579",
+      "date_timestamp": null,
+      "date_str": "Feb 16, 7:45pm",
+      "home_team": "Cagliari",
+      "away_team": "Lecce",
+      "home_ppg": 1.36,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 2.9,
+        "away": 3.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238581",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Roma",
+      "home_ppg": 2.45,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.52,
+        "draw": 2.88,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238582",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 5:00pm",
+      "home_team": "Torino",
+      "away_team": "Bologna",
+      "home_ppg": 1.17,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.1,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238459",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Hellas Verona",
+      "home_ppg": 0.83,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.35,
+        "draw": 3.05,
+        "away": 3.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238757",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 2:00pm",
+      "home_team": "Cremonese",
+      "away_team": "Genoa",
+      "home_ppg": 1.0,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 2.98,
+        "away": 2.51
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238762",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 11:30am",
+      "home_team": "Udinese",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.33,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.86,
+        "away": 3.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238780",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Juventus",
+      "home_ppg": 2.33,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.22,
+        "away": 3.86
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238580",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 5:00pm",
+      "home_team": "Lazio",
+      "away_team": "Atalanta",
+      "home_ppg": 1.58,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 3.2,
+        "away": 2.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238485",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 2:00pm",
+      "home_team": "Como",
+      "away_team": "Fiorentina",
+      "home_ppg": 1.92,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 4.1,
+        "away": 5.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238670",
+      "date_timestamp": null,
+      "date_str": "Feb 13, 7:45pm",
+      "home_team": "Pisa",
+      "away_team": "AC Milan",
+      "home_ppg": 0.58,
+      "away_ppg": 2.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.8,
+        "draw": 4.0,
+        "away": 1.53
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238706",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Cagliari",
+      "home_ppg": 2.0,
+      "away_ppg": 1.08,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.25,
+        "away": 7.64
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238560",
+      "date_timestamp": null,
+      "date_str": "Feb 9, 5:30pm",
+      "home_team": "Atalanta",
+      "away_team": "Cremonese",
+      "home_ppg": 1.83,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 5.0,
+        "away": 8.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238756",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "Lazio",
+      "home_ppg": 2.27,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.33,
+        "away": 9.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238578",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 5:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.27,
+      "away_ppg": 2.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "odds": {
+        "home": 6.7,
+        "draw": 4.7,
+        "away": 1.47
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238760",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 2:00pm",
+      "home_team": "Lecce",
+      "away_team": "Udinese",
+      "home_ppg": 0.83,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.01,
+        "draw": 2.86,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238455",
+      "date_timestamp": null,
+      "date_str": "Feb 8, 11:30am",
+      "home_team": "Bologna",
+      "away_team": "Parma",
+      "home_ppg": 1.27,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.75,
+        "away": 5.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238705",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 7:45pm",
+      "home_team": "Fiorentina",
+      "away_team": "Torino",
+      "home_ppg": 0.82,
+      "away_ppg": 1.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.9,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238754",
+      "date_timestamp": null,
+      "date_str": "Feb 7, 5:00pm",
+      "home_team": "Genoa",
+      "away_team": "Napoli",
+      "home_ppg": 1.08,
+      "away_ppg": 1.58,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.33,
+        "draw": 3.0,
+        "away": 2.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238456",
+      "date_timestamp": null,
+      "date_str": "Feb 6, 7:45pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Pisa",
+      "home_ppg": 0.55,
+      "away_ppg": 0.64,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.27,
+        "draw": 2.94,
+        "away": 2.84
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238453",
+      "date_timestamp": null,
+      "date_str": "Feb 3, 7:45pm",
+      "home_team": "Bologna",
+      "away_team": "AC Milan",
+      "home_ppg": 1.4,
+      "away_ppg": 2.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.1,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238576",
+      "date_timestamp": null,
+      "date_str": "Feb 2, 7:45pm",
+      "home_team": "Udinese",
+      "away_team": "Roma",
+      "home_ppg": 1.18,
+      "away_ppg": 1.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.24,
+        "draw": 3.1,
+        "away": 2.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238575",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 7:45pm",
+      "home_team": "Parma",
+      "away_team": "Juventus",
+      "home_ppg": 0.91,
+      "away_ppg": 1.55,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 4.71,
+        "away": 1.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238712",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 5:00pm",
+      "home_team": "Cremonese",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.1,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 10.0,
+        "draw": 5.6,
+        "away": 1.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238753",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:00pm",
+      "home_team": "Como",
+      "away_team": "Atalanta",
+      "home_ppg": 2.0,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.4,
+        "away": 3.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238704",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 11:30am",
+      "home_team": "Torino",
+      "away_team": "Lecce",
+      "home_ppg": 1.0,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 2.86,
+        "away": 4.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238751",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 7:45pm",
+      "home_team": "Cagliari",
+      "away_team": "Hellas Verona",
+      "home_ppg": 1.2,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.0,
+        "away": 3.86
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238573",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Fiorentina",
+      "home_ppg": 2.4,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.2,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238724",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Sassuolo",
+      "home_ppg": 0.64,
+      "away_ppg": 1.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.92,
+        "draw": 3.01,
+        "away": 2.48
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238574",
+      "date_timestamp": null,
+      "date_str": "Jan 30, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Genoa",
+      "home_ppg": 1.45,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.95,
+        "away": 3.82
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238741",
+      "date_timestamp": null,
+      "date_str": "Jan 26, 7:45pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Udinese",
+      "home_ppg": 0.6,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 2.85,
+        "away": 2.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238572",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "AC Milan",
+      "home_ppg": 2.1,
+      "away_ppg": 2.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.9,
+        "away": 2.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238750",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Napoli",
+      "home_ppg": 2.2,
+      "away_ppg": 1.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.89,
+        "draw": 3.1,
+        "away": 4.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238748",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Parma",
+      "home_ppg": 1.73,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.6,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238749",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 2:00pm",
+      "home_team": "Genoa",
+      "away_team": "Bologna",
+      "home_ppg": 0.91,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.0,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238711",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 11:30am",
+      "home_team": "Sassuolo",
+      "away_team": "Cremonese",
+      "home_ppg": 1.1,
+      "away_ppg": 1.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.1,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238571",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 7:45pm",
+      "home_team": "Lecce",
+      "away_team": "Lazio",
+      "home_ppg": 0.82,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.54,
+        "draw": 2.99,
+        "away": 1.88
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238566",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 5:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Cagliari",
+      "home_ppg": 0.9,
+      "away_ppg": 0.91,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.65,
+        "away": 5.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238740",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 2:00pm",
+      "home_team": "Como",
+      "away_team": "Torino",
+      "home_ppg": 1.9,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.9,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238752",
+      "date_timestamp": null,
+      "date_str": "Jan 23, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Pisa",
+      "home_ppg": 2.27,
+      "away_ppg": 0.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.17,
+        "draw": 6.55,
+        "away": 10.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238477",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Como",
+      "home_ppg": 1.6,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.03,
+        "draw": 2.83,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238722",
+      "date_timestamp": null,
+      "date_str": "Jan 19, 5:30pm",
+      "home_team": "Cremonese",
+      "away_team": "Hellas Verona",
+      "home_ppg": 1.11,
+      "away_ppg": 0.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.49,
+        "draw": 2.88,
+        "away": 2.82
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238744",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Lecce",
+      "home_ppg": 2.1,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 5.25,
+        "away": 11.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238570",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 5:00pm",
+      "home_team": "Torino",
+      "away_team": "Roma",
+      "home_ppg": 1.1,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.85,
+        "draw": 3.34,
+        "away": 1.95
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238568",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 2:00pm",
+      "home_team": "Bologna",
+      "away_team": "Fiorentina",
+      "home_ppg": 1.56,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.26,
+        "draw": 3.25,
+        "away": 2.98
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238746",
+      "date_timestamp": null,
+      "date_str": "Jan 18, 11:30am",
+      "home_team": "Parma",
+      "away_team": "Genoa",
+      "home_ppg": 0.9,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 2.8,
+        "away": 2.83
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238484",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 7:45pm",
+      "home_team": "Cagliari",
+      "away_team": "Juventus",
+      "home_ppg": 1.0,
+      "away_ppg": 1.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 7.0,
+        "draw": 4.0,
+        "away": 1.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238745",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Sassuolo",
+      "home_ppg": 2.33,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.43,
+        "draw": 4.25,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238723",
+      "date_timestamp": null,
+      "date_str": "Jan 17, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.3,
+      "away_ppg": 2.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 8.01,
+        "draw": 4.85,
+        "away": 1.41
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238569",
+      "date_timestamp": null,
+      "date_str": "Jan 16, 7:45pm",
+      "home_team": "Pisa",
+      "away_team": "Atalanta",
+      "home_ppg": 0.6,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.7,
+        "draw": 4.2,
+        "away": 1.37
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238731",
+      "date_timestamp": null,
+      "date_str": "Jan 15, 7:45pm",
+      "home_team": "Como",
+      "away_team": "AC Milan",
+      "home_ppg": 2.11,
+      "away_ppg": 2.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.06,
+        "draw": 3.15,
+        "away": 2.53
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238773",
+      "date_timestamp": null,
+      "date_str": "Jan 15, 5:30pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Bologna",
+      "home_ppg": 0.67,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.62,
+        "draw": 3.08,
+        "away": 2.21
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238775",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Lecce",
+      "home_ppg": 2.2,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.17,
+        "draw": 7.9,
+        "away": 18.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238449",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 5:30pm",
+      "home_team": "Napoli",
+      "away_team": "Parma",
+      "home_ppg": 2.5,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 5.25,
+        "away": 10.96
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238733",
+      "date_timestamp": null,
+      "date_str": "Jan 12, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "Cremonese",
+      "home_ppg": 2.11,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.26,
+        "draw": 6.1,
+        "away": 12.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238559",
+      "date_timestamp": null,
+      "date_str": "Jan 12, 5:30pm",
+      "home_team": "Genoa",
+      "away_team": "Cagliari",
+      "home_ppg": 0.7,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 2.9,
+        "away": 4.19
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238777",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Napoli",
+      "home_ppg": 2.33,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.44,
+        "away": 4.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238567",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 5:00pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Lazio",
+      "home_ppg": 0.75,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.15,
+        "draw": 2.85,
+        "away": 2.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238710",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 2:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "AC Milan",
+      "home_ppg": 0.89,
+      "away_ppg": 2.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.35,
+        "away": 2.11
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238703",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 11:30am",
+      "home_team": "Lecce",
+      "away_team": "Parma",
+      "home_ppg": 0.9,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 2.82,
+        "away": 2.91
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238709",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Torino",
+      "home_ppg": 1.6,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.9,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238747",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 5:00pm",
+      "home_team": "Roma",
+      "away_team": "Sassuolo",
+      "home_ppg": 2.0,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.55,
+        "away": 5.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238721",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Pisa",
+      "home_ppg": 1.33,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.4,
+        "away": 4.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238779",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 2:00pm",
+      "home_team": "Como",
+      "away_team": "Bologna",
+      "home_ppg": 2.25,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.2,
+        "away": 4.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238450",
+      "date_timestamp": null,
+      "date_str": "Jan 8, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Genoa",
+      "home_ppg": 2.22,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.2,
+        "away": 8.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238732",
+      "date_timestamp": null,
+      "date_str": "Jan 8, 5:30pm",
+      "home_team": "Cremonese",
+      "away_team": "Cagliari",
+      "home_ppg": 1.13,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 2.9,
+        "away": 3.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238564",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:45pm",
+      "home_team": "Torino",
+      "away_team": "Udinese",
+      "home_ppg": 1.22,
+      "away_ppg": 1.11,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 2.9,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238716",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Fiorentina",
+      "home_ppg": 1.67,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.0,
+        "away": 3.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238778",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 7:45pm",
+      "home_team": "Parma",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.0,
+      "away_ppg": 2.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 5.0,
+        "away": 1.22
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238702",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 5:30pm",
+      "home_team": "Bologna",
+      "away_team": "Atalanta",
+      "home_ppg": 1.75,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.3,
+        "away": 2.23
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238743",
+      "date_timestamp": null,
+      "date_str": "Jan 7, 5:30pm",
+      "home_team": "Napoli",
+      "away_team": "Hellas Verona",
+      "home_ppg": 2.71,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.8,
+        "away": 11.64
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238483",
+      "date_timestamp": null,
+      "date_str": "Jan 6, 7:45pm",
+      "home_team": "Sassuolo",
+      "away_team": "Juventus",
+      "home_ppg": 1.22,
+      "away_ppg": 1.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.7,
+        "away": 1.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238742",
+      "date_timestamp": null,
+      "date_str": "Jan 6, 5:00pm",
+      "home_team": "Lecce",
+      "away_team": "Roma",
+      "home_ppg": 1.0,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.3,
+        "draw": 3.45,
+        "away": 1.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238452",
+      "date_timestamp": null,
+      "date_str": "Jan 6, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Como",
+      "home_ppg": 0.67,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.9,
+        "draw": 3.5,
+        "away": 1.72
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238738",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Bologna",
+      "home_ppg": 2.25,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.6,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238451",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 5:00pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Torino",
+      "home_ppg": 0.86,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 2.8,
+        "away": 2.76
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238556",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 2:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Cremonese",
+      "home_ppg": 0.63,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.76,
+        "draw": 3.5,
+        "away": 4.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238701",
+      "date_timestamp": null,
+      "date_str": "Jan 4, 11:30am",
+      "home_team": "Lazio",
+      "away_team": "Napoli",
+      "home_ppg": 1.88,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 3.0,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238737",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Roma",
+      "home_ppg": 1.44,
+      "away_ppg": 1.88,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.33,
+        "draw": 3.25,
+        "away": 3.42
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238557",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Lecce",
+      "home_ppg": 2.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.26,
+        "draw": 5.0,
+        "away": 13.99
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238558",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Parma",
+      "home_ppg": 1.25,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.3,
+        "away": 3.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238715",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 2:00pm",
+      "home_team": "Genoa",
+      "away_team": "Pisa",
+      "home_ppg": 0.67,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.1,
+        "away": 4.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238555",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 11:30am",
+      "home_team": "Como",
+      "away_team": "Udinese",
+      "home_ppg": 2.14,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.63,
+        "away": 4.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238720",
+      "date_timestamp": null,
+      "date_str": "Jan 2, 7:45pm",
+      "home_team": "Cagliari",
+      "away_team": "AC Milan",
+      "home_ppg": 1.13,
+      "away_ppg": 2.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.1,
+        "draw": 3.85,
+        "away": 1.42
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238673",
+      "date_timestamp": null,
+      "date_str": "Dec 29, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Genoa",
+      "home_ppg": 1.88,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 3.6,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238736",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.63,
+      "away_ppg": 2.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 3.55,
+        "away": 2.05
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238739",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 5:00pm",
+      "home_team": "Bologna",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.86,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.97,
+        "draw": 3.45,
+        "away": 3.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238552",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 2:00pm",
+      "home_team": "Cremonese",
+      "away_team": "Napoli",
+      "home_ppg": 1.29,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.6,
+        "draw": 3.77,
+        "away": 1.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238714",
+      "date_timestamp": null,
+      "date_str": "Dec 28, 11:30am",
+      "home_team": "AC Milan",
+      "away_team": "Hellas Verona",
+      "home_ppg": 2.13,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.8,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238553",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 7:45pm",
+      "home_team": "Pisa",
+      "away_team": "Juventus",
+      "home_ppg": 0.75,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 4.2,
+        "away": 1.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238550",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 5:00pm",
+      "home_team": "Udinese",
+      "away_team": "Lazio",
+      "home_ppg": 1.38,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 2.9,
+        "away": 2.28
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238554",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 2:00pm",
+      "home_team": "Torino",
+      "away_team": "Cagliari",
+      "home_ppg": 1.38,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.29,
+        "away": 3.97
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238774",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 2:00pm",
+      "home_team": "Lecce",
+      "away_team": "Como",
+      "home_ppg": 1.13,
+      "away_ppg": 1.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.6,
+        "draw": 3.37,
+        "away": 1.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238776",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 11:30am",
+      "home_team": "Parma",
+      "away_team": "Fiorentina",
+      "home_ppg": 0.75,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.65,
+        "draw": 3.2,
+        "away": 1.97
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238448",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 7:45pm",
+      "home_team": "Genoa",
+      "away_team": "Atalanta",
+      "home_ppg": 0.75,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.1,
+        "away": 2.15
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238734",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 5:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Udinese",
+      "home_ppg": 0.29,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.2,
+        "away": 3.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238735",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Torino",
+      "home_ppg": 1.43,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.34,
+        "draw": 3.03,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238696",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 11:30am",
+      "home_team": "Cagliari",
+      "away_team": "Pisa",
+      "home_ppg": 1.14,
+      "away_ppg": 0.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.2,
+        "away": 3.39
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238428",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "Roma",
+      "home_ppg": 2.14,
+      "away_ppg": 2.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.2,
+        "away": 3.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238551",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 5:00pm",
+      "home_team": "Lazio",
+      "away_team": "Cremonese",
+      "home_ppg": 2.0,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.61,
+        "draw": 3.75,
+        "away": 6.31
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238730",
+      "date_timestamp": null,
+      "date_str": "Dec 15, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Como",
+      "home_ppg": 1.71,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.2,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238446",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 7:45pm",
+      "home_team": "Bologna",
+      "away_team": "Juventus",
+      "home_ppg": 2.17,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.05,
+        "away": 2.31
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238729",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 5:00pm",
+      "home_team": "Genoa",
+      "away_team": "Inter Milan",
+      "home_ppg": 0.86,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.5,
+        "draw": 4.06,
+        "away": 1.53
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238713",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Napoli",
+      "home_ppg": 1.14,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.1,
+        "draw": 3.35,
+        "away": 1.89
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238719",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 2:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Hellas Verona",
+      "home_ppg": 0.33,
+      "away_ppg": 0.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.81,
+        "draw": 3.45,
+        "away": 4.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238447",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 11:30am",
+      "home_team": "AC Milan",
+      "away_team": "Sassuolo",
+      "home_ppg": 2.29,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.47,
+        "draw": 4.28,
+        "away": 7.41
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238480",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Cagliari",
+      "home_ppg": 1.43,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 5.29,
+        "away": 8.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238549",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 5:00pm",
+      "home_team": "Parma",
+      "away_team": "Lazio",
+      "home_ppg": 0.86,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.8,
+        "draw": 3.2,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238443",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 2:00pm",
+      "home_team": "Torino",
+      "away_team": "Cremonese",
+      "home_ppg": 1.14,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.25,
+        "away": 3.86
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238548",
+      "date_timestamp": null,
+      "date_str": "Dec 12, 7:45pm",
+      "home_team": "Lecce",
+      "away_team": "Pisa",
+      "home_ppg": 0.86,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 2.87,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238479",
+      "date_timestamp": null,
+      "date_str": "Dec 8, 7:45pm",
+      "home_team": "Torino",
+      "away_team": "AC Milan",
+      "home_ppg": 1.33,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 3.55,
+        "away": 1.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238718",
+      "date_timestamp": null,
+      "date_str": "Dec 8, 5:00pm",
+      "home_team": "Udinese",
+      "away_team": "Genoa",
+      "home_ppg": 1.33,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 2.9,
+        "away": 3.19
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238717",
+      "date_timestamp": null,
+      "date_str": "Dec 8, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Parma",
+      "home_ppg": 0.86,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 2.89,
+        "away": 3.28
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238694",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Juventus",
+      "home_ppg": 2.67,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.53,
+        "draw": 3.0,
+        "away": 2.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238547",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 5:00pm",
+      "home_team": "Lazio",
+      "away_team": "Bologna",
+      "home_ppg": 2.17,
+      "away_ppg": 1.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.32,
+        "draw": 3.05,
+        "away": 3.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238699",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 2:00pm",
+      "home_team": "Cagliari",
+      "away_team": "Roma",
+      "home_ppg": 0.83,
+      "away_ppg": 2.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.1,
+        "draw": 3.53,
+        "away": 1.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238445",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 11:30am",
+      "home_team": "Cremonese",
+      "away_team": "Lecce",
+      "home_ppg": 1.0,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.39,
+        "draw": 2.99,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238708",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 7:45pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Atalanta",
+      "home_ppg": 0.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.9,
+        "away": 1.68
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238546",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 5:00pm",
+      "home_team": "Inter Milan",
+      "away_team": "Como",
+      "home_ppg": 2.14,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.15,
+        "away": 5.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238695",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Fiorentina",
+      "home_ppg": 1.17,
+      "away_ppg": 0.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.0,
+        "away": 2.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238440",
+      "date_timestamp": null,
+      "date_str": "Dec 1, 7:45pm",
+      "home_team": "Bologna",
+      "away_team": "Cremonese",
+      "home_ppg": 2.6,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.4,
+        "away": 7.13
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238439",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Napoli",
+      "home_ppg": 2.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 2.96,
+        "away": 3.05
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238688",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 5:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Fiorentina",
+      "home_ppg": 1.17,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.52,
+        "draw": 3.8,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238444",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Inter Milan",
+      "home_ppg": 1.0,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 8.1,
+        "draw": 5.2,
+        "away": 1.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238441",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 11:30am",
+      "home_team": "Lecce",
+      "away_team": "Torino",
+      "home_ppg": 0.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 2.89,
+        "away": 2.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238545",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Lazio",
+      "home_ppg": 2.17,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.55,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238544",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Cagliari",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.5,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238442",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Udinese",
+      "home_ppg": 1.0,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.1,
+        "away": 2.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238707",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 2:00pm",
+      "home_team": "Genoa",
+      "away_team": "Hellas Verona",
+      "home_ppg": 0.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 2.95,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238700",
+      "date_timestamp": null,
+      "date_str": "Nov 28, 7:45pm",
+      "home_team": "Como",
+      "away_team": "Sassuolo",
+      "home_ppg": 2.0,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.55,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238697",
+      "date_timestamp": null,
+      "date_str": "Nov 24, 7:45pm",
+      "home_team": "Sassuolo",
+      "away_team": "Pisa",
+      "home_ppg": 1.2,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.1,
+        "away": 4.07
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238698",
+      "date_timestamp": null,
+      "date_str": "Nov 24, 5:30pm",
+      "home_team": "Torino",
+      "away_team": "Como",
+      "home_ppg": 1.6,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.16,
+        "away": 2.24
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238532",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "AC Milan",
+      "home_ppg": 2.5,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.25,
+        "away": 3.84
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238438",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 5:00pm",
+      "home_team": "Lazio",
+      "away_team": "Lecce",
+      "home_ppg": 2.0,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.0,
+        "away": 5.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238693",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 2:00pm",
+      "home_team": "Cremonese",
+      "away_team": "Roma",
+      "home_ppg": 1.2,
+      "away_ppg": 2.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.7,
+        "draw": 3.7,
+        "away": 1.63
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238692",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 11:30am",
+      "home_team": "Hellas Verona",
+      "away_team": "Parma",
+      "home_ppg": 0.6,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.0,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238533",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Atalanta",
+      "home_ppg": 2.6,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.14,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238531",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 5:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Juventus",
+      "home_ppg": 0.2,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.85,
+        "draw": 3.3,
+        "away": 2.04
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238437",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Bologna",
+      "home_ppg": 1.6,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.15,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238530",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 2:00pm",
+      "home_team": "Cagliari",
+      "away_team": "Genoa",
+      "home_ppg": 0.8,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 2.84,
+        "away": 2.77
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238527",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Lazio",
+      "home_ppg": 2.4,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 5.0,
+        "away": 8.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238691",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 5:00pm",
+      "home_team": "Roma",
+      "away_team": "Udinese",
+      "home_ppg": 1.8,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 3.9,
+        "away": 6.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238435",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Bologna",
+      "away_team": "Napoli",
+      "home_ppg": 2.5,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.0,
+        "away": 2.39
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238436",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 2:00pm",
+      "home_team": "Genoa",
+      "away_team": "Fiorentina",
+      "home_ppg": 0.4,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 2.9,
+        "away": 2.68
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238689",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 11:30am",
+      "home_team": "Atalanta",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.4,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.35,
+        "draw": 4.2,
+        "away": 6.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238690",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 7:45pm",
+      "home_team": "Parma",
+      "away_team": "AC Milan",
+      "home_ppg": 1.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 3.5,
+        "away": 1.57
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238526",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Torino",
+      "home_ppg": 2.2,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.9,
+        "away": 6.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238529",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 2:00pm",
+      "home_team": "Lecce",
+      "away_team": "Hellas Verona",
+      "home_ppg": 0.4,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 2.87,
+        "away": 2.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238687",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 2:00pm",
+      "home_team": "Como",
+      "away_team": "Cagliari",
+      "home_ppg": 2.2,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.2,
+        "away": 7.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238680",
+      "date_timestamp": null,
+      "date_str": "Nov 7, 7:45pm",
+      "home_team": "Pisa",
+      "away_team": "Cremonese",
+      "home_ppg": 0.6,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.03,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238431",
+      "date_timestamp": null,
+      "date_str": "Nov 3, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Cagliari",
+      "home_ppg": 1.75,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.65,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238434",
+      "date_timestamp": null,
+      "date_str": "Nov 3, 5:30pm",
+      "home_team": "Sassuolo",
+      "away_team": "Genoa",
+      "home_ppg": 1.5,
+      "away_ppg": 0.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.19,
+        "draw": 2.87,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238676",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Roma",
+      "home_ppg": 2.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.1,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238432",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 5:00pm",
+      "home_team": "Parma",
+      "away_team": "Bologna",
+      "home_ppg": 1.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.55,
+        "draw": 3.0,
+        "away": 2.17
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238433",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 2:00pm",
+      "home_team": "Torino",
+      "away_team": "Pisa",
+      "home_ppg": 1.75,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.25,
+        "away": 4.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238675",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 2:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Lecce",
+      "home_ppg": 0.25,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.54,
+        "draw": 3.45,
+        "away": 5.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238536",
+      "date_timestamp": null,
+      "date_str": "Nov 2, 11:30am",
+      "home_team": "Hellas Verona",
+      "away_team": "Inter Milan",
+      "home_ppg": 0.75,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 7.75,
+        "draw": 4.8,
+        "away": 1.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238427",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 7:45pm",
+      "home_team": "Cremonese",
+      "away_team": "Juventus",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.6,
+        "draw": 4.5,
+        "away": 1.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238668",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Como",
+      "home_ppg": 3.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.24,
+        "away": 4.38
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238528",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Atalanta",
+      "home_ppg": 1.25,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.8,
+        "away": 1.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238684",
+      "date_timestamp": null,
+      "date_str": "Oct 30, 7:45pm",
+      "home_team": "Pisa",
+      "away_team": "Lazio",
+      "home_ppg": 0.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.0,
+        "away": 2.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238682",
+      "date_timestamp": null,
+      "date_str": "Oct 30, 5:30pm",
+      "home_team": "Cagliari",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.05,
+        "away": 2.82
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238430",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Fiorentina",
+      "home_ppg": 2.25,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.41,
+        "draw": 4.55,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238525",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "Genoa",
+      "away_team": "Cremonese",
+      "home_ppg": 0.5,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.25,
+        "away": 4.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238541",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "Bologna",
+      "away_team": "Torino",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.3,
+        "away": 4.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238542",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 5:30pm",
+      "home_team": "Juventus",
+      "away_team": "Udinese",
+      "home_ppg": 2.0,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 4.25,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238543",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 5:30pm",
+      "home_team": "Roma",
+      "away_team": "Parma",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.57,
+        "draw": 3.85,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238679",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 5:30pm",
+      "home_team": "Como",
+      "away_team": "Hellas Verona",
+      "home_ppg": 2.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.7,
+        "away": 6.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238674",
+      "date_timestamp": null,
+      "date_str": "Oct 28, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "AC Milan",
+      "home_ppg": 1.5,
+      "away_ppg": 2.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.25,
+        "away": 2.68
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238683",
+      "date_timestamp": null,
+      "date_str": "Oct 28, 5:30pm",
+      "home_team": "Lecce",
+      "away_team": "Napoli",
+      "home_ppg": 0.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.4,
+        "draw": 3.5,
+        "away": 1.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238686",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Juventus",
+      "home_ppg": 1.33,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.0,
+        "away": 2.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238539",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 5:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Bologna",
+      "home_ppg": 0.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.9,
+        "away": 2.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238678",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Roma",
+      "home_ppg": 2.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.85,
+        "draw": 3.48,
+        "away": 1.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238685",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:00pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Cagliari",
+      "home_ppg": 0.67,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.11,
+        "draw": 2.83,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238524",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 11:30am",
+      "home_team": "Torino",
+      "away_team": "Genoa",
+      "home_ppg": 1.33,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 2.87,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238538",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 7:45pm",
+      "home_team": "Cremonese",
+      "away_team": "Atalanta",
+      "home_ppg": 1.67,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.1,
+        "draw": 4.1,
+        "away": 1.59
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238681",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Inter Milan",
+      "home_ppg": 3.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.15,
+        "away": 2.42
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238540",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:00pm",
+      "home_team": "Udinese",
+      "away_team": "Lecce",
+      "home_ppg": 0.67,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.2,
+        "away": 4.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238677",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Como",
+      "home_ppg": 1.33,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.3,
+        "away": 1.87
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238772",
+      "date_timestamp": null,
+      "date_str": "Oct 24, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Pisa",
+      "home_ppg": 2.25,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.26,
+        "draw": 5.8,
+        "away": 9.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238537",
+      "date_timestamp": null,
+      "date_str": "Oct 20, 7:45pm",
+      "home_team": "Cremonese",
+      "away_team": "Udinese",
+      "home_ppg": 2.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.96,
+        "draw": 3.11,
+        "away": 2.33
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238424",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Fiorentina",
+      "home_ppg": 2.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.71,
+        "draw": 3.9,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238519",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 5:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Lazio",
+      "home_ppg": 1.67,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.5,
+        "away": 4.58
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238517",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 2:00pm",
+      "home_team": "Genoa",
+      "away_team": "Parma",
+      "home_ppg": 0.33,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 2.99,
+        "away": 3.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238520",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 2:00pm",
+      "home_team": "Cagliari",
+      "away_team": "Bologna",
+      "home_ppg": 1.33,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.0,
+        "away": 2.05
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238562",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 11:30am",
+      "home_team": "Como",
+      "away_team": "Juventus",
+      "home_ppg": 1.67,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 2.97,
+        "away": 2.41
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238425",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Inter Milan",
+      "home_ppg": 2.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.12,
+        "away": 2.44
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238523",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 5:00pm",
+      "home_team": "Torino",
+      "away_team": "Napoli",
+      "home_ppg": 0.5,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.4,
+        "draw": 3.21,
+        "away": 1.74
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238521",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Hellas Verona",
+      "home_ppg": 0.33,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 2.8,
+        "away": 2.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238522",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 2:00pm",
+      "home_team": "Lecce",
+      "away_team": "Sassuolo",
+      "home_ppg": 0.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.05,
+        "away": 2.55
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238426",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "AC Milan",
+      "home_ppg": 2.33,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.2,
+        "away": 2.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238476",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 5:00pm",
+      "home_team": "Napoli",
+      "away_team": "Genoa",
+      "home_ppg": 3.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 3.85,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238507",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Roma",
+      "home_ppg": 0.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.45,
+        "away": 2.42
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238514",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 2:00pm",
+      "home_team": "Bologna",
+      "away_team": "Pisa",
+      "home_ppg": 3.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.6,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238518",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 11:30am",
+      "home_team": "Udinese",
+      "away_team": "Cagliari",
+      "home_ppg": 0.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 3.2,
+        "away": 3.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238501",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Como",
+      "home_ppg": 2.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.3,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238563",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 5:00pm",
+      "home_team": "Inter Milan",
+      "away_team": "Cremonese",
+      "home_ppg": 2.0,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.18,
+        "draw": 7.0,
+        "away": 15.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238429",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 2:00pm",
+      "home_team": "Lazio",
+      "away_team": "Torino",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.4,
+        "away": 4.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238516",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 2:00pm",
+      "home_team": "Parma",
+      "away_team": "Lecce",
+      "home_ppg": 2.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.94,
+        "draw": 3.34,
+        "away": 4.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238515",
+      "date_timestamp": null,
+      "date_str": "Oct 3, 7:45pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.2,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238561",
+      "date_timestamp": null,
+      "date_str": "Sep 29, 7:45pm",
+      "home_team": "Genoa",
+      "away_team": "Lazio",
+      "home_ppg": 0.5,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.1,
+        "away": 2.44
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238511",
+      "date_timestamp": null,
+      "date_str": "Sep 29, 5:30pm",
+      "home_team": "Parma",
+      "away_team": "Torino",
+      "home_ppg": 1.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.48,
+        "draw": 2.87,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238508",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Napoli",
+      "home_ppg": 1.5,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.38,
+        "draw": 3.2,
+        "away": 3.91
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238510",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 5:00pm",
+      "home_team": "Lecce",
+      "away_team": "Bologna",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.55,
+        "draw": 2.96,
+        "away": 1.73
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238509",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Fiorentina",
+      "home_ppg": 0.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.1,
+        "away": 2.23
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238513",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 2:00pm",
+      "home_team": "Roma",
+      "away_team": "Hellas Verona",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.32,
+        "draw": 4.4,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238512",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 11:30am",
+      "home_team": "Sassuolo",
+      "away_team": "Udinese",
+      "home_ppg": 1.5,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.15,
+        "away": 3.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238506",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 7:45pm",
+      "home_team": "Cagliari",
+      "away_team": "Inter Milan",
+      "home_ppg": 2.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.7,
+        "draw": 4.3,
+        "away": 1.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238475",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Atalanta",
+      "home_ppg": 3.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.91,
+        "draw": 3.5,
+        "away": 4.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238474",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 2:00pm",
+      "home_team": "Como",
+      "away_team": "Cremonese",
+      "home_ppg": 2.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.6,
+        "away": 7.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238497",
+      "date_timestamp": null,
+      "date_str": "Sep 22, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Pisa",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 5.0,
+        "away": 10.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238503",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Sassuolo",
+      "home_ppg": 1.5,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 5.75,
+        "away": 9.74
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238473",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 5:00pm",
+      "home_team": "Fiorentina",
+      "away_team": "Como",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.44,
+        "draw": 3.0,
+        "away": 3.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238498",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 2:00pm",
+      "home_team": "Torino",
+      "away_team": "Atalanta",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.4,
+        "draw": 3.25,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238500",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 2:00pm",
+      "home_team": "Cremonese",
+      "away_team": "Parma",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.47,
+        "draw": 3.05,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238499",
+      "date_timestamp": null,
+      "date_str": "Sep 21, 11:30am",
+      "home_team": "Lazio",
+      "away_team": "Roma",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.86,
+        "draw": 3.15,
+        "away": 2.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238505",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 7:45pm",
+      "home_team": "Udinese",
+      "away_team": "AC Milan",
+      "home_ppg": 1.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 3.73,
+        "away": 1.77
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238502",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 5:00pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Juventus",
+      "home_ppg": 1.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.4,
+        "draw": 3.88,
+        "away": 1.52
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238478",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 2:00pm",
+      "home_team": "Bologna",
+      "away_team": "Genoa",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.2,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238504",
+      "date_timestamp": null,
+      "date_str": "Sep 19, 7:45pm",
+      "home_team": "Lecce",
+      "away_team": "Cagliari",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.64,
+        "draw": 2.89,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238793",
+      "date_timestamp": null,
+      "date_str": "Sep 15, 7:45pm",
+      "home_team": "Como",
+      "away_team": "Genoa",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.7,
+        "away": 5.85
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238790",
+      "date_timestamp": null,
+      "date_str": "Sep 15, 5:30pm",
+      "home_team": "Hellas Verona",
+      "away_team": "Cremonese",
+      "home_ppg": 0.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.05,
+        "away": 2.97
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238534",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Bologna",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.4,
+        "away": 4.66
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238786",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 5:00pm",
+      "home_team": "Sassuolo",
+      "away_team": "Lazio",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 3.45,
+        "away": 1.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238672",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 2:00pm",
+      "home_team": "Pisa",
+      "away_team": "Udinese",
+      "home_ppg": 0.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 3.0,
+        "away": 2.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238795",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 2:00pm",
+      "home_team": "Atalanta",
+      "away_team": "Lecce",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 4.55,
+        "away": 8.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238799",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 11:30am",
+      "home_team": "Roma",
+      "away_team": "Torino",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.53,
+        "draw": 4.22,
+        "away": 6.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238801",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 7:45pm",
+      "home_team": "Fiorentina",
+      "away_team": "Napoli",
+      "home_ppg": 0.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.0,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238669",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 5:00pm",
+      "home_team": "Juventus",
+      "away_team": "Inter Milan",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 2.93,
+        "away": 2.87
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238802",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 2:00pm",
+      "home_team": "Cagliari",
+      "away_team": "Parma",
+      "home_ppg": 1.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.25,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238618",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Udinese",
+      "home_ppg": 3.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.27,
+        "draw": 5.3,
+        "away": 10.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238787",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 7:45pm",
+      "home_team": "Lazio",
+      "away_team": "Hellas Verona",
+      "home_ppg": 0.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.8,
+        "away": 6.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238662",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 5:30pm",
+      "home_team": "Genoa",
+      "away_team": "Juventus",
+      "home_ppg": 1.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 3.26,
+        "away": 1.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238794",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 5:30pm",
+      "home_team": "Torino",
+      "away_team": "Fiorentina",
+      "home_ppg": 0.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 2.87,
+        "away": 2.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238771",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 7:45pm",
+      "home_team": "Napoli",
+      "away_team": "Cagliari",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.5,
+        "away": 8.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238800",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 7:45pm",
+      "home_team": "Pisa",
+      "away_team": "Roma",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.8,
+        "draw": 3.6,
+        "away": 1.73
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238666",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 5:30pm",
+      "home_team": "Bologna",
+      "away_team": "Como",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.19,
+        "away": 2.98
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238788",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 5:30pm",
+      "home_team": "Parma",
+      "away_team": "Atalanta",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.5,
+        "draw": 3.62,
+        "away": 1.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238663",
+      "date_timestamp": null,
+      "date_str": "Aug 29, 7:45pm",
+      "home_team": "Lecce",
+      "away_team": "AC Milan",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.75,
+        "draw": 3.95,
+        "away": 1.58
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238667",
+      "date_timestamp": null,
+      "date_str": "Aug 29, 5:30pm",
+      "home_team": "Cremonese",
+      "away_team": "Sassuolo",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.58,
+        "draw": 3.28,
+        "away": 2.62
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238664",
+      "date_timestamp": null,
+      "date_str": "Aug 25, 7:45pm",
+      "home_team": "Inter Milan",
+      "away_team": "Torino",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 5.0,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238472",
+      "date_timestamp": null,
+      "date_str": "Aug 25, 5:30pm",
+      "home_team": "Udinese",
+      "away_team": "Hellas Verona",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.25,
+        "away": 4.45
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238797",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 7:45pm",
+      "home_team": "Atalanta",
+      "away_team": "Pisa",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 4.7,
+        "away": 7.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238803",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 7:45pm",
+      "home_team": "Juventus",
+      "away_team": "Parma",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 4.72,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238665",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 5:30pm",
+      "home_team": "Cagliari",
+      "away_team": "Fiorentina",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.95,
+        "draw": 3.0,
+        "away": 2.26
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238798",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 5:30pm",
+      "home_team": "Como",
+      "away_team": "Lazio",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.39,
+        "draw": 3.3,
+        "away": 2.93
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238789",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 7:45pm",
+      "home_team": "AC Milan",
+      "away_team": "Cremonese",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 5.25,
+        "away": 8.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8238791",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 7:45pm",
+      "home_team": "Roma",
+      "away_team": "Bologna",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.09,
+        "draw": 3.2,
+        "away": 3.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8238792",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 5:30pm",
+      "home_team": "Genoa",
+      "away_team": "Lecce",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.3,
+        "away": 4.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8238796",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 5:30pm",
+      "home_team": "Sassuolo",
+      "away_team": "Napoli",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 3.5,
+        "away": 1.55
+      },
+      "result": "2"
+    }
+  ]
+}

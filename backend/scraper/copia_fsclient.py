@@ -62,7 +62,7 @@ def load_ligas():
 
 LIGAS = load_ligas()
 
-DEFAULT_OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "../..", "client", "public", "fixtures")
+DEFAULT_OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "../..", "frontend", "public", "fixtures")
 
 
 def parse_fixtures(soup):

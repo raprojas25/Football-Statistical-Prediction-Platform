@@ -1,0 +1,229 @@
+{
+  "generated_at": "2026-07-16T16:31:13Z",
+  "competition": "SWEDEN",
+  "competition_name": "Allsvenskan",
+  "country": "Sweden",
+  "count": 20,
+  "matches": [
+    {
+      "id": 8420414,
+      "date": "2026-07-17T17:00:00Z",
+      "homeTeam": "IFK Göteborg",
+      "awayTeam": "Brommapojkarna",
+      "homePpg": 0.4,
+      "awayPpg": 1.57,
+      "matchday": null,
+      "odds": {
+        "home": 1.84,
+        "draw": 3.75,
+        "away": 3.65
+      }
+    },
+    {
+      "id": 8420397,
+      "date": "2026-07-17T17:00:00Z",
+      "homeTeam": "Mjällby",
+      "awayTeam": "Västerås SK",
+      "homePpg": 1.2,
+      "awayPpg": 2.0,
+      "matchday": null,
+      "odds": {
+        "home": 1.77,
+        "draw": 3.95,
+        "away": 3.6
+      }
+    },
+    {
+      "id": 8420461,
+      "date": "2026-07-18T13:00:00Z",
+      "homeTeam": "AIK",
+      "awayTeam": "GAIS",
+      "homePpg": 1.2,
+      "awayPpg": 0.83,
+      "matchday": null,
+      "odds": {
+        "home": 2.55,
+        "draw": 3.35,
+        "away": 2.54
+      }
+    },
+    {
+      "id": 8420449,
+      "date": "2026-07-19T14:30:00Z",
+      "homeTeam": "Hammarby",
+      "awayTeam": "Degerfors",
+      "homePpg": 2.29,
+      "awayPpg": 1.0,
+      "matchday": null,
+      "odds": {
+        "home": 1.25,
+        "draw": 5.25,
+        "away": 9.0
+      }
+    },
+    {
+      "id": 8420448,
+      "date": "2026-07-19T14:30:00Z",
+      "homeTeam": "Elfsborg",
+      "awayTeam": "Sirius",
+      "homePpg": 1.71,
+      "awayPpg": 2.67,
+      "matchday": null,
+      "odds": {
+        "home": 3.3,
+        "draw": 3.6,
+        "away": 1.99
+      }
+    },
+    {
+      "id": 8420413,
+      "date": "2026-07-19T14:30:00Z",
+      "homeTeam": "Halmstad",
+      "awayTeam": "Häcken",
+      "homePpg": 0.83,
+      "awayPpg": 1.5,
+      "matchday": null,
+      "odds": {
+        "home": 4.75,
+        "draw": 4.0,
+        "away": 1.55
+      }
+    },
+    {
+      "id": 8420475,
+      "date": "2026-07-20T17:00:00Z",
+      "homeTeam": "Örgryte",
+      "awayTeam": "Djurgården",
+      "homePpg": 1.0,
+      "awayPpg": 2.25,
+      "matchday": null,
+      "odds": {
+        "home": 6.89,
+        "draw": 4.8,
+        "away": 1.4
+      }
+    },
+    {
+      "id": 8420370,
+      "date": "2026-07-20T17:00:00Z",
+      "homeTeam": "Kalmar",
+      "awayTeam": "Malmö FF",
+      "homePpg": 2.17,
+      "awayPpg": 1.67,
+      "matchday": null,
+      "odds": {
+        "home": 2.86,
+        "draw": 3.5,
+        "away": 2.32
+      }
+    },
+    {
+      "id": 8420426,
+      "date": "2026-07-24T17:00:00Z",
+      "homeTeam": "Västerås SK",
+      "awayTeam": "Örgryte",
+      "homePpg": 1.0,
+      "awayPpg": 0.5,
+      "matchday": null
+    },
+    {
+      "id": 8420347,
+      "date": "2026-07-25T13:00:00Z",
+      "homeTeam": "Degerfors",
+      "awayTeam": "Djurgården",
+      "homePpg": 0.71,
+      "awayPpg": 2.25,
+      "matchday": null
+    },
+    {
+      "id": 8420369,
+      "date": "2026-07-25T15:30:00Z",
+      "homeTeam": "Kalmar",
+      "awayTeam": "Mjällby",
+      "homePpg": 2.17,
+      "awayPpg": 1.43,
+      "matchday": null
+    },
+    {
+      "id": 8420396,
+      "date": "2026-07-26T12:00:00Z",
+      "homeTeam": "Brommapojkarna",
+      "awayTeam": "Hammarby",
+      "homePpg": 1.0,
+      "awayPpg": 1.17,
+      "matchday": null
+    },
+    {
+      "id": 8420334,
+      "date": "2026-07-26T12:00:00Z",
+      "homeTeam": "Sirius",
+      "awayTeam": "IFK Göteborg",
+      "homePpg": 2.67,
+      "awayPpg": 1.14,
+      "matchday": null
+    },
+    {
+      "id": 8420447,
+      "date": "2026-07-26T14:30:00Z",
+      "homeTeam": "GAIS",
+      "awayTeam": "Halmstad",
+      "homePpg": 2.0,
+      "awayPpg": 0.17,
+      "matchday": null
+    },
+    {
+      "id": 8420395,
+      "date": "2026-07-26T14:30:00Z",
+      "homeTeam": "Malmö FF",
+      "awayTeam": "Elfsborg",
+      "homePpg": 1.5,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8420469,
+      "date": "2026-07-27T17:00:00Z",
+      "homeTeam": "Häcken",
+      "awayTeam": "AIK",
+      "homePpg": 1.83,
+      "awayPpg": 1.71,
+      "matchday": null
+    },
+    {
+      "id": 8420423,
+      "date": "2026-08-01T13:00:00Z",
+      "homeTeam": "Häcken",
+      "awayTeam": "Kalmar",
+      "homePpg": 1.83,
+      "awayPpg": 0.0,
+      "matchday": null
+    },
+    {
+      "id": 8420364,
+      "date": "2026-08-02T12:00:00Z",
+      "homeTeam": "IFK Göteborg",
+      "awayTeam": "Degerfors",
+      "homePpg": 0.4,
+      "awayPpg": 1.0,
+      "matchday": null
+    },
+    {
+      "id": 8420346,
+      "date": "2026-08-02T12:00:00Z",
+      "homeTeam": "Brommapojkarna",
+      "awayTeam": "Malmö FF",
+      "homePpg": 1.0,
+      "awayPpg": 1.67,
+      "matchday": null
+    },
+    {
+      "id": 8420425,
+      "date": "2026-08-02T14:30:00Z",
+      "homeTeam": "AIK",
+      "awayTeam": "Örgryte",
+      "homePpg": 1.2,
+      "awayPpg": 0.5,
+      "matchday": null
+    }
+  ]
+}

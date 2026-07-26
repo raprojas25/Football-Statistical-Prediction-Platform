@@ -1,0 +1,4564 @@
+{
+  "generated_at": "2026-07-07T15:48:05.594452+00:00",
+  "source": "https://footystats.org/scotland/premiership/fixtures",
+  "league": "Scotland Premiership Fixtures",
+  "country": "Scotland",
+  "season": "2025/26",
+  "fixtures": [
+    {
+      "id": "8512360",
+      "date_timestamp": null,
+      "date_str": "May 17, 2:00pm",
+      "home_team": "Dundee",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.56,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.32,
+        "draw": 3.35,
+        "away": 2.92
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512361",
+      "date_timestamp": null,
+      "date_str": "May 17, 2:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Dundee United",
+      "home_ppg": 1.11,
+      "away_ppg": 0.89,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.07,
+        "draw": 3.5,
+        "away": 3.27
+      },
+      "result": "X"
+    },
+    {
+      "id": "8512370",
+      "date_timestamp": null,
+      "date_str": "May 17, 2:00pm",
+      "home_team": "Livingston",
+      "away_team": "Kilmarnock",
+      "home_ppg": 0.65,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.45,
+        "away": 2.48
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512362",
+      "date_timestamp": null,
+      "date_str": "May 16, 12:30pm",
+      "home_team": "Celtic",
+      "away_team": "Hearts",
+      "home_ppg": 2.39,
+      "away_ppg": 1.72,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.3,
+        "away": 4.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512383",
+      "date_timestamp": null,
+      "date_str": "May 16, 12:30pm",
+      "home_team": "Hibernian",
+      "away_team": "Motherwell",
+      "home_ppg": 1.67,
+      "away_ppg": 1.22,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.5,
+        "away": 3.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512385",
+      "date_timestamp": null,
+      "date_str": "May 16, 12:30pm",
+      "home_team": "Falkirk",
+      "away_team": "Rangers",
+      "home_ppg": 1.37,
+      "away_ppg": 1.72,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "odds": {
+        "home": 3.74,
+        "draw": 3.98,
+        "away": 1.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512363",
+      "date_timestamp": null,
+      "date_str": "May 13, 8:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Celtic",
+      "home_ppg": 2.0,
+      "away_ppg": 1.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.4,
+        "draw": 4.1,
+        "away": 1.66
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512364",
+      "date_timestamp": null,
+      "date_str": "May 13, 8:00pm",
+      "home_team": "Hearts",
+      "away_team": "Falkirk",
+      "home_ppg": 2.56,
+      "away_ppg": 1.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.4,
+        "draw": 4.5,
+        "away": 6.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512379",
+      "date_timestamp": null,
+      "date_str": "May 13, 8:00pm",
+      "home_team": "Rangers",
+      "away_team": "Hibernian",
+      "home_ppg": 2.11,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.45,
+        "away": 4.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512371",
+      "date_timestamp": null,
+      "date_str": "May 12, 7:45pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Dundee",
+      "home_ppg": 1.22,
+      "away_ppg": 0.61,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.45,
+        "away": 3.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512382",
+      "date_timestamp": null,
+      "date_str": "May 12, 7:45pm",
+      "home_team": "Aberdeen",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.44,
+      "away_ppg": 0.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.2,
+        "away": 2.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512386",
+      "date_timestamp": null,
+      "date_str": "May 12, 7:45pm",
+      "home_team": "Dundee United",
+      "away_team": "Livingston",
+      "home_ppg": 1.5,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 4.0,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8512388",
+      "date_timestamp": null,
+      "date_str": "May 10, 12:00pm",
+      "home_team": "Celtic",
+      "away_team": "Rangers",
+      "home_ppg": 2.35,
+      "away_ppg": 1.82,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.75,
+        "away": 3.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512387",
+      "date_timestamp": null,
+      "date_str": "May 9, 8:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Hearts",
+      "home_ppg": 2.06,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.27,
+        "away": 2.64
+      },
+      "result": "X"
+    },
+    {
+      "id": "8512365",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Hibernian",
+      "home_ppg": 1.44,
+      "away_ppg": 1.24,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.55,
+        "away": 3.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512372",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Livingston",
+      "home_ppg": 1.47,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.75,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512377",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Dundee United",
+      "home_ppg": 1.35,
+      "away_ppg": 0.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.35,
+        "away": 3.28
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512384",
+      "date_timestamp": null,
+      "date_str": "May 9, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.18,
+      "away_ppg": 0.53,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.0,
+        "draw": 3.6,
+        "away": 3.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512373",
+      "date_timestamp": null,
+      "date_str": "May 4, 5:30pm",
+      "home_team": "Hearts",
+      "away_team": "Rangers",
+      "home_ppg": 2.53,
+      "away_ppg": 1.94,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.6,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512374",
+      "date_timestamp": null,
+      "date_str": "May 3, 12:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Celtic",
+      "home_ppg": 1.76,
+      "away_ppg": 1.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.54,
+        "draw": 4.2,
+        "away": 1.67
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512375",
+      "date_timestamp": null,
+      "date_str": "May 2, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Dundee United",
+      "home_ppg": 1.12,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.5,
+        "away": 2.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512378",
+      "date_timestamp": null,
+      "date_str": "May 2, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Motherwell",
+      "home_ppg": 1.35,
+      "away_ppg": 1.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.25,
+        "away": 2.45
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512380",
+      "date_timestamp": null,
+      "date_str": "May 2, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.38,
+      "away_ppg": 0.59,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.14,
+        "away": 2.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512376",
+      "date_timestamp": null,
+      "date_str": "May 1, 7:45pm",
+      "home_team": "Livingston",
+      "away_team": "Aberdeen",
+      "home_ppg": 0.63,
+      "away_ppg": 0.76,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.4,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8512366",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 4:30pm",
+      "home_team": "Hibernian",
+      "away_team": "Hearts",
+      "home_ppg": 1.88,
+      "away_ppg": 1.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.55,
+        "draw": 3.3,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512368",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Motherwell",
+      "home_ppg": 2.24,
+      "away_ppg": 1.19,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.05,
+        "away": 5.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512369",
+      "date_timestamp": null,
+      "date_str": "Apr 26, 2:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Dundee",
+      "home_ppg": 1.41,
+      "away_ppg": 0.65,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.93,
+        "draw": 3.25,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512367",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 5:30pm",
+      "home_team": "Celtic",
+      "away_team": "Falkirk",
+      "home_ppg": 2.31,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.33,
+        "draw": 5.5,
+        "away": 8.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8512381",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Livingston",
+      "home_ppg": 1.25,
+      "away_ppg": 0.35,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.62,
+        "draw": 3.87,
+        "away": 4.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8512389",
+      "date_timestamp": null,
+      "date_str": "Apr 25, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.25,
+      "away_ppg": 0.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.92,
+        "draw": 3.45,
+        "away": 3.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206191",
+      "date_timestamp": null,
+      "date_str": "Apr 12, 12:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Rangers",
+      "home_ppg": 1.44,
+      "away_ppg": 1.87,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 6
+      },
+      "odds": {
+        "home": 3.9,
+        "draw": 3.5,
+        "away": 1.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206177",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "St. Mirren",
+      "home_ppg": 2.27,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 5.3,
+        "away": 7.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206192",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Motherwell",
+      "home_ppg": 2.5,
+      "away_ppg": 1.27,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.9,
+        "draw": 3.38,
+        "away": 3.67
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206193",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Dundee",
+      "home_ppg": 1.13,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.22,
+        "draw": 3.25,
+        "away": 3.22
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206299",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Livingston",
+      "home_ppg": 1.31,
+      "away_ppg": 0.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 4.1,
+        "away": 5.29
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206313",
+      "date_timestamp": null,
+      "date_str": "Apr 11, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Hibernian",
+      "home_ppg": 1.13,
+      "away_ppg": 1.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.42,
+        "draw": 3.45,
+        "away": 2.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206168",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 4:30pm",
+      "home_team": "Dundee",
+      "away_team": "Celtic",
+      "home_ppg": 1.47,
+      "away_ppg": 1.69,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 4.33,
+        "away": 1.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206343",
+      "date_timestamp": null,
+      "date_str": "Apr 5, 2:00pm",
+      "home_team": "Livingston",
+      "away_team": "Hearts",
+      "home_ppg": 0.6,
+      "away_ppg": 1.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.1,
+        "draw": 4.5,
+        "away": 1.26
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206188",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Dundee United",
+      "home_ppg": 2.19,
+      "away_ppg": 1.07,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.19,
+        "draw": 5.5,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206189",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Falkirk",
+      "home_ppg": 2.19,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.58,
+        "away": 4.3
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206190",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.13,
+      "away_ppg": 0.81,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.15,
+        "away": 3.05
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206280",
+      "date_timestamp": null,
+      "date_str": "Apr 4, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.8,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 4.4,
+        "away": 5.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8340984",
+      "date_timestamp": null,
+      "date_str": "Mar 22, 12:30pm",
+      "home_team": "Dundee United",
+      "away_team": "Celtic",
+      "home_ppg": 1.2,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 5.25,
+        "draw": 4.5,
+        "away": 1.53
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206312",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 5:45pm",
+      "home_team": "Rangers",
+      "away_team": "Aberdeen",
+      "home_ppg": 2.13,
+      "away_ppg": 0.87,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.26,
+        "draw": 6.0,
+        "away": 9.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206167",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Hibernian",
+      "home_ppg": 2.27,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.41,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206184",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.53,
+      "away_ppg": 0.47,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.58,
+        "away": 4.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206185",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Livingston",
+      "home_ppg": 1.0,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.73,
+        "away": 3.99
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206187",
+      "date_timestamp": null,
+      "date_str": "Mar 21, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Dundee",
+      "home_ppg": 2.47,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.42,
+        "draw": 4.8,
+        "away": 8.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206344",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 2:00pm",
+      "home_team": "Dundee",
+      "away_team": "Dundee United",
+      "home_ppg": 1.5,
+      "away_ppg": 1.07,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.31,
+        "draw": 3.5,
+        "away": 3.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206174",
+      "date_timestamp": null,
+      "date_str": "Mar 15, 12:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Rangers",
+      "home_ppg": 1.21,
+      "away_ppg": 1.79,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.2,
+        "away": 1.53
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206178",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 8:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Hearts",
+      "home_ppg": 0.86,
+      "away_ppg": 1.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.62,
+        "draw": 4.05,
+        "away": 1.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206183",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Livingston",
+      "home_ppg": 1.86,
+      "away_ppg": 0.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.29,
+        "draw": 4.6,
+        "away": 7.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206261",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Motherwell",
+      "home_ppg": 2.21,
+      "away_ppg": 1.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.9,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206311",
+      "date_timestamp": null,
+      "date_str": "Mar 14, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Falkirk",
+      "home_ppg": 1.14,
+      "away_ppg": 1.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.93,
+        "draw": 3.4,
+        "away": 2.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206273",
+      "date_timestamp": null,
+      "date_str": "Mar 7, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Motherwell",
+      "home_ppg": 1.38,
+      "away_ppg": 1.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.03,
+        "draw": 3.45,
+        "away": 1.84
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206199",
+      "date_timestamp": null,
+      "date_str": "Mar 4, 8:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Celtic",
+      "home_ppg": 1.23,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 6.0,
+        "draw": 4.35,
+        "away": 1.35
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206160",
+      "date_timestamp": null,
+      "date_str": "Mar 3, 7:45pm",
+      "home_team": "Dundee United",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.07,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.5,
+        "draw": 3.05,
+        "away": 2.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206310",
+      "date_timestamp": null,
+      "date_str": "Mar 1, 12:00pm",
+      "home_team": "Rangers",
+      "away_team": "Celtic",
+      "home_ppg": 2.21,
+      "away_ppg": 1.77,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.56,
+        "draw": 3.44,
+        "away": 2.56
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206162",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Hibernian",
+      "home_ppg": 1.42,
+      "away_ppg": 1.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.5,
+        "away": 2.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206198",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Dundee United",
+      "home_ppg": 2.21,
+      "away_ppg": 1.15,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 4.6,
+        "away": 6.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206309",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "St. Mirren",
+      "home_ppg": 0.57,
+      "away_ppg": 0.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.35,
+        "away": 2.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206338",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.43,
+      "away_ppg": 0.64,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.9,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206342",
+      "date_timestamp": null,
+      "date_str": "Feb 28, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Aberdeen",
+      "home_ppg": 2.43,
+      "away_ppg": 0.93,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 4.5,
+        "away": 7.26
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206298",
+      "date_timestamp": null,
+      "date_str": "Feb 24, 7:45pm",
+      "home_team": "Dundee United",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.08,
+      "away_ppg": 0.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.1,
+        "draw": 3.5,
+        "away": 3.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206307",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Hibernian",
+      "home_ppg": 2.38,
+      "away_ppg": 1.23,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.44,
+        "draw": 4.9,
+        "away": 6.0
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206308",
+      "date_timestamp": null,
+      "date_str": "Feb 22, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Rangers",
+      "home_ppg": 0.54,
+      "away_ppg": 1.85,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 8.5,
+        "draw": 5.2,
+        "away": 1.36
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206305",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 7:30pm",
+      "home_team": "St. Mirren",
+      "away_team": "Motherwell",
+      "home_ppg": 1.31,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 5
+      },
+      "odds": {
+        "home": 2.73,
+        "draw": 3.05,
+        "away": 2.28
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206166",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.08,
+      "away_ppg": 0.62,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.05,
+        "draw": 3.55,
+        "away": 3.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206304",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Dundee",
+      "home_ppg": 1.33,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.6,
+        "away": 3.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206333",
+      "date_timestamp": null,
+      "date_str": "Feb 21, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Falkirk",
+      "home_ppg": 2.38,
+      "away_ppg": 1.46,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.63,
+        "draw": 3.95,
+        "away": 5.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206303",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 4:30pm",
+      "home_team": "Rangers",
+      "away_team": "Hearts",
+      "home_ppg": 2.15,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.3,
+        "away": 3.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206306",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 2:30pm",
+      "home_team": "Motherwell",
+      "away_team": "Aberdeen",
+      "home_ppg": 2.15,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.0,
+        "away": 5.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206169",
+      "date_timestamp": null,
+      "date_str": "Feb 15, 2:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Celtic",
+      "home_ppg": 0.92,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 7.5,
+        "draw": 5.25,
+        "away": 1.37
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206176",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Livingston",
+      "home_ppg": 1.45,
+      "away_ppg": 0.31,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.82,
+        "draw": 3.6,
+        "away": 4.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206302",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.77,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.83,
+        "draw": 3.65,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206341",
+      "date_timestamp": null,
+      "date_str": "Feb 14, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Dundee United",
+      "home_ppg": 1.54,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.6,
+        "away": 4.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206300",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 8:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Rangers",
+      "home_ppg": 2.25,
+      "away_ppg": 1.92,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.4,
+        "away": 2.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206175",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 7:45pm",
+      "home_team": "Celtic",
+      "away_team": "Livingston",
+      "home_ppg": 2.33,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.14,
+        "draw": 8.5,
+        "away": 21.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206301",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 7:45pm",
+      "home_team": "Kilmarnock",
+      "away_team": "St. Mirren",
+      "home_ppg": 0.75,
+      "away_ppg": 0.55,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.8,
+        "draw": 3.2,
+        "away": 2.4
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206337",
+      "date_timestamp": null,
+      "date_str": "Feb 11, 7:45pm",
+      "home_team": "Falkirk",
+      "away_team": "Dundee",
+      "home_ppg": 1.42,
+      "away_ppg": 0.54,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.35,
+        "away": 4.46
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206336",
+      "date_timestamp": null,
+      "date_str": "Feb 10, 8:00pm",
+      "home_team": "Hearts",
+      "away_team": "Hibernian",
+      "home_ppg": 2.33,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.6,
+        "away": 4.33
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206200",
+      "date_timestamp": null,
+      "date_str": "Feb 4, 7:45pm",
+      "home_team": "Livingston",
+      "away_team": "Falkirk",
+      "home_ppg": 0.58,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.45,
+        "away": 2.08
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206274",
+      "date_timestamp": null,
+      "date_str": "Feb 4, 7:45pm",
+      "home_team": "Rangers",
+      "away_team": "Kilmarnock",
+      "home_ppg": 2.08,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.26,
+        "draw": 6.0,
+        "away": 10.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206297",
+      "date_timestamp": null,
+      "date_str": "Feb 4, 7:45pm",
+      "home_team": "Hibernian",
+      "away_team": "Dundee United",
+      "home_ppg": 1.67,
+      "away_ppg": 1.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 3.9,
+        "away": 4.95
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206340",
+      "date_timestamp": null,
+      "date_str": "Feb 3, 8:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Hearts",
+      "home_ppg": 1.17,
+      "away_ppg": 2.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.3,
+        "away": 2.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206339",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Falkirk",
+      "home_ppg": 2.27,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.36,
+        "draw": 5.73,
+        "away": 9.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206296",
+      "date_timestamp": null,
+      "date_str": "Feb 1, 2:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Rangers",
+      "home_ppg": 1.73,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.28,
+        "draw": 3.6,
+        "away": 2.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206260",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 8:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Hearts",
+      "home_ppg": 1.18,
+      "away_ppg": 2.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.6,
+        "away": 1.8
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206164",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Motherwell",
+      "home_ppg": 0.64,
+      "away_ppg": 1.18,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.75,
+        "away": 1.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206179",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Aberdeen",
+      "home_ppg": 0.55,
+      "away_ppg": 1.09,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.4,
+        "away": 2.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206335",
+      "date_timestamp": null,
+      "date_str": "Jan 31, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Dundee",
+      "home_ppg": 1.18,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.8,
+        "draw": 3.4,
+        "away": 4.33
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206295",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Celtic",
+      "home_ppg": 2.45,
+      "away_ppg": 1.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.13,
+        "draw": 3.3,
+        "away": 2.25
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206334",
+      "date_timestamp": null,
+      "date_str": "Jan 25, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Dundee",
+      "home_ppg": 2.0,
+      "away_ppg": 0.55,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 5.75,
+        "away": 9.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206165",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Kilmarnock",
+      "home_ppg": 2.18,
+      "away_ppg": 0.73,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 3.77,
+        "away": 5.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206293",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Livingston",
+      "home_ppg": 1.18,
+      "away_ppg": 0.36,
+      "status": "FINISHED",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.74,
+        "draw": 3.33,
+        "away": 4.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206330",
+      "date_timestamp": null,
+      "date_str": "Jan 24, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Hibernian",
+      "home_ppg": 1.27,
+      "away_ppg": 1.45,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.04,
+        "draw": 3.23,
+        "away": 2.08
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206238",
+      "date_timestamp": null,
+      "date_str": "Jan 20, 7:45pm",
+      "home_team": "Livingston",
+      "away_team": "St. Mirren",
+      "home_ppg": 0.6,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.85,
+        "draw": 3.25,
+        "away": 2.22
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206163",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 7:45pm",
+      "home_team": "Falkirk",
+      "away_team": "Celtic",
+      "home_ppg": 1.4,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.5,
+        "draw": 4.4,
+        "away": 1.48
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206268",
+      "date_timestamp": null,
+      "date_str": "Jan 14, 7:45pm",
+      "home_team": "Hearts",
+      "away_team": "St. Mirren",
+      "home_ppg": 2.4,
+      "away_ppg": 0.56,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.46,
+        "draw": 4.0,
+        "away": 7.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206289",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 4:30pm",
+      "home_team": "Aberdeen",
+      "away_team": "Rangers",
+      "home_ppg": 1.3,
+      "away_ppg": 1.9,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.52,
+        "draw": 3.6,
+        "away": 1.52
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206292",
+      "date_timestamp": null,
+      "date_str": "Jan 11, 2:00pm",
+      "home_team": "Dundee",
+      "away_team": "Hearts",
+      "home_ppg": 1.6,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.26,
+        "draw": 4.06,
+        "away": 1.55
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206173",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Motherwell",
+      "home_ppg": 1.8,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.3,
+        "away": 3.59
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206291",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Dundee United",
+      "home_ppg": 2.2,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.28,
+        "draw": 4.8,
+        "away": 7.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206294",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Kilmarnock",
+      "home_ppg": 0.56,
+      "away_ppg": 0.7,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.13,
+        "draw": 3.03,
+        "away": 3.12
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206332",
+      "date_timestamp": null,
+      "date_str": "Jan 10, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Falkirk",
+      "home_ppg": 1.3,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.1,
+        "away": 3.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8334511",
+      "date_timestamp": null,
+      "date_str": "Jan 6, 8:00pm",
+      "home_team": "Rangers",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.9,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.45,
+        "draw": 4.35,
+        "away": 6.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206156",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Livingston",
+      "home_ppg": 2.33,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 5.5,
+        "away": 13.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206245",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.22,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.3,
+        "draw": 3.5,
+        "away": 3.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206288",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "St. Mirren",
+      "home_ppg": 2.1,
+      "away_ppg": 0.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.4,
+        "away": 4.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206290",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Hibernian",
+      "home_ppg": 0.6,
+      "away_ppg": 1.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.12,
+        "draw": 3.62,
+        "away": 1.87
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206322",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Dundee",
+      "home_ppg": 1.3,
+      "away_ppg": 0.3,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.8,
+        "away": 4.58
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206285",
+      "date_timestamp": null,
+      "date_str": "Jan 3, 12:30pm",
+      "home_team": "Celtic",
+      "away_team": "Rangers",
+      "home_ppg": 2.44,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.69,
+        "draw": 3.78,
+        "away": 3.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206286",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 8:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Celtic",
+      "home_ppg": 2.0,
+      "away_ppg": 1.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 4.25,
+        "draw": 4.0,
+        "away": 1.7
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206279",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:45pm",
+      "home_team": "Dundee",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.44,
+      "away_ppg": 0.78,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.2,
+        "away": 2.62
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206283",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:45pm",
+      "home_team": "Hibernian",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.67,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.6,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206284",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:45pm",
+      "home_team": "Livingston",
+      "away_team": "Dundee United",
+      "home_ppg": 0.63,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.3,
+        "away": 2.7
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206287",
+      "date_timestamp": null,
+      "date_str": "Dec 30, 7:45pm",
+      "home_team": "Rangers",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.78,
+      "away_ppg": 0.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.48,
+        "draw": 3.9,
+        "away": 4.6
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206281",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 5:45pm",
+      "home_team": "Aberdeen",
+      "away_team": "Dundee United",
+      "home_ppg": 1.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.77,
+        "draw": 3.65,
+        "away": 4.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206269",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.33,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.8,
+        "away": 4.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206271",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Falkirk",
+      "home_ppg": 1.25,
+      "away_ppg": 1.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 3.05,
+        "away": 2.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206278",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Celtic",
+      "home_ppg": 0.71,
+      "away_ppg": 1.63,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "odds": {
+        "home": 7.4,
+        "draw": 4.75,
+        "away": 1.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206282",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Motherwell",
+      "home_ppg": 1.63,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 3.55,
+        "away": 3.85
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206277",
+      "date_timestamp": null,
+      "date_str": "Dec 27, 12:30pm",
+      "home_team": "Hibernian",
+      "away_team": "Hearts",
+      "home_ppg": 1.5,
+      "away_ppg": 2.22,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.45,
+        "away": 2.38
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206272",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Aberdeen",
+      "home_ppg": 2.38,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206182",
+      "date_timestamp": null,
+      "date_str": "Dec 21, 1:30pm",
+      "home_team": "Hearts",
+      "away_team": "Rangers",
+      "home_ppg": 2.25,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.04,
+        "draw": 3.23,
+        "away": 3.13
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206270",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Dundee",
+      "home_ppg": 1.88,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.3,
+        "draw": 4.75,
+        "away": 7.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206275",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Hibernian",
+      "home_ppg": 1.33,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.1,
+        "draw": 3.34,
+        "away": 2.12
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206276",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Livingston",
+      "home_ppg": 1.13,
+      "away_ppg": 0.44,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.86,
+        "draw": 3.4,
+        "away": 4.3
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206331",
+      "date_timestamp": null,
+      "date_str": "Dec 20, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Falkirk",
+      "home_ppg": 0.67,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.4,
+        "draw": 3.3,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206186",
+      "date_timestamp": null,
+      "date_str": "Dec 17, 8:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Celtic",
+      "home_ppg": 1.13,
+      "away_ppg": 1.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 5.4,
+        "draw": 4.4,
+        "away": 1.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206267",
+      "date_timestamp": null,
+      "date_str": "Dec 15, 7:45pm",
+      "home_team": "Rangers",
+      "away_team": "Hibernian",
+      "home_ppg": 1.43,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.75,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206264",
+      "date_timestamp": null,
+      "date_str": "Dec 14, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.13,
+      "away_ppg": 0.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.68,
+        "draw": 3.75,
+        "away": 4.9
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206217",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 8:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Hearts",
+      "home_ppg": 1.38,
+      "away_ppg": 2.13,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.05,
+        "draw": 3.5,
+        "away": 1.85
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206172",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Dundee",
+      "home_ppg": 0.67,
+      "away_ppg": 0.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.87,
+        "draw": 3.7,
+        "away": 3.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206266",
+      "date_timestamp": null,
+      "date_str": "Dec 13, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Motherwell",
+      "home_ppg": 1.14,
+      "away_ppg": 1.38,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.05,
+        "draw": 3.4,
+        "away": 2.38
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206252",
+      "date_timestamp": null,
+      "date_str": "Dec 7, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Hearts",
+      "home_ppg": 2.71,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.51,
+        "draw": 4.05,
+        "away": 5.77
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206253",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 8:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Rangers",
+      "home_ppg": 0.75,
+      "away_ppg": 1.86,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 5.0,
+        "draw": 3.9,
+        "away": 1.63
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206158",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Livingston",
+      "home_ppg": 1.71,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.65,
+        "draw": 3.9,
+        "away": 5.06
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206259",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Dundee United",
+      "home_ppg": 0.86,
+      "away_ppg": 1.14,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.85,
+        "draw": 3.65,
+        "away": 4.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206265",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Falkirk",
+      "home_ppg": 1.29,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.7,
+        "draw": 3.9,
+        "away": 4.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206324",
+      "date_timestamp": null,
+      "date_str": "Dec 6, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.43,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.61,
+        "draw": 3.3,
+        "away": 2.25
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206251",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:45pm",
+      "home_team": "Dundee United",
+      "away_team": "Rangers",
+      "home_ppg": 1.17,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.45,
+        "draw": 3.5,
+        "away": 2.11
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206257",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:45pm",
+      "home_team": "Celtic",
+      "away_team": "Dundee",
+      "home_ppg": 2.67,
+      "away_ppg": 0.29,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.12,
+        "draw": 9.5,
+        "away": 17.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206262",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:45pm",
+      "home_team": "Aberdeen",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.14,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.28,
+        "draw": 3.22,
+        "away": 3.27
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206263",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:45pm",
+      "home_team": "Hearts",
+      "away_team": "Kilmarnock",
+      "home_ppg": 2.43,
+      "away_ppg": 0.83,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.22,
+        "draw": 4.9,
+        "away": 7.3
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206326",
+      "date_timestamp": null,
+      "date_str": "Dec 3, 7:45pm",
+      "home_team": "Falkirk",
+      "away_team": "Motherwell",
+      "home_ppg": 1.43,
+      "away_ppg": 1.43,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.57,
+        "draw": 3.45,
+        "away": 2.49
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206237",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Aberdeen",
+      "home_ppg": 0.8,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.7,
+        "draw": 3.0,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206328",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 2:00pm",
+      "home_team": "Rangers",
+      "away_team": "Falkirk",
+      "home_ppg": 1.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.31,
+        "draw": 4.8,
+        "away": 6.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206239",
+      "date_timestamp": null,
+      "date_str": "Nov 30, 12:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Celtic",
+      "home_ppg": 1.5,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.15,
+        "draw": 4.0,
+        "away": 1.75
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206256",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 5:45pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Dundee United",
+      "home_ppg": 0.71,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.63,
+        "draw": 3.4,
+        "away": 2.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206249",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.17,
+      "away_ppg": 0.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.25,
+        "draw": 3.25,
+        "away": 2.08
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206329",
+      "date_timestamp": null,
+      "date_str": "Nov 29, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Hearts",
+      "home_ppg": 1.83,
+      "away_ppg": 2.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.36,
+        "draw": 3.0,
+        "away": 2.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8334510",
+      "date_timestamp": null,
+      "date_str": "Nov 25, 7:45pm",
+      "home_team": "Motherwell",
+      "away_team": "Hibernian",
+      "home_ppg": 1.6,
+      "away_ppg": 1.71,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.6,
+        "draw": 3.5,
+        "away": 2.65
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206248",
+      "date_timestamp": null,
+      "date_str": "Nov 23, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Hearts",
+      "home_ppg": 0.83,
+      "away_ppg": 2.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.5,
+        "away": 1.96
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206255",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 8:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Celtic",
+      "home_ppg": 1.0,
+      "away_ppg": 1.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 7.0,
+        "draw": 4.75,
+        "away": 1.44
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206161",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Motherwell",
+      "home_ppg": 0.83,
+      "away_ppg": 1.17,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "odds": {
+        "home": 3.53,
+        "draw": 3.42,
+        "away": 2.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206247",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Falkirk",
+      "home_ppg": 1.4,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.02,
+        "draw": 3.54,
+        "away": 3.2
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206250",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Dundee",
+      "home_ppg": 1.2,
+      "away_ppg": 0.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.37,
+        "draw": 5.0,
+        "away": 8.2
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206254",
+      "date_timestamp": null,
+      "date_str": "Nov 22, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Livingston",
+      "home_ppg": 1.2,
+      "away_ppg": 0.57,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.26,
+        "draw": 5.8,
+        "away": 9.88
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206242",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 4:00pm",
+      "home_team": "Celtic",
+      "away_team": "Kilmarnock",
+      "home_ppg": 2.6,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.16,
+        "draw": 7.4,
+        "away": 16.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206181",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Motherwell",
+      "home_ppg": 0.8,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.36,
+        "draw": 3.2,
+        "away": 2.8
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206236",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Dundee United",
+      "home_ppg": 2.67,
+      "away_ppg": 1.2,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.39,
+        "draw": 5.0,
+        "away": 6.9
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206243",
+      "date_timestamp": null,
+      "date_str": "Nov 9, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Rangers",
+      "home_ppg": 1.4,
+      "away_ppg": 1.8,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 7.2,
+        "draw": 4.5,
+        "away": 1.43
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206244",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 5:45pm",
+      "home_team": "St. Mirren",
+      "away_team": "Hibernian",
+      "home_ppg": 1.2,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.35,
+        "away": 2.5
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206246",
+      "date_timestamp": null,
+      "date_str": "Nov 8, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Livingston",
+      "home_ppg": 1.5,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.73,
+        "draw": 3.6,
+        "away": 3.5
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206171",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Dundee",
+      "home_ppg": 2.6,
+      "away_ppg": 0.4,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.03,
+        "away": 12.1
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206235",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.2,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.5,
+        "away": 3.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206258",
+      "date_timestamp": null,
+      "date_str": "Nov 1, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Hibernian",
+      "home_ppg": 0.75,
+      "away_ppg": 1.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.35,
+        "draw": 3.5,
+        "away": 1.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206159",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "Hibernian",
+      "away_team": "Rangers",
+      "home_ppg": 1.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.06,
+        "draw": 3.75,
+        "away": 2.21
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206196",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "Motherwell",
+      "away_team": "Dundee United",
+      "home_ppg": 1.25,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.08,
+        "draw": 3.8,
+        "away": 3.35
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206232",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "Celtic",
+      "away_team": "Falkirk",
+      "home_ppg": 2.5,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.25,
+        "draw": 6.5,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206234",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.0,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.75,
+        "draw": 3.45,
+        "away": 2.6
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206327",
+      "date_timestamp": null,
+      "date_str": "Oct 29, 7:45pm",
+      "home_team": "St. Mirren",
+      "away_team": "Hearts",
+      "home_ppg": 1.25,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.1,
+        "draw": 3.64,
+        "away": 1.88
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206195",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Kilmarnock",
+      "home_ppg": 0.75,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.34,
+        "draw": 5.4,
+        "away": 8.5
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206231",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 2:30pm",
+      "home_team": "Aberdeen",
+      "away_team": "Hibernian",
+      "home_ppg": 1.0,
+      "away_ppg": 1.25,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.65,
+        "draw": 3.4,
+        "away": 2.51
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206228",
+      "date_timestamp": null,
+      "date_str": "Oct 26, 12:00pm",
+      "home_team": "Hearts",
+      "away_team": "Celtic",
+      "home_ppg": 2.5,
+      "away_ppg": 1.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.0,
+        "draw": 3.6,
+        "away": 2.12
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206170",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Motherwell",
+      "home_ppg": 1.0,
+      "away_ppg": 0.75,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.3,
+        "draw": 3.5,
+        "away": 2.07
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206209",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.45,
+        "away": 3.22
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206230",
+      "date_timestamp": null,
+      "date_str": "Oct 25, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Dundee",
+      "home_ppg": 0.75,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.72,
+        "draw": 3.75,
+        "away": 4.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206224",
+      "date_timestamp": null,
+      "date_str": "Oct 19, 12:00pm",
+      "home_team": "Dundee",
+      "away_team": "Celtic",
+      "home_ppg": 1.0,
+      "away_ppg": 2.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 11.0,
+        "draw": 7.0,
+        "away": 1.22
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206225",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 5:45pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Hearts",
+      "home_ppg": 1.25,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.1,
+        "draw": 3.45,
+        "away": 1.72
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206223",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Livingston",
+      "home_ppg": 1.0,
+      "away_ppg": 0.6,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.55,
+        "draw": 4.4,
+        "away": 5.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206226",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Falkirk",
+      "home_ppg": 1.67,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.9,
+        "away": 3.45
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206227",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.67,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.41,
+        "draw": 3.3,
+        "away": 2.9
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206229",
+      "date_timestamp": null,
+      "date_str": "Oct 18, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Dundee United",
+      "home_ppg": 0.67,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.38,
+        "draw": 5.05,
+        "away": 7.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206219",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Dundee",
+      "home_ppg": 0.33,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.55,
+        "away": 4.55
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206221",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Rangers",
+      "home_ppg": 0.67,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.4,
+        "draw": 3.8,
+        "away": 1.7
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206222",
+      "date_timestamp": null,
+      "date_str": "Oct 5, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Motherwell",
+      "home_ppg": 2.33,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.2,
+        "draw": 7.0,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206194",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 5:45pm",
+      "home_team": "Hearts",
+      "away_team": "Hibernian",
+      "home_ppg": 2.33,
+      "away_ppg": 1.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.45,
+        "away": 4.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206213",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "St. Mirren",
+      "home_ppg": 0.67,
+      "away_ppg": 1.33,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.82,
+        "draw": 3.05,
+        "away": 2.51
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206220",
+      "date_timestamp": null,
+      "date_str": "Oct 4, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Livingston",
+      "home_ppg": 1.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.96,
+        "draw": 3.4,
+        "away": 3.15
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206216",
+      "date_timestamp": null,
+      "date_str": "Sep 28, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Rangers",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 4.75,
+        "draw": 4.2,
+        "away": 1.67
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206157",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 5:45pm",
+      "home_team": "Motherwell",
+      "away_team": "Aberdeen",
+      "home_ppg": 1.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.15,
+        "draw": 3.3,
+        "away": 3.25
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206211",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Hibernian",
+      "home_ppg": 3.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.23,
+        "draw": 6.5,
+        "away": 9.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206212",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.5,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.16,
+        "draw": 3.45,
+        "away": 3.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206215",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Falkirk",
+      "home_ppg": 2.0,
+      "away_ppg": 1.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.49,
+        "draw": 4.33,
+        "away": 6.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206218",
+      "date_timestamp": null,
+      "date_str": "Sep 27, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Dundee",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.6,
+        "draw": 4.1,
+        "away": 5.75
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206353",
+      "date_timestamp": null,
+      "date_str": "Sep 23, 7:45pm",
+      "home_team": "Falkirk",
+      "away_team": "Hibernian",
+      "home_ppg": 0.5,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.9,
+        "draw": 3.46,
+        "away": 2.35
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208696",
+      "date_timestamp": null,
+      "date_str": "Sep 23, 7:45pm",
+      "home_team": "Dundee United",
+      "away_team": "Aberdeen",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.43,
+        "draw": 3.35,
+        "away": 2.37
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206233",
+      "date_timestamp": null,
+      "date_str": "Sep 20, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Livingston",
+      "home_ppg": 0.33,
+      "away_ppg": 0.67,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.83,
+        "draw": 3.53,
+        "away": 2.48
+      },
+      "result": "1"
+    },
+    {
+      "id": "8206210",
+      "date_timestamp": null,
+      "date_str": "Sep 14, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Celtic",
+      "home_ppg": 1.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 9.5,
+        "draw": 5.75,
+        "away": 1.28
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206208",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 5:45pm",
+      "home_team": "Hibernian",
+      "away_team": "Dundee United",
+      "home_ppg": 1.0,
+      "away_ppg": 2.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.58,
+        "draw": 3.69,
+        "away": 4.6
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206206",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Livingston",
+      "home_ppg": 0.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.88,
+        "draw": 3.71,
+        "away": 4.1
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206214",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Rangers",
+      "away_team": "Hearts",
+      "home_ppg": 1.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.75,
+        "draw": 4.0,
+        "away": 4.62
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206323",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Motherwell",
+      "home_ppg": 0.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 3.6,
+        "draw": 3.5,
+        "away": 2.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206325",
+      "date_timestamp": null,
+      "date_str": "Sep 13, 3:00pm",
+      "home_team": "Falkirk",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.0,
+      "away_ppg": 0.5,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.25,
+        "draw": 3.46,
+        "away": 3.1
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206202",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 3:00pm",
+      "home_team": "Aberdeen",
+      "away_team": "Falkirk",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.03,
+        "draw": 3.4,
+        "away": 3.4
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206203",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "St. Mirren",
+      "home_ppg": 1.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.99,
+        "draw": 3.4,
+        "away": 3.95
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206180",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 2:00pm",
+      "home_team": "Dundee",
+      "away_team": "Dundee United",
+      "home_ppg": 0.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.42,
+        "draw": 3.1,
+        "away": 2.66
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206207",
+      "date_timestamp": null,
+      "date_str": "Aug 31, 12:00pm",
+      "home_team": "Rangers",
+      "away_team": "Celtic",
+      "home_ppg": 1.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 3.5,
+        "draw": 4.0,
+        "away": 1.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206204",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Hearts",
+      "home_ppg": 3.0,
+      "away_ppg": 3.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.2,
+        "draw": 3.45,
+        "away": 2.07
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206205",
+      "date_timestamp": null,
+      "date_str": "Aug 30, 3:00pm",
+      "home_team": "Motherwell",
+      "away_team": "Kilmarnock",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.98,
+        "draw": 3.45,
+        "away": 3.4
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206352",
+      "date_timestamp": null,
+      "date_str": "Aug 24, 12:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Rangers",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 4.2,
+        "draw": 4.1,
+        "away": 1.62
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208706",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Dundee",
+      "home_ppg": 1.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.84,
+        "draw": 3.61,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208707",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 3:00pm",
+      "home_team": "Celtic",
+      "away_team": "Livingston",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.09,
+        "draw": 8.5,
+        "away": 15.58
+      },
+      "result": "1"
+    },
+    {
+      "id": "8208709",
+      "date_timestamp": null,
+      "date_str": "Aug 23, 3:00pm",
+      "home_team": "Hearts",
+      "away_team": "Motherwell",
+      "home_ppg": 3.0,
+      "away_ppg": 1.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "odds": {
+        "home": 1.66,
+        "draw": 3.85,
+        "away": 5.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8206314",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 3:00pm",
+      "home_team": "Dundee United",
+      "away_team": "Hearts",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "odds": {
+        "home": 4.0,
+        "draw": 3.5,
+        "away": 1.79
+      },
+      "result": "2"
+    },
+    {
+      "id": "8206348",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 3:00pm",
+      "home_team": "Hibernian",
+      "away_team": "Kilmarnock",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.5,
+        "draw": 3.95,
+        "away": 4.05
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208702",
+      "date_timestamp": null,
+      "date_str": "Aug 10, 12:30pm",
+      "home_team": "Aberdeen",
+      "away_team": "Celtic",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "odds": {
+        "home": 8.0,
+        "draw": 5.8,
+        "away": 1.33
+      },
+      "result": "2"
+    },
+    {
+      "id": "8208704",
+      "date_timestamp": null,
+      "date_str": "Aug 9, 5:45pm",
+      "home_team": "Rangers",
+      "away_team": "Dundee",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 1.14,
+        "draw": 7.6,
+        "away": 20.0
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208703",
+      "date_timestamp": null,
+      "date_str": "Aug 9, 3:00pm",
+      "home_team": "St. Mirren",
+      "away_team": "Motherwell",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.95,
+        "draw": 3.5,
+        "away": 3.75
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208708",
+      "date_timestamp": null,
+      "date_str": "Aug 9, 3:00pm",
+      "home_team": "Livingston",
+      "away_team": "Falkirk",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "odds": {
+        "home": 2.45,
+        "draw": 3.05,
+        "away": 2.8
+      },
+      "result": "1"
+    },
+    {
+      "id": "8208697",
+      "date_timestamp": null,
+      "date_str": "Aug 4, 8:00pm",
+      "home_team": "Hearts",
+      "away_team": "Aberdeen",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "odds": {
+        "home": 2.01,
+        "draw": 3.5,
+        "away": 4.15
+      },
+      "result": "1"
+    },
+    {
+      "id": "8208701",
+      "date_timestamp": null,
+      "date_str": "Aug 3, 4:30pm",
+      "home_team": "Celtic",
+      "away_team": "St. Mirren",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "odds": {
+        "home": 1.1,
+        "draw": 9.0,
+        "away": 12.0
+      },
+      "result": "1"
+    },
+    {
+      "id": "8208705",
+      "date_timestamp": null,
+      "date_str": "Aug 3, 3:00pm",
+      "home_team": "Dundee",
+      "away_team": "Hibernian",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "odds": {
+        "home": 3.7,
+        "draw": 3.7,
+        "away": 1.88
+      },
+      "result": "2"
+    },
+    {
+      "id": "8208700",
+      "date_timestamp": null,
+      "date_str": "Aug 3, 2:00pm",
+      "home_team": "Falkirk",
+      "away_team": "Dundee United",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 1.79,
+        "draw": 3.5,
+        "away": 4.2
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208699",
+      "date_timestamp": null,
+      "date_str": "Aug 2, 5:30pm",
+      "home_team": "Motherwell",
+      "away_team": "Rangers",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "odds": {
+        "home": 6.5,
+        "draw": 4.8,
+        "away": 1.56
+      },
+      "result": "X"
+    },
+    {
+      "id": "8208698",
+      "date_timestamp": null,
+      "date_str": "Aug 2, 3:00pm",
+      "home_team": "Kilmarnock",
+      "away_team": "Livingston",
+      "home_ppg": 0.0,
+      "away_ppg": 0.0,
+      "status": "FINISHED",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "odds": {
+        "home": 2.2,
+        "draw": 3.3,
+        "away": 3.25
+      },
+      "result": "X"
+    }
+  ]
+}

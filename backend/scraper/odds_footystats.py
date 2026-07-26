@@ -30,7 +30,7 @@ BASE_URL = "https://footystats.org"
 FALLBACK_SETTINGS = {
     "delay": 1.5,
     "workers": 4,
-    "output_dir": os.path.join(os.path.dirname(__file__), "../..", "client", "public", "odds"),
+    "output_dir": os.path.join(os.path.dirname(__file__), "../..", "frontend", "public", "odds"),
 }
 
 CONFIG_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -250,7 +250,30 @@ def _extract_league_name(soup, url_path):
     return " ".join(p.replace("-", " ").title() for p in parts)
 
 
-def scrape_league(league_key, url_path, output_dir):
+def _extract_current_season(soup):
+    season_text = soup.find(string=re.compile(r"\d{4}/\d{2}"))
+    if season_text:
+        m = re.search(r"(\d{4}/\d{2})", season_text)
+        if m:
+            return m.group(1)
+    season_text2 = soup.find(string=re.compile(r"\d{4}-\d{4}"))
+    if season_text2:
+        m = re.search(r"(\d{4}/\d{4})", season_text2)
+        if m:
+            return m.group(1)
+    return "current"
+
+
+def _get_season_params(soup, target_season):
+    season_links = soup.select("ul.drop-down a.changeLeagueDataButton")
+    for link in season_links:
+        text = link.get_text(strip=True)
+        if text == target_season:
+            return link.get("data-z"), link.get("data-hash")
+    return None, None
+
+
+def scrape_league(league_key, url_path, output_dir, season="current"):
     url = f"{BASE_URL}{url_path}"
     country = _extract_country(url_path)
 
@@ -268,18 +291,40 @@ def scrape_league(league_key, url_path, output_dir):
 
     soup = BeautifulSoup(resp.text, "lxml")
 
+    page_type = url_path.rstrip("/").split("/")[-1]
+
+    if season != "current":
+        cur, hash_ = _get_season_params(soup, season)
+        if cur and hash_:
+            print(f"  Solicitando temporada {season} (cur={cur}, hash={hash_})")
+            ajax_url = f"{BASE_URL}/ajax_league.php"
+            ajax_data = {"cur": cur, "hash": hash_, "zzz": page_type, "zzzz": "form-table"}
+            try:
+                ajax_resp = requests.post(ajax_url, headers=HEADERS, data=ajax_data, timeout=30)
+                ajax_resp.raise_for_status()
+                soup = BeautifulSoup(ajax_resp.text, "lxml")
+            except requests.RequestException as e:
+                print(f"  ERROR en AJAX: {e}")
+                return None
+        else:
+            print(f"  WARN: temporada '{season}' no encontrada en dropdown, usando página actual")
+
     competition_name = _extract_league_name(soup, url_path)
     print(f"  Liga: {competition_name}")
 
     fixtures = parse_fixtures(soup)
     fixtures = [f for f in fixtures if f.get("status") == "FINISHED"]
 
+    season_label = season
+    if season_label == "current":
+        season_label = _extract_current_season(soup)
+
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source": url,
         "league": competition_name,
         "country": country,
-        "season": 2026,
+        "season": season_label,
         "fixtures": fixtures,
     }
 
@@ -306,6 +351,8 @@ def parse_args():
                    help="Delay entre requests (segundos)")
     p.add_argument("--output-dir", default=None,
                    help="Directorio de salida para los JSON")
+    p.add_argument("--season", default="current",
+                   help='Temporada a scrapear (ej: "2025/26"). Por defecto: current')
     return p.parse_args()
 
 
@@ -341,12 +388,13 @@ def main():
     print(f"  Ligas: {len(ligas)}")
     for key, url_path in ligas.items():
         print(f"    - {key:12s} | {url_path}")
+    print(f"  Season: {args.season}")
     print(f"  Delay: {delay}s")
     print(f"  Output: {output_dir}")
     print()
 
     for league_key, url_path in ligas.items():
-        scrape_league(league_key, url_path, output_dir=output_dir)
+        scrape_league(league_key, url_path, output_dir=output_dir, season=args.season)
         time.sleep(delay)
 
     print(f"\n{'='*55}")

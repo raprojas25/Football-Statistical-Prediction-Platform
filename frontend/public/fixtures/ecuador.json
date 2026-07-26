@@ -1,0 +1,249 @@
+{
+  "generated_at": "2026-07-10T00:04:41Z",
+  "competition": "ECUADOR",
+  "competition_name": "Primera Categoría Serie A",
+  "country": "Ecuador",
+  "count": 20,
+  "matches": [
+    {
+      "id": 8457493,
+      "date": "2026-07-10T22:00:00Z",
+      "homeTeam": "Leones del Norte",
+      "awayTeam": "CD Universidad Católica",
+      "homePpg": 1.75,
+      "awayPpg": 1.13,
+      "matchday": null,
+      "odds": {
+        "home": 3.32,
+        "draw": 3.2,
+        "away": 1.98
+      }
+    },
+    {
+      "id": 8457369,
+      "date": "2026-07-11T00:15:00Z",
+      "homeTeam": "Técnico Universitario",
+      "awayTeam": "Macará",
+      "homePpg": 1.63,
+      "awayPpg": 1.13,
+      "matchday": null,
+      "odds": {
+        "home": 2.62,
+        "draw": 3.06,
+        "away": 2.61
+      }
+    },
+    {
+      "id": 8457366,
+      "date": "2026-07-11T17:00:00Z",
+      "homeTeam": "Manta FC",
+      "awayTeam": "Orense SC",
+      "homePpg": 0.88,
+      "awayPpg": 1.25,
+      "matchday": null,
+      "odds": {
+        "home": 2.75,
+        "draw": 3.05,
+        "away": 2.4
+      }
+    },
+    {
+      "id": 8457368,
+      "date": "2026-07-11T19:10:00Z",
+      "homeTeam": "Mushuc Runa SC",
+      "awayTeam": "CSD Independiente del Valle",
+      "homePpg": 1.78,
+      "awayPpg": 2.63,
+      "matchday": null,
+      "odds": {
+        "home": 3.8,
+        "draw": 3.4,
+        "away": 1.78
+      }
+    },
+    {
+      "id": 8457367,
+      "date": "2026-07-11T23:00:00Z",
+      "homeTeam": "Guayaquil City FC",
+      "awayTeam": "Delfin SC",
+      "homePpg": 1.13,
+      "awayPpg": 0.38,
+      "matchday": null,
+      "odds": {
+        "home": 2.3,
+        "draw": 2.77,
+        "away": 3.1
+      }
+    },
+    {
+      "id": 8457496,
+      "date": "2026-07-12T17:00:00Z",
+      "homeTeam": "LDU Quito",
+      "awayTeam": "Libertad",
+      "homePpg": 1.75,
+      "awayPpg": 0.67,
+      "matchday": null,
+      "odds": {
+        "home": 1.33,
+        "draw": 4.4,
+        "away": 7.5
+      }
+    },
+    {
+      "id": 8457530,
+      "date": "2026-07-12T19:15:00Z",
+      "homeTeam": "Deportivo Cuenca",
+      "awayTeam": "SD Aucas",
+      "homePpg": 1.5,
+      "awayPpg": 1.25,
+      "matchday": null,
+      "odds": {
+        "home": 2.5,
+        "draw": 3.1,
+        "away": 2.45
+      }
+    },
+    {
+      "id": 8457495,
+      "date": "2026-07-12T23:10:00Z",
+      "homeTeam": "CS Emelec",
+      "awayTeam": "Barcelona",
+      "homePpg": 1.89,
+      "awayPpg": 1.0,
+      "matchday": null,
+      "odds": {
+        "home": 2.42,
+        "draw": 2.99,
+        "away": 2.93
+      }
+    },
+    {
+      "id": 8457357,
+      "date": "2026-07-14T21:30:00Z",
+      "homeTeam": "Macará",
+      "awayTeam": "Mushuc Runa SC",
+      "homePpg": 1.56,
+      "awayPpg": 0.63,
+      "matchday": null,
+      "odds": {
+        "home": 2.06,
+        "draw": 3.2,
+        "away": 3.5
+      }
+    },
+    {
+      "id": 8457359,
+      "date": "2026-07-15T00:00:00Z",
+      "homeTeam": "Manta FC",
+      "awayTeam": "Delfin SC",
+      "homePpg": 0.88,
+      "awayPpg": 0.38,
+      "matchday": null
+    },
+    {
+      "id": 8457362,
+      "date": "2026-07-15T17:00:00Z",
+      "homeTeam": "Libertad",
+      "awayTeam": "Técnico Universitario",
+      "homePpg": 1.38,
+      "awayPpg": 1.11,
+      "matchday": null,
+      "odds": {
+        "home": 2.6,
+        "draw": 3.15,
+        "away": 2.65
+      }
+    },
+    {
+      "id": 8457534,
+      "date": "2026-07-15T22:00:00Z",
+      "homeTeam": "CD Universidad Católica",
+      "awayTeam": "LDU Quito",
+      "homePpg": 1.89,
+      "awayPpg": 1.44,
+      "matchday": null,
+      "odds": {
+        "home": 2.15,
+        "draw": 3.4,
+        "away": 3.1
+      }
+    },
+    {
+      "id": 8457364,
+      "date": "2026-07-15T22:00:00Z",
+      "homeTeam": "Leones del Norte",
+      "awayTeam": "Deportivo Cuenca",
+      "homePpg": 1.75,
+      "awayPpg": 1.67,
+      "matchday": null
+    },
+    {
+      "id": 8457365,
+      "date": "2026-07-16T00:30:00Z",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Guayaquil City FC",
+      "homePpg": 2.5,
+      "awayPpg": 1.11,
+      "matchday": null,
+      "odds": {
+        "home": 1.46,
+        "draw": 3.95,
+        "away": 7.0
+      }
+    },
+    {
+      "id": 8457361,
+      "date": "2026-07-16T21:30:00Z",
+      "homeTeam": "SD Aucas",
+      "awayTeam": "CSD Independiente del Valle",
+      "homePpg": 2.11,
+      "awayPpg": 2.63,
+      "matchday": null
+    },
+    {
+      "id": 8457363,
+      "date": "2026-07-17T00:00:00Z",
+      "homeTeam": "Orense SC",
+      "awayTeam": "CS Emelec",
+      "homePpg": 1.33,
+      "awayPpg": 0.75,
+      "matchday": null
+    },
+    {
+      "id": 8457355,
+      "date": "2026-07-18T00:00:00Z",
+      "homeTeam": "Delfin SC",
+      "awayTeam": "Macará",
+      "homePpg": 1.56,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8457360,
+      "date": "2026-07-18T19:00:00Z",
+      "homeTeam": "Deportivo Cuenca",
+      "awayTeam": "CD Universidad Católica",
+      "homePpg": 1.5,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8457494,
+      "date": "2026-07-18T21:30:00Z",
+      "homeTeam": "LDU Quito",
+      "awayTeam": "Leones del Norte",
+      "homePpg": 1.75,
+      "awayPpg": 0.67,
+      "matchday": null
+    },
+    {
+      "id": 8457491,
+      "date": "2026-07-19T00:00:00Z",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Libertad",
+      "homePpg": 2.5,
+      "awayPpg": 0.67,
+      "matchday": null
+    }
+  ]
+}
