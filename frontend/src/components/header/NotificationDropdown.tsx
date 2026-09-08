@@ -25,11 +25,11 @@ export default function NotificationDropdown() {
     <div className="relative">
       <IconMenu onClick={handleClick}>
         <span
-          className={`absolute right-0 top-0.5 z-10 h-2 w-2 rounded-full bg-betano-green ${
+          className={`bg-betano-green absolute top-0.5 right-0 z-10 h-2 w-2 rounded-full ${
             !notifying ? 'hidden' : 'flex'
           }`}
         >
-          <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-betano-green opacity-75"></span>
+          <span className="bg-betano-green absolute inline-flex h-full w-full animate-ping rounded-full opacity-75"></span>
         </span>
         <Bell size={20} />
       </IconMenu>
@@ -50,7 +50,7 @@ export default function NotificationDropdown() {
       <Dropdown
         isOpen={isOpen}
         onClose={closeDropdown}
-        className="absolute -left-12 mt-[17px] flex h-auto max-h-[480px] w-[350px] flex-col rounded-2xl border border-gray-200 bg-white p-3 shadow-lg dark:border-gray-800 dark:bg-gray-900 sm:w-[361px] md:right-0 lg:right-0"
+        className="absolute -left-12 mt-[17px] flex h-auto max-h-[480px] w-[350px] flex-col rounded-2xl border border-gray-200 bg-white p-3 shadow-lg sm:w-[361px] md:right-0 lg:right-0 dark:border-gray-800 dark:bg-gray-900"
       >
         <div className="mb-3 flex items-center justify-between border-b border-gray-100 pb-3 dark:border-gray-700">
           <h5 className="text-lg font-semibold text-gray-800 dark:text-gray-200">
@@ -68,9 +68,9 @@ export default function NotificationDropdown() {
           <li>
             <DropdownItem
               onItemClick={closeDropdown}
-              className="px-4.5 flex gap-3 rounded-lg border-b border-gray-100 p-3 py-3 hover:bg-gray-100 dark:border-gray-800 dark:hover:bg-white/5"
+              className="flex gap-3 rounded-lg border-b border-gray-100 p-3 px-4.5 py-3 hover:bg-gray-100 dark:border-gray-800 dark:hover:bg-white/5"
             >
-              <span className="z-1 relative block h-10 w-full max-w-10 rounded-full">
+              <span className="relative z-1 block h-10 w-full max-w-10 rounded-full">
                 <img
                   width={40}
                   height={40}
@@ -78,7 +78,7 @@ export default function NotificationDropdown() {
                   alt="User"
                   className="w-full overflow-hidden rounded-full"
                 />
-                <span className="bg-success-500 absolute bottom-0 right-0 z-10 h-2.5 w-full max-w-2.5 rounded-full border-[1.5px] border-white dark:border-gray-900"></span>
+                <span className="bg-success-500 absolute right-0 bottom-0 z-10 h-2.5 w-full max-w-2.5 rounded-full border-[1.5px] border-white dark:border-gray-900"></span>
               </span>
 
               <span className="block">
@@ -104,9 +104,9 @@ export default function NotificationDropdown() {
           <li>
             <DropdownItem
               onItemClick={closeDropdown}
-              className="px-4.5 flex gap-3 rounded-lg border-b border-gray-100 p-3 py-3 hover:bg-gray-100 dark:border-gray-800 dark:hover:bg-white/5"
+              className="flex gap-3 rounded-lg border-b border-gray-100 p-3 px-4.5 py-3 hover:bg-gray-100 dark:border-gray-800 dark:hover:bg-white/5"
             >
-              <span className="z-1 relative block h-10 w-full max-w-10 rounded-full">
+              <span className="relative z-1 block h-10 w-full max-w-10 rounded-full">
                 <img
                   width={40}
                   height={40}
@@ -114,7 +114,7 @@ export default function NotificationDropdown() {
                   alt="User"
                   className="w-full overflow-hidden rounded-full"
                 />
-                <span className="bg-success-500 absolute bottom-0 right-0 z-10 h-2.5 w-full max-w-2.5 rounded-full border-[1.5px] border-white dark:border-gray-900"></span>
+                <span className="bg-success-500 absolute right-0 bottom-0 z-10 h-2.5 w-full max-w-2.5 rounded-full border-[1.5px] border-white dark:border-gray-900"></span>
               </span>
 
               <span className="block">
@@ -140,9 +140,9 @@ export default function NotificationDropdown() {
           <li>
             <DropdownItem
               onItemClick={closeDropdown}
-              className="px-4.5 flex gap-3 rounded-lg border-b border-gray-100 p-3 py-3 hover:bg-gray-100 dark:border-gray-800 dark:hover:bg-white/5"
+              className="flex gap-3 rounded-lg border-b border-gray-100 p-3 px-4.5 py-3 hover:bg-gray-100 dark:border-gray-800 dark:hover:bg-white/5"
             >
-              <span className="z-1 relative block h-10 w-full max-w-10 rounded-full">
+              <span className="relative z-1 block h-10 w-full max-w-10 rounded-full">
                 <img
                   width={40}
                   height={40}
@@ -150,7 +150,7 @@ export default function NotificationDropdown() {
                   alt="User"
                   className="w-full overflow-hidden rounded-full"
                 />
-                <span className="bg-success-500 absolute bottom-0 right-0 z-10 h-2.5 w-full max-w-2.5 rounded-full border-[1.5px] border-white dark:border-gray-900"></span>
+                <span className="bg-success-500 absolute right-0 bottom-0 z-10 h-2.5 w-full max-w-2.5 rounded-full border-[1.5px] border-white dark:border-gray-900"></span>
               </span>
 
               <span className="block">

@@ -15,7 +15,7 @@ interface ModalProps {
   closeOnEsc?: boolean;
 }
 
-export const NewModal: React.FC<ModalProps> = ({
+export const Modal: React.FC<ModalProps> = ({
   showIcon = false, // renombrado y con mejor nombre
   isOpen,
   onClose,

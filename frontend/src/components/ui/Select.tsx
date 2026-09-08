@@ -41,10 +41,8 @@ function Select<TOption, TValue>({
   searchPlaceholder = 'Buscar...',
   error,
   className = '',
-  getOptionLabel = (opt) =>
-    (opt as Record<string, unknown>).label as string,
-  getOptionValue = (opt) =>
-    (opt as Record<string, unknown>).value as TValue,
+  getOptionLabel = (opt) => (opt as Record<string, unknown>).label as string,
+  getOptionValue = (opt) => (opt as Record<string, unknown>).value as TValue,
 }: SelectProps<TOption, TValue>) {
   const [isOpen, setIsOpen] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
@@ -74,7 +72,7 @@ function Select<TOption, TValue>({
   const selectedOption = useMemo<SelectOption<TValue> | null>(
     () =>
       value !== undefined
-        ? normalizedOptions.find((opt) => opt.value === value) ?? null
+        ? (normalizedOptions.find((opt) => opt.value === value) ?? null)
         : internalSelection,
     [value, normalizedOptions, internalSelection],
   );
@@ -222,7 +220,7 @@ function Select<TOption, TValue>({
         onKeyDown={handleTriggerKeyDown}
         className={[
           'flex w-full items-center justify-between rounded-lg border px-3 py-2.5 text-left text-sm shadow-sm transition-all duration-200',
-          'focus:outline-none focus:ring-2',
+          'focus:ring-2 focus:outline-none',
           error
             ? 'border-red-500 focus:border-red-500 focus:ring-red-500/30'
             : 'border-betano-border focus:border-betano-primary focus:ring-betano-primary/30',
@@ -230,7 +228,6 @@ function Select<TOption, TValue>({
             ? 'cursor-not-allowed opacity-50'
             : 'cursor-pointer hover:border-gray-400',
           'bg-betano-surface text-betano-text',
-
         ].join(' ')}
       >
         <span
@@ -256,18 +253,18 @@ function Select<TOption, TValue>({
       )}
 
       {isOpen && !disabled && (
-        <div className="absolute z-20 mt-1 w-full origin-top rounded-lg border border-gray-200 bg-white shadow-xl dark:border-betano-border dark:bg-betano-surface">
+        <div className="dark:border-betano-border dark:bg-betano-surface absolute z-20 mt-1 w-full origin-top rounded-lg border border-gray-200 bg-white shadow-xl">
           {searchable && (
             <div className="relative">
               <Search
                 size={16}
-                className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
+                className="pointer-events-none absolute top-1/2 left-3 -translate-y-1/2 text-gray-400"
               />
               <input
                 ref={searchRef}
                 type="text"
                 aria-label={searchPlaceholder}
-                className="w-full rounded-t-lg border-0 border-b border-betano-border bg-transparent py-2.5 pl-9 pr-8 text-sm text-gray-800 placeholder-gray-400 focus:outline-none dark:text-gray-200 dark:placeholder-gray-500"
+                className="border-betano-border w-full rounded-t-lg border-0 border-b bg-transparent py-2.5 pr-8 pl-9 text-sm text-gray-800 placeholder-gray-400 focus:outline-none dark:text-gray-200 dark:placeholder-gray-500"
                 placeholder={searchPlaceholder}
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
@@ -278,7 +275,7 @@ function Select<TOption, TValue>({
                   type="button"
                   tabIndex={-1}
                   aria-label="Limpiar búsqueda"
-                  className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-0.5 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
+                  className="absolute top-1/2 right-2 -translate-y-1/2 rounded p-0.5 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
                   onClick={() => setSearchTerm('')}
                 >
                   <X size={16} />
@@ -299,8 +296,7 @@ function Select<TOption, TValue>({
               </li>
             ) : (
               filteredOptions.map((option, index) => {
-                const isSelected =
-                  selectedOption?.value === option.value;
+                const isSelected = selectedOption?.value === option.value;
                 const isHighlighted = highlightedIndex === index;
 
                 return (
@@ -313,8 +309,8 @@ function Select<TOption, TValue>({
                       isSelected
                         ? 'bg-betano-primary/15 text-betano-primary'
                         : isHighlighted
-                          ? 'bg-gray-100 text-gray-900 dark:bg-betano-light/50 dark:text-gray-100'
-                          : 'text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-betano-light/30',
+                          ? 'dark:bg-betano-light/50 bg-gray-100 text-gray-900 dark:text-gray-100'
+                          : 'dark:hover:bg-betano-light/30 text-gray-700 hover:bg-gray-50 dark:text-gray-300',
                     ].join(' ')}
                     onClick={() => handleSelect(option)}
                     onMouseEnter={() => setHighlightedIndex(index)}
@@ -336,9 +332,7 @@ function Select<TOption, TValue>({
           type="hidden"
           name={name}
           value={
-            selectedOption?.value != null
-              ? String(selectedOption.value)
-              : ''
+            selectedOption?.value != null ? String(selectedOption.value) : ''
           }
         />
       )}

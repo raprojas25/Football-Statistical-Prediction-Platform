@@ -47,7 +47,7 @@ const Switch: React.FC<SwitchProps> = ({
 
   return (
     <label
-      className={`flex cursor-pointer select-none items-center gap-3 text-sm font-medium ${
+      className={`flex cursor-pointer items-center gap-3 text-sm font-medium select-none ${
         disabled ? 'text-gray-400' : 'text-gray-700 dark:text-gray-400'
       }`}
       onClick={handleToggle} // Toggle when the label itself is clicked
@@ -61,7 +61,7 @@ const Switch: React.FC<SwitchProps> = ({
           }`}
         ></div>
         <div
-          className={`shadow-theme-sm absolute left-0.5 top-0.5 h-5 w-5 transform rounded-full duration-150 ease-linear ${switchColors.knob}`}
+          className={`shadow-theme-sm absolute top-0.5 left-0.5 h-5 w-5 transform rounded-full duration-150 ease-linear ${switchColors.knob}`}
         ></div>
       </div>
       {label}

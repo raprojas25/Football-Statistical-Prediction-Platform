@@ -112,7 +112,8 @@ function calculatePrediction(
 }
 
 export default function Matches() {
-  const [selectedCompetition, setSelectedCompetition] = useState<string>('peru');
+  const [selectedCompetition, setSelectedCompetition] =
+    useState<string>('peru');
   const [predictions, setPredictions] = useState<
     Record<number, PredictionData>
   >({});
@@ -146,7 +147,7 @@ export default function Matches() {
   if (isLoading) {
     return (
       <div className="flex min-h-100 items-center justify-center">
-        <Loader2 className="h-8 w-8 animate-spin text-betano-primary" />
+        <Loader2 className="text-betano-primary h-8 w-8 animate-spin" />
       </div>
     );
   }
@@ -156,13 +157,13 @@ export default function Matches() {
       <div className="flex min-h-100 items-center justify-center">
         <div className="space-y-3 text-center">
           <AlertCircle className="mx-auto h-12 w-12 text-red-400" />
-          <p className="text-sm text-betano-muted">Error al cargar los datos</p>
-          <p className="max-w-md text-xs text-betano-muted/60">
+          <p className="text-betano-muted text-sm">Error al cargar los datos</p>
+          <p className="text-betano-muted/60 max-w-md text-xs">
             {error instanceof Error ? error.message : 'Error desconocido'}
           </p>
           <button
             onClick={() => window.location.reload()}
-            className="rounded-lg bg-betano-primary px-4 py-2 text-sm font-medium text-white hover:opacity-90"
+            className="bg-betano-primary rounded-lg px-4 py-2 text-sm font-medium text-white hover:opacity-90"
           >
             Reintentar
           </button>
@@ -179,10 +180,10 @@ export default function Matches() {
         className="py-4 text-center"
       >
         <h1 className="mb-1 flex items-center justify-center gap-2 text-2xl font-bold">
-          <Calendar className="h-6 w-6 text-betano-primary" />
+          <Calendar className="text-betano-primary h-6 w-6" />
           Partidos Programados
         </h1>
-        <p className="text-sm text-betano-muted">
+        <p className="text-betano-muted text-sm">
           {matches.length} partidos disponibles
         </p>
       </motion.div>
@@ -193,8 +194,8 @@ export default function Matches() {
           const isActive = selectedCompetition === comp;
 
           return (
-             info.favorite &&(
-             <button
+            info.favorite && (
+              <button
                 onClick={() => setSelectedCompetition(comp)}
                 className={`flex h-24 w-16 min-w-16 flex-col items-center justify-around gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-all ${
                   isActive
@@ -222,7 +223,7 @@ export default function Matches() {
 
       {/* <GlowBackgroundButton/> */}
       {matches.length === 0 ? (
-        <div className="py-8 text-center text-betano-muted">
+        <div className="text-betano-muted py-8 text-center">
           No hay partidos disponibles para esta liga
         </div>
       ) : (
@@ -242,7 +243,7 @@ export default function Matches() {
                 {/* <PredictorCard /> */}
               </AnimatePresence>
             ) : (
-              <div className="rounded-md border border-slate-200 bg-white p-2 text-center text-sm text-betano-muted dark:border-betano-border dark:bg-betano-card">
+              <div className="text-betano-muted dark:border-betano-border dark:bg-betano-card rounded-md border border-slate-200 bg-white p-2 text-center text-sm">
                 Sin datos de equipos
               </div>
             )}

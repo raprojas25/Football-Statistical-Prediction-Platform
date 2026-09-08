@@ -22,5 +22,3 @@ export const LEAGUES: { id: string; label: string }[] = [
   { id: 'germany2', label: 'Germany2' },
   { id: 'sweden', label: 'Sweden' },
 ];
-
-

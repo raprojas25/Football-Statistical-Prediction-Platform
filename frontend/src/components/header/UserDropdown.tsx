@@ -53,7 +53,7 @@ export default function UserDropdown() {
           </span>
         </div>
 
-        <ul className="mt-2 flex flex-col gap-1 border-y border-gray-200 pb-3 pt-4 dark:border-gray-800">
+        <ul className="mt-2 flex flex-col gap-1 border-y border-gray-200 pt-4 pb-3 dark:border-gray-800">
           <li>
             <DropdownItem
               onItemClick={closeDropdown}

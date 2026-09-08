@@ -4,7 +4,7 @@ import Footer from './Footer';
 
 export default function Layout() {
   return (
-    <div className="min-h-screen bg-betano-dark text-betano-text">
+    <div className="bg-betano-dark text-betano-text min-h-screen">
       <Header />
       <main className="container mx-auto px-4 py-6 md:px-6 lg:px-8">
         <Outlet />

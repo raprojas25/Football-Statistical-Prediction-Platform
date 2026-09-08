@@ -58,9 +58,7 @@ const THead: React.FC<TableHeaderProps> = ({ children, className }) => {
 // TableBody Component
 const TBody: React.FC<TableBodyProps> = ({ children, className }) => {
   return (
-    <tbody
-      className={`divide-y divide-betano-border ${className}`}
-    >
+    <tbody className={`divide-betano-border divide-y ${className}`}>
       {children}
     </tbody>
   );
@@ -74,7 +72,7 @@ const TR: React.FC<TableRowProps> = ({
 }) => {
   return (
     <tr
-      className={`${isHeader ? 'border-b border-betano-border bg-betano-surface dark:bg-betano-surface/50 text-betano-muted' : 'text-slate-500 dark:text-slate-400 hover:bg-betano-surface/50'} ${className}`}
+      className={`${isHeader ? 'border-betano-border bg-betano-surface dark:bg-betano-surface/50 text-betano-muted border-b' : 'hover:bg-betano-surface/50 text-slate-500 dark:text-slate-400'} ${className}`}
     >
       {children}
     </tr>
@@ -89,7 +87,7 @@ const TH: React.FC<TableHeadProps> = ({
 }) => {
   return (
     <th
-      className={`whitespace-nowrap px-2 py-2 ${textAlign[align]} ${className}`}
+      className={`px-2 py-2 whitespace-nowrap ${textAlign[align]} ${className}`}
     >
       {children}
     </th>
@@ -108,7 +106,7 @@ const TD: React.FC<TableCellProps> = ({
     <td
       rowSpan={rowSpan}
       {...props}
-      className={`whitespace-nowrap px-2 py-2 ${textAlign[align]} ${className}`}
+      className={`px-2 py-2 whitespace-nowrap ${textAlign[align]} ${className}`}
     >
       {children}
     </td>

@@ -44,9 +44,9 @@ Thumbs.db
 
 # JSON data files (keep sample)
 # Ignore generated advertising/data JSON files
-# frontend/public/data/*.json
-# frontend/public/fixtures/*.json
-# frontend/public/odds/*.json
+frontend/public/data/*.json
+frontend/public/fixtures/*.json
+frontend/public/odds/*.json
 
 # React build
 frontend/.turbo/

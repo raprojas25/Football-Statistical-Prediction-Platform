@@ -22,7 +22,7 @@ const Radio: React.FC<RadioProps> = ({
   return (
     <label
       htmlFor={id}
-      className={`relative flex cursor-pointer select-none items-center gap-3 text-sm font-medium ${
+      className={`relative flex cursor-pointer items-center gap-3 text-sm font-medium select-none ${
         disabled
           ? 'cursor-not-allowed text-gray-300 dark:text-gray-600'
           : 'text-gray-700 dark:text-gray-400'

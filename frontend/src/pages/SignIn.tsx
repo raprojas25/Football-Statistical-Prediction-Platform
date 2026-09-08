@@ -77,7 +77,7 @@ export const SignIn = (props: Props) => {
                 <div className="w-full border-t border-gray-200 dark:border-gray-800"></div>
               </div>
               <div className="relative flex justify-center text-sm">
-                <span className="bg-white p-2 text-gray-400 dark:bg-gray-900 sm:px-5 sm:py-2">
+                <span className="bg-white p-2 text-gray-400 sm:px-5 sm:py-2 dark:bg-gray-900">
                   Or
                 </span>
               </div>
@@ -96,13 +96,13 @@ export const SignIn = (props: Props) => {
                   </label>
                   <div className="relative">
                     <input
-                      className="shadow-xs outline-none focus:ring-[3px] h-11 w-full appearance-none rounded-lg border px-4 py-2.5 text-sm placeholder:text-gray-400 dark:bg-gray-900 dark:text-white/90 dark:placeholder:text-white/30"
+                      className="h-11 w-full appearance-none rounded-lg border px-4 py-2.5 text-sm shadow-xs outline-none placeholder:text-gray-400 focus:ring-[3px] dark:bg-gray-900 dark:text-white/90 dark:placeholder:text-white/30"
                       type={showPassword ? 'text' : 'password'}
                       placeholder="Enter your password"
                     />
                     <span
                       onClick={() => setShowPassword(!showPassword)}
-                      className="absolute right-4 top-1/2 z-30 -translate-y-1/2 cursor-pointer"
+                      className="absolute top-1/2 right-4 z-30 -translate-y-1/2 cursor-pointer"
                     >
                       {showPassword ? (
                         <EyeIcon className="size-5 fill-gray-500 dark:fill-gray-400" />
@@ -135,7 +135,7 @@ export const SignIn = (props: Props) => {
             </form>
 
             <div className="mt-5">
-              <p className="text-center text-sm font-normal text-gray-700 dark:text-gray-400 sm:text-start">
+              <p className="text-center text-sm font-normal text-gray-700 sm:text-start dark:text-gray-400">
                 Don&apos;t have an account? {''}
                 <Link
                   to="/signup"

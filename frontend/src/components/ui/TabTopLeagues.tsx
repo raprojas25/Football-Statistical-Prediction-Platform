@@ -23,7 +23,7 @@ export const TabTopLeagues: React.FC<Props> = ({
       className={`flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-all ${
         isActive
           ? 'bg-primary-500 text-white'
-          : 'border border-betano-border bg-betano-surface text-betano-muted hover:text-betano-text'
+          : 'border-betano-border bg-betano-surface text-betano-muted hover:text-betano-text border'
       }`}
     >
       <span className="text-lg">{flag}</span>

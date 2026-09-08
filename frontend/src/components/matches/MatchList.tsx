@@ -11,7 +11,7 @@ import { AnimatePresence, motion, Variants } from 'framer-motion';
 import { PredictionData } from '@/types';
 import { Odds } from './Odds';
 import { difference } from '@/utils/prediction';
-
+import { Modal } from '../ui/Modal';
 export default function MatchList({
   prediction,
   date,
@@ -23,6 +23,7 @@ export default function MatchList({
 }) {
   const [isOpen, setIsOpen] = useState<boolean>(false);
   const [activeTab, setActiveTab] = useState('scoring');
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const diff = difference(prediction.pgfl, prediction.pgfv);
 
@@ -77,6 +78,12 @@ export default function MatchList({
     return 'border-betano-orange/50 bg-betano-orange/10';
   }
 
+  const OpenModal = () => {
+    setIsModalOpen(true);
+  };
+
+  const homeData = prediction.home.home.goals;
+
   const name = league.competition_name.split(' (');
 
   const tabs = [
@@ -103,37 +110,37 @@ export default function MatchList({
 
   if (!prediction)
     return (
-      <div className="relative overflow-hidden rounded-xl border border-betano-border bg-betano-card p-4">
-        <div className="absolute right-0 top-0 rounded-bl-xl bg-betano-primary px-2.5 py-1 text-[10px] font-bold text-white">
+      <div className="border-betano-border bg-betano-card relative overflow-hidden rounded-xl border p-4">
+        <div className="bg-betano-primary absolute top-0 right-0 rounded-bl-xl px-2.5 py-1 text-[10px] font-bold text-white">
           BB
         </div>
-        <div className="flex items-center gap-2 text-betano-muted">
+        <div className="text-betano-muted flex items-center gap-2">
           <Hexagon size={16} className="text-betano-light" />
           <span className="text-[12px] font-semibold">
             {league.country} · {name[0]}
           </span>
         </div>
-        <h5 className="mt-3 text-sm font-medium text-betano-muted">
+        <h5 className="text-betano-muted mt-3 text-sm font-medium">
           No hay datos disponibles
         </h5>
       </div>
     );
 
   return (
-    <div className="overflow-hidden rounded-xl border border-betano-border bg-betano-card transition-all duration-200 hover:border-betano-light/40">
+    <div className="border-betano-border bg-betano-card hover:border-betano-light/40 overflow-hidden rounded-xl border transition-all duration-200">
       {/* Header: Liga + Fecha */}
-      <div className="flex items-center justify-between border-b border-betano-border/60 bg-betano-surface/50 px-3 py-1.5">
+      <div className="border-betano-border/60 bg-betano-surface/50 flex items-center justify-between border-b px-3 py-1.5">
         <div className="flex min-w-0 items-center gap-1.5">
-          <Hexagon size={13} className="shrink-0 text-betano-primary" />
-          <span className="truncate text-[11px] font-semibold text-betano-muted">
+          <Hexagon size={13} className="text-betano-primary shrink-0" />
+          <span className="text-betano-muted truncate text-[11px] font-semibold">
             {league.country}
           </span>
           <span className="text-betano-light">·</span>
-          <span className="truncate text-[11px] font-normal text-betano-muted/80">
+          <span className="text-betano-muted/80 truncate text-[11px] font-normal">
             {name[0]}
           </span>
         </div>
-        <div className="flex shrink-0 items-center gap-1 text-betano-muted/70">
+        <div className="text-betano-muted/70 flex shrink-0 items-center gap-1">
           <Clock size={11} />
           <span className="text-[11px] font-medium">
             {formatDate(date.date)}
@@ -142,25 +149,26 @@ export default function MatchList({
       </div>
 
       {/* Equipos */}
-      <button
-        className="flex w-full items-center justify-between gap-3 px-3 py-3 text-left transition-colors duration-150 hover:bg-betano-surface/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-betano-primary/50"
-        onClick={() => setIsOpen(!isOpen)}
-        aria-expanded={isOpen}
-        aria-label={`Ver detalles del partido ${prediction.home.name} vs ${prediction.away.name}`}
-      >
+      <div className="hover:bg-betano-surface/30 focus-visible:ring-betano-primary/50 flex w-full items-center justify-between gap-3 px-3 py-3 text-left transition-colors duration-150 focus:outline-none focus-visible:ring-2">
         <div className="min-w-0 flex-1 space-y-1">
           <div className="flex items-center justify-between gap-2">
-            <p className="truncate text-sm font-medium text-betano-text">
+            <button
+              className="text-betano-text hover:text-betano-primary truncate text-sm font-medium hover:underline"
+              onClick={() => OpenModal()}
+            >
               {prediction.home.name}
-            </p>
+            </button>
             <Badge size="sm" variant={goalsColor(prediction.pgfl)}>
               {prediction.pgfl.toFixed(1)}
             </Badge>
           </div>
           <div className="flex items-center justify-between gap-2">
-            <p className="truncate text-sm font-medium text-betano-text">
+            <button
+              className="text-betano-text hover:text-betano-primary truncate text-sm font-medium hover:underline"
+              onClick={() => OpenModal()}
+            >
               {prediction.away.name}
-            </p>
+            </button>
             <Badge size="sm" variant={goalsColor(prediction.pgfv)}>
               {prediction.pgfv.toFixed(1)}
             </Badge>
@@ -175,7 +183,10 @@ export default function MatchList({
           >
             {diff.toFixed(1)}
           </div>
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg border border-betano-border bg-betano-surface/50 text-betano-muted transition-colors duration-200 group-hover:text-betano-primary">
+          <button
+            className="border-betano-border bg-betano-surface/50 text-betano-muted group-hover:text-betano-primary flex h-8 w-8 items-center justify-center rounded-lg border transition-colors duration-200"
+            onClick={() => setIsOpen(!isOpen)}
+          >
             {isOpen ? (
               <Minus
                 size={18}
@@ -187,12 +198,12 @@ export default function MatchList({
                 className={`transition-transform duration-300`}
               />
             )}
-          </div>
+          </button>
         </div>
-      </button>
+      </div>
 
       {/* Stats de resultado 1X2 */}
-      <div className="border-t border-betano-border/60 px-3 py-2">
+      <div className="border-betano-border/60 border-t px-3 py-2">
         {/* 1X2 Probabilidades */}
         <div className="grid grid-cols-3 gap-2">
           <BadgeStats
@@ -244,6 +255,30 @@ export default function MatchList({
           )}
         </AnimatePresence>
       </div>
+
+      {/* Modal de creación/edición */}
+
+      <Modal
+        title={prediction.home.name}
+        size="lg"
+        isOpen={isModalOpen}
+        onClose={() => {
+          setIsModalOpen(false);
+        }}
+      >
+        <div className="flex justify-between">
+          <p>Wins:</p>
+          <p>{prediction.home.home.goals.wins}</p>
+        </div>
+        <div className="flex justify-between">
+          <p>draws:</p>
+          <p>{prediction.home.home.goals.draws}</p>
+        </div>
+        <div className="flex justify-between">
+          <p>defeats:</p>
+          <p>{prediction.home.home.goals.defeats}</p>
+        </div>
+      </Modal>
     </div>
   );
 }

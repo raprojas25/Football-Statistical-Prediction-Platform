@@ -69,7 +69,7 @@ const Header: React.FC = () => {
   };
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-betano-border bg-betano-primary/95 backdrop-blur-md">
+    <header className="border-betano-border bg-betano-primary/95 sticky top-0 z-50 w-full border-b backdrop-blur-md">
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-2 px-3 sm:px-6">
         {/* Logo */}
         <Logo size="sm" />
@@ -92,7 +92,7 @@ const Header: React.FC = () => {
                 {active && (
                   <motion.span
                     layoutId="nav-pill"
-                    className="absolute inset-0 rounded-lg bg-betano-primary/10 dark:bg-betano-primary/15"
+                    className="bg-betano-primary/10 dark:bg-betano-primary/15 absolute inset-0 rounded-lg"
                     transition={{ type: 'spring', bounce: 0.15, duration: 0.4 }}
                   />
                 )}
@@ -111,19 +111,19 @@ const Header: React.FC = () => {
           <div className="relative hidden lg:block">
             <Search
               size={15}
-              className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
+              className="pointer-events-none absolute top-1/2 left-3 -translate-y-1/2 text-gray-400"
             />
             <input
               type="text"
               placeholder="Buscar..."
-              className="h-8 w-44 rounded-lg border border-gray-200 bg-gray-50 pl-8 pr-3 text-xs text-gray-700 placeholder-gray-400 outline-none transition-all focus:w-56 focus:border-betano-primary focus:ring-1 focus:ring-betano-primary/20 dark:border-betano-border dark:bg-white/5 dark:text-gray-200 dark:placeholder-gray-500 dark:focus:border-betano-primary dark:focus:ring-betano-primary/30"
+              className="focus:border-betano-primary focus:ring-betano-primary/20 dark:border-betano-border dark:focus:border-betano-primary dark:focus:ring-betano-primary/30 h-8 w-44 rounded-lg border border-gray-200 bg-gray-50 pr-3 pl-8 text-xs text-gray-700 placeholder-gray-400 transition-all outline-none focus:w-56 focus:ring-1 dark:bg-white/5 dark:text-gray-200 dark:placeholder-gray-500"
             />
           </div>
 
           {/* Mobile search toggle */}
           <button
             onClick={() => setSearchOpen(!isSearchOpen)}
-            className="flex h-8 w-8 items-center justify-center rounded-lg text-gray-200 transition-colors hover:bg-gray-100 hover:text-gray-700 dark:text-gray-200 dark:hover:bg-white/10 dark:hover:text-white lg:hidden"
+            className="flex h-8 w-8 items-center justify-center rounded-lg text-gray-200 transition-colors hover:bg-gray-100 hover:text-gray-700 lg:hidden dark:text-gray-200 dark:hover:bg-white/10 dark:hover:text-white"
             aria-label="Buscar"
           >
             <Search size={17} />
@@ -137,7 +137,7 @@ const Header: React.FC = () => {
           {/* Mobile hamburger */}
           <button
             onClick={() => setMobileMenuOpen((prev) => !prev)}
-            className="flex h-8 w-8 items-center justify-center rounded-lg text-gray-200 transition-colors hover:bg-gray-100 hover:text-gray-700 dark:text-gray-200 dark:hover:bg-white/10 dark:hover:text-white lg:hidden"
+            className="flex h-8 w-8 items-center justify-center rounded-lg text-gray-200 transition-colors hover:bg-gray-100 hover:text-gray-700 lg:hidden dark:text-gray-200 dark:hover:bg-white/10 dark:hover:text-white"
             aria-label={isMobileMenuOpen ? 'Cerrar menú' : 'Abrir menú'}
           >
             {isMobileMenuOpen ? <X size={18} /> : <Menu size={18} />}
@@ -159,12 +159,12 @@ const Header: React.FC = () => {
               <div className="relative">
                 <Search
                   size={16}
-                  className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"
+                  className="pointer-events-none absolute top-1/2 left-3 -translate-y-1/2 text-gray-400"
                 />
                 <input
                   type="text"
                   placeholder="Buscar partidos, equipos..."
-                  className="h-9 w-full rounded-lg border border-gray-200 bg-gray-50 pl-9 pr-3 text-sm text-gray-700 placeholder-gray-400 outline-none focus:border-betano-primary focus:ring-1 focus:ring-betano-primary/20 "
+                  className="focus:border-betano-primary focus:ring-betano-primary/20 h-9 w-full rounded-lg border border-gray-200 bg-gray-50 pr-3 pl-9 text-sm text-gray-700 placeholder-gray-400 outline-none focus:ring-1"
                   autoFocus
                 />
               </div>
@@ -182,7 +182,7 @@ const Header: React.FC = () => {
             animate={{ height: 'auto', opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.25, ease: 'easeInOut' }}
-            className="overflow-hidden border-t border-gray-200 bg-white dark:border-betano-border dark:bg-betano-surface lg:hidden"
+            className="dark:border-betano-border dark:bg-betano-surface overflow-hidden border-t border-gray-200 bg-white lg:hidden"
           >
             <div className="px-2 py-2">
               {navItems.map((item) => {
@@ -201,7 +201,7 @@ const Header: React.FC = () => {
                     <Icon size={18} />
                     <span>{item.label}</span>
                     {active && (
-                      <span className="ml-auto h-1.5 w-1.5 rounded-full bg-betano-primary animate-pulse" />
+                      <span className="bg-betano-primary ml-auto h-1.5 w-1.5 animate-pulse rounded-full" />
                     )}
                   </Link>
                 );
@@ -210,17 +210,17 @@ const Header: React.FC = () => {
 
             {/* Auth buttons */}
             {!isLoggedIn && (
-              <div className="border-t border-gray-200 px-4 py-3 dark:border-betano-border">
+              <div className="dark:border-betano-border border-t border-gray-200 px-4 py-3">
                 <button
                   onClick={() => navigate('/auth')}
-                  className="flex w-full items-center justify-center gap-2 rounded-lg border border-gray-300 px-4 py-2.5 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-50 dark:border-betano-border dark:text-gray-300 dark:hover:bg-white/5"
+                  className="dark:border-betano-border flex w-full items-center justify-center gap-2 rounded-lg border border-gray-300 px-4 py-2.5 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-white/5"
                 >
                   <LogIn size={16} />
                   Iniciar Sesión
                 </button>
                 <button
                   onClick={() => navigate('/auth')}
-                  className="mt-2 flex w-full items-center justify-center gap-2 rounded-lg bg-linear-to-l from-betano-primary to-betano-secondary px-4 py-2.5 text-sm font-medium text-white transition-opacity hover:opacity-90"
+                  className="from-betano-primary to-betano-secondary mt-2 flex w-full items-center justify-center gap-2 rounded-lg bg-linear-to-l px-4 py-2.5 text-sm font-medium text-white transition-opacity hover:opacity-90"
                 >
                   <UserPlus size={16} />
                   Crear Cuenta

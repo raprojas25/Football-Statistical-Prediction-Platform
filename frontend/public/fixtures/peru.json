@@ -1,228 +1,228 @@
 {
-  "generated_at": "2026-07-16T16:31:46Z",
+  "generated_at": "2026-09-03T17:22:23Z",
   "competition": "PERU",
   "competition_name": "Primera División",
   "country": "Peru",
   "count": 20,
   "matches": [
     {
-      "id": 8542585,
-      "date": "2026-07-17T18:00:00Z",
+      "id": 8578229,
+      "date": "2026-09-04T18:00:00Z",
       "homeTeam": "FC Cajamarca",
-      "awayTeam": "Juan Pablo II College",
+      "awayTeam": "Cienciano",
       "homePpg": 1.0,
-      "awayPpg": 0.94,
+      "awayPpg": 1.54,
       "matchday": null,
       "odds": {
-        "home": 1.94,
-        "draw": 3.55,
-        "away": 3.19
+        "home": 2.75,
+        "draw": 3.35,
+        "away": 2.15
       }
     },
     {
-      "id": 8542588,
-      "date": "2026-07-17T20:15:00Z",
-      "homeTeam": "Sporting Cristal",
-      "awayTeam": "Deportivo Garcilaso",
-      "homePpg": 1.12,
-      "awayPpg": 1.53,
+      "id": 8578320,
+      "date": "2026-09-04T20:15:00Z",
+      "homeTeam": "Alianza Atlético",
+      "awayTeam": "UTC Cajamarca",
+      "homePpg": 1.42,
+      "awayPpg": 0.83,
       "matchday": null,
       "odds": {
-        "home": 1.38,
-        "draw": 4.2,
-        "away": 6.5
+        "home": 1.61,
+        "draw": 3.6,
+        "away": 4.5
       }
     },
     {
-      "id": 8542584,
-      "date": "2026-07-18T01:00:00Z",
-      "homeTeam": "Cienciano",
-      "awayTeam": "Melgar",
-      "homePpg": 1.94,
-      "awayPpg": 1.65,
+      "id": 8578293,
+      "date": "2026-09-05T20:00:00Z",
+      "homeTeam": "Sport Huancayo",
+      "awayTeam": "Sport Boys",
+      "homePpg": 1.08,
+      "awayPpg": 1.42,
       "matchday": null,
       "odds": {
-        "home": 1.8,
-        "draw": 3.54,
-        "away": 4.09
+        "home": 1.67,
+        "draw": 3.6,
+        "away": 4.25
       }
     },
     {
-      "id": 8542587,
-      "date": "2026-07-18T16:00:00Z",
-      "homeTeam": "UCV Moquegua",
+      "id": 8578294,
+      "date": "2026-09-05T23:00:00Z",
+      "homeTeam": "Real Garcilaso",
+      "awayTeam": "UCV Moquegua",
+      "homePpg": 1.63,
+      "awayPpg": 1.04,
+      "matchday": null,
+      "odds": {
+        "home": 1.27,
+        "draw": 5.0,
+        "away": 8.25
+      }
+    },
+    {
+      "id": 8578259,
+      "date": "2026-09-06T01:30:00Z",
+      "homeTeam": "Universitario",
       "awayTeam": "Comerciantes Unidos",
-      "homePpg": 1.06,
-      "awayPpg": 1.24,
-      "matchday": null
+      "homePpg": 1.88,
+      "awayPpg": 1.21,
+      "matchday": null,
+      "odds": {
+        "home": 1.25,
+        "draw": 5.0,
+        "away": 10.0
+      }
     },
     {
-      "id": 8542586,
-      "date": "2026-07-18T18:15:00Z",
-      "homeTeam": "ADT",
-      "awayTeam": "Universitario",
-      "homePpg": 1.18,
+      "id": 8578309,
+      "date": "2026-09-06T16:00:00Z",
+      "homeTeam": "Sporting Cristal",
+      "awayTeam": "Los Chankas",
+      "homePpg": 1.21,
       "awayPpg": 1.71,
       "matchday": null,
       "odds": {
-        "home": 2.9,
-        "draw": 3.0,
-        "away": 2.25
+        "home": 1.26,
+        "draw": 5.25,
+        "away": 7.5
       }
     },
     {
-      "id": 8542592,
-      "date": "2026-07-18T20:30:00Z",
-      "homeTeam": "Atlético Grau",
-      "awayTeam": "UTC Cajamarca",
-      "homePpg": 0.94,
-      "awayPpg": 1.06,
-      "matchday": null,
-      "odds": {
-        "home": 1.8,
-        "draw": 3.1,
-        "away": 4.0
-      }
-    },
-    {
-      "id": 8542589,
-      "date": "2026-07-18T23:30:00Z",
-      "homeTeam": "Real Garcilaso",
-      "awayTeam": "Alianza Atlético",
-      "homePpg": 1.59,
-      "awayPpg": 1.24,
-      "matchday": null,
-      "odds": {
-        "home": 1.7,
-        "draw": 3.4,
-        "away": 4.4
-      }
-    },
-    {
-      "id": 8542591,
-      "date": "2026-07-19T16:00:00Z",
-      "homeTeam": "Los Chankas",
-      "awayTeam": "Sport Boys",
-      "homePpg": 2.0,
-      "awayPpg": 1.18,
-      "matchday": null,
-      "odds": {
-        "home": 1.65,
-        "draw": 3.4,
-        "away": 4.6
-      }
-    },
-    {
-      "id": 8542590,
-      "date": "2026-07-20T00:00:00Z",
-      "homeTeam": "Alianza Lima",
-      "awayTeam": "Sport Huancayo",
-      "homePpg": 2.35,
-      "awayPpg": 0.94,
-      "matchday": null,
-      "odds": {
-        "home": 1.4,
-        "draw": 4.0,
-        "away": 6.65
-      }
-    },
-    {
-      "id": 8556215,
-      "date": "2026-07-24T20:00:00Z",
-      "homeTeam": "Alianza Atlético",
-      "awayTeam": "Los Chankas",
-      "homePpg": 1.24,
-      "awayPpg": 2.0,
-      "matchday": null
-    },
-    {
-      "id": 8556217,
-      "date": "2026-07-25T01:30:00Z",
-      "homeTeam": "Universitario",
-      "awayTeam": "Real Garcilaso",
-      "homePpg": 1.71,
-      "awayPpg": 1.59,
-      "matchday": null
-    },
-    {
-      "id": 8556220,
-      "date": "2026-07-25T18:00:00Z",
-      "homeTeam": "Sport Huancayo",
-      "awayTeam": "Atlético Grau",
-      "homePpg": 0.94,
-      "awayPpg": 0.94,
-      "matchday": null
-    },
-    {
-      "id": 8556221,
-      "date": "2026-07-25T20:15:00Z",
-      "homeTeam": "Juan Pablo II College",
-      "awayTeam": "Cienciano",
-      "homePpg": 0.94,
-      "awayPpg": 1.94,
-      "matchday": null
-    },
-    {
-      "id": 8556219,
-      "date": "2026-07-25T22:30:00Z",
-      "homeTeam": "Sport Boys",
-      "awayTeam": "ADT",
-      "homePpg": 1.18,
-      "awayPpg": 1.18,
-      "matchday": null
-    },
-    {
-      "id": 8556218,
-      "date": "2026-07-26T01:00:00Z",
-      "homeTeam": "Melgar",
-      "awayTeam": "Sporting Cristal",
-      "homePpg": 1.65,
-      "awayPpg": 1.12,
-      "matchday": null
-    },
-    {
-      "id": 8556216,
-      "date": "2026-07-26T18:00:00Z",
-      "homeTeam": "UTC Cajamarca",
-      "awayTeam": "UCV Moquegua",
-      "homePpg": 1.06,
-      "awayPpg": 1.06,
-      "matchday": null
-    },
-    {
-      "id": 8556223,
-      "date": "2026-07-26T20:30:00Z",
-      "homeTeam": "Comerciantes Unidos",
-      "awayTeam": "Alianza Lima",
-      "homePpg": 1.24,
-      "awayPpg": 2.35,
-      "matchday": null
-    },
-    {
-      "id": 8556222,
-      "date": "2026-07-27T00:00:00Z",
+      "id": 8578231,
+      "date": "2026-09-06T18:30:00Z",
       "homeTeam": "Deportivo Garcilaso",
+      "awayTeam": "Atlético Grau",
+      "homePpg": 1.75,
+      "awayPpg": 1.21,
+      "matchday": null
+    },
+    {
+      "id": 8578261,
+      "date": "2026-09-06T20:00:00Z",
+      "homeTeam": "Juan Pablo II College",
+      "awayTeam": "Alianza Lima",
+      "homePpg": 1.13,
+      "awayPpg": 2.17,
+      "matchday": null,
+      "odds": {
+        "home": 4.2,
+        "draw": 3.55,
+        "away": 1.69
+      }
+    },
+    {
+      "id": 8578274,
+      "date": "2026-09-06T23:30:00Z",
+      "homeTeam": "Melgar",
+      "awayTeam": "ADT",
+      "homePpg": 1.63,
+      "awayPpg": 0.92,
+      "matchday": null,
+      "odds": {
+        "home": 1.41,
+        "draw": 3.75,
+        "away": 6.0
+      }
+    },
+    {
+      "id": 8578321,
+      "date": "2026-09-11T20:00:00Z",
+      "homeTeam": "UTC Cajamarca",
+      "awayTeam": "Juan Pablo II College",
+      "homePpg": 0.83,
+      "awayPpg": 1.13,
+      "matchday": null
+    },
+    {
+      "id": 8578317,
+      "date": "2026-09-12T00:00:00Z",
+      "homeTeam": "Real Garcilaso",
+      "awayTeam": "Melgar",
+      "homePpg": 1.63,
+      "awayPpg": 1.63,
+      "matchday": null
+    },
+    {
+      "id": 8578304,
+      "date": "2026-09-12T15:30:00Z",
+      "homeTeam": "Los Chankas",
       "awayTeam": "FC Cajamarca",
-      "homePpg": 1.53,
+      "homePpg": 1.71,
       "awayPpg": 1.0,
       "matchday": null
     },
     {
-      "id": 8578255,
-      "date": "2026-07-31T20:00:00Z",
-      "homeTeam": "Los Chankas",
-      "awayTeam": "Comerciantes Unidos",
-      "homePpg": 2.0,
-      "awayPpg": 1.24,
+      "id": 8578245,
+      "date": "2026-09-12T18:00:00Z",
+      "homeTeam": "Comerciantes Unidos",
+      "awayTeam": "Sport Huancayo",
+      "homePpg": 1.21,
+      "awayPpg": 1.08,
       "matchday": null
     },
     {
-      "id": 8578221,
-      "date": "2026-08-01T18:00:00Z",
+      "id": 8578233,
+      "date": "2026-09-12T20:15:00Z",
+      "homeTeam": "UCV Moquegua",
+      "awayTeam": "Sporting Cristal",
+      "homePpg": 1.04,
+      "awayPpg": 1.21,
+      "matchday": null
+    },
+    {
+      "id": 8578289,
+      "date": "2026-09-13T01:00:00Z",
+      "homeTeam": "Alianza Lima",
+      "awayTeam": "Universitario",
+      "homePpg": 2.17,
+      "awayPpg": 1.88,
+      "matchday": null
+    },
+    {
+      "id": 8578322,
+      "date": "2026-09-13T18:00:00Z",
+      "homeTeam": "Sport Boys",
+      "awayTeam": "Deportivo Garcilaso",
+      "homePpg": 1.42,
+      "awayPpg": 1.75,
+      "matchday": null
+    },
+    {
+      "id": 8578267,
+      "date": "2026-09-13T20:15:00Z",
+      "homeTeam": "Atlético Grau",
+      "awayTeam": "Alianza Atlético",
+      "homePpg": 1.21,
+      "awayPpg": 1.42,
+      "matchday": null
+    },
+    {
+      "id": 8578308,
+      "date": "2026-09-18T20:00:00Z",
+      "homeTeam": "Alianza Atlético",
+      "awayTeam": "Comerciantes Unidos",
+      "homePpg": 1.42,
+      "awayPpg": 1.21,
+      "matchday": null
+    },
+    {
+      "id": 8578244,
+      "date": "2026-09-19T01:00:00Z",
+      "homeTeam": "Alianza Lima",
+      "awayTeam": "ADT",
+      "homePpg": 2.17,
+      "awayPpg": 0.92,
+      "matchday": null
+    },
+    {
+      "id": 8578243,
+      "date": "2026-09-19T18:00:00Z",
       "homeTeam": "FC Cajamarca",
-      "awayTeam": "Sport Huancayo",
+      "awayTeam": "Real Garcilaso",
       "homePpg": 1.0,
-      "awayPpg": 0.94,
+      "awayPpg": 1.63,
       "matchday": null
     }
   ]

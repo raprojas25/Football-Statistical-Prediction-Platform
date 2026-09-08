@@ -100,7 +100,7 @@ const getPrediction = (
           type: 'HOME_AWAY',
           details: detalles,
         };
-      } else if (d> 1.99) {
+      } else if (d > 1.99) {
         return {
           label: 'era L x1',
           type: 'HOME_DRAW',
@@ -125,7 +125,7 @@ const getPrediction = (
         label: 'Local +0.5',
         type: 'DRAW',
         details: detalles,
-      };     
+      };
     }
     return {
       label: 'Empate o visita',
@@ -432,7 +432,7 @@ export const Odds = () => {
     return (
       <div className="flex min-h-112.5 flex-col items-center justify-center space-y-4">
         <RefreshCw className="text-betano-primary h-10 w-10 animate-spin" />
-        <p className="text-betano-muted animate-pulse text-sm font-semibold ">
+        <p className="text-betano-muted animate-pulse text-sm font-semibold">
           Analizando base de datos de cuotas...
         </p>
       </div>

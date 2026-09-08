@@ -126,7 +126,7 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
             tabIndex={disabled ? -1 : 0}
           >
             <div
-              className={`shadow-xs outline-hidden focus:border-brand-300 focus:shadow-focus-ring dark:focus:border-brand-300 mb-2 flex min-h-11 rounded-lg border border-gray-300 py-1.5 pl-3 pr-3 transition dark:border-gray-700 dark:bg-gray-900 ${
+              className={`focus:border-brand-300 focus:shadow-focus-ring dark:focus:border-brand-300 mb-2 flex min-h-11 rounded-lg border border-gray-300 py-1.5 pr-3 pl-3 shadow-xs outline-hidden transition dark:border-gray-700 dark:bg-gray-900 ${
                 disabled
                   ? 'cursor-not-allowed bg-gray-50 opacity-50 dark:bg-gray-800'
                   : 'cursor-pointer'
@@ -140,7 +140,7 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
                     return (
                       <div
                         key={value}
-                        className="group flex items-center justify-center rounded-full border-[0.7px] border-transparent bg-gray-100 py-1 pl-2.5 pr-2 text-sm text-gray-800 hover:border-gray-200 dark:bg-gray-800 dark:text-white/90 dark:hover:border-gray-800"
+                        className="group flex items-center justify-center rounded-full border-[0.7px] border-transparent bg-gray-100 py-1 pr-2 pl-2.5 text-sm text-gray-800 hover:border-gray-200 dark:bg-gray-800 dark:text-white/90 dark:hover:border-gray-800"
                       >
                         <span className="max-w-full flex-initial">{text}</span>
                         <button
@@ -150,7 +150,7 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
                             if (!disabled) removeOption(value);
                           }}
                           disabled={disabled}
-                          className="cursor-pointer pl-2 text-gray-500 disabled:cursor-not-allowed group-hover:text-gray-400 dark:text-gray-400"
+                          className="cursor-pointer pl-2 text-gray-500 group-hover:text-gray-400 disabled:cursor-not-allowed dark:text-gray-400"
                           aria-label={`Remove ${text}`}
                         >
                           <svg
@@ -176,7 +176,7 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
                   </div>
                 )}
               </div>
-              <div className="flex w-7 items-center self-start py-1 pl-1 pr-1">
+              <div className="flex w-7 items-center self-start py-1 pr-1 pl-1">
                 <button
                   type="button"
                   onClick={(e) => {
@@ -184,7 +184,7 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
                     toggleDropdown();
                   }}
                   disabled={disabled}
-                  className="outline-hidden outline-none h-5 w-5 cursor-pointer text-gray-700 disabled:cursor-not-allowed dark:text-gray-400"
+                  className="h-5 w-5 cursor-pointer text-gray-700 outline-hidden outline-none disabled:cursor-not-allowed dark:text-gray-400"
                 >
                   <svg
                     className={`stroke-current transition-transform ${
@@ -211,7 +211,7 @@ const MultiSelect: React.FC<MultiSelectProps> = ({
 
           {isOpen && (
             <div
-              className="max-h-select absolute left-0 top-full z-40 w-full overflow-y-auto rounded-lg bg-white shadow-sm dark:bg-gray-900"
+              className="max-h-select absolute top-full left-0 z-40 w-full overflow-y-auto rounded-lg bg-white shadow-sm dark:bg-gray-900"
               onClick={(e) => e.stopPropagation()}
               role="listbox"
               aria-label={label}

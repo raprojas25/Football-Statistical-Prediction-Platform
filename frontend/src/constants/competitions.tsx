@@ -1,6 +1,12 @@
 export const COMPETITIONS: Record<
   string,
-  { name: string; flag: string; teamsFile: string; partidosFile: string, favorite: boolean }
+  {
+    name: string;
+    flag: string;
+    teamsFile: string;
+    partidosFile: string;
+    favorite: boolean;
+  }
 > = {
   peru: {
     name: 'Liga 1',

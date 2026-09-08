@@ -5,13 +5,13 @@ import MatchList from '@/components/matches/MatchList';
 import { PredictionData, Match } from '@/types';
 
 const SWEDISH_NAME_MAP: Record<string, string> = {
-  'Mjällby': 'Mjallby',
-  'Häcken': 'Hacken',
-  'Djurgården': 'Djurgarden',
+  Mjällby: 'Mjallby',
+  Häcken: 'Hacken',
+  Djurgården: 'Djurgarden',
   'Malmö FF': 'Malmo FF',
   'IFK Göteborg': 'IFK Goteborg',
   'Västerås SK': 'Vasteras',
-  'Örgryte': 'Orgryte',
+  Örgryte: 'Orgryte',
 };
 
 interface NewTeamStats {
@@ -31,7 +31,7 @@ interface NewTeamStats {
 
 function findTeam(name: string, teams: NewTeamStats[]): NewTeamStats | null {
   const normalized = (SWEDISH_NAME_MAP[name] || name).toLowerCase().trim();
-  return teams.find(t => t.name.toLowerCase().trim() === normalized) || null;
+  return teams.find((t) => t.name.toLowerCase().trim() === normalized) || null;
 }
 
 function calc(a: number, b: number): number {
@@ -39,7 +39,9 @@ function calc(a: number, b: number): number {
 }
 
 function calcOr(def: number, ...vals: (number | undefined)[]): number {
-  return vals.every(v => v === undefined) ? def : calc(vals[0] ?? 0, vals[1] ?? 0);
+  return vals.every((v) => v === undefined)
+    ? def
+    : calc(vals[0] ?? 0, vals[1] ?? 0);
 }
 
 function calculatePrediction(
@@ -92,8 +94,16 @@ function calculatePrediction(
     ht_away: calcOr(0, aScoring.rate_1st_h, hScoring.conceding_1st_h),
     st_home: calcOr(0, hScoring.rate_2nd_h, aScoring.conceding_2nd_h),
     st_away: calcOr(0, aScoring.rate_2nd_h, hScoring.conceding_2nd_h),
-    bt_home: calcOr(0, hScoring.scored_both_halves, aScoring.conceded_both_halves),
-    bt_away: calcOr(0, aScoring.scored_both_halves, hScoring.conceded_both_halves),
+    bt_home: calcOr(
+      0,
+      hScoring.scored_both_halves,
+      aScoring.conceded_both_halves,
+    ),
+    bt_away: calcOr(
+      0,
+      aScoring.scored_both_halves,
+      hScoring.conceded_both_halves,
+    ),
 
     corners_home: cornersH,
     corners_away: cornersA,
@@ -129,13 +139,12 @@ export default function NewPredictor() {
   const [teams, setTeams] = useState<NewTeamStats[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [predictions, setPredictions] = useState<Record<number, PredictionData>>({});
+  const [predictions, setPredictions] = useState<
+    Record<number, PredictionData>
+  >({});
 
   useEffect(() => {
-    Promise.all([
-      fetch('/fixtures/sweden.json'),
-      fetch('/data/sweden.json'),
-    ])
+    Promise.all([fetch('/fixtures/sweden.json'), fetch('/data/sweden.json')])
       .then(([fixRes, teamsRes]) => {
         if (!fixRes.ok) throw new Error(`Fixtures error: ${fixRes.status}`);
         if (!teamsRes.ok) throw new Error(`Teams error: ${teamsRes.status}`);
@@ -170,7 +179,7 @@ export default function NewPredictor() {
   if (isLoading) {
     return (
       <div className="flex min-h-[400px] items-center justify-center">
-        <Loader2 className="h-8 w-8 animate-spin text-betano-primary" />
+        <Loader2 className="text-betano-primary h-8 w-8 animate-spin" />
       </div>
     );
   }
@@ -180,11 +189,11 @@ export default function NewPredictor() {
       <div className="flex min-h-[400px] items-center justify-center">
         <div className="space-y-3 text-center">
           <AlertCircle className="mx-auto h-12 w-12 text-red-400" />
-          <p className="text-sm text-betano-muted">Error al cargar los datos</p>
-          <p className="max-w-md text-xs text-betano-muted/60">{error}</p>
+          <p className="text-betano-muted text-sm">Error al cargar los datos</p>
+          <p className="text-betano-muted/60 max-w-md text-xs">{error}</p>
           <button
             onClick={() => window.location.reload()}
-            className="rounded-lg bg-betano-primary px-4 py-2 text-sm font-medium text-white hover:opacity-90"
+            className="bg-betano-primary rounded-lg px-4 py-2 text-sm font-medium text-white hover:opacity-90"
           >
             Reintentar
           </button>
@@ -201,16 +210,16 @@ export default function NewPredictor() {
         className="py-4 text-center"
       >
         <h1 className="mb-1 flex items-center justify-center gap-2 text-2xl font-bold">
-          <Calendar className="h-6 w-6 text-betano-primary" />
+          <Calendar className="text-betano-primary h-6 w-6" />
           {fixtures?.competition_name || 'Allsvenskan'}
         </h1>
-        <p className="text-sm text-betano-muted">
+        <p className="text-betano-muted text-sm">
           {matches.length} partidos disponibles
         </p>
       </motion.div>
 
       {matches.length === 0 ? (
-        <div className="py-8 text-center text-betano-muted">
+        <div className="text-betano-muted py-8 text-center">
           No hay partidos disponibles
         </div>
       ) : (
@@ -229,7 +238,7 @@ export default function NewPredictor() {
                 />
               </AnimatePresence>
             ) : (
-              <div className="rounded-md border border-slate-200 bg-white p-2 text-center text-sm text-betano-muted dark:border-betano-border dark:bg-betano-card">
+              <div className="text-betano-muted dark:border-betano-border dark:bg-betano-card rounded-md border border-slate-200 bg-white p-2 text-center text-sm">
                 Sin datos de equipos para {match.homeTeam} vs {match.awayTeam}
               </div>
             )}

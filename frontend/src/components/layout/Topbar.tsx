@@ -78,7 +78,7 @@ const Topbar = () => {
             <div className="relative" ref={accountRef}>
               <button
                 type="button"
-                className="flex items-center space-x-1 rounded bg-white px-2 py-1 text-sm transition-colors hover:bg-gray-200 dark:bg-betano-light"
+                className="dark:bg-betano-light flex items-center space-x-1 rounded bg-white px-2 py-1 text-sm transition-colors hover:bg-gray-200"
                 onClick={() => setAccountOpen(!accountOpen)}
               >
                 <span>My Account</span>
@@ -97,7 +97,7 @@ const Topbar = () => {
                 </svg>
               </button>
               {accountOpen && (
-                <div className="absolute right-0 z-10 mt-1 w-32 overflow-hidden rounded-md border border-gray-200 bg-white shadow-lg dark:bg-betano-light">
+                <div className="dark:bg-betano-light absolute right-0 z-10 mt-1 w-32 overflow-hidden rounded-md border border-gray-200 bg-white shadow-lg">
                   <button className="block w-full px-4 py-2 text-left text-sm hover:bg-gray-200">
                     Sign in
                   </button>
@@ -112,7 +112,7 @@ const Topbar = () => {
             <div className="relative" ref={currencyRef}>
               <button
                 type="button"
-                className="flex items-center space-x-1 rounded bg-white px-2 py-1 text-sm transition-colors hover:bg-gray-200 dark:bg-betano-light"
+                className="dark:bg-betano-light flex items-center space-x-1 rounded bg-white px-2 py-1 text-sm transition-colors hover:bg-gray-200"
                 onClick={() => setCurrencyOpen(!currencyOpen)}
               >
                 <span>{currency}</span>
@@ -131,7 +131,7 @@ const Topbar = () => {
                 </svg>
               </button>
               {currencyOpen && (
-                <div className="absolute right-0 z-10 mt-1 w-32 rounded-md border border-gray-200 bg-white shadow-lg dark:bg-betano-light">
+                <div className="dark:bg-betano-light absolute right-0 z-10 mt-1 w-32 rounded-md border border-gray-200 bg-white shadow-lg">
                   {curren.map((currency) => (
                     <button
                       key={currency}
@@ -152,7 +152,7 @@ const Topbar = () => {
             <div className="relative" ref={languageRef}>
               <button
                 type="button"
-                className="flex items-center space-x-1 rounded bg-white px-2 py-1 text-sm transition-colors hover:bg-gray-200 dark:bg-betano-light"
+                className="dark:bg-betano-light flex items-center space-x-1 rounded bg-white px-2 py-1 text-sm transition-colors hover:bg-gray-200"
                 onClick={() => setLanguageOpen(!languageOpen)}
               >
                 <span>EN</span>
@@ -171,7 +171,7 @@ const Topbar = () => {
                 </svg>
               </button>
               {languageOpen && (
-                <div className="absolute right-0 z-10 mt-1 w-32 rounded-md border border-gray-200 bg-white shadow-lg dark:bg-betano-light">
+                <div className="dark:bg-betano-light absolute right-0 z-10 mt-1 w-32 rounded-md border border-gray-200 bg-white shadow-lg">
                   {['FR', 'AR', 'RU'].map((lang) => (
                     <button
                       key={lang}
@@ -194,7 +194,7 @@ const Topbar = () => {
                 >
                   <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
                 </svg>
-                <span className="absolute -right-1 -top-1 flex h-4 w-4 items-center justify-center rounded-full border border-gray-800 bg-white text-xs dark:bg-betano-light">
+                <span className="dark:bg-betano-light absolute -top-1 -right-1 flex h-4 w-4 items-center justify-center rounded-full border border-gray-800 bg-white text-xs">
                   0
                 </span>
               </Link>
@@ -206,7 +206,7 @@ const Topbar = () => {
                 >
                   <path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z" />
                 </svg>
-                <span className="absolute -right-1 -top-1 flex h-4 w-4 items-center justify-center rounded-full border border-gray-800 bg-white text-xs dark:bg-betano-light">
+                <span className="dark:bg-betano-light absolute -top-1 -right-1 flex h-4 w-4 items-center justify-center rounded-full border border-gray-800 bg-white text-xs">
                   0
                 </span>
               </Link>
@@ -216,13 +216,13 @@ const Topbar = () => {
       </div>
 
       {/* Bottom Row - Desktop Only */}
-      <div className="hidden items-center bg-gray-100 px-5 py-3 dark:bg-betano-light lg:flex">
+      <div className="dark:bg-betano-light hidden items-center bg-gray-100 px-5 py-3 lg:flex">
         <div className="w-1/3">
           <a href="" className="inline-flex no-underline">
-            <span className="bg-gray-800 px-2 py-1 text-2xl font-bold uppercase text-blue-600">
+            <span className="bg-gray-800 px-2 py-1 text-2xl font-bold text-blue-600 uppercase">
               Multi
             </span>
-            <span className="bg-blue-600 px-2 py-1 text-2xl font-bold uppercase text-gray-800">
+            <span className="bg-blue-600 px-2 py-1 text-2xl font-bold text-gray-800 uppercase">
               Shop
             </span>
           </a>
@@ -233,7 +233,7 @@ const Topbar = () => {
             <div className="flex">
               <input
                 type="text"
-                className="flex-1 rounded-l border border-gray-300 px-3 py-2 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="flex-1 rounded-l border border-gray-300 px-3 py-2 focus:border-transparent focus:ring-2 focus:ring-blue-500 focus:outline-none"
                 placeholder="Search for products"
               />
               <button

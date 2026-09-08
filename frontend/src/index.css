@@ -1,4 +1,4 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 @custom-variant dark (&:where(.dark, .dark *));
 
@@ -25,44 +25,44 @@
   --color-dark-800: #1f2937;
   --color-dark-900: #111827;
 
-  --color-betano-primary: #FF3C00;
-  --color-betano-secondary: #FF0279;
-  --color-betano-green: #0ECF5E;
-  --color-betano-orange: #EF4A0F;
+  --color-betano-primary: #ff3c00;
+  --color-betano-secondary: #ff0279;
+  --color-betano-green: #0ecf5e;
+  --color-betano-orange: #ef4a0f;
   --color-betano-dark: #222536;
-  --color-betano-surface: #1A202E;
-  --color-betano-card: #2A3046;
+  --color-betano-surface: #1a202e;
+  --color-betano-card: #2a3046;
   --color-betano-border: #303649;
-  --color-betano-light: #3A4863;
-  --color-betano-muted: #B3B3B3;
-  --color-betano-text: #FFFFFF;
+  --color-betano-light: #3a4863;
+  --color-betano-muted: #b3b3b3;
+  --color-betano-text: #ffffff;
 
   --animate-border-spin: border-spin 7s linear infinite;
 
   --shadow-theme-xs: 0 1px 2px 0 rgb(0 0 0 / 0.05);
 }
 
-:root{
-  --color-betano-primary: #FF3C00;
-  --color-betano-border: #E4E8F1;
+:root {
+  --color-betano-primary: #ff3c00;
+  --color-betano-border: #e4e8f1;
   --color-betano-card: #ffffff;
-  --color-betano-surface: #F8F9FD;
+  --color-betano-surface: #f8f9fd;
 
   --color-betano-muted: #566680;
-  --color-betano-dark: #EFF2FB;
+  --color-betano-dark: #eff2fb;
   --color-betano-text: #151922;
-  --color-betano-light:#2A3046;  /* #D9E0F0 #C2CEE6*/
+  --color-betano-light: #2a3046; /* #D9E0F0 #C2CEE6*/
 }
 
-.dark{
-  --color-betano-primary: #FF0279;
+.dark {
+  --color-betano-primary: #ff0279;
   --color-betano-border: #303649;
-  --color-betano-card: #2A3046;
+  --color-betano-card: #2a3046;
   --color-betano-dark: #222536;
-  --color-betano-surface: #1A202E;
-  --color-betano-muted: #B3B3B3;
-  --color-betano-text: #FFFFFF;
-  --color-betano-light: #3A4863;
+  --color-betano-surface: #1a202e;
+  --color-betano-muted: #b3b3b3;
+  --color-betano-text: #ffffff;
+  --color-betano-light: #3a4863;
 }
 
 @keyframes border-spin {

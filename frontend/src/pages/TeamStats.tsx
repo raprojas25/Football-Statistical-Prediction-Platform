@@ -157,7 +157,7 @@ export const TeamStats = () => {
     return (
       <div className="flex min-h-[450px] flex-col items-center justify-center space-y-4">
         <Loader className="h-10 w-10 animate-spin text-white" />
-        <p className="animate-pulse text-sm font-semibold text-betano-muted">
+        <p className="text-betano-muted animate-pulse text-sm font-semibold">
           Calculando estadísticas por equipo...
         </p>
       </div>
@@ -175,7 +175,7 @@ export const TeamStats = () => {
   }) => (
     <button
       onClick={() => toggleSort(k)}
-      className={`inline-flex cursor-pointer items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-betano-muted transition-colors hover:text-white ${className}`}
+      className={`text-betano-muted inline-flex cursor-pointer items-center gap-1 text-[10px] font-bold tracking-wider uppercase transition-colors hover:text-white ${className}`}
     >
       {label}
       <ArrowUpDown
@@ -187,19 +187,19 @@ export const TeamStats = () => {
   return (
     <div className="space-y-6">
       {/* Header */}
-      <div className="relative overflow-hidden rounded-2xl border border-betano-border/80 bg-gradient-to-r from-rose-900/70 to-betano-surface p-6 shadow-xl">
-        <div className="absolute right-0 top-0 p-8 opacity-5">
+      <div className="border-betano-border/80 to-betano-surface relative overflow-hidden rounded-2xl border bg-gradient-to-r from-rose-900/70 p-6 shadow-xl">
+        <div className="absolute top-0 right-0 p-8 opacity-5">
           <Skull className="h-48 w-48 text-white" />
         </div>
         <div className="relative z-10 space-y-2">
-          <div className="inline-flex items-center gap-2 rounded-full border border-rose-500/30 bg-rose-500/15 px-3 py-1 text-[11px] font-bold uppercase tracking-wider text-rose-400">
+          <div className="inline-flex items-center gap-2 rounded-full border border-rose-500/30 bg-rose-500/15 px-3 py-1 text-[11px] font-bold tracking-wider text-rose-400 uppercase">
             <ShieldAlert className="h-3 w-3" /> Estadísticas por Equipo
           </div>
           <h1 className="flex items-center gap-3 text-2xl font-black tracking-tight text-white md:text-3xl">
             <Trophy className="h-7 w-7 text-rose-400" />
             Fiabilidad por Equipo
           </h1>
-          <p className="max-w-2xl text-sm text-betano-muted">
+          <p className="text-betano-muted max-w-2xl text-sm">
             Analiza qué equipos son más predecibles para el algoritmo. Ordenado
             por defecto de <span className="font-bold text-red-400">menor</span>{' '}
             a <span className="font-bold text-green-400">mayor</span> acierto
@@ -210,7 +210,7 @@ export const TeamStats = () => {
       </div>
 
       {/* Controls */}
-      <div className="space-y-4 rounded-2xl border border-betano-border bg-betano-card p-5 shadow-lg">
+      <div className="border-betano-border bg-betano-card space-y-4 rounded-2xl border p-5 shadow-lg">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <div className="relative min-w-[200px] flex-1">
             <input
@@ -218,18 +218,18 @@ export const TeamStats = () => {
               placeholder="Buscar equipo..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full rounded-lg border border-betano-border bg-betano-surface py-2.5 pl-10 pr-4 text-sm text-white placeholder-gray-500 outline-none transition-all focus:border-rose-500 focus:ring-1 focus:ring-rose-500/40"
+              className="border-betano-border bg-betano-surface w-full rounded-lg border py-2.5 pr-4 pl-10 text-sm text-white placeholder-gray-500 transition-all outline-none focus:border-rose-500 focus:ring-1 focus:ring-rose-500/40"
             />
-            <Search className="absolute left-3 top-2.5 h-4 w-4 text-gray-500" />
+            <Search className="absolute top-2.5 left-3 h-4 w-4 text-gray-500" />
           </div>
           <div className="flex items-center gap-3">
-            <label className="whitespace-nowrap text-xs text-betano-muted">
+            <label className="text-betano-muted text-xs whitespace-nowrap">
               Min. partidos:
             </label>
             <select
               value={minMatches}
               onChange={(e) => setMinMatches(Number(e.target.value))}
-              className="cursor-pointer rounded-lg border border-betano-border bg-betano-surface px-3 py-2.5 text-xs text-white outline-none focus:border-rose-500"
+              className="border-betano-border bg-betano-surface cursor-pointer rounded-lg border px-3 py-2.5 text-xs text-white outline-none focus:border-rose-500"
             >
               {[1, 2, 3, 5, 8, 10].map((n) => (
                 <option key={n} value={n}>
@@ -239,7 +239,7 @@ export const TeamStats = () => {
             </select>
           </div>
         </div>
-        <div className="flex flex-wrap gap-2 text-[10px] text-betano-muted">
+        <div className="text-betano-muted flex flex-wrap gap-2 text-[10px]">
           <span className="font-bold text-white">Ordenar:</span>
           <SortHeader k="accuracy" label="Precisión" />
           <SortHeader k="total" label="Partidos" />
@@ -252,12 +252,12 @@ export const TeamStats = () => {
 
       {/* Stats Summary */}
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
-        <div className="flex items-center space-x-4 rounded-2xl border border-betano-border/80 bg-betano-card p-4 shadow-md">
+        <div className="border-betano-border/80 bg-betano-card flex items-center space-x-4 rounded-2xl border p-4 shadow-md">
           <div className="rounded-xl border border-rose-500/20 bg-rose-500/10 p-3 text-rose-400">
             <ShieldAlert className="h-5 w-5" />
           </div>
           <div>
-            <span className="block text-xs font-medium text-betano-muted">
+            <span className="text-betano-muted block text-xs font-medium">
               Equipos Analizados
             </span>
             <span className="text-xl font-extrabold text-white">
@@ -265,12 +265,12 @@ export const TeamStats = () => {
             </span>
           </div>
         </div>
-        <div className="flex items-center space-x-4 rounded-2xl border border-betano-border/80 bg-betano-card p-4 shadow-md">
+        <div className="border-betano-border/80 bg-betano-card flex items-center space-x-4 rounded-2xl border p-4 shadow-md">
           <div className="rounded-xl border border-green-500/20 bg-green-500/10 p-3 text-green-400">
             <ShieldCheck className="h-5 w-5" />
           </div>
           <div>
-            <span className="block text-xs font-medium text-betano-muted">
+            <span className="text-betano-muted block text-xs font-medium">
               Mejor Precisión
             </span>
             <span className="text-xl font-extrabold text-white">
@@ -280,12 +280,12 @@ export const TeamStats = () => {
             </span>
           </div>
         </div>
-        <div className="flex items-center space-x-4 rounded-2xl border border-betano-border/80 bg-betano-card p-4 shadow-md">
+        <div className="border-betano-border/80 bg-betano-card flex items-center space-x-4 rounded-2xl border p-4 shadow-md">
           <div className="rounded-xl border border-red-500/20 bg-red-500/10 p-3 text-red-400">
             <Skull className="h-5 w-5" />
           </div>
           <div>
-            <span className="block text-xs font-medium text-betano-muted">
+            <span className="text-betano-muted block text-xs font-medium">
               Peor Precisión
             </span>
             <span className="text-xl font-extrabold text-white">
@@ -295,12 +295,12 @@ export const TeamStats = () => {
             </span>
           </div>
         </div>
-        <div className="flex items-center space-x-4 rounded-2xl border border-betano-border/80 bg-betano-card p-4 shadow-md">
+        <div className="border-betano-border/80 bg-betano-card flex items-center space-x-4 rounded-2xl border p-4 shadow-md">
           <div className="rounded-xl border border-blue-500/20 bg-blue-500/10 p-3 text-blue-400">
             <BarChart3 className="h-5 w-5" />
           </div>
           <div>
-            <span className="block text-xs font-medium text-betano-muted">
+            <span className="text-betano-muted block text-xs font-medium">
               Media Global
             </span>
             <span className="text-xl font-extrabold text-white">
@@ -313,11 +313,11 @@ export const TeamStats = () => {
       </div>
 
       {/* Team Table */}
-      <div className="overflow-hidden rounded-2xl border border-betano-border bg-betano-card shadow-lg">
+      <div className="border-betano-border bg-betano-card overflow-hidden rounded-2xl border shadow-lg">
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
             <thead>
-              <tr className="border-b border-betano-border bg-slate-900/60">
+              <tr className="border-betano-border border-b bg-slate-900/60">
                 <th className="px-4 py-3 text-left">
                   <SortHeader k="team" label="Equipo" />
                 </th>
@@ -349,7 +349,7 @@ export const TeamStats = () => {
                 <tr>
                   <td
                     colSpan={8}
-                    className="py-12 text-center text-betano-muted"
+                    className="text-betano-muted py-12 text-center"
                   >
                     <Info className="mx-auto mb-2 h-6 w-6 opacity-60" />
                     <p>No se encontraron equipos con ese filtro.</p>
@@ -372,7 +372,7 @@ export const TeamStats = () => {
                   return (
                     <tr
                       key={t.team}
-                      className={`border-b border-betano-border/40 transition-colors hover:bg-white/5 ${i < 3 && sortKey === 'accuracy' && sortDir === 'asc' ? 'bg-red-900/10' : ''}`}
+                      className={`border-betano-border/40 border-b transition-colors hover:bg-white/5 ${i < 3 && sortKey === 'accuracy' && sortDir === 'asc' ? 'bg-red-900/10' : ''}`}
                     >
                       <td className="px-4 py-3">
                         <div className="flex items-center gap-2">
@@ -381,7 +381,7 @@ export const TeamStats = () => {
                             sortDir === 'asc' && (
                               <Skull
                                 className="h-4 w-4 shrink-0 text-red-400"
-                                aria-label='Peor equipo para apostar'
+                                aria-label="Peor equipo para apostar"
                               />
                             )}
                           <span className="max-w-[140px] truncate text-sm text-white sm:max-w-none">
@@ -389,7 +389,7 @@ export const TeamStats = () => {
                           </span>
                         </div>
                       </td>
-                      <td className="px-3 py-3 text-center font-mono text-xs text-betano-muted">
+                      <td className="text-betano-muted px-3 py-3 text-center font-mono text-xs">
                         {t.total}
                       </td>
                       <td className="px-3 py-3 text-center">
@@ -423,7 +423,7 @@ export const TeamStats = () => {
                         >
                           {t.asHomeAcc.toFixed(0)}%
                         </span>
-                        <span className="ml-1 text-[10px] text-betano-muted">
+                        <span className="text-betano-muted ml-1 text-[10px]">
                           ({t.asHomeTotal})
                         </span>
                       </td>
@@ -439,11 +439,11 @@ export const TeamStats = () => {
                         >
                           {t.asAwayAcc.toFixed(0)}%
                         </span>
-                        <span className="ml-1 text-[10px] text-betano-muted">
+                        <span className="text-betano-muted ml-1 text-[10px]">
                           ({t.asAwayTotal})
                         </span>
                       </td>
-                      <td className="hidden px-3 py-3 text-center font-mono text-xs text-betano-muted lg:table-cell">
+                      <td className="text-betano-muted hidden px-3 py-3 text-center font-mono text-xs lg:table-cell">
                         {t.avgOdd.toFixed(2)}
                       </td>
                     </tr>
@@ -453,7 +453,7 @@ export const TeamStats = () => {
             </tbody>
           </table>
         </div>
-        <div className="border-t border-betano-border/40 px-4 py-3 text-center text-[10px] text-betano-muted">
+        <div className="border-betano-border/40 text-betano-muted border-t px-4 py-3 text-center text-[10px]">
           Mostrando {filtered.length} de {teamStats.length} equipos • Ordenado
           por {sortKey === 'accuracy' ? 'precisión' : sortKey} (
           {sortDir === 'asc' ? 'ascendente' : 'descendente'})
@@ -463,10 +463,10 @@ export const TeamStats = () => {
       {/* Worst / Best cards */}
       {filtered.length >= 3 && (
         <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
-          <div className="rounded-2xl border border-red-500/20 bg-gradient-to-br from-red-900/30 to-betano-card p-5 shadow-lg">
+          <div className="to-betano-card rounded-2xl border border-red-500/20 bg-gradient-to-br from-red-900/30 p-5 shadow-lg">
             <div className="mb-3 flex items-center gap-2">
               <Skull className="h-5 w-5 text-red-400" />
-              <h3 className="text-sm font-bold uppercase tracking-wider text-white">
+              <h3 className="text-sm font-bold tracking-wider text-white uppercase">
                 Peores 3 equipos para apostar
               </h3>
             </div>
@@ -494,10 +494,10 @@ export const TeamStats = () => {
                 ))}
             </div>
           </div>
-          <div className="rounded-2xl border border-green-500/20 bg-gradient-to-br from-green-900/30 to-betano-card p-5 shadow-lg">
+          <div className="to-betano-card rounded-2xl border border-green-500/20 bg-gradient-to-br from-green-900/30 p-5 shadow-lg">
             <div className="mb-3 flex items-center gap-2">
               <Zap className="h-5 w-5 text-green-400" />
-              <h3 className="text-sm font-bold uppercase tracking-wider text-white">
+              <h3 className="text-sm font-bold tracking-wider text-white uppercase">
                 Mejores 3 equipos para apostar
               </h3>
             </div>

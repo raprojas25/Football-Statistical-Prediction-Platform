@@ -30,8 +30,7 @@ export const BadgeStats: React.FC<BadgeProps> = ({
       'border-betano-border bg-gray-500/5 dark:bg-white/5 text-betano-muted',
     warning: 'border-amber-200 bg-amber-50 text-amber-700 ',
     danger: 'border-red-200 bg-red-50 text-red-700',
-    active:
-      'bg-betano-primary/90 text-white border-betano-border',
+    active: 'bg-betano-primary/90 text-white border-betano-border',
   };
 
   const sizes = {
@@ -44,16 +43,13 @@ export const BadgeStats: React.FC<BadgeProps> = ({
       className={`${baseClasses} ${className} ${colors[color]} ${sizes[size]}`}
     >
       <span>{metric}</span>
-      <div className='flex items-center gap-1'>
-        {odds && (
-        <span className='text-[11px] '>({odds.toFixed(2)})</span>
-        )}
-        <span className='text-[9px] opacity-80'>
-        {value}
-        {percent && '%'}
+      <div className="flex items-center gap-1">
+        {odds && <span className="text-[11px]">({odds.toFixed(2)})</span>}
+        <span className="text-[9px] opacity-80">
+          {value}
+          {percent && '%'}
         </span>
       </div>
-
     </div>
     // <div
     //   className={`flex flex-col items-center justify-center rounded-lg border px-2 py-1.5 text-center transition-all border-green-500/40 bg-green-500/10 font-bold text-green-400`}

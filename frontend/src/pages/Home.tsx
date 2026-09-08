@@ -9,7 +9,7 @@ export const Home = () => {
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        className="mx-auto max-w-5xl rounded-xl border border-betano-border bg-betano-card p-4"
+        className="border-betano-border bg-betano-card mx-auto max-w-5xl rounded-xl border p-4"
       >
         <AnimatePresence mode="wait">
           {activeTab === 'goals' && (
@@ -22,12 +22,12 @@ export const Home = () => {
             >
               <table className="w-full text-xs">
                 <thead>
-                  <tr className="border-b border-betano-border text-betano-muted">
+                  <tr className="border-betano-border text-betano-muted border-b">
                     <th className="px-2 py-2 text-left">Métrica</th>
-                    <th className="px-2 py-2 text-center text-betano-primary">
+                    <th className="text-betano-primary px-2 py-2 text-center">
                       PGL
                     </th>
-                    <th className="px-2 py-2 text-center text-betano-secondary">
+                    <th className="text-betano-secondary px-2 py-2 text-center">
                       PGV
                     </th>
                     <th className="px-2 py-2 text-center">1.5</th>
@@ -43,7 +43,7 @@ export const Home = () => {
                     <th className="px-2 py-2 text-center">ST</th>
                   </tr>
                 </thead>
-                <tbody className="divide-y divide-betano-border">
+                <tbody className="divide-betano-border divide-y">
                   <tr className="hover:bg-betano-surface/50">
                     <td className="px-2 py-2 font-medium">2</td>
                     <td className="px-2 py-2 text-center font-bold text-green-400">
